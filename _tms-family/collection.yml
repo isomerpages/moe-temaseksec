@@ -2,6 +2,7 @@ collections:
   tms-family:
     output: true
     order:
+      - Parents/Parent Workshop.md
       - Parents/Parents Support Group.md
       - Parents/.keep
       - Student Matters/.keep
