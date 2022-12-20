@@ -2,6 +2,7 @@ collections:
   prospective-students:
     output: true
     order:
+      - Direct school admission/Student Leadership DSA.md
       - Direct school admission/.keep
       - Open House 2022/Welcome to our Open House 2022.md
       - Open House 2022/Temasek Experience.md
