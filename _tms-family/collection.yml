@@ -2,6 +2,7 @@ collections:
   tms-family:
     output: true
     order:
+      - Student handbook/.keep
       - Student Matters/General Information.md
       - Student Matters/.keep
       - TMS & Alumni Facebook Link.md
