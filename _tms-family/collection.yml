@@ -2,7 +2,7 @@ collections:
   tms-family:
     output: true
     order:
-      - Student t/Students.md
-      - Student t/.keep
+      - Student Matters/Students.md
+      - Student Matters/.keep
       - TMS & Alumni Facebook Link.md
       - Links.md
