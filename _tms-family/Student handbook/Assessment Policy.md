@@ -22,14 +22,14 @@ Students should also recognise that every piece of work counts towards thei
   
   
 
-## SEMESTRAL ASSESSMENT (SA)
+### SEMESTRAL ASSESSMENT (SA)
 
 
 Semestral Examinations (SA) are conducted at mid-year (for Sec 2 and 4/5 only) and end of the year to evaluate students’ mastery of content and skills as well as for promotional purposes. All dates for examinations are indicated in the students’ handbook given out at the start of the year.
 
   
 
-## ABSENCE FROM WEIGHTED ASSESSMENTS (TESTS)
+### ABSENCE FROM WEIGHTED ASSESSMENTS (TESTS)
 
 
 1.  Any student who is absent from any paper should produce a MEDICAL CERTIFICATE with the doctor certifying that the student is unfit to take the examination. This should be submitted to his/her Form Teacher as soon as the student returns to school.
