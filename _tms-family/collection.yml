@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Student t/.keep
-      - Students.md
       - TMS & Alumni Facebook Link.md
       - Links.md
