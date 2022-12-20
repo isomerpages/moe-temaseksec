@@ -2,6 +2,8 @@ collections:
   tms-family:
     output: true
     order:
+      - Student handbook/Additional Pathways for SEC 4 NORMAL (ACADEMIC)
+        Graduates.md
       - Student handbook/Subject Combinations.md
       - Student handbook/Assessment Policy.md
       - Student handbook/CCA Matters.md
