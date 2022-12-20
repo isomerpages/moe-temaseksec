@@ -2,6 +2,7 @@ collections:
   prospective-students:
     output: true
     order:
+      - Open House 2022/Temasek Experience.md
       - Open House 2022/Aesthetic Performances.md
       - Open House 2022/Uniformed Groups.md
       - Open House 2022/Sports.md
