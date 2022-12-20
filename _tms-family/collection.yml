@@ -2,6 +2,7 @@ collections:
   tms-family:
     output: true
     order:
+      - Student handbook/Examination Rules & Regulations.md
       - Student handbook/Additional Pathways for SEC 4 NORMAL (ACADEMIC)
         Graduates.md
       - Student handbook/Subject Combinations.md
