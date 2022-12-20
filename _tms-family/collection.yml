@@ -1,4 +1,5 @@
 collections:
   tms-family:
     output: true
-    order: []
+    order:
+      - Links.md
