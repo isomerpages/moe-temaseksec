@@ -2,6 +2,7 @@ collections:
   tms-family:
     output: true
     order:
+      - Student handbook/Expectations of a Student.md
       - Student handbook/School Rules.md
       - Student handbook/Mobile Phone Policy.md
       - Student handbook/Offences.md
