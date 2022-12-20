@@ -7,6 +7,11 @@ third_nav_title: Open House 2022
 ## Drama Dis-connection
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T_ScKI62uw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+##  Drama - One Day I  Will Be KO
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1_lO7gYbvXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## TAG - The Road Ahead
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JGJwJeEwIko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -39,4 +44,3 @@ third_nav_title: Open House 2022
 ## Band - Our Kingsland Spring
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gRKXttAS8q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
