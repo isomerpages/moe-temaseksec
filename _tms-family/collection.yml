@@ -2,6 +2,7 @@ collections:
   tms-family:
     output: true
     order:
+      - Student handbook/Assessment Policy.md
       - Student handbook/CCA Matters.md
       - Student handbook/.keep
       - Student Matters/General Information.md
