@@ -2,5 +2,6 @@ collections:
   prospective-students:
     output: true
     order:
+      - Open House 2022/FAQs.md
       - Open House 2022/.keep
       - Financial Information.md
