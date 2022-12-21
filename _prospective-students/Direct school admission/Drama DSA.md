@@ -6,7 +6,8 @@ third_nav_title: Direct school admission
 ---
 Serious Play started as an interest group and was soon established as a core CCA in 2010. It has now grown from a group of eight members to nearly 50 members taking on roles such as directors, actors, costume, makeup artists and prop masters.
 
-![p1.jpg](https://temaseksec.moe.edu.sg/qql/slot/u187/CCA/p1.jpg)The members all uphold a common goal to develop stagecraft and they abide by the values of teamwork, creativity, confidence building and performance excellence. In the past few years, Serious Play has performed in many school-based events such as Evening Under the Stars, which is an extravaganza of drama performances, the Singapore Youth Festival Arts Presentation, as well as Destination Imagination.
+![p1.jpg](/images/p1.jpg)
+The members all uphold a common goal to develop stagecraft and they abide by the values of teamwork, creativity, confidence building and performance excellence. In the past few years, Serious Play has performed in many school-based events such as Evening Under the Stars, which is an extravaganza of drama performances, the Singapore Youth Festival Arts Presentation, as well as Destination Imagination.
 
 Besides training twice a week, the members also get together for drama appreciation excursions.
 
