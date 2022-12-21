@@ -6,7 +6,7 @@ third_nav_title: Direct school admission
 ---
 Shooting at TMS has been one of the school’s key CCA program. Training sessions are conducted at the school’s own air-conditioned automated shooting range. 
 
-![s2.jpg](https://temaseksec.moe.edu.sg/qql/slot/u187/CCA/s2.jpg)  
+![s2.jpg](/images/s2.jpg)  
 
 Our shooters compete annually in the National School Games Shooting Championship and may also participate in invitational shoots organized by the National University of Singapore (NUS) and the Nanyang Technological University of Singapore (NTU). The team trains twice a week, but there will be additional training sessions held during the period nearing competitions.
 
