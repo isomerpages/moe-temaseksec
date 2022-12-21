@@ -10,12 +10,13 @@ third_nav_title: Direct school admission
 ![DSA Open House Banner 1.png](/images/DSA%20Open%20House%20Banner%201.png)  
 Find out more about Temasek Secondary School's DSA opportunities in  
 
-*   [Choir](https://temaseksec.moe.edu.sg/news-and-events/upcoming-events/dsa-e-open-house-2022/choir-dsa)
-*   [Dance](https://temaseksec.moe.edu.sg/news-and-events/upcoming-events/dsa-e-open-house-2022/dance-dsa)
-*   [Drama](https://temaseksec.moe.edu.sg/news-and-events/upcoming-events/dsa-e-open-house-2022/drama-dsa)
-*   [Shooting](https://temaseksec.moe.edu.sg/news-and-events/upcoming-events/dsa-e-open-house-2022/shooting-dsa)
-*   [Student Leadership](https://temaseksec.moe.edu.sg/direct-school-admissions/dsa-e-open-house-2022-closed/student-leadership-dsa)
+*   [Choir]
+*   [Dance]
+*   [Drama]
+*   [Shooting]
+*   [Student Leadership]
 
+**NOTE: All links are not found**
   
 Our students and student leaders will share with you what it means to be in a DSA CCA/leadership group!  
   
