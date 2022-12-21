@@ -6,7 +6,7 @@ third_nav_title: Direct school admission
 ---
 Student Leadership is the school's distinctive programme.  
   
-![2019 SLI 2.png](https://temaseksec.moe.edu.sg/qql/slot/u187/Student%20Leadership/2019%20SLI%202.png)  
+![2019 SLI 2.png](/images/2019%20SLI%202.png)  
 With a comprehensive leadership development training programme and a numerous leadership opportunities for student leaders to apply the leadership skills learnt, LEAD@TMS seeks to develop leaders of character and intellect.  
   
 Find out more about the school's leadership programme [here](https://temaseksec.moe.edu.sg/co-curriculum/student-leadership-lead-at-tms).  
