@@ -4,7 +4,7 @@ permalink: /tms-family/student-matters/general-information/
 description: ""
 third_nav_title: Student Matters
 ---
-[Student Handbook](http://temaseksec.moe.edu.sg//tms-family/students/student-handbook)  
+[Student Handbook](/tms-family/student-handbook)  
 [School Calendar 2022](/events/school-calendar)  
 
 ## SCHOOL BOOKSHOP
