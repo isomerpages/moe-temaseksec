@@ -2,5 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Temasek Experience.md
       - CHARACTER & CITIZENSHIP EDUCATION (CCE).md
       - Student Leadership (LEAD@TMS).md
