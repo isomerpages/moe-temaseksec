@@ -54,23 +54,37 @@ The following table captures the learning outcomes of Lower Secondary students i
 
 
 
-LEARNING OUTCOMES
-COLLABORATION
-Students are able to explore and evaluate ideas with others through effective use of collaborative skills.
-
-Communication
-Students are able to explain information and ideas coherently for specific purposes in both the written and oral forms. 
-
-Cross-Cultural Awareness
-Students demonstrate curiosity and motivation to learn about another culture. 
-
-Students demonstrate understanding that there are three categories of human behaviour (universal, cultural, personal).
-
-Knowledge Application
-Students are able to use existing knowledge, and assess and analyse information from a variety of sources, to generate new knowledge. 
-
-ICT
-Students are able to use ICT tool(s) efficiently to communicate and collaborate with others. 
-
-Students are able to acquire new knowledge of a culture and cultural practices through efficient use of ICT tool(s).
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-b36q{background-color:#F1F6FF;color:#B9975B;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-809t{background-color:#FFF;color:#B9975B;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-k1rw{background-color:#0B054D;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-k1rw">LEARNING OUTCOMES</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-b36q"><span style="font-weight:700;color:#B9975B">COLLABORATION</span><span style="color:#222">Students are able to explore and evaluate ideas with others through effective use of collaborative skills.</span><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-809t"><span style="font-weight:700;color:#B9975B">Communication</span><span style="color:#222">Students are able to explain information and ideas coherently for specific purposes in both the written and oral forms. </span><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-b36q"><span style="font-weight:700;color:#B9975B">Cross-Cultural Awareness</span><span style="color:#222">Students demonstrate curiosity and motivation to learn about another culture. </span><br><br><span style="color:#222">Students demonstrate understanding that there are three categories of human behaviour (universal, cultural, personal).</span><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-809t"><span style="font-weight:700;color:#B9975B">Knowledge Application</span><span style="color:#222">Students are able to use existing knowledge, and assess and analyse information from a variety of sources, to generate new knowledge. </span><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-b36q"><span style="font-weight:700;color:#B9975B">ICT</span><span style="color:#222">Students are able to use ICT tool(s) efficiently to communicate and collaborate with others. </span><br><br><span style="color:#222">Students are able to acquire new knowledge of a culture and cultural practices through efficient use of ICT tool(s).</span><br><br></td>
+  </tr>
+</tbody>
+</table>
