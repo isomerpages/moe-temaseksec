@@ -34,7 +34,9 @@ Band, \*\*Chinese Orchestra (Mixed Ensemble), **+Choir**, **+Drama**, **+Mode
 
 #### **CLUBS**
 
-Infocomm Media Club (AV & Photography), Robotics, Environmental Science Club  
+1. [Infocomm Media Club](/curriculum/co-curricular-activities/infocomm-media-club) (AV & Photography)
+2. [Robotics](/curriculum/co-curricular-activities/robotics-club/)
+3. [Environmental Science Club](/curriculum/co-curricular-activities/environmental-science-club/)  
   
 All Temasekians are required to take up a CCA from one of the core CCAs offered in Temasek. In Secondary One, students will be allotted a CCA based on one of five choices that the students have selected and they are expected to remain in that CCA for the duration of their secondary school years unless they have medical reasons that preclude them from serving their commitments to the CCA.  
   
