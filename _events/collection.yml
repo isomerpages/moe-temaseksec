@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Upcoming events/.keep
       - School Calendar 2022.md
       - Events.md
       - Gallery.md
