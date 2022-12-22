@@ -48,13 +48,10 @@ d. **Future readiness**: Have a sense of purpose in life, develop the dispositi
 
 Every student is explicitly taught skills and knowledge through the (ALIVE!) (**A**ctive **L**earning **I**n **V**alues **E**ducation!) and FACETime (**F**orm teacher **A**LIVE! C**CE**) programmes.
 
-  
 
-**
 
 **Contemporary Issues (CI)**
 
-**
 
 Since 2017, to help raise students’ awareness of local, regional and global issues, we started to focus on having discussions of CI (e.g. whether Ben Davis should have been granted NS Deferment, issues relating to race, inequality, online falsehoods etc.). Through a whole-school approach, students discuss these issues through role-plays, activities and simulation exercises during ALIVE!, FACETime and also reflect on the current affairs articles. These platforms are help students to explore multiple perspectives and in so doing give agency to students to become citizens who can act for the good of society.
 
