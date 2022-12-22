@@ -1,6 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: C0-CURRICULUM
+    collection: co-curriculum
+  - title: EVENTS
+    collection: events
+  - title: PROSPECTIVE STUDENTS
+    collection: prospective-students
+  - title: TMS FAMILY
+    collection: tms-family
