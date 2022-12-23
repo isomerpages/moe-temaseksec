@@ -1,5 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: Curriculum
+    collection: curriculum
   - title: C0-CURRICULUM
     collection: co-curriculum
   - title: EVENTS
