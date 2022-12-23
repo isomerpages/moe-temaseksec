@@ -29,7 +29,12 @@ Basketball (Boys), \*Canoeing (Girls), Netball (Girls), **+Shooting**, Softball
 
 #### **PERFORMING ARTS**
 
-Band, \*\*Chinese Orchestra (Mixed Ensemble), **+Choir**, **+Drama**, **+Modern Dance**, \*\*\*Pop Acappella  
+1. [Band](/curriculum/co-curricular-activities/band/)
+2. \*\*Chinese Orchestra (Mixed Ensemble)
+3. **+[Choir](/curriculum/co-curricular-activities/choir)**
+4. **+[Drama](/curriculum/co-curricular-activities/drama)**
+5. **+[Modern Dance](/curriculum/co-curricular-activities/dance)**
+6. \*\*\*Pop Acappella  
   
 
 #### **CLUBS**
