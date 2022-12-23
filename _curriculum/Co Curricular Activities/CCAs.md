@@ -22,19 +22,25 @@ Below are all the CCAs offered in Temasek Secondary School:
 National Cadet Corps (Boys), National Police Cadet Corps, National Civil Defence Cadet Corps  
   
 
-#### **SPORTS**
+#### SPORTS
 
-Basketball (Boys), \*Canoeing (Girls), Netball (Girls), **+Shooting**, Softball (Boys), Track & Field, Wushu  
+1. Basketball (Boys)
+2. \*Canoeing (Girls)
+3. Netball (Girls)
+4. **+Shooting**
+5. Softball (Boys)
+6. Track & Field
+7. Wushu  
   
 
-#### **PERFORMING ARTS**
+#### PERFORMING ARTS
 
 1. [Band](/curriculum/co-curricular-activities/band/)
 2. \*\*Chinese Orchestra (Mixed Ensemble)
 3. **+[Choir](/curriculum/co-curricular-activities/choir)**
 4. **+[Drama](/curriculum/co-curricular-activities/drama)**
 5. **+[Modern Dance](/curriculum/co-curricular-activities/dance)**
-6. \*\*\*Pop Acappella  
+6. \*\*\*[Pop Acappella](/curriculum/co-curricular-activities/pop-acappella/)  
   
 
 #### **CLUBS**
