@@ -2,6 +2,8 @@ collections:
   curriculum:
     output: true
     order:
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/CCAs.md
       - Co Curricular Activities/Track & Field.md
       - Co Curricular Activities/Basketball (Boys Only).md
       - Co Curricular Activities/Canoeing.md
@@ -18,8 +20,6 @@ collections:
       - Co Curricular Activities/Infocomm & Media Club.md
       - Co Curricular Activities/Robotics Club.md
       - Co Curricular Activities/Environmental Science Club.md
-      - Co Curricular Activities/CCAs.md
-      - Co Curricular Activities/.keep
       - Distinctive Programme/Cross–Cultural Awareness (C2A).md
       - Distinctive Programme/Temasek Ignis Programme (TIP).md
       - Distinctive Programme/.keep
