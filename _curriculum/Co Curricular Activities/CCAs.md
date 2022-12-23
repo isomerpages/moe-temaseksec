@@ -31,6 +31,7 @@ National Cadet Corps (Boys), National Police Cadet Corps, National Civil Defence
 5. Softball (Boys)
 6. Track & Field
 7. Wushu  
+8. Bowling
   
 
 #### PERFORMING ARTS
