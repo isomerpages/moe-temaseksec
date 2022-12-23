@@ -4,7 +4,7 @@ permalink: /curriculum/co-curricular-activities/drama/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-![banner-drama.jpg](https://temaseksec.moe.edu.sg/qql/slot/u187/IamTemasek/CCA/Performing%20Arts/banner-drama.jpg)
+![banner-drama.jpg](/images/banner-drama.jpg)
 
 **Teacher-in-charge**  
 Madam Asnia Binte Adas (I/C)  
