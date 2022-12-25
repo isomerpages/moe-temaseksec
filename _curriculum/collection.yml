@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Co Curricular Activities/NCC (Boys Only).md
       - Co Curricular Activities/NCDCC.md
       - Co Curricular Activities/NPCC.md
       - Co Curricular Activities/.keep
