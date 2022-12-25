@@ -2,9 +2,9 @@ collections:
   events:
     output: true
     order:
-      - Events/2023 Sec 1 e–Registration.md
-      - Events/.keep
-      - Upcoming Events/Open House 2022 (closed).md
       - Upcoming Events/.keep
+      - Upcoming Events/Open House 2022 (closed).md
       - School Calendar 2022.md
+      - Events/.keep
+      - Events/2023 Sec 1 e–Registration.md
       - Gallery.md
