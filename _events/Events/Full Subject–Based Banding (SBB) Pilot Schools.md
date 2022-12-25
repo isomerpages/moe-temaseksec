@@ -21,4 +21,4 @@ Temasek Secondary School has been selected as one of the 28 pilot schools for Fu
 
   
 
-For more information on how our school would implement Full SBB, you can contact us at temasek\_ss@moe.edu.sg. The school will also be engaging parents of cohorts of students who are involved in the pilot in 2019/2020.
+For more information on how our school would implement Full SBB, you can contact us at temasek_ss@moe.edu.sg. The school will also be engaging parents of cohorts of students who are involved in the pilot in 2019/2020.
