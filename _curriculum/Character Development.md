@@ -9,7 +9,7 @@ The Student Development Team (SDT) oversees the design and delivery of a holisti
 
   
 
-Each level is overseen by the Year Head Team and the Discipline Committee, that work closely with the Form Teachers to meet the social-emotional needs of our students, while the Character and Citizenship (CCE), LEAD@TMS: Student Leadership, and Cross Cultural Awareness (C2A) teams deliver a coherent and customised experience that helps our students be grounded in a core set of values whilst developing new 21st century competencies that will prepare them for the future.
+Each level is overseen by the Year Head Team and the Discipline Committee, that work closely with the Form Teachers to meet the social-emotional needs of our students, while the Character and Citizenship ([CCE](/co-curriculum/character-n-citizenship-education-cce/)), LEAD@TMS: Student Leadership, and Cross Cultural Awareness (C2A) teams deliver a coherent and customised experience that helps our students be grounded in a core set of values whilst developing new 21st century competencies that will prepare them for the future.
 
   
 
