@@ -13,39 +13,39 @@ third_nav_title: Academic Development
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">ENGLISH LANGUAGE &amp; LITERATURE IN ENGLISH
-    </td><td class="tg-0lax">MOTHER TONGUE LANGUAGES
+    <td class="tg-0lax"><a href="/individual-department/english-n-literature/">ENGLISH LANGUAGE &amp; LITERATURE IN ENGLISH</a>
+		</td><td class="tg-0lax"><a href="/individual-department/mtl/">MOTHER TONGUE LANGUAGES</a>
   </td></tr>
   <tr>
     <td class="tg-0lax"><img style="width:500px" src="/images/20220112%20Temasek%20Sec%20Department%20Photographs%2011798.jpg"></td>
     <td class="tg-0lax"><img style="width:500px" src="/images/20220112%20Temasek%20Sec%20Department%20Photographs%2011743.jpg"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">MATHEMATICS
-    </td><td class="tg-0lax">SCIENCE
+		<td class="tg-0lax"><a href="/individual-department/mathematics/">MATHEMATICS</a>
+		</td><td class="tg-0lax"><a href="/individual-department/science/">SCIENCE</a>
   </td></tr>
   <tr>
     <td class="tg-0lax"><img style="width:500px" src="/images/20220323%20Temasek%20Sec%20Department%20Photographs%208651.jpg"></td>
     <td class="tg-0lax"><img style="width:500px" src="/images/20220323%20Temasek%20Sec%20Department%20Photographs%208673.jpg"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">HUMANITIES
-    </td><td class="tg-0lax">CRAFT &amp; TECHNOLOGY
+		<td class="tg-0lax"><a href="/individual-department/humanities/">HUMANITIES</a>
+    </td><td class="tg-0lax"><a href="/individual-department/craft-n-technology/">CRAFT &amp; TECHNOLOGY</a>
   </td></tr>
   <tr>
     <td class="tg-0lax"><img style="width:500px" src="/images/20220323%20Temasek%20Sec%20Department%20Photographs%208734.jpg"></td>
     <td class="tg-0lax"><img style="width:500px" src="/images/20220112%20Temasek%20Sec%20Department%20Photographs%2011698.jpg"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">INFORMATION COMMUNICATION TECHNOLOGY
-    </td><td class="tg-0lax">PHYSICAL EDUCATION
+    <td class="tg-0lax"><a href="/individual-department/ict/">INFORMATION COMMUNICATION TECHNOLOGY</a>
+    </td><td class="tg-0lax"><a href="/individual-department/physical-education/">PHYSICAL EDUCATION</a>
   </td></tr>
   <tr>
-    <td class="tg-0lax"><img style="width:500px" src="/images/nd.png"></td>
+    <td class="tg-0lax"><img style="width:500px" src="/images/20220408%20Temasek%20Sec%20Department%20Photographs%208695.jpg"></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">STUDENT DEVELOPMENT TEAM</td><td class="tg-0lax"></td>
+		<td class="tg-0lax"><a href="/curriculum/character-development/">STUDENT DEVELOPMENT TEAM</a></td><td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table>
