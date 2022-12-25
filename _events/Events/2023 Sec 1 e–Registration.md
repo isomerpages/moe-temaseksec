@@ -49,16 +49,16 @@ You may wish to go through the information on how to purchase our school's textb
 
 **Purchase of textbooks from Popular Bookstore** 
 
-*   Information on purchase of textbooks and P.E attire [2023 Uniforms Infosheet Sec1.pdf](https://temaseksec.moe.edu.sg/qql/slot/u187/Sec1%20Registration%202022/2023%20Uniforms%20Infosheet%20Sec1.pdf)
-*   Express [2023 Sec1 Exp Textbook List.pdf](https://temaseksec.moe.edu.sg/qql/slot/u187/Sec1%20Registration%202022/2023%20Sec1%20Exp%20Textbook%20List.pdf)
-*   Normal Academic (SBB) [2023 Sec1 Normal Acad SBB Textbook List.pdf](https://temaseksec.moe.edu.sg/qql/slot/u187/Sec1%20Registration%202022/2023%20Sec1%20Normal%20Acad%20SBB%20Textbook%20List.pdf)
-*   Normal Academic [2023 Sec1 Normal Acad Textbook List.pdf](https://temaseksec.moe.edu.sg/qql/slot/u187/Sec1%20Registration%202022/2023%20Sec1%20Normal%20Acad%20Textbook%20List.pdf)
-*   Normal Technical (SBB) [2023 Sec1 Normal Tech SBB Textbook List.pdf](https://temaseksec.moe.edu.sg/qql/slot/u187/Sec1%20Registration%202022/2023%20Sec1%20Normal%20Tech%20SBB%20Textbook%20List.pdf)
-*   Normal Technical [2023 Sec1 Normal Tech Textbook List.pdf](https://temaseksec.moe.edu.sg/qql/slot/u187/Sec1%20Registration%202022/2023%20Sec1%20Normal%20Tech%20Textbook%20List.pdf)
+*   Information on purchase of textbooks and P.E attire [2023 Uniforms Infosheet Sec1.pdf](/files/2023%20Uniforms%20Infosheet%20Sec1.pdf)
+*   Express [2023 Sec1 Exp Textbook List.pdf](/files/2023%20Sec1%20Exp%20Textbook%20List.pdf)
+*   Normal Academic (SBB) [2023 Sec1 Normal Acad SBB Textbook List.pdf](/files/2023%20Sec1%20Normal%20Acad%20SBB%20Textbook%20List.pdf)
+*   Normal Academic [2023 Sec1 Normal Acad Textbook List.pdf](/files/Sec1%20Registration%202022/2023%20Sec1%20Normal%20Acad%20Textbook%20List.pdf)
+*   Normal Technical (SBB) [2023 Sec1 Normal Tech SBB Textbook List.pdf](/files/Sec1%20Registration%202022/2023%20Sec1%20Normal%20Tech%20SBB%20Textbook%20List.pdf)
+*   Normal Technical [2023 Sec1 Normal Tech Textbook List.pdf](/files/Sec1%20Registration%202022/2023%20Sec1%20Normal%20Tech%20Textbook%20List.pdf)
 
 **Purchase of school attire from In-Trend Uniforms**
 
-[2023 Uniforms Infosheet Sec1.pdf](https://temaseksec.moe.edu.sg/qql/slot/u187/Sec1%20Registration%202022/2023%20Uniforms%20Infosheet%20Sec1.pdf)  
+[2023 Uniforms Infosheet Sec1.pdf](/files/2023%20Uniforms%20Infosheet%20Sec1.pdf)  
 
   
 
