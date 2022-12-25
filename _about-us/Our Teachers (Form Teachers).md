@@ -18,7 +18,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-w693" colspan="3">LOWER SECONDARY</th>
+    <th class="tg-hw8d" colspan="3">LOWER SECONDARY</th>
   </tr>
 </thead>
 <tbody>
