@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Crest, School Song, The Temasek Creed.md
       - Principal's Message.md
       - School Advisory Committee.md
       - School Management Committee.md
