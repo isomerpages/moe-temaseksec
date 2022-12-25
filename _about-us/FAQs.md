@@ -23,8 +23,8 @@ Singapore 554360
 
 Tel Number: 6462 9530 / 6462 9529  
 Website: [](http://www.intrenduniforms.com.sg/) [http://www.popular.com.sg](http://www.popular.com.sg/)  
-**  
-4\. What is the address and contact of the Uniform vendor?**  
+
+**4\. What is the address and contact of the Uniform vendor?**  
 (with effect from 1 November 2022)  
 1 Kaki Bukit Road 1  
 #01-30/31  
