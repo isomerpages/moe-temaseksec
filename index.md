@@ -4,14 +4,10 @@ title: Temasek Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/logotemasek.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      background: /images/herotms.gif
       key_highlights:
         - title: 2023 sec 1 e-registration
           description: Important Information
