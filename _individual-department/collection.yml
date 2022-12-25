@@ -2,5 +2,6 @@ collections:
   individual-department:
     output: true
     order:
+      - Craft & Technology.md
       - Information Communication Technology.md
       - Physical Education.md
