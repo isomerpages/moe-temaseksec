@@ -43,4 +43,4 @@ There are three points from which NA and NT students can be considered for SBB:Â
 
   
 
-Students eligible to apply for SBB would be informed by the school. Parents of these students would also be given more details on SBB at appropriate junctures. Should students have any queries on SBB, they may email temasek\_ss@moe.edu.sg . The email must be addressed to Mrs Teo Hwee Ping, HOD/ Mathematics.
+Students eligible to apply for SBB would be informed by the school. Parents of these students would also be given more details on SBB at appropriate junctures. Should students have any queries on SBB, they may email temasek_ss@moe.edu.sg . The email must be addressed to Mrs Teo Hwee Ping, HOD/ Mathematics.
