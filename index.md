@@ -16,7 +16,7 @@ sections:
         - title: 2023 sec 1 e-registration
           description: Important Information
           url: /events/2023-sec-1-e-registration
-        - title: Highlight B
+        - title: Latest News
           description: Important highlight B is equally important
           url: https://gmail.com
   - infobar:
