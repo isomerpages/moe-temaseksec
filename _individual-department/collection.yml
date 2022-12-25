@@ -2,4 +2,5 @@ collections:
   individual-department:
     output: true
     order:
+      - Information Communication Technology.md
       - Physical Education.md
