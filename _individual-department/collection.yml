@@ -1,0 +1,4 @@
+collections:
+  individual-department:
+    output: true
+    order: []
