@@ -4,6 +4,8 @@ permalink: /about-us/principals-message/
 description: ""
 ---
 ![](/images/TMS%20Dept%20Photoshoot%202021-4.jpg)
+
+
 In my second year as Principal of Temasek Secondary School (TMS), I continue to be extremely thankful for the loyal and dedicated teaching and non-teaching staff, the supportive parents and alumni, as well as the enthusiastic, curious and teachable students that we have the privilege of educating.
 
 **THE CONTINUING CHALLENGE OF COVID-19**
