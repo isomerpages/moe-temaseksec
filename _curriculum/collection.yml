@@ -2,11 +2,11 @@ collections:
   curriculum:
     output: true
     order:
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/CCAs.md
       - Co Curricular Activities/NCC (Boys Only).md
       - Co Curricular Activities/NCDCC.md
       - Co Curricular Activities/NPCC.md
-      - Co Curricular Activities/.keep
-      - Co Curricular Activities/CCAs.md
       - Co Curricular Activities/Track & Field.md
       - Co Curricular Activities/Basketball (Boys Only).md
       - Co Curricular Activities/Canoeing.md
