@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School History.md
       - Mission, Vision, Motto.md
       - Values & Strategic Direction.md
       - School Crest, School Song, The Temasek Creed.md
