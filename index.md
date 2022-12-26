@@ -13,12 +13,6 @@ sections:
           description: Important Information
           url: /events/events/2023-sec-1-e-registration/
         - title: Latest News
-          description: Important highlight B is equally important
-          url: https://gmail.com
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+          description: 2022 DSA
+          url: /prospective-students/direct-school-admission/information/
 ---
