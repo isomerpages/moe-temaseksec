@@ -102,3 +102,5 @@ We welcome our ECG counsellor, Ms Siti.
 
 
 In this current age, better nutrition and improved health care has resulted in children reaching puberty and sexual maturity at a younger age. Furthermore, our students are also exposed to a wide range of influences from the media, including sexual mores that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources. Sexuality Education enables our students to understand the physiological, social, and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. While parents play the primary role in the sexuality education of their children, especially in the teaching and transmission of values about sex and sexuality, schools play an important supportive role.
+
+![](/images/T_L%20CCE.jpg)
