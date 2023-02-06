@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/herotms.gif
+      background: /images/7a68f217b_1077.jpg
       key_highlights:
         - title: 2023 sec 1 e-registration
           description: Important Information
