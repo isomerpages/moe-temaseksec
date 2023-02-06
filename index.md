@@ -13,8 +13,8 @@ sections:
           description: Important Information
           url: /events/events/2023-sec-1-e-registration/
         - title: Latest News
-          description: 2022 DSA
-          url: /prospective-students/direct-school-admission/information/
+          description: School Calender 2023
+          url: /events/school-calendar/
       title: I am Temasek
   - infopic:
       title: Yearbook 2022
