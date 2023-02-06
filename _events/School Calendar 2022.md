@@ -6,428 +6,245 @@ description: ""
 JANUARY
 -------
 
-4-7 January (Tue-Fri)  
+3-6 January  
+**Secondary 1 Orientation**  
 
-#### Sec 1 Orientation
+20 January  
+**Chinese New Year Celebrations**
 
+
+22-23 January  
+**Chinese New Year**  
   
-
-6 Jan (Thu)
-
-#### Sec 1 Investiture  
-CCA Orientation
-
-  
-12 Jan (Wed)  
-
-#### Graduates Day
-
-  
-21 Jan (Fri)  
-
-#### Parent Engagement Programme: Starting Right
-
-  
-24 Jan (Mon)  
-
-#### Parents Engagement with School Leaders (Sec 3)
-
-  
-27 Jan (Thu)  
-
-#### Home-Based Learning Day 1
-
-  
-31 Jan (Mon)  
-
-#### Chinese New Year Celebrations
+24 January  
+**Chinese New Year Holiday**  
 
 FEBRUARY
 --------
 
-1-2 Feb (Tue-Wed)  
+3 February  
+**Secondary 1 Parents Engagement**
 
-#### Chinese New Year Holiday
 
+8 February  
+**Friendship Day**  
   
-
-10 Feb (Thu)
-
-#### Home-Based Learning Day 2
-
+15 February  
+**Total Defence Day**  
   
-
-11 Feb (Fri)
-
-#### Parent Engagement (Sec 4)
-
-  
-
-15 Feb (Tue)
-
-#### Total Defence Day
-
-  
-
-23 Feb (Wed)
-
-#### Home-Based Learning Day 3
+17 February  
+**Secondary 3 Parents Engagement**  
 
 MARCH
 -----
 
-10 March (Thu)  
-
-#### Student Leaders Convention
-
+3 March<br>
+**Student Leaders Convention**  
   
-11 Mar (Fri)  
-
-#### Home-Based Learning 4
-
-#### Parents Engagement with School Leaders and Teacher Meet Parents (Sec 2)
-
+9 March  
+**Movie Nite**  
   
-12-20 Mar (Sat-Sun)  
-
-#### March Break
-
-  
-22-24 Mar (Tue-Thu)  
-
-#### Outdoor Experience Programme (Sec 3)
-
-  
-25 Mar (Fri)  
-
-#### Home-Based Learning Day 5
-
-  
-30 Mar (Wed)  
-
-#### Student Leaders Investiture 1
+11-19 March  
+**Term 1 Break**  
 
 APRIL
 -----
 
-4-8 Apr (Mon-Fri)  
-
-#### Kindness Week
-
+3 April  
+**International Friendship Day**  
   
-5 Apr (Tue)  
-
-#### Home-Based Learning Day 6 (Sec 1-3 only)
-
+7 April  
+**Good Friday**  
   
-6 Apr (Wed)  
+14 April  
+**TAG in Concert**
 
-#### Student Leaders Investiture 2
 
+21 April  
+**Student Leaders Investiture**  
   
-14 Apr (Thu)  
-
-#### Speech Day
-
+22 April  
+**Hari Raya Puasa**  
   
-15 Apr (Fri)  
-
-#### Good Friday
-
+24 April  
+**Hari Raya Puasa Off-In-Lieu**  
   
-18 Apr (Mon)  
-
-#### International Friendship Day
-
-  
-28 Apr - 13 May  
-
-#### Mid-Year Exam (Sec 2 & Sec 4 & 5 only)
+28 April  
+**Career Guidance Day**  
 
 MAY
 ---
 
-1 May (Sun)  
-
-#### Labour Day
-
+1 May  
+**Labour Day**  
   
-2 May (Mon)  
-
-#### Labour Day Public Holiday
-
+2-5 May  
+**Gratitude Week**  
   
-3 May (Tue)  
-
-#### Hari Raya Puasa
-
+5 May  
+**Fatamorgana**  
   
-15 May (Sun)  
-
-#### Vesak Day
-
+8-11 May  
+**Special Timetable**  
   
-16 May (Mon)  
-
-#### Vesak Day Public Holiday
-
+12 May  
+Speech Day  
+**DSA SL Open Outreach**  
   
-17 May (Tue)  
-
-#### Marking Day
-
+15-19 May  
+**EXPLORE Week**  
   
-18-26 May (Wed-Thu)  
-
-#### Special Timetable
-
+22-25 May  
+**EOSA**  
   
-26 May (Thu)  
-
-#### Teacher Meet Parents (Sec 3)
-
+25 May  
+**Secondary 3 Teacher Meet Parents**  
   
-27 May (Fri)  
-
-#### Teacher Meet Parents (Sec 1, Sec 4 & 5)  
-Home-Based Learning 8 (Sec 1-3 only)
-
+26 May  
+**Secondary 1 & 4 Teacher Meet Parents**  
   
-28 May (Sat) - 26 Jun (Sun)  
-
-#### June Break
-
+27 May - 25 June  
+**Term 2 Break**  
   
-30 May (Mon)  
-
-#### O Level Mother Tongue Examination
-
+29-31 May  
+**SL Training Days**  
   
-30 May (Mon) - 3 Jun (Fri)  
-
-#### Advanced Elective Modules (Sec 3)
-
+29 May  
+**O Level MTL Exam**  
   
-31 May (Tue) - 6 Jun (Mon)  
-
-#### Extended Curriculum (Sec 4 & 5)
-
-  
+29 May-2 June  
+**Applied Elective** **Modules**  
 
 JUNE
 ----
 
-30 May (Mon) - 3 Jun (Fri)  
-
-#### Advanced Elective Modules (Sec 3)
-
+3 June  
+**Vesak Day**  
   
-31 May (Tue) - 6 Jun (Mon)  
-
-#### Extended Curriculum (Sec 4 & 5)
-
+29 June  
+**Hari Raya Haji**  
   
-1-2 Jun (Wed-Thu)  
-
-#### Young Leaders Camp for Primary Schools
-
+30 June  
+**Youth Day Commemoration**  
   
-6-7 Jun (Mon-Tue)  
-
-#### Student Leaders Training Days
+30 June  
+**Movie Nite**  
 
 JULY
 ----
 
-3 Jul (Sun)  
-
-#### Youth Day
-
+2 July  
+**Youth Day**  
   
-4 Jul (Mon)  
-
-#### Youth Day School Holiday
-
+3 July  
+**Youth Day School Holiday**  
   
-5 Jul (Tue)  
-
-#### Home-Based Learning 9 (Sec 1-3)
-
+21 July  
+**Racial Harmony Day**  
   
-10 Jul (Sun)  
-
-#### Hari Raya Haji
-
-  
-11 Jul (Mon)  
-
-#### Hari Raya Haji Public Holiday
-
-  
-20 Jul (Wed)  
-
-#### Home-Based Learning 10 (Sec 1-3)
-
-  
-21 Jul (Mon)  
-
-#### Racial Harmony Day
-
-  
-25-29 Jul (Mon-Fri)  
-
-#### Mental Health Week
-
-  
-29 Jul - 12 Aug (Fri-Fri)  
-
-#### N Level Preliminary Examinations
+24 July - 7 August  
+**N Level Prelim**  
 
 AUGUST
 ------
 
-29 Jul (Fri) - 12 Aug (Fri)  
-
-#### N Level Preliminary Examinations
-
+8 August  
+**National Day Commemoration**  
   
-1 Aug (Mon)  
-
-#### CCA Awards Day
-
+8 August  
+**Temasek Charity Challenge**  
   
-4 Aug (Thu)  
-
-#### Home-Based Learning 11 (Sec 1-3)
-
+9 August  
+**National Day**  
   
-8 Aug (Mon)  
-
-#### National Day Commemoration  
-Temasek Charity Challenge
-
+10 August  
+**National Day School Holiday**  
   
-9 Aug (Tue)  
-
-#### National Day
-
+11-17 August  
+**Mental Health Week**  
   
-10 Aug (Wed)  
-
-#### National Day School Holiday
-
+16-29 August  
+**O Level Prelim**  
   
-18-31 Aug (Thu-Wed)  
-
-#### O Level Preliminary Examinations
+31 August  
+**All Staff Day**  
 
 SEPTEMBER
 ---------
 
-1 Sep (Thu)  
+1 September  
+**Teachers Day School Holiday**  
 
-#### All Staff Day
 
+2-10 September  
+**Term 3 Break**  
   
-2 Sep (Fri)  
-
-#### Teachers Day School Holiday
-
+11 September-10 October  
+**N Level Exam**  
   
-3-11 Sep (Sat-Sun)  
-
-#### September Break
-
+22 September  
+**Farewell Assembly**  
   
-12-22 Sep (Mon-Thu)  
-
-#### N Level Examinations
-
-  
-23 Sep (Fri)  
-
-#### Home-Based Learning 12 (Sec 1-3)
+26 September-17 October  
+**O Level Practical Exam**  
 
 OCTOBER
 -------
 
-3-13 Oct (Mon-Thu)  
-
-#### Final Term Examinations (Sec 1-3)  
-N Level Examinations
-
+2-12 October  
+**Final Term Exam**  
   
-14 Oct (Fri)  
-
-#### Marking Day
-
+13 October  
+**Marking Day**  
   
-17-28 Oct (Mon-Fri)  
-
-#### Special Timetable
-
+18-26  
+**October EOSA**  
   
-17 Oct (Mon) -14 Nov (Mon)  
-
-#### O Level Examinations
-
+19 October-10 November  
+**O Level Exam**  
   
-24 Oct (Mon)  
-
-#### Deepavali
-
+24 October  
+**Promotion Day**  
   
-25 October (Tue)  
+24 October  
+**Young Leaders Sharing** 
 
-#### Promotion Day  
-The Leaders Sharing (Secondary Schools)
 
+27 October  
+**Last Day of School**  
   
-29 Oct-31 Dec (Sat-Sat)  
-
-#### December Break
+27 October  
+**TIP Night**  
 
 NOVEMBER
 --------
 
-17 Oct (Mon) - 14 Nov (Mon)  
-
-#### O Level Examinations
-
+6-7 November  
+**Combined UG Camp**  
   
-1-4 Nov (Tue-Fri)  
-
-#### Bridging Programme (Sec 1-2)  
-Extended Curriculum (Sec 3)
-
+6-10 November  
+**Career Guidance and Work Attachment**  
   
-7-11 Nov (Mon-Fri)  
-
-#### Advanced Elective Modules (Sec 2)
-
+12 November  
+**Deepavali**  
   
-15-18 Nov (Tue-Fri)  
-
-#### Student Leadership Camps
-
+13 November  
+**Deepavali Holiday**  
   
-19 Nov (Sat)  
-
-#### Open House
-
+14-17 November  
+**Student Leaders Camps**  
   
-22 Nov (Tue)  
-
-#### Graduation Night
+18 November  
+**Open House** 
+  
+19 November-31 December  
+**Term 4 Break**  
+  
+21 November  
+**Graduation Night**  
 
 DECEMBER
 --------
 
-25 Dec (Sun)  
-
-#### Christmas
-
-  
-26 Dec (Mon)  
-
-#### Christmas Public Holiday
+25 December  
+**Christmas**
