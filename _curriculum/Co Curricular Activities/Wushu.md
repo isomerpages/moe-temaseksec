@@ -53,3 +53,5 @@ Training is held twice a week in school. Through systematic strength and flexibi
 *   Development of basic Wushu skills for new members without any prior experience.
 *   Participate in the annual National School Wushu Championships.&nbsp;
 *   Perform at invitational concerts and events in and outside of school (e.g. The Chinese New Year concert in school).
+
+<img style="width:50%" src="/images/wushu-1.jpg">
