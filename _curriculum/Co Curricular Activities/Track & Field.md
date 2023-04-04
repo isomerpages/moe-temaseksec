@@ -57,3 +57,6 @@ The team trains for both individual events like the 200m, 800m and 1500m and tea
 *   Participate in National&nbsp;Inter-schools Track &amp; Field&nbsp;Championships
 *   National Inter-school&nbsp;Cross-country Championships&nbsp;
 *   Singapore&nbsp;Press Holdings (SPH)&nbsp;Relay&nbsp;Championships
+
+
+<img style="width:70%" src="/images/t&amp;f%20%20%20.png">
