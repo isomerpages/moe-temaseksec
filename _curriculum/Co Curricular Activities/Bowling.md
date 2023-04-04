@@ -4,7 +4,8 @@ permalink: /curriculum/co-curricular-activities/bowling/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-![6b49fb90-41db-4a93-8e46-01885bfe7f2c.jpg](/images/6b49fb90-41db-4a93-8e46-01885bfe7f2c.jpg)
+## Bowling
+![](/images/82a67f84-03bd-459f-9925-47f5a7af49c0.jpg)
 
 ## HISTORY
 
@@ -27,3 +28,5 @@ Participate in competitions such as the National Inter-Schools Championships and
 Training is held twice a week. The training programme is holistic in approach, focusing on four phases:  
   
 Early Pre-Season Training: Building up of Fitness, Functional Strength with focus on developing Muscle Mass and Familiarisation Play
+
+<img style="width:50%" src="/images/cca%20bowling%201.jpg">
