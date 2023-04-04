@@ -4,18 +4,22 @@ permalink: /curriculum/co-curricular-activities/pop-acappella/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+## Pop Acappella
+
 ![banner-acappella-grp.jpg](/images/banner-acappella-grp.jpg)
 
-**Teacher-in-charge**  
-Mr Oh Chin Hui Jared (I/C)  
-  
-**Executive Committee**  
-President: Abelanes Gerlynne Trix Monteros  
-Vice President: Ng Han Qian Terence  
-Secretary: Jawaheer Binte Zekri Basharahil  
-Exco: Siddesh Nadikatla
+**Teacher-in-charge**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/26YiHSywdZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Mr Oh Chin Hui Jared (I/C)
+
+**Executive Committee**
+
+President: Qin Weibo <br>
+Vice President: Trisha Jia Xing Ganesh<br>
+Secretary: Saanchi Nagpal<br>
+Exco: Zahra Farook Ashraff
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/26YiHSywdZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ## HISTORY
 
@@ -27,7 +31,7 @@ The Temasek Acappella Group (TAG) was first established in 2001, as an interest 
 
   
   
- <iframe width="560" height="315" src="https://www.youtube.com/embed/XbpT2sKQNKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/XbpT2sKQNKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ## MISSION
 
@@ -37,7 +41,7 @@ The Temasek Acappella Group (TAG) was first established in 2001, as an interest 
 To inspire students to have a passion for contemporary acappella music and aim to achieve excellence in singing and performance.
 
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/no5urvqHUnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/no5urvqHUnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
   
 
 ## TRAINING
@@ -58,4 +62,6 @@ Training is held once a week in school. Members learn vocal skills, choreography
 
 *   Performance opportunities in venues such as the Esplanade and the biennial TAG Concert.
 *   Participate in competitions such as the Singapore A cappella Championships and B’Dazzled.
-*   Perform for major events such as the Singapore Youth Olympics, the SYF Opening Ceremonies and various ministry events including the HDB Awards Ceremony, Ministry of Transport Award Ceremony, as well as  the Supreme Court National Day Observance Ceremony.
+*   Perform for major events such as the Singapore Youth Olympics, the SYF Opening Ceremonies and various ministry events including the HDB Awards Ceremony, Ministry of Transport Award Ceremony, as well as&nbsp; the Supreme Court National Day Observance Ceremony.
+
+<img style="width:75%" src="/images/pop%20acappella.png">
