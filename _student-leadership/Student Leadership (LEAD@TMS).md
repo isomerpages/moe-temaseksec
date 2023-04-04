@@ -7,5 +7,10 @@ description: ""
 
 ### LEADERSHIP @ TEMASEK
 
+1. [Philosophy and Desired Outcomes](/student-leadership/philosophy-and-desired-outcomes/)
+2. [Student Leadership Development Framework](/student-leadership/student-leadership-development-framework/)
+3. [Leadership Training and Opportunities](/student-leadership/leadership-training-and-opportunities/)
+4. [Event: The Temasek Charity Challenge](/student-leadership/event-the-temasek-charity-challenge/)
+
 ### 5 LEADERSHIP GROUPS &amp; STUDENT REP COMMITTEE
 
