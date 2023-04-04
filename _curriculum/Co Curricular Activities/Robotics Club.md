@@ -4,17 +4,21 @@ permalink: /curriculum/co-curricular-activities/robotics-club/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-![banner-robotics.jpg](https://temaseksec.moe.edu.sg/qql/slot/u187/IamTemasek/CCA/Clubs/banner-robotics.jpg)
+## Robotics Club
+
+![banner-robotics.jpg](/images/robotics%20club.jpg)
 
 **Teacher-in-charge**  
-Mr Seah Zuo Sheng (I/C)  
-Madam Tham Wai Leng  
+
+Madam Tham Wai Leng (I/C)  <br>
+Mr Gabriel Sim Qin Jie (2I/C)  
   
 **Executive Committee**  
-President: Aaryan Sharma  
-Vice President: Lai Po-Ru
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wF8k56RaU64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+President: Austin Lim&nbsp;  <br>
+Vice President: Brian Lee Wen Hui, Ayyana Singh
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wF8k56RaU64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ## HISTORY
 
@@ -44,9 +48,12 @@ Training is held twice a week in school guided by teachers and an instructor. Pr
 ## OPPORTUNITIES
 
 
-*   Intensive training and learning support to prepare students to showcase their technological expertise in key national  competitions such as the First Lego League (FLL) and the National Robotics Competition (NRC). 
+*   Intensive training and learning support to prepare students to showcase their technological expertise in key national&nbsp; competitions such as the First Lego League (FLL) and the National Robotics Competition (NRC).&nbsp;
 *   Provision of leadership opportunities for students to lead their peers in collaborative group projects.
 
   
 
 ![R4.jpg](/images/R4.jpg)
+
+
+<img style="width:75%" src="/images/robotics.png">
