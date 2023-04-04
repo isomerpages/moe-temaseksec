@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Privacy Policy.md
       - School History.md
       - Mission, Vision, Motto.md
       - Values & Strategic Direction.md
@@ -12,4 +11,5 @@ collections:
       - School Management Committee.md
       - Our Teachers (Form Teachers).md
       - Contact Us.md
+      - Privacy Policy.md
       - FAQs.md
