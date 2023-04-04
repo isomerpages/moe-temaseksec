@@ -51,3 +51,5 @@ Training is held twice a week in school. Training includes physical conditioning
 
 *   Participate in the National School Games Softball Championships.
 *   Participate in friendly matches such as the Bedok Green Secondary School Invitational Games and Singapore Recreation Club (SRC) Softball Carnival.
+
+<img style="width:75%" src="/images/sb4%20%20%20.png">
