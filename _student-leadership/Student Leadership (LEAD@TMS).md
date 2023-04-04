@@ -14,3 +14,6 @@ description: ""
 
 ### 5 LEADERSHIP GROUPS &amp; STUDENT REP COMMITTEE
 
+1. [Student Councillors](/student-leadership/student-councillors/)
+2. [Peer Support Leaders](/student-leadership/peer-support-leaders/)
+3. [Sports Captains](/student-leadership/sports-captains/)
