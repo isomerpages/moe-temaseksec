@@ -6,41 +6,28 @@ third_nav_title: Co Curricular Activities
 ---
 ## NATIONAL CADET CORPS (BOYS ONLY)
 
-![banner-ncc2.jpg](/images/banner-ncc2.jpg)
+![](/images/national%20cadet%20corps%20land.jpg)
 
-**Teacher-in-charge**  
+**Teacher-in-charge**
 
-Mr Alex Chua (I/C)
+Ms Chua An Ting (I/C)<br>
+Mr Wong Wei Wen Clarence (2I/C)<br>
+Mrs Joy Lim-Seng En-Yi<br>
+Mr Tan Bok Sim <br>
+Ms Ooi Liu Qi
 
-Ms Chua An Ting
+**Student Leaders**
 
-Mrs Joy Lim-Seng En-Yi
+Unit Sergeant Major: Atiq Zuhayr Bin Bambang Sumaryono <br>
+Assistant Sergeant Major: Mohamad Hafiz Bin Badarolzaman <br>
+PDS IC: Girish Ghufraan <br>
+FSD IC: Phuwadet Pillai <br>
+Part IC: Braeden Seaw Kay Yee, Ethan Ho Jun Huang, Ng Ying Jie Clarence <br>
+Logistics IC: Tan Guan Quan Juventius<br>
+Physical Training IC: Dhireen Bhardwaj
 
-Mr Wong Wei Wen Clarence 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NO7KqS1aaqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
   
-**Student Leaders**  
-Unit Sergeant Major: Ryan Yee Wern Luke  
-Assistant Sergeant Major: Saravanan Reshmen  
-PDS IC: Ho Sam Hin Jayden  
-FSD IC: Bryce Edward Mitchell  
-Part IC: Marcus Chong Zhen Nam, Toh Zhen Yu, Grey Chay Kar Zhun  
-Logistics: Javier Seng Zhi Min  
-Physical Training IC: Muhammad Khairul Iman Bin Khairussham
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NO7KqS1aaqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## HISTORY
-
-
-The National Cadet Corps (NCC) Land boasts of being one of the earliest CCAs established in Temasek. 
-
-Over the years, the Temasek NCC unit continues to strive for excellence whilst developing extraordinary youth leaders. 
-
-An all boys unit, the Temasek NCC unit is currently approximately 100 cadets strong, guided by 5 Teacher Officers. 
-
-  
-
 ## TRAINING
 
 
@@ -48,7 +35,7 @@ An all boys unit, the Temasek NCC unit is currently approximately 100 cadets str
 
   
 
-Training is held twice a week, where cadets get the opportunity to learn skills such as marching drills, technical handling of the SAR 21 rifles and marksmanship. Our cadets also get to develop a fit body and resilient mind through activities such as rock climbing, dragon boating and kayaking. Every year, our cadets can attend leadership courses such as the Physical Training Instructor Course and the Senior Specialist Leaders Course. 
+Training is held twice a week, where cadets get the opportunity to learn skills such as marching drills, technical handling of the SAR 21 rifles and marksmanship. Our cadets also get to develop a fit body and resilient mind through activities such as rock climbing, dragon boating and kayaking. Every year, our cadets can attend leadership courses such as the Physical Training Instructor Course and the Senior Specialist Leaders Course.&nbsp;
 
 ## MISSION
 
@@ -66,12 +53,12 @@ Temasek NCC aims to nurture disciplined, committed and caring leaders through fu
 
   
 
-• Learn rifle drills and performance confidence in preparation for the annual Precision Drill Squad (PDS) and Freestyle Drill (FSD) Competitions 
+• Learn rifle drills and performance confidence in preparation for the annual Precision Drill Squad (PDS) and Freestyle Drill (FSD) Competitions&nbsp;
 
-• Develop military-related skills through shooting experiences in firing a SAR 21 and TAR-21 airsoft rifle 
+• Develop military-related skills through shooting experiences in firing a SAR 21 and TAR-21 airsoft rifle&nbsp;
 
-• Learn navigational skills through Orienteering Competitions 
+• Learn navigational skills through Orienteering Competitions&nbsp;
 
-• Develop water confidence and teamwork through the 1-star Kayaking Course and Dragonboating Competitions 
+• Develop water confidence and teamwork through the 1-star Kayaking Course and Dragonboating Competitions&nbsp;
 
 • Interact with foreign cadets through International Cadet Exchange Programmes
