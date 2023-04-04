@@ -49,17 +49,19 @@ third_nav_title: Student handbook
 
 1.  Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
 2.  The school uniform must be worn with the school badge prominently displayed at all times.
-3.  Students who come back to school for any school programme must be in one of the attires below (with socks and shoes)
+3.  During term time, students must be in one of the attires below (with Temasek/plain white socks that cover the entire ankle knob and white shoes with white laces and minimal coloured markings):
 
-&gt; *   school uniform&nbsp;**OR  
-&gt;     **
-&gt; *   school polo t-shirt tucked into their school skirt/pant&nbsp;**OR  
-&gt;     **
-&gt; *   school based t-shirt tucked into their school skirt/pant&nbsp;**OR  
-&gt;     **
-&gt; *   full PE/CCA attire.
+*   Mondays: School uniform or polo t-shirt tucked into their school skirt/pants. Students to change into their PE attire before their PE lesson.
+*   Tuesdays to Fridays: School uniform or polo/PE t-shirt tucked into their school skirt/pants.
 
-Otherwise, they will be asked to go home to change into the correct attire.  
+4.  Students who come back to school for any school programme must be in one of the attires below (with socks and shoes)
+
+*   school uniform OR
+*   school polo t-shirt tucked into their school skirt/pant&nbsp;**OR**
+*   school based t-shirt tucked into their school skirt/pant&nbsp;**OR**
+*   full PE/CCA attire.
+
+Otherwise, they will be asked to go home to change into the correct attire.
   
 
 ### PE Attire
