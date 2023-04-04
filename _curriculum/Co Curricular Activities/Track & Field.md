@@ -1,38 +1,40 @@
 ---
-title: Track & Field
+title: Track &amp; Field
 permalink: /curriculum/co-curricular-activities/track-n-field/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-![banner-athletics.jpg](/images/banner-athletics.jpg)
+## Track &amp; Field
 
-**Teacher-in-charge**  
+![banner-athletics.jpg](/images/track%20%20field.jpg)
 
-Mr Wong Ching Siong (I/C)  
-Mrs Mirnigar Maesten  
-Mr Reuben Ong Ming Gui  
-  
+**Teacher-in-charge**
+
+Mr Wong Ching Siong (I/C)<br>
+Mrs Mirnigar Maesten (2I/C)<br>
+Mr Reuben Ong Ming Gui<br>
+Madam Chan Choy Wei
+
 **Executive Committee**
 
+Captain: Pranit Nitin<br>
+Vice Captain: Shariffah Nabilah Chishty <br>
+Exco: Rudenko Darya, Senthilkumar Thanis, Mohamad Qais Tufail Bin Kamarudin 
 
-Captain: Phee Ang Ze Gareth  
-Vice Captain: Wong Jean Ing Alyssa, Caden Josh Tay  
-Exco: Muhammad Lutfi Bin Mohamad Zairin, Marcus Lim Jin Kai, Marsya Nabilah Binte Mohamad Ali
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/36G-L6Fqr7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/36G-L6Fqr7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ## HISTORY
 
 
-The Temasek Track & Field team was established in 1984. Our 50 member strong Track & Field team has a multi-disciplinary culture that is open to developing sporting talents from both within the Track & Field team and also from other CCAs in Temasek.  
+The Temasek Track &amp; Field team was established in 1984. Our 50 member strong Track &amp; Field team has a multi-disciplinary culture that is open to developing sporting talents from both within the Track &amp; Field team and also from other CCAs in Temasek.  
   
 ![track1.jpg](/images/track1.jpg)
 
 ## MISSION
 
 
-Track & Field aspires for every member to be an athlete who embraces challenges with determination and strives for performance excellence.
+Track &amp; Field aspires for every member to be an athlete who embraces challenges with determination and strives for performance excellence.
 
 ## TRAINING
 
@@ -52,6 +54,6 @@ The team trains for both individual events like the 200m, 800m and 1500m and tea
 
   
 
-*   Participate in National Inter-schools Track & Field Championships
-*   National Inter-school Cross-country Championships 
-*   Singapore Press Holdings (SPH) Relay Championships
+*   Participate in National&nbsp;Inter-schools Track &amp; Field&nbsp;Championships
+*   National Inter-school&nbsp;Cross-country Championships&nbsp;
+*   Singapore&nbsp;Press Holdings (SPH)&nbsp;Relay&nbsp;Championships
