@@ -8,14 +8,16 @@ third_nav_title: Co Curricular Activities
 
 ![banner-wushu.jpg](/images/wushu-banner.jpg)
 
-**Teacher-in-charge**  
-Mr Leow Mun Tat Edward (I/C)  
-Mrs Lim Chue May (2I/C)  
-Miss Tan Hui Xin  
-  
-**Executive Committee**  
-Captain: Josie Ong Zuo Si  
-Vice Captain: Tan Kim Hng
+**Teacher-in-charge**
+
+Mr Leow Mun Tat Edward (I/C)<br>
+Mrs Lim Chue May (2I/C)
+
+**Executive Committee**
+
+Captain: Crystal Ong <br>
+Vice Captain: Goh Hyon Min, Klaudia Low <br>
+Exco Members: Venice Low Xin Yu, Tan Wei En Ansel, Muhammad Abdillah Bin Mohd Faisal, Goh Cheng You, Charlotte Yeo, Swiss Er Rui Xin 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SihpMaszJsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
