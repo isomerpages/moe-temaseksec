@@ -2,5 +2,6 @@ collections:
   student-leadership:
     output: true
     order:
+      - Peer Support Leaders.md
       - Student Councillors.md
       - Student Leadership (LEAD@TMS).md
