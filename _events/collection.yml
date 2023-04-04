@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Gallery of Events/.keep
       - Events/.keep
       - Events/2022 Speech Day.md
       - Events/Parents Gateway.md
