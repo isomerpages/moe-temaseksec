@@ -4,8 +4,17 @@ links:
     collection: about-us
   - title: Curriculum
     collection: curriculum
-  - title: Co-CURRICULUM
-    collection: co-curriculum
+  - title: CO-CURRICULUM
+    url: /co-curriculum/temasek-experience/
+    sublinks:
+      - title: Temasek Experience
+        url: /co-curriculum/temasek-experience/
+      - title: CCE
+        url: /co-curriculum/character-n-citizenship-education-cce/
+      - title: Sexuality Education 2023
+        url: /co-curriculum/sexuality-education-2023/
+      - title: Student Leadership (LEAD@TMS)
+        url: /co-curriculum/student-leadership-lead-tms/
   - title: PROSPECTIVE STUDENTS
     collection: prospective-students
   - title: EVENTS
