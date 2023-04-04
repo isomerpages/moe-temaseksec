@@ -4,17 +4,22 @@ permalink: /curriculum/co-curricular-activities/netball-girls/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-![nb.jpeg](/images/nb.jpeg)
+## Netball (Girls Only)
 
-**Teacher-in-charge**  
-Madam Nurfadilah Binte Abdul Rahman (I/C)  
-Madam Yeo Soh Hong  
-  
-**Executive Committee**  
-Captain: Nur Nadya Natasha  
-Vice Captain: Aiesyah Sorfina, Jenna Zhuo Ya Fryearson
+![nb.jpeg](/images/netball.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lo9TE44r9ds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Teacher-in-charge**
+
+Madam Nurfadilah Binte Abdul Rahman (I/C)<br>
+Mdm Rozmaini Binte Abu Bakar (2I/C)<br>
+Ms Chen Si Shann, Shannon 
+
+**Executive Committee**
+
+Captain: Beatrice Chew Xiaoen<br>
+Vice Captain: Tessa Chia, Anisa Shaheera d/o Mohamed Ashraff
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lo9TE44r9ds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ## HISTORY
 
@@ -45,5 +50,8 @@ Training is held twice a week in school. The training programme comprises progre
 
   
 
-*   Participate in friendly matches and carnivals such as the Netball Carnival at Kallang Netball Centre, the SPEED Carnival at St. Hilda’s Secondary School, and  carnivals in other East Zone schools.
+*   Participate in friendly matches and carnivals such as the Netball Carnival at Kallang Netball Centre, the SPEED Carnival at St. Hilda’s Secondary School, and&nbsp; carnivals in other East Zone schools.
 *   Participate in competitions such as the Annual East Zone Netball Competition.
+
+
+<img style="width:50%" src="/images/cca%20netball.jpg">
