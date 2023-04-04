@@ -31,7 +31,7 @@ Below are all the CCAs offered in Temasek Secondary School:
 3. [Netball (Girls Only)](/curriculum/co-curricular-activities/netball-girls/)
 4. **+[Shooting](/curriculum/co-curricular-activities/shooting/)**
 5. [Softball (Boys Only)](/curriculum/co-curricular-activities/softball-boys/))
-6. [Track & Field](/curriculum/co-curricular-activities/track-n-field/)
+6. [Track &amp; Field](/curriculum/co-curricular-activities/track-n-field/)
 7. [Wushu](/curriculum/co-curricular-activities/wushu/)  
 8. [Bowling](/curriculum/co-curricular-activities/bowling/)
   
@@ -48,15 +48,15 @@ Below are all the CCAs offered in Temasek Secondary School:
 
 #### **CLUBS**
 
-1. [Infocomm Media Club](/curriculum/co-curricular-activities/infocomm-media-club) (AV & Photography)
+1. [Infocomm Media Club](/curriculum/co-curricular-activities/infocomm-media-club) (AV &amp; Photography)
 2. [Robotics](/curriculum/co-curricular-activities/robotics-club/)
 3. [Environmental Science Club](/curriculum/co-curricular-activities/environmental-science-club/)  
   
-All Temasekians are required to take up a CCA from one of the core CCAs offered in Temasek. In Secondary One, students will be allotted a CCA based on one of five choices that the students have selected and they are expected to remain in that CCA for the duration of their secondary school years unless they have medical reasons that preclude them from serving their commitments to the CCA.  
-  
-Students are reminded to make their choices wisely as they may not be allotted CCA of their first choice in cases where the CCA is oversubscribed and they may be allotted choices other than their 1st choice.  
-  
-+Shooting, Choir, Drama, Modern Dance are CCAs that offer DSA.  
-\*Canoeing will cease to accept boys from 2023.  
-\*\*Chinese Orchestra will cease to operate from 2023.  
-__\*\*__\*_Pop Acappella is not a core CCA._
+All Temasekians are required to take up a CCA from one of the core CCAs offered in Temasek. In Secondary One, students will be allocated a CCA based on one of five choices that the students have selected and they are expected to remain in that CCA for the duration of their secondary school years unless they have medical reasons that preclude them from serving their commitments to the CCA.
+
+Students are reminded to make their choices wisely as they may not be allotted CCA of their first choice in cases where the CCA is oversubscribed and they may be allotted choices other than their 1st choice.
+
++Shooting, Choir, Drama, Modern Dance are CCAs that offer DSA.<br>
+*Canoeing will cease to accept boys from 2023.<br>
+**Chinese Orchestra will cease to operate from May 2023.<br>
+***Pop Acappella is not a core CCA.
