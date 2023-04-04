@@ -4,23 +4,27 @@ permalink: /curriculum/co-curricular-activities/softball-boys/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-![banner-softball.jpg](/images/banner-softball.jpg)
+## Softball (Boys Only)
+
+![banner-softball.jpg](/images/softball.jpg)
 
 **Teacher-in-charge**  
-Mr Yeo Jun Song (I/C)  
-Mr Sulaiman Bin Hussin  
-  
-**Executive Committee**  
-Captain: Lim Ken-Wei  
-Vice Captain: Ahmad Aqil Bin Muhammad Nizam, Subhaan Sulaiman Sait  
-Exco: Mohamed Mirza Bin Mohamed Masri
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x14hy5r6Wks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Mr Yeo Jun Song (I/C)  <br>
+Mr Sulaiman Bin Hussin (2I/C)  
+  
+**Executive Committee**
+
+Captain: Jayakannan Sidesan&nbsp;  <br>
+Vice Captain: Mohammed Zuhair Hussain, Palani Buvan Pragadeesh&nbsp;  <br>
+Exco: Periyasamy Pradeep
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x14hy5r6Wks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ## HISTORY
 
 
-Through the years, the Softball Team continues to build a strong team culture that promotes camaraderie and sportsmanship among players.  It has been one of the popular CCA choices for boys and currently boasts a healthy membership of approximately 45 members.  
+Through the years, the Softball Team continues to build a strong team culture that promotes camaraderie and sportsmanship among players.&nbsp; It has been one of the popular CCA choices for boys and currently boasts a healthy membership of approximately 45 members.  
 
   
 
