@@ -2,6 +2,7 @@ collections:
   prospective-students:
     output: true
     order:
+      - Achievements/GCE Results.md
       - Achievements/School Achievements.md
       - Achievements/.keep
       - TMS in a Nutshell.md
