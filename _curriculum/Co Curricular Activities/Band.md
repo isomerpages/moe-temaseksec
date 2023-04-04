@@ -56,6 +56,6 @@ Training is held twice a week with additional sessions conducted nearer to compe
 *   Perform in outdoor public concerts, and school productions such as Three Beats In A Bar, the annual Practice Room and the Secondary One showcase: Studio Session.
 *   Participate in the Singapore Youth Festival (SYF) Arts Presentation.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gRKXttAS8q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gRKXttAS8q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br>
 
 <img style="width:50%" src="/images/band%20%20.jpg">
