@@ -4,31 +4,29 @@ permalink: /curriculum/co-curricular-activities/shooting/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-![banner-shooting.jpg](/images/banner-shooting.jpg)
+## Shooting Club
 
-**Teacher-in-charge**  
-Mr Jonathan Soh (I/C)  
+![banner-shooting.jpg](/images/shooting%20club.jpg)
 
-Mr Chua Kok Thye
+**Teacher-in-charge**
 
-Madam Rozmaini Binte Abu Bakar
-
-Mr Poon Han Yaw
-
+Mr Jonathan Soh (I/C) <br>
+Mr Chua Kok Thye (2I/C)<br>
+Mr Poon Han Yaw<br>
 Dr. Jasline Presilda Sathiya Seelan
 
-  
-**Executive Committee**  
+**Executive Committee**
 
-Pistol Captain (Boys): Lim Zi Feng, Sun Jun Heng Austin
+Captain (Pistol Girls): Natalie Fong Su Lynn<br>
+Captain (Pistol Boys): Akid Danish Bin Akalil<br>
+Captain (Rifle Girls): Trisha Jia Xing Ganesh<br>
+Captain (Rifle Boys): Rishit Awasthi <br>
+Vice Captain (Pistol Girls): Sharie Chan Wan Ni, Nicole Chiang En Qi, Rose Iamee Anne Dagman Destor<br>
+Vice Captain (Rifle Girls): Daphne Tan, Nur Aishah Amirah Rozali<br>
+Vice Captain (Pistol Boys): Eagene Tan Yak Hun, Kyan Phua<br>
+Vice Captain (Rifle Boys): Aniq Nafiz Bin Saharudin, Sun Ruihan, Tan Wei Reng Nigel 
 
-Pistol Captain (Girls): Li Jialin Christy, Tan Xian Hui, Avrie
-
-Rifle Captain (Boys): Wang Yangxiang, Amin Avighna Rajesh
-
-Rifle Captain (Girls): Theng Pui Yee, Audrey Liz Diaz Narciso
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iuNzhEZbIT8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iuNzhEZbIT8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
 ## HISTORY
@@ -56,7 +54,7 @@ Shooting inspires students to better themselves by helping them to be focused, p
 
   
 
-Both air pistol and air rifle shooting are offered. The team trains twice a week. Shooters learn how to operate the guns safely, and other aspects of safety. They learn about their personal traits and inclinations, to specialise in one of the weapons eventually. Specific training programmes are offered to help all them strive for performance excellence.  
+Both air pistol and air rifle shooting are offered. The team trains twice a week.&nbsp;Shooters learn how to operate the guns safely, and other aspects of safety. They learn about their personal traits and inclinations, to specialise in one of the weapons eventually.&nbsp;Specific training programmes are offered to help all them strive for performance excellence.  
 
 ## OPPORTUNITIES
 
@@ -66,5 +64,7 @@ Both air pistol and air rifle shooting are offered. The team trains twice a week
   
 
 *   Participate in the National School Games Shooting Championships.
-*   Participate in annual National University of Singapore (NUS) and the Nanyang Technological University of Singapore (NTU) invitational shoots. 
+*   Participate in annual National University of Singapore (NUS) and the Nanyang Technological University of Singapore (NTU) invitational shoots.&nbsp;
 *   Excellent shooters will be invited to join the Singapore National Youth Team.
+
+<img style="width:75%" src="/images/shooting5.png">
