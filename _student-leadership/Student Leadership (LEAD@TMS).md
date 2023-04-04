@@ -17,3 +17,6 @@ description: ""
 1. [Student Councillors](/student-leadership/student-councillors/)
 2. [Peer Support Leaders](/student-leadership/peer-support-leaders/)
 3. [Sports Captains](/student-leadership/sports-captains/)
+4. [Class Managers](/student-leadership/class-managers/)
+5. [Young Ambassadors](/student-leadership/young-ambassadors/)
+6. [Student Representative Committee](/student-leadership/student-representative-committee/)
