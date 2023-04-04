@@ -2,6 +2,7 @@ collections:
   student-leadership:
     output: true
     order:
+      - Student Representative Committee.md
       - "Event: The Temasek Charity Challenge.md"
       - Leadership Training and Opportunities.md
       - Student Leadership Development Framework.md
