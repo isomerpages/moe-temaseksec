@@ -4,19 +4,21 @@ permalink: /curriculum/co-curricular-activities/basketball-boys/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-![banner-basketball.jpg](/images/banner-basketball.jpg)
+## Basketball (Boys only)
 
-**Teacher-in-charge** 
+![banner-basketball.jpg](/images/basketball.jpg)
 
-Mrs Jeanette Neo (I/C)  
-Mr Lee Sze Meng  
-  
+**Teacher-in-charge**
+
+Mr Lee Sze Meng (I/C)<br>
+Mdm Yeo Soh Hong (2I/C)
+
 **Executive Committee**
 
-Captain: Loo Zhao Yong  
-Vice Captain: Neo Jun Jie Irwin
+Captain: Mohan Kumar Vaseekaran<br>
+Vice Captain: Jayden Mok Ze Yu
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h_SBePm2tsM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h_SBePm2tsM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ## HISTORY
 
@@ -28,7 +30,7 @@ With a rich history spanning several decades, our CCA has continued to develop m
 ## MISSION
 
 
-Basketball aspires to provide its players with the opportunity to learn the fundamental skills of basketball while instilling life-lessons and values such as character, team work, discipline, respect and sportsmanship.
+Basketball aspires to provide its&nbsp;players&nbsp;with the&nbsp;opportunity to&nbsp;learn the fundamental&nbsp;skills of&nbsp;basketball&nbsp;while instilling life-lessons and values such as character, team work, discipline, respect and sportsmanship.
 
 ## TRAINING
 
@@ -44,6 +46,8 @@ The first aspect is developing physical fitness such as timing, coordination, sp
 
 ![bb3.jpg](/images/bb3.jpg)  
   
-*   Participate in competitions such as the National Inter-Schools Championships and the East Zone Schools Basketball tournament 
-*   Participate in Basketball clinic sessions with the Singapore Slingers 
+*   Participate in competitions such as the National Inter-Schools Championships and the East Zone Schools Basketball tournament&nbsp;
+*   Participate in Basketball clinic sessions with the Singapore Slingers&nbsp;
 *   View matches during events such as the ASEAN School Games
+
+<img style="width:25%" src="/images/cca%20basketball.jpg">
