@@ -26,11 +26,11 @@ Below are all the CCAs offered in Temasek Secondary School:
 
 #### SPORTS
 
-1. [Basketball (Boys)](/curriculum/co-curricular-activities/basketball-boys/)
-2. \*[Canoeing (Girls)](/curriculum/co-curricular-activities/canoeing-girls/)
-3. [Netball (Girls)](/curriculum/co-curricular-activities/netball-girls/)
-4. [Shooting](/curriculum/co-curricular-activities/shooting/)
-5. [Softball (Boys)](/curriculum/co-curricular-activities/softball-boys/))
+1. [Basketball (Boys Only)](/curriculum/co-curricular-activities/basketball-boys/)
+2. \*[Canoeing (Girls Only from 2023)](/curriculum/co-curricular-activities/canoeing-girls/)
+3. [Netball (Girls Only)](/curriculum/co-curricular-activities/netball-girls/)
+4. **+[Shooting](/curriculum/co-curricular-activities/shooting/)**
+5. [Softball (Boys Only)](/curriculum/co-curricular-activities/softball-boys/))
 6. [Track & Field](/curriculum/co-curricular-activities/track-n-field/)
 7. [Wushu](/curriculum/co-curricular-activities/wushu/)  
 8. [Bowling](/curriculum/co-curricular-activities/bowling/)
