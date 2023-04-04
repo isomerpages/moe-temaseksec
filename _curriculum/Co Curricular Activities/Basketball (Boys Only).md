@@ -50,4 +50,4 @@ The first aspect is developing physical fitness such as timing, coordination, sp
 *   Participate in Basketball clinic sessions with the Singapore Slingers&nbsp;
 *   View matches during events such as the ASEAN School Games
 
-<img style="width:25%" src="/images/cca%20basketball.jpg">
+<img style="width:50%" src="/images/cca%20basketball.jpg">
