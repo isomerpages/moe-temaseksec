@@ -5,7 +5,7 @@ description: ""
 ---
 ![2022.04.08 Temasek Sec Department Photographs 8695.jpg](/images/20220408%20Temasek%20Sec%20Department%20Photographs%208695.jpg)  
 
-The Student Development Team (SDT) oversees the design and delivery of a holistic student development experience. With a focus on character education and life-skills development, every Temasekian is nurtured to be a socially responsible youth who is able to lead purposeful lives. 
+The Student Development Team (SDT) oversees the design and delivery of a holistic student development experience. With a focus on character education and life-skills development, every Temasekian is nurtured to be a socially responsible youth who is able to lead purposeful lives.&nbsp;
 
   
 
@@ -24,11 +24,11 @@ Mr V. Chandramohan (Year Head/ Lower Sec)
 
 <a href="mailto:vendasalam_chandramohan@moe.edu.sg">vendasalam_chandramohan</a>
 
-Mr Jared Oh (HOD/ Student Leadership & Aesthetics)
+Mr Jared Oh (HOD/ Student Leadership &amp; Aesthetics)
 
 <a href="mailto:jared_oh@moe.edu.sg">jared_oh@moe.edu.sg</a>  
   
-Ms Jocelyn Woo (HOD/ Character & Citizenship Education) (covering)
+Ms Jocelyn Woo (HOD/&nbsp;Character &amp; Citizenship Education) (covering)
 
 <a href="mailto:woo_mei_xian_jocelyn@moe.edu.sg">woo_mei_xian_jocelyn</a>
   
@@ -50,18 +50,21 @@ Miss Nurul Huda Mohd Kamarulzaman (Asst. Year Head/ Upper Sec)
 
 <a href="mailto:nurul_huda_mohd_kamarulzaman@moe.edu.sg">nurul_huda_mohd_kamarulzaman@moe.edu.sg</a>  
   
-Mrs Lalitha Kok Koon Leong (School Counsellor)  
+Mrs Lalitha Kok Koon Leong&nbsp;(School Counsellor)  
 
 <a href="mailto:lalitha_kok_koon_leong@moe.edu.sg">lalitha_kok_koon_leong@moe.edu.sg</a>
   
-Miss Imesha Gracel Fernando (School Counsellor)  
+Miss Imesha Gracel Fernando&nbsp;(School Counsellor)  
 
 <a href="mailto:imesha_gracel_fernando@moe.edu.sg">imesha_gracel_fernando@moe.edu.sg</a>
   
-Madam Nur Khairunnisa Abdul Rahim (Allied Educator for Learning & Behavioural Support)  
+Madam Nur Khairunnisa Abdul Rahim&nbsp;(Allied Educator for Learning &amp; Behavioural Support)  
 
 <a href="mailto:nur_khairunnisa_a_rahim@moe.edu.sg">nur_khairunnisa_a_rahim@moe.edu.sg</a>  
   
 Ms Siti Raudhah (ECG Counsellor)  
 
 <a href="mailto:siti_raudhah_sukri@moe.edu.sg">siti_raudhah_sukri@moe.edu.sg</a>
+
+
+<img style="width:50%" src="/images/sdt%20counselling.jpg">
