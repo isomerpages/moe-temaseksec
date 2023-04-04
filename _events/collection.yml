@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Gallery of Events/This Is Us Concert 2022.md
       - Gallery of Events/Sec 1 Orientation 2023.md
       - Gallery of Events/.keep
       - Events/.keep
