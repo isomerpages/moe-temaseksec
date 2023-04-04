@@ -4,6 +4,8 @@ permalink: /curriculum/co-curricular-activities/band/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+## Band
+
 ![banner-wind-ensemble.jpg](/images/temasek%20wind%20ensemble.jpg)
 
 **Teacher-in-charge**  
