@@ -4,21 +4,24 @@ permalink: /curriculum/co-curricular-activities/environmental-science-club/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+## Environmental Science Club
 
-![Green Club Icon.jpg](https://temaseksec.moe.edu.sg/qql/slot/u187/CCA/Green%20Club%20Icon.jpg)
+![Green Club Icon.jpg](/images/environmental%20science%20club.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5DBVqQ7HTwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5DBVqQ7HTwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Teacher-in-charge**  
-Miss Chew Li Shan Lydia (I/C)  
-Mr Low Yi Wee Elvis  
-Mr Ali Bin Jaafar  
+
+Miss Chew Li Shan Lydia (I/C)  <br>
+Mr Low Yi Wee Elvis (2I/C)  <br>
+Madam Santhi d/o H P Manis  
   
 **Executive Committee**  
-President: Teo Yukai  
-Vice-President: Lucas Tan Yong Zun  
-Secretary: Christabel Kayla Rahardjo  
-Operations IC: Venkatesan Jeeva Jothiee
+
+President: Christabel Kayla Rahardjo&nbsp;  <br>
+Vice-President: Venkatesan Jeeva Jothiee&nbsp;  <br>
+Secretary: Lihna Zubaidah&nbsp;  <br>
+Head Operations: Yap Hui Min, Hazel
 
 ## HISTORY
 
@@ -30,7 +33,7 @@ The Environmental Science Club was first established in 2016, formerly known as 
 ## MISSION
 
 
-The Environmental Science Club aspires to tackle the challenges of climate change through creating awareness and personal responsibility within our school and community. The members all uphold a common goal to develop environmentally-friendly habits which translate into lifelong actions that seek to make our world a better place. Our CCA also aims to learn more about biodiversity and strives to become people truly living in harmony with nature.  
+The Environmental Science Club aspires to tackle the challenges of climate change through creating awareness and personal responsibility within our school and community. The members all uphold a common goal to develop environmentally-friendly habits which translate into lifelong actions that seek to make our world a better place.&nbsp;Our CCA also aims to learn more about biodiversity and strives to become people truly living in harmony with nature.  
   
 ![gc.jpg](/images/gc.jpg)
 
@@ -50,3 +53,5 @@ Training is held twice a week in school. Students engage in activities that buil
 *   Participate in various environmental competitions like the Green Building Photography competition, Community In Bloom and the School Green Awards Competitions.
 *   Conduct sharings to help increase people’s awareness on environmental issues such as climate change, biodiversity, dengue and waste (food, electronic and general) to the school population and the community.
 *   Learning how to grow vegetables in urban settings.
+
+<img style="width:75%" src="/images/environmental.jpg">
