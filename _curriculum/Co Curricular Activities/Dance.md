@@ -4,22 +4,26 @@ permalink: /curriculum/co-curricular-activities/dance/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-![banner-dance.jpg](/images/banner-dance.jpg)
+## Modern Dance
 
-**Teacher-in-charge**  
-Mr Elliot Ong (I/C)  
-Miss Idriaty Binte Sabari  
-Mdm Liang Yan  
-  
-**Executive Committee**  
-President: Gan Rui Tong  
-Vice President: Pixel Lee Jia Rong, Sanah Singh  
-Secretary: Belva Tan Zi Qi  
-  
-Logistics: Ian Thomas Enock, Nichole Liew Yu Xuan  
-Exco: Angel Low Qian Hui, Amruta Radhakrishnan, Kaylea Toh Le Xuan
+![banner-dance.jpg](/images/temasek%20freestylers.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F1Q4WfbnhIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Teacher-in-charge**
+
+Mr Elliot Ong (I/C)<br>
+Miss Idriaty Binte Sabari (2I/C)<br>
+Mdm Liang Yan
+
+**Executive Committee**
+
+President: Yeo Si Qi, Vivien <br>
+Upper Secondary President: Cayla Ling Kai Yi <br>
+Lower Secondary Vice President: Nichole Liew Yu Xuan <br>
+Secretary: Mavis Lim Si Man<br>
+Logistics: Sonya Fyssabyll Binte Ariffin <br>
+Assistant Logistics: Chong Huai Xin, Gail <br>
+Exco: Sanah Singh (Sec 4 Level Rep), Salazar Gianne-Maris Sayam (Sec 3 Level Rep), Putti Shravani (Sec 2 Level Rep)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F1Q4WfbnhIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ## HISTORY
 
@@ -57,4 +61,8 @@ Training is held twice a week in school. Members learn different dance technique
 *   Perform in public performances such as the Singapore Tennis Festival 2018.
 *   Participate in the Singapore Youth Festival Arts Presentation as well as in dance competitions such as Super 24.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1-gobLTtBOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1-gobLTtBOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+![](/images/modern%20dance.png)
+
+<img style="width:75%" src="/images/principal.jpg">
