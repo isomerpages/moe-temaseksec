@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Gallery of Events/Secondary 4 Normal Course Elective Modules 2020.md
       - Gallery of Events/Sec 2 Camp Culture 2020.md
       - Gallery of Events/Walk for Rice 2020.md
       - "Gallery of Events/Project #WeCare 2020.md"
