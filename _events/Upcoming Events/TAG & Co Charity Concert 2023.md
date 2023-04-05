@@ -11,9 +11,9 @@ third_nav_title: Upcoming Events
 Temasek Acappella Group presents TAG &amp; Co. Concert, the first public concert by TAG since 2019! With pop hit covers of Maroon 5, Meghan Trainor and Lady Gaga performed acappella style, the 2 hour concert promises to be an enjoyable event for all Temasekians!  
 The concert will feature exciting performances by the TMS Chinese Orchestra and the TAG Alumni!  
   
-Details of the concert are:  
-Date: 14 April 2023 (Friday)  
-Time: 7.45-9.15pm  
+Details of the concert are:  <br>
+Date: 14 April 2023 (Friday)  <br>
+Time: 7.45-9.15pm  <br>
 Venue: Tampines Festive Theatre @ Our Tampines Hub  
 Price: $6 (Free seating)  
   
