@@ -2,6 +2,8 @@ collections:
   events:
     output: true
     order:
+      - Upcoming Events/Closure of School on 22 November 2022 and Change in
+        General Office Operation Hours.md
       - Upcoming Events/Open House 2022.md
       - Upcoming Events/TAG & Co Charity Concert 2023.md
       - Upcoming Events/.keep
