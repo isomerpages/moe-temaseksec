@@ -2,6 +2,10 @@ collections:
   events:
     output: true
     order:
+      - School Calendar 2023.md
+      - Events/.keep
+      - Events/2022 Speech Day.md
+      - Events/Parents Gateway.md
       - Gallery of Events/.keep
       - Gallery of Events/Sec 1 Orientation 2023.md
       - Gallery of Events/This Is Us Concert 2022.md
@@ -46,7 +50,3 @@ collections:
       - Gallery of Events/Winners of Super24 2019.md
       - Gallery of Events/East Zone A Star Research Competition 2019.md
       - Gallery of Events/The Unity Young Writers Festival 2019.md
-      - Events/.keep
-      - Events/2022 Speech Day.md
-      - Events/Parents Gateway.md
-      - School Calendar 2023.md
