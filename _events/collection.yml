@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Gallery of Events/Student Leaders Convention 2022.md
       - Gallery of Events/SSEF 2022.md
       - Gallery of Events/Career Guidance Day 2022.md
       - Gallery of Events/This Is Us Concert 2022.md
