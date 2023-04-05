@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Upcoming Events/Open House 2022.md
       - Upcoming Events/TAG & Co Charity Concert 2023.md
       - Upcoming Events/.keep
       - School Calendar 2023.md
