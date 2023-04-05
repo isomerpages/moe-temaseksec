@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Gallery of Events/Live On Design Competition 2019.md
       - Gallery of Events/East Zone A Star Research Competition 2019.md
       - Gallery of Events/Winners of Super24 2019.md
       - Gallery of Events/Temasek Charity Challenge 2019.md
