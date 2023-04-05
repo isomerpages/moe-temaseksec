@@ -2,6 +2,25 @@ collections:
   events:
     output: true
     order:
+      - Gallery of Events/.keep
+      - "Gallery of Events/Project #WeCare 2020.md"
+      - Gallery of Events/National Day and Temasek Charity Challenge 2020.md
+      - Gallery of Events/Young Trailblazers Competition 2020.md
+      - Gallery of Events/Speech Day 2020.md
+      - Gallery of Events/AI VS Covid–19 Ideation Challenge 2020.md
+      - Gallery of Events/A Good Deed 2022.md
+      - Gallery of Events/Release of GCE–N Level Results 2020.md
+      - Gallery of Events/Release of GCE–O Level Results 2020.md
+      - Gallery of Events/Secondary 3 Outdoor Adventure Learning 2021.md
+      - Gallery of Events/40th Annual Speech Day 2021.md
+      - Gallery of Events/Release of GCE–N Level Results 2021.md
+      - Gallery of Events/Release of GCE–O Level Results 2021.md
+      - Gallery of Events/Parenting Workshop 2022.md
+      - Gallery of Events/Student Leaders Convention 2022.md
+      - Gallery of Events/SSEF 2022.md
+      - Gallery of Events/Career Guidance Day 2022.md
+      - Gallery of Events/This Is Us Concert 2022.md
+      - Gallery of Events/Sec 1 Orientation 2023.md
       - Gallery of Events/The Unity Young Writers Festival 2019.md
       - Gallery of Events/Live On Design Competition 2019.md
       - Gallery of Events/East Zone A Star Research Competition 2019.md
@@ -27,25 +46,6 @@ collections:
       - Gallery of Events/Secondary 4 Normal Course Elective Modules 2020.md
       - Gallery of Events/Sec 2 Camp Culture 2020.md
       - Gallery of Events/Walk for Rice 2020.md
-      - "Gallery of Events/Project #WeCare 2020.md"
-      - Gallery of Events/National Day and Temasek Charity Challenge 2020.md
-      - Gallery of Events/Young Trailblazers Competition 2020.md
-      - Gallery of Events/Speech Day 2020.md
-      - Gallery of Events/AI VS Covid–19 Ideation Challenge 2020.md
-      - Gallery of Events/A Good Deed 2022.md
-      - Gallery of Events/Release of GCE–N Level Results 2020.md
-      - Gallery of Events/Release of GCE–O Level Results 2020.md
-      - Gallery of Events/Secondary 3 Outdoor Adventure Learning 2021.md
-      - Gallery of Events/40th Annual Speech Day 2021.md
-      - Gallery of Events/Release of GCE–N Level Results 2021.md
-      - Gallery of Events/Release of GCE–O Level Results 2021.md
-      - Gallery of Events/Parenting Workshop 2022.md
-      - Gallery of Events/Student Leaders Convention 2022.md
-      - Gallery of Events/SSEF 2022.md
-      - Gallery of Events/Career Guidance Day 2022.md
-      - Gallery of Events/This Is Us Concert 2022.md
-      - Gallery of Events/Sec 1 Orientation 2023.md
-      - Gallery of Events/.keep
       - Events/.keep
       - Events/2022 Speech Day.md
       - Events/Parents Gateway.md
