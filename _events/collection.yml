@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Upcoming Events/Young Leaders Programme 2023 (for primary schools).md
       - Upcoming Events/Closure of School on 22 November 2022 and Change in
         General Office Operation Hours.md
       - Upcoming Events/Open House 2022.md
