@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Gallery of Events/A Good Deed 2022.md
       - Gallery of Events/Release of GCE–N Level Results 2020.md
       - Gallery of Events/Release of GCE–O Level Results 2020.md
       - Gallery of Events/Secondary 3 Outdoor Adventure Learning 2021.md
