@@ -3,8 +3,8 @@ title: Peer Support Leaders
 permalink: /student-leadership/peer-support-leaders/
 description: ""
 ---
-![](/images/Crest%20PSL.png)
-
+<img style="width:60%" src="/images/Crest%20PSL.png">
+		 
 **Teacher-in-charge**  
 
 Mdm Nur Adilah Suhaimi Salleh  <br>
