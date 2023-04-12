@@ -6,13 +6,7 @@ description: ""
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m3sv6I_7mAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
-![](/images/training%20and%20opportunities.png)
-![](/images/temasek%20charity%20challenge.png)
-
 ### LEADERSHIP @ TEMASEK
-
-3. [Leadership Training and Opportunities](/student-leadership/leadership-training-and-opportunities/)
-4. [Event: The Temasek Charity Challenge](/student-leadership/event-the-temasek-charity-challenge/)
 
 <table class="tg">
 <thead>
@@ -27,36 +21,13 @@ description: ""
 		</td><td class="tg-0lax"><a href="/student-leadership/student-leadership-development-framework/">Student Leadership Development Framework</a>
   </td></tr>
   <tr>
-    <td class="tg-0lax"><img style="width:500px" src="/images/maths.jpg"></td>
-    <td class="tg-0lax"><img style="width:500px" src="/images/science.jpg"></td>
+    <td class="tg-0lax"><img style="width:500px" src="/images/training%20and%20opportunities.png"></td>
+    <td class="tg-0lax"><img style="width:500px" src="/images/temasek%20charity%20challenge.png"></td>
   </tr>
   <tr>
-		<td class="tg-0lax"><a href="/individual-department/mathematics/">MATHEMATICS</a>
-		</td><td class="tg-0lax"><a href="/individual-department/science/">SCIENCE</a>
+		<td class="tg-0lax"><a href="/student-leadership/leadership-training-and-opportunities/">Leadership Training and Opportunities</a>
+		</td><td class="tg-0lax"><a href="/student-leadership/event-the-temasek-charity-challenge/">Event: The Temasek Charity Challenge</a>
   </td></tr>
-  <tr>
-    <td class="tg-0lax"><img style="width:500px" src="/images/humanities.jpg"></td>
-    <td class="tg-0lax"><img style="width:500px" src="/images/crafttech.jpg"></td>
-  </tr>
-  <tr>
-		<td class="tg-0lax"><a href="/individual-department/humanities/">HUMANITIES</a>
-    </td><td class="tg-0lax"><a href="/individual-department/craft-n-technology/">CRAFT &amp; TECHNOLOGY</a>
-  </td></tr>
-  <tr>
-    <td class="tg-0lax"><img style="width:500px" src="/images/informationcomm.jpg"></td>
-    <td class="tg-0lax"><img style="width:500px" src="/images/pe.jpg"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><a href="/individual-department/ict/">INFORMATION COMMUNICATION TECHNOLOGY</a>
-    </td><td class="tg-0lax"><a href="/individual-department/physical-education/">PHYSICAL EDUCATION</a>
-  </td></tr>
-  <tr>
-    <td class="tg-0lax"><img style="width:500px" src="/images/student.jpg"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-		<td class="tg-0lax"><a href="/curriculum/character-development/">STUDENT DEVELOPMENT TEAM</a></td><td class="tg-0lax"></td>
-  </tr>
 </tbody>
 </table>
 
