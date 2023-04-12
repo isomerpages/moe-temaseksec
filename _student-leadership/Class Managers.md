@@ -3,8 +3,8 @@ title: Class Managers
 permalink: /student-leadership/class-managers/
 description: ""
 ---
-![](/images/Crest%20CM.png)
-
+<img style="width:60%" src="/images/Crest%20CM.png">
+		 
 **Teacher-in-charge**  
 
 Ms Lok Teng Ping  <br>
