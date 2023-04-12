@@ -33,15 +33,6 @@ description: ""
 
 ### 5 LEADERSHIP GROUPS &amp; STUDENT REP COMMITTEE
 
-![](/images/sports%20captain.png)
-![](/images/class%20manager.png)
-![](/images/young%20ambassadors.png)
-![](/images/student%20representative%20committee.png)
-3. [Sports Captains](/student-leadership/sports-captains/)
-4. [Class Managers](/student-leadership/class-managers/)
-5. [Young Ambassadors](/student-leadership/young-ambassadors/)
-6. [Student Representative Committee](/student-leadership/student-representative-committee/)
-
 <table class="tg">
 <thead>
   <tr>
@@ -55,20 +46,20 @@ description: ""
 		</td><td class="tg-0lax"><a href="/student-leadership/peer-support-leaders/">Peer Support Leaders</a>
   </td></tr>
   <tr>
-    <td class="tg-0lax"><img style="width:500px" src="/images/training%20and%20opportunities.png"></td>
-    <td class="tg-0lax"><img style="width:500px" src="/images/temasek%20charity%20challenge.png"></td>
+    <td class="tg-0lax"><img style="width:500px" src="/images/sports%20captain.png"></td>
+    <td class="tg-0lax"><img style="width:500px" src="/images/class%20manager.png"></td>
   </tr>
   <tr>
-		<td class="tg-0lax"><a href="/student-leadership/leadership-training-and-opportunities/">Leadership Training and Opportunities</a>
-		</td><td class="tg-0lax"><a href="/student-leadership/event-the-temasek-charity-challenge/">Event: The Temasek Charity Challenge</a>
+		<td class="tg-0lax"><a href="/student-leadership/sports-captains/">Sports Captains</a>
+		</td><td class="tg-0lax"><a href="/student-leadership/class-managers/">Class Managers</a>
   </td></tr>
 	<tr>
-    <td class="tg-0lax"><img style="width:500px" src="/images/training%20and%20opportunities.png"></td>
-    <td class="tg-0lax"><img style="width:500px" src="/images/temasek%20charity%20challenge.png"></td>
+    <td class="tg-0lax"><img style="width:500px" src="/images/young%20ambassadors.png"></td>
+    <td class="tg-0lax"><img style="width:500px" src="/images/student%20representative%20committee.png"></td>
   </tr>
   <tr>
-		<td class="tg-0lax"><a href="/student-leadership/leadership-training-and-opportunities/">Leadership Training and Opportunities</a>
-		</td><td class="tg-0lax"><a href="/student-leadership/event-the-temasek-charity-challenge/">Event: The Temasek Charity Challenge</a>
+		<td class="tg-0lax"><a href="/student-leadership/young-ambassadors/">Young Ambassadors</a>
+		</td><td class="tg-0lax"><a href="/student-leadership/student-representative-committee/">Student Representative Committee</a>
   </td></tr>
 </tbody>
 </table>
