@@ -3,7 +3,7 @@ title: Peer Support Leaders
 permalink: /student-leadership/peer-support-leaders/
 description: ""
 ---
-<img style="width:60%" src="/images/Crest%20PSL.png">
+<img style="width:40%" src="/images/Crest%20PSL.png">
 		 
 **Teacher-in-charge**  
 
