@@ -13,58 +13,7 @@ Each level is overseen by the Year Head Team and the Discipline Committee, that 
 
   
 
-CONTACT LIST
-------------
-
-Mrs Audrey Ho (Year Head/ Upper Sec)
-
-<a href="mailto:audrey_ho@moe.edu.sg">audrey_ho@moe.edu.sg</a>
-
-Mr V. Chandramohan (Year Head/ Lower Sec)
-
-<a href="mailto:vendasalam_chandramohan@moe.edu.sg">vendasalam_chandramohan</a>
-
-Mr Jared Oh (HOD/ Student Leadership &amp; Aesthetics)
-
-<a href="mailto:jared_oh@moe.edu.sg">jared_oh@moe.edu.sg</a>  
-  
-Ms Jocelyn Woo (HOD/&nbsp;Character &amp; Citizenship Education) (covering)
-
-<a href="mailto:woo_mei_xian_jocelyn@moe.edu.sg">woo_mei_xian_jocelyn</a>
-  
-Mr Alex Chua (SH/ Discipline)  
-				 
-<a href="mailto:chua_ghee_soon@moe.edu.sg">chua_ghee_soon@moe.edu.sg</a>
-  
-Ms Lok Teng Ping (SH/ Student Leadership) (covering)  
-
-	 
-<a href="mailto:teng_ping_lok@moe.edu.sg">teng_ping_lok@moe.edu.sg</a>
-  
-Mr Lim Wei Ming (Asst. Year Head/ Lower Sec)  
-
-
-<a href="mailto:lim_wei_ming@moe.edu.sg">lim_wei_ming@moe.edu.sg</a>
-  
-Miss Nurul Huda Mohd Kamarulzaman (Asst. Year Head/ Upper Sec)  
-
-<a href="mailto:nurul_huda_mohd_kamarulzaman@moe.edu.sg">nurul_huda_mohd_kamarulzaman@moe.edu.sg</a>  
-  
-Mrs Lalitha Kok Koon Leong&nbsp;(School Counsellor)  
-
-<a href="mailto:lalitha_kok_koon_leong@moe.edu.sg">lalitha_kok_koon_leong@moe.edu.sg</a>
-  
-Miss Imesha Gracel Fernando&nbsp;(School Counsellor)  
-
-<a href="mailto:imesha_gracel_fernando@moe.edu.sg">imesha_gracel_fernando@moe.edu.sg</a>
-  
-Madam Nur Khairunnisa Abdul Rahim&nbsp;(Allied Educator for Learning &amp; Behavioural Support)  
-
-<a href="mailto:nur_khairunnisa_a_rahim@moe.edu.sg">nur_khairunnisa_a_rahim@moe.edu.sg</a>  
-  
-Ms Siti Raudhah (ECG Counsellor)  
-
-<a href="mailto:siti_raudhah_sukri@moe.edu.sg">siti_raudhah_sukri@moe.edu.sg</a>
+### CONTACT LIST
 
 
 <img style="width:50%" src="/images/sdt%20counselling.jpg">
