@@ -3,7 +3,7 @@ title: Student Representative Committee
 permalink: /student-leadership/student-representative-committee/
 description: ""
 ---
-![](/images/Crest%20SRC.png)
+<img style="width:60%" src="/images/Crest%20SRC.png">
 
 **Teacher-in-charge**  
 
