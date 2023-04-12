@@ -3,7 +3,7 @@ title: Young Ambassadors
 permalink: /student-leadership/young-ambassadors/
 description: ""
 ---
-<img style="width:60%" src="/images/Crest%20YA.png">
+<img style="width:40%" src="/images/Crest%20YA.png">
 
 **Teacher-in-charge**  
 
