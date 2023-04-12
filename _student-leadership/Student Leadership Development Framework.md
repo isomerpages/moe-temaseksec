@@ -5,7 +5,7 @@ description: ""
 ---
 LEAD@TMS is guided by the Student Leadership Development Framework that helps the Student Leadership Committee to bear in mind key pillars that would shape the way we plan and enable student leadership development.
 
-<img style="width:70%" src="/images/sliFramework.png">
+<img style="width:60%" src="/images/sliFramework.png">
 
 School Values of T-EPIC refer to the values of Teamwork, Excellence in Performance, Integrity and Care to be nurtured in every student.  
   
