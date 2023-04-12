@@ -3,7 +3,7 @@ title: Student Councillors
 permalink: /student-leadership/student-councillors/
 description: ""
 ---
-![](/images/Crest%20SCL.png)
+<img style="width:60%" src="/images/Crest%20SCL.png">
 
 **Teacher-in-charge**  
 
