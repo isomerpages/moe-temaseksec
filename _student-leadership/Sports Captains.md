@@ -3,8 +3,8 @@ title: Sports Captains
 permalink: /student-leadership/sports-captains/
 description: ""
 ---
-![](/images/Crest%20SCP.png)
-
+<img style="width:60%" src="/images/Crest%20SCP.png">
+		 
 **Teacher-in-charge**  
 
 Mr Viswanath Singgaravello  <br>
