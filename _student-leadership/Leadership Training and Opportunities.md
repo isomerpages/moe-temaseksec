@@ -91,7 +91,7 @@ These extensive opportunities are provided across three levels: Class, CCA and S
 
 These leadership opportunities can be broadly categorised into different tiers.
 
-![](/images/Levels.png)
+<img style="width:60%" src="/images/Levels.png">
 
 **Situational Leaders**&nbsp;are appointed to exercise leadership at the class level. These include leaders who are appointed by the class (e.g. subject representatives, VIA Leaders) or students who want to lead in their own projects (e.g. LEAD Character Leaders). They could also exercise their leadership skills through participation in competitions, project work and group work, which are regular features in the classroom. Students are encouraged to present their ideas to their teachers and peers to build confidence as well as to hone their oratorical skills.  
   
