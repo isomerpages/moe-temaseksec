@@ -4,17 +4,17 @@ permalink: /prospective-students/direct-school-admission/information/
 description: ""
 third_nav_title: Direct school admission
 ---
-## DSA E-OPEN HOUSE 2022 (CLOSED)
+## DSA E-OPEN HOUSE 2023
 
+![](/images/dsa%20outreach%20banner.jpeg)
 
-![DSA Open House Banner 1.png](/images/DSA%20Open%20House%20Banner%201.png)  
 Find out more about Temasek Secondary School's DSA opportunities in  
 
-*   [Choir]
-*   [Dance]
-*   [Drama]
-*   [Shooting]
-*   [Student Leadership]
+*   Choir
+*   Dance
+*   Drama
+*   Shooting
+*   Student Leadership
 
 **NOTE: All links are not found**
   
