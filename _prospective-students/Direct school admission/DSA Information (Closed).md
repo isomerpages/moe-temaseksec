@@ -18,7 +18,7 @@ Find out more about Temasek Secondary School's DSA opportunities in
   
 Our students and student leaders will share with you what it means to be in a DSA CCA/leadership group!  
   
-Date:&nbsp;**12 May 2022 (Fri)**  
+Date:&nbsp;**12 May 2023 (Fri)**  
 Time:&nbsp;**7.00-8.00 pm**  
 
 Please register [here.](https://tinyurl.com/2023TMS-DSA-OpenHouse-Regn)  
