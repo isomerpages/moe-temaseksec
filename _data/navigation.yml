@@ -4,7 +4,7 @@ links:
     collection: about-us
   - title: Curriculum
     collection: curriculum
-  - title: CO-CURRICULUM
+  - title: Co-Curriculum
     url: /co-curriculum/temasek-experience/
     sublinks:
       - title: Temasek Experience
@@ -15,9 +15,9 @@ links:
         url: /co-curriculum/sexuality-education-2023/
       - title: Student Leadership (LEAD@TMS)
         url: /co-curriculum/student-leadership-lead-tms/
-  - title: PROSPECTIVE STUDENTS
+  - title: Prospective Students
     collection: prospective-students
-  - title: EVENTS
+  - title: Events
     collection: events
-  - title: TMS FAMILY
+  - title: TMS Family
     collection: tms-family
