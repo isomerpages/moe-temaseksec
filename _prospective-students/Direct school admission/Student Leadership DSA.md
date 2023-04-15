@@ -14,7 +14,7 @@ Find out more about the school's leadership programme&nbsp;[here](https://temase
 
 ### DSA Audition details:
 
-**Audition period:**&nbsp;27 June 2022 – 12 September 2022
+**Audition period:**&nbsp;26 June 2023 – 11 September 2023
 
 **Venue:**&nbsp;Temasek Secondary School
 
