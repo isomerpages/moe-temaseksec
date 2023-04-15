@@ -14,7 +14,7 @@ Our shooters compete annually in the National School Games Shooting Championship
 
 ### DSA Trial details:
 
-**Trial**&nbsp;**period:**&nbsp;27 June 2022 - 12 September 2022
+**Trial**&nbsp;**period:**&nbsp;26 June 2023 - 11 September 2023
 
 **Venue:**&nbsp;Temasek Secondary School Shooting Range
 
