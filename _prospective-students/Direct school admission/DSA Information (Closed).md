@@ -4,7 +4,7 @@ permalink: /prospective-students/direct-school-admission/information/
 description: ""
 third_nav_title: Direct school admission
 ---
-## DSA E-OPEN HOUSE 2023
+## DSA ONLINE OUTREACH 2023
 
 ![](/images/dsa%20outreach%20banner.jpeg)
 
