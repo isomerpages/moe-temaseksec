@@ -17,7 +17,7 @@ Besides training twice a week, the members also get together for drama appreciat
 
 ### DSA Audition details:
 
-**Audition period:**&nbsp;27 June 2022 – 12 September 2022
+**Audition period:**&nbsp;26 June 2023 – 11 September 2023
 
 **Venue:**&nbsp;Temasek Secondary School&nbsp;
 
