@@ -14,7 +14,7 @@ Beginning as part of the Music and Dance Club in 1990 and having performed in mu
 
 ### DSA Audition details:
 
-&nbsp;**Audition period:**&nbsp;27 June 2022 – 12 September 2022
+&nbsp;**Audition period:**&nbsp;26 June 2023 – 11 September 2023
 
 **Venue:**&nbsp;Temasek Secondary School
 
