@@ -12,9 +12,9 @@ With a comprehensive leadership development training programme and a numerous le
 Find out more about the school's leadership programme&nbsp;[here](https://temaseksec.moe.edu.sg/co-curriculum/student-leadership-lead-at-tms).  
   
 
-### DSA Audition details:
+### DSA Interview details:
 
-**Audition period:**&nbsp;26 June 2023 – 11 September 2023
+**Interview period:**&nbsp;26 June 2023 – 11 September 2023
 
 **Venue:**&nbsp;Temasek Secondary School
 
