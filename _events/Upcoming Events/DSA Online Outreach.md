@@ -4,7 +4,7 @@ permalink: /events/upcoming-events/permalink/
 description: ""
 third_nav_title: Upcoming Events
 ---
-
+# DSA Online Outreach 2023
 ![](/images/dsa%20outreach%20banner.jpeg)
 
 Find out more about Temasek Secondary School's DSA opportunities in  
