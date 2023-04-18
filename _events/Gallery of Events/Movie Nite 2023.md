@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Gallery of Events
 ---
 # Movie Nite 2023
+
 It's the end of the Term 1 and it's time to give everyone a well deserved break together AND do our part for charity!
 
 Temasek Secondary School held Movie Nite: Jumanji with a time filled with friends, food and fun!
