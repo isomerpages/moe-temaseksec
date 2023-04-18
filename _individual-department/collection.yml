@@ -1,0 +1,12 @@
+collections:
+  individual-department:
+    output: true
+    order:
+      - English Language & Literature in English.md
+      - Mother Tongue Languages.md
+      - Mathematics.md
+      - Science.md
+      - Humanities.md
+      - Craft & Technology.md
+      - Information Communication Technology.md
+      - Physical Education.md

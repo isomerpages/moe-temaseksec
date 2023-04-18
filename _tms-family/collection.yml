@@ -1,0 +1,29 @@
+collections:
+  tms-family:
+    output: true
+    order:
+      - Parents/.keep
+      - Parents/Parents Support Group.md
+      - Parents/Parenting Workshop.md
+      - Student Matters/.keep
+      - Student Matters/General Information.md
+      - Student handbook/.keep
+      - Student handbook/Expectations of a Student.md
+      - Student handbook/School Rules.md
+      - Student handbook/Mobile Phone Policy.md
+      - Student handbook/Offences.md
+      - Student handbook/Conduct Grade.md
+      - Student handbook/School Safety.md
+      - Student handbook/Library, Media & Computer Use.md
+      - Student handbook/Locker Use Policy.md
+      - Student handbook/Charging of Personal Learning Devices (PLDs) in Temasek
+        Secondary School.md
+      - Student handbook/Acceptable Use Policy.md
+      - Student handbook/Examination Rules & Regulations.md
+      - Student handbook/Additional Pathways for Sec 4 Normal (Academic)
+        Graduates.md
+      - Student handbook/Subject Combinations.md
+      - Student handbook/Assessment Policy.md
+      - Student handbook/CCA Matters.md
+      - TMS & Alumni Facebook Link.md
+      - Links.md

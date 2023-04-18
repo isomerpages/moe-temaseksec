@@ -1,0 +1,7 @@
+collections:
+  co-curriculum:
+    output: true
+    order:
+      - Temasek Experience.md
+      - CHARACTER & CITIZENSHIP EDUCATION (CCE).md
+      - Sexuality Education 2023.md

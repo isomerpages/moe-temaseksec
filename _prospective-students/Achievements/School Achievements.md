@@ -1,0 +1,40 @@
+---
+title: School Achievements
+permalink: /prospective-students/tms-in-a-nutshell/achievements/school-achievements/
+description: ""
+third_nav_title: Achievements
+---
+### **Special Award**
+
+School Distinction Award (since 2005)  <br>
+Lee Hsien Loong Award for Innovations in the Normal Course
+
+  
+
+### **Level Two Awards**
+
+Best Practice Award (Teaching and Learning)  <br>
+Best Practice Award (Student All-Round Development)  <br>
+Best Practice Award (Staff Well-Being)  <br>
+Outstanding Development Award (Character Development)  <br>
+Outstanding Development Award (National Education)  <br>
+Achievement Award (Academic Value Added) (Special/Express)  <br>
+Achievement Award (Academic Value Added) (Normal)
+
+  
+
+### **Others**
+
+Singapore Quality Class STAR  <br>
+CHERISH Award – Silver  <br>
+Green Audit Award (Lotus)
+
+  
+
+### Best Practice Award (Student All Round Development)
+
+“Every Temasekian, A Caring Leader” articulates not merely the Pupil Development (PD) Vision, but a deep belief espoused by teachers that the ultimate, yet achievable, expression of excellent character is a caring leader. Guided by the SPIN (Self-Peer-Institution-Nation) model, all students undergo a journey of growth in personal mastery and leadership through a 4-year leadership course, a key enabler to empower students with the know-how to care for, take charge and succeed in their academic and character pursuits. Complemented by pervasive opportunities to apply learning, all students are given leadership platforms like Service Learning and student-initiated projects. Students who demonstrate potential and interest, are further developed to lead as CCA leaders and/or in one of five student leadership groups. Student leaders have more than 50 other school-level platforms where they receive close teacher mentorship.
+
+Teachers’ roles have consequently evolved to facilitate learning of values and SEL competencies through authentic tasks with real responsibilities. Leadership as a milestone of character development is, thus, a shared and compelling vision that teachers pursue through well-integrated structures and processes which are continuously refined using various assessment and review instruments.
+
+For more information on how student leadership development can be pursued as part of character building and how Temasek Secondary can be of support to your school in this development journey, please contact Mr Jared Oh, HOD/Pupil Development, at&nbsp;[jared\_oh@moe.edu.sg](mailto:jared_oh@moe.edu.sg). We hope to be able to support up to 2 schools each year through a hand-holding and close mentoring arrangement.
