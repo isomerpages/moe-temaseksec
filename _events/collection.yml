@@ -2,7 +2,7 @@ collections:
   events:
     output: true
     order:
-      - Upcoming Events/DSA Online Outreach.md
+      - Upcoming Events/DSA Online Outreach 2023.md
       - Upcoming Events/.keep
       - Upcoming Events/TAG & Co Charity Concert 2023.md
       - Upcoming Events/Young Leaders Programme 2023 (for primary schools).md
