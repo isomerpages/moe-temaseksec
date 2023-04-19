@@ -1,5 +1,5 @@
 collections:
-  tms-family:
+  temasek-family:
     output: true
     order:
       - Parents/.keep
