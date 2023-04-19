@@ -18,7 +18,7 @@ sections:
       title: I am Temasek
   - infopic:
       title: Yearbook 2022
-      subtitle: read more
+      subtitle: READ MORE
       button: I am temasek
       url: https://online.fliphtml5.com/cjnla/yfaa/#p=1
       image: /images/c0e4dcace_4846.png
