@@ -1,5 +1,5 @@
 collections:
-  tmsa-family:
+  tms-family:
     output: true
     order:
       - Parents/.keep
