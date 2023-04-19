@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: 2023 DSA Online Outreach
           description: Important Information
-          url: /prospective-students/direct-school-admissions/DSA-online-outreach
+          url: /prospective-students/direct-school-admissions/DSA-information-(2023)
         - title: Latest News
           description: School Calender 2023
           url: /events/school-calendar/
