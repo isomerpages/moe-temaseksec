@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/7a68f217b_1077.jpg
       key_highlights:
-        - title: 2023 sec 1 e-registration
+        - title: 2023 DSA Online Outreach
           description: Important Information
           url: /events/events/2023-sec-1-e-registration/
         - title: Latest News
