@@ -9,16 +9,16 @@ sections:
   - hero:
       background: /images/7a68f217b_1077.jpg
       key_highlights:
-        - title: 2023 sec 1 e-registration
+        - title: 2023 DSA Online Outreach
           description: Important Information
-          url: /events/events/2023-sec-1-e-registration/
+          url: /prospective-students/direct-school-admission/information/
         - title: Latest News
           description: School Calender 2023
           url: /events/school-calendar/
       title: I am Temasek
   - infopic:
       title: Yearbook 2022
-      subtitle: read more
+      subtitle: READ MORE
       button: I am temasek
       url: https://online.fliphtml5.com/cjnla/yfaa/#p=1
       image: /images/c0e4dcace_4846.png
