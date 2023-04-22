@@ -13,7 +13,7 @@ All members uphold a common goal to develop a lifelong love for singing and abid
 
 | YEAR | EVENT | AWARD |
 | -------- | -------- | -------- |
-| 2023    | Singapore Youth Festival Arts Presentation | To Be Confirmed |
+| 2023    | Singapore Youth Festival Arts Presentation | Accomplishment |
 | 2021    | Singapore Youth Festival Arts Presentation | Non-Adjudicated |
 | 2019    | Singapore Youth Festival Arts Presentation | Distinction |
 | 2017    | Singapore Youth Festival Arts Presentation | Distinction |
