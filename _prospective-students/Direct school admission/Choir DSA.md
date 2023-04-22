@@ -33,20 +33,3 @@ All members uphold a common goal to develop a lifelong love for singing and abid
 | 2017   | Voices of Singapore Festival    |   CHIJMES  |
 | 2016    | Voices of Singapore Festival    |   CHIJMES  |
 | 2016    | Limelight  |   Esplanade  |
-
-### DSA Audition details:
-
-&nbsp;**Audition period:**&nbsp;26 June 2023 – 11 September 2023
-
-**Venue:**&nbsp;Temasek Secondary School
-
-
-| DSA Category | Pre-requisite | Audition / Trial Preparation |
-| -------- | -------- | -------- |
-| Choir     | Applicants should be able to:     | Text     |
-|    |· demonstrate a passion for choral singing.    |· be in primary school uniform.    |
-|    |· enjoy performing in front of an audience.|· be prepared to sing from one choral piece of music (in any voice part) of your choice.|
-|    |· appreciate working as part of a team.|· be prepared to sing major and harmonic minor scales and arpeggios.|
-|    |·&nbsp;train twice a week, and participate in additional training sessions nearing competitions.|· be prepared to echo sing a tune          |
-|    |·&nbsp;have prior experience singing in a school or external choir preferably.|· be able to clap to a rhythm.
-|
