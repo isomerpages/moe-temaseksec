@@ -17,16 +17,16 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href="/student-leadership/philosophy-and-desired-outcomes/">Philosophy and Desired Outcomes</a>
-		</td><td class="tg-0lax"><a href="/student-leadership/student-leadership-development-framework/">Student Leadership Development Framework</a>
+    <td class="tg-0lax"><a href="/student-leadership/philosophy-and-desired-outcomes/">PHILOSOPHY AND DESIRED OUTCOMES</a>
+		</td><td class="tg-0lax"><a href="/student-leadership/student-leadership-development-framework/">STUDENT LEADERSHIP DEVELOPMENT FRAMEWORK</a>
   </td></tr>
   <tr>
     <td class="tg-0lax"><img style="width:500px" src="/images/training%20and%20opportunities.png"></td>
     <td class="tg-0lax"><img style="width:500px" src="/images/temasek%20charity%20challenge.png"></td>
   </tr>
   <tr>
-		<td class="tg-0lax"><a href="/student-leadership/leadership-training-and-opportunities/">Leadership Training and Opportunities</a>
-		</td><td class="tg-0lax"><a href="/student-leadership/event-the-temasek-charity-challenge/">Event: The Temasek Charity Challenge</a>
+		<td class="tg-0lax"><a href="/student-leadership/leadership-training-and-opportunities/">LEADERSHIP TRAINING AND OPPORTUNITIES</a>
+		</td><td class="tg-0lax"><a href="/student-leadership/event-the-temasek-charity-challenge/">EVENT: THE TEMASEK CHARITY CHALLENGE</a>
   </td></tr>
 </tbody>
 </table>
@@ -42,24 +42,24 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href="/student-leadership/student-councillors/">Student Councillors</a>
-		</td><td class="tg-0lax"><a href="/student-leadership/peer-support-leaders/">Peer Support Leaders</a>
+    <td class="tg-0lax"><a href="/student-leadership/student-councillors/">STUDENT COUNCILLORS</a>
+		</td><td class="tg-0lax"><a href="/student-leadership/peer-support-leaders/">PEER SUPPORT LEADERS</a>
   </td></tr>
   <tr>
     <td class="tg-0lax"><img style="width:500px" src="/images/sports%20captain.png"></td>
     <td class="tg-0lax"><img style="width:500px" src="/images/class%20manager.png"></td>
   </tr>
   <tr>
-		<td class="tg-0lax"><a href="/student-leadership/sports-captains/">Sports Captains</a>
-		</td><td class="tg-0lax"><a href="/student-leadership/class-managers/">Class Managers</a>
+		<td class="tg-0lax"><a href="/student-leadership/sports-captains/">SPORTS CAPTAINS</a>
+		</td><td class="tg-0lax"><a href="/student-leadership/class-managers/">CLASS MANAGERS</a>
   </td></tr>
 	<tr>
     <td class="tg-0lax"><img style="width:500px" src="/images/young%20ambassadors.png"></td>
     <td class="tg-0lax"><img style="width:500px" src="/images/student%20representative%20committee.png"></td>
   </tr>
   <tr>
-		<td class="tg-0lax"><a href="/student-leadership/young-ambassadors/">Young Ambassadors</a>
-		</td><td class="tg-0lax"><a href="/student-leadership/student-representative-committee/">Student Representative Committee</a>
+		<td class="tg-0lax"><a href="/student-leadership/young-ambassadors/">YOUNG AMBASSADORS</a>
+		</td><td class="tg-0lax"><a href="/student-leadership/student-representative-committee/">STUDENT REPRESENTATIVE COMMITTEE</a>
   </td></tr>
 </tbody>
 </table>
