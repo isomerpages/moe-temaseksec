@@ -26,8 +26,7 @@ Vice Captain (Rifle Girls): Daphne Tan, Nur Aishah Amirah Rozali<br>
 Vice Captain (Pistol Boys): Eagene Tan Yak Hun, Kyan Phua<br>
 Vice Captain (Rifle Boys): Aniq Nafiz Bin Saharudin, Sun Ruihan, Tan Wei Reng Nigel 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iuNzhEZbIT8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/VDjN-xcga4g" height="315" width="560"></iframe>
 
 ## HISTORY
 
