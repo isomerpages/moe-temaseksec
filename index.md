@@ -32,5 +32,4 @@ sections:
       alt: temasek sec n level
   - resources:
       title: Latest Announcements
-      button: Collection of SGC
 ---
