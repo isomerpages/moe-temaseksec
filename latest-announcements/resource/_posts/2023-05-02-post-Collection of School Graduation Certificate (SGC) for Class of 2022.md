@@ -15,10 +15,12 @@ Please be reminded to do your registration at the Security Guard house before en
 Please bring along your identification card/Student Pass for identity verification. For collection by proxy, please bring along the following documents,
 
 a) Candidate's Original identity card (IC)/Student Pass
+
 b) Proxy's Original Identity card
-b) An authorization letter from the Candidate furnished with the following information:
+
+c) An authorization letter from the Candidate furnished with the following information:
 -Year of Exam 
 -Exam Level (e.g 'O' Level)
 -Types of certificates (e.g School Graduation Cert)
 -Name and Identity Number of Candidate
--Name and Identity Number of Proxy 
+-Name and Identity Number of Proxy
