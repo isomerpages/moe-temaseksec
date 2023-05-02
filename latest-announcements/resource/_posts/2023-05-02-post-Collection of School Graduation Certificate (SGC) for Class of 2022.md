@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Dear Class of 2022 students, 
+Dear Class of 2022 students (Class 401 to 405, 408 &amp; 501), 
 
 You may collect your SGC folders from 3 May 2023 to 2 June 2023, Mondays to Fridays (except PH), between 9 am to 4pm from the General Office. 
 
