@@ -33,4 +33,3 @@ Beginning as part of the Music and Dance Club in 1990 and having performed in mu
 | 2018    | Siglap CC Fundraiser    | Singapore Expo     |
 | 2018    | Once Upon A Time    | Festival Arts Theatre  |
 | 2018    | Singapore Tennis Festival    | OCBC Arena     |
-
