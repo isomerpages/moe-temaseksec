@@ -16,39 +16,39 @@ For more information on this year’s DSA-Sec Exercise for Sec 1 admission for 2
 
 **DSA-Sec to Temasek Secondary School: Domains and Criteria**&nbsp;<br>
 In line with the school’s focus on holistic development to nurture leaders of Character and Intellect, we are looking for promising Primary 6 students who demonstrate talent and interest in the following:  <br>
-<table class="MsoNormalTable" border="1" cellpadding="0" width="608" style="width:456.0pt;
+<table style="width:456.0pt;
  mso-cellspacing:1.5pt;border:solid #EAEAEA 1.0pt;mso-border-alt:solid #EAEAEA .75pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="603" style="width:452.25pt;border:none;background:#B0B0B0;
-  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:21.0pt"><b><span lang="EN-US" style="font-size:12.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#111111">DSA CCA</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="border:none;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm" width="608" cellpadding="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:452.25pt;border:none;background:#B0B0B0;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt" width="603"><p style="margin-bottom:0cm;text-align:center;
+  line-height:21.0pt" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#111111" lang="EN-US">DSA CCA</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="border:none;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:18.0pt;text-indent:-18.0pt;line-height:normal;mso-list:l0 level1 lfo1;
-  tab-stops:list 36.0pt"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
-  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-US" style="font-size:12.0pt;
+  tab-stops:list 36.0pt" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222" lang="EN-US"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222">Choir</span></p><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  color:#222222" lang="EN-US">Choir</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:18.0pt;text-indent:-18.0pt;line-height:normal;mso-list:l0 level1 lfo1;
-  tab-stops:list 36.0pt"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
-  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-US" style="font-size:12.0pt;
+  tab-stops:list 36.0pt" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222" lang="EN-US"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222">Dance (Modern)</span></p><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  color:#222222" lang="EN-US">Dance (Modern)</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:18.0pt;text-indent:-18.0pt;line-height:normal;mso-list:l0 level1 lfo1;
-  tab-stops:list 36.0pt"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
-  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-US" style="font-size:12.0pt;
+  tab-stops:list 36.0pt" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222" lang="EN-US"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222">Drama (English)</span></p><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  color:#222222" lang="EN-US">Drama (English)</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:18.0pt;text-indent:-18.0pt;line-height:normal;mso-list:l0 level1 lfo1;
-  tab-stops:list 36.0pt"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
-  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-US" style="font-size:12.0pt;
+  tab-stops:list 36.0pt" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222" lang="EN-US"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222">Shooting</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="border:none;background:#B0B0B0;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:21.0pt"><b><span lang="EN-US" style="font-size:12.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#111111">DSA Student Leadership&nbsp;</span></b></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="border:none;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  color:#222222" lang="EN-US">Shooting</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="border:none;background:#B0B0B0;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p style="margin-bottom:0cm;text-align:center;
+  line-height:21.0pt" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#111111" lang="EN-US">DSA Student Leadership&nbsp;</span></b></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="border:none;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:18.0pt;text-indent:-18.0pt;line-height:normal;mso-list:l1 level1 lfo2;
-  tab-stops:list 36.0pt"><span lang="EN-US" style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
-  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-US" style="font-size:12.0pt;
+  tab-stops:list 36.0pt" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222" lang="EN-US"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#222222">Student Leadership&nbsp;</span></p></td></tr></tbody></table>
+  color:#222222" lang="EN-US">Student Leadership&nbsp;</span></p></td></tr></tbody></table>
 
 Successful applicants will be enrolled in Temasek Secondary School in January 2024. <br>
 
@@ -62,10 +62,49 @@ Students will be assessed on their ability in the talent and leadership areas so
 
 * Passion for life and learning
 
-  
-  
 
 \*Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+
+ 
+## Important dates to note
+
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="103%" style="width:103.0%;border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0cm 0cm 0cm 0cm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:20.2pt"><td width="306" valign="top" style="width:229.7pt;padding:0cm 0cm 0cm 0cm;
+  height:20.2pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#111111;mso-ansi-language:EN-SG">DSA Application</span></b><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#111111"></span></p></td><td width="583" valign="top" style="width:436.9pt;padding:0cm 0cm 0cm 0cm;
+  height:20.2pt"><p class="MsoNormal" style="margin-bottom:2.0pt;line-height:normal"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">4 May 2023 (Thurs), 11am</span></p><p class="MsoNormal" style="margin-bottom:2.0pt;line-height:normal"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">31 May 2023 (Wed), 3pm</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:22.5pt"><td width="306" valign="top" style="width:229.7pt;padding:0cm 0cm 0cm 0cm;
+  height:22.5pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#111111;mso-ansi-language:EN-SG">Audition &amp; Trial (CCA)</span></b><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#111111"></span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#111111;mso-ansi-language:EN-SG">Selection Test (Student Leadership)</span></b><span lang="EN-US" style="font-size:12.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#111111"></span></p></td><td width="583" valign="top" style="width:436.9pt;padding:0cm 0cm 0cm 0cm;
+  height:22.5pt"><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;line-height:
+  21.0pt"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:#111111;background:white">26 June 2023 (Mon) to 29 August 2023 (Tues)</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#111111;mso-ansi-language:EN-SG"></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#111111;mso-ansi-language:EN-SG"></span></p><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;line-height:
+  21.0pt"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#111111;mso-ansi-language:
+  EN-SG">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;line-height:
+  15.0pt"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#111111;mso-ansi-language:
+  EN-SG">(Only shortlisted applicants will be notified via email of the date and time to attend the audition/trial/selection test via email)</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#111111"></span></p><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;line-height:
+  21.0pt"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:#111111;background:white">Shortlisted candidates for the auditions/trials will be informed by email&nbsp;<u>no later than 28 July 2023.</u></span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#111111"></span></p></td></tr></tbody></table>
+
+## Information and Application
+
+Details on the DSA-Sec exercise and application process can be found below:
+
+·&nbsp;&nbsp;&nbsp;&nbsp;[Application Process and Timeline (Flowchart)](/files/application%20process%20%20for%20%20dsa%20sec%201%20admission%202024.pdf)
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Frequently Asked Questions (FAQ)](/files/faqs%20for%20dsa-secondary%20exercise%202023.pdf)
+
+For further enquiries, please contact Miss Kamilah at 6449 5020 (General Office) or email to&nbsp;[**temasek\_ss@moe.edu.sg**](mailto:kamilah_zahri@moe.edu.sg).&nbsp;Kindly indicate “DSA 2023 Application Enquiry” in your email subject.
 
 
 ## DSA ONLINE OUTREACH 2023
@@ -87,4 +126,4 @@ Time:&nbsp;**7.00-8.00 pm**
 
 Please register [here.](https://tinyurl.com/2023TMS-DSA-OpenHouse-Regn)  
   
-<img src="/images/qr.jpg" style="width:60%"> <br>
+<img style="width:60%" src="/images/qr.jpg"> <br>
