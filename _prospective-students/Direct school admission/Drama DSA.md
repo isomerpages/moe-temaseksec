@@ -15,7 +15,17 @@ Besides training twice a week, the members also get together for drama appreciat
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
+| YEAR | EVENT | AWARD |
+| -------- | -------- | -------- |
+| 2023    | Singapore Youth Festival Arts Presentation | Accomplishment |
+| 2021    | Singapore Youth Festival Arts Presentation | Distinction |
+| 2019    | Singapore Youth Festival Arts Presentation | Accomplishment |
+| 2017    | Singapore Youth Festival Arts Presentation | Distinction |
+| 2017    | Destination Imagination | 2nd Placing |
+| 2016    | Destination Imagination | Champions |
+| 2015    | Singapore Youth Festival Arts Presentation | Distinction |
+| 2014    | Destination Imagination | 3rd Placing |
+|   . |   |  || Text     | Text     | Text     |
 
 
 
