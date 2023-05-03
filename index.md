@@ -30,4 +30,6 @@ sections:
         their journey!
       image: /images/ab11ee064_4843.png
       alt: temasek sec n level
+  - resources:
+      title: Latest Announcements
 ---
