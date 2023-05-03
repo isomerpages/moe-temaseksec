@@ -34,9 +34,9 @@ All members uphold a common goal to develop a lifelong love for singing and abid
 | 2016    | Voices of Singapore Festival    |   CHIJMES  |
 | 2016    | Limelight  |   Esplanade  |
 
-<br>
-   ### DSA Audition details: <br> 
-	 
+
+### DSA Audition details:
+
 **Audition period:** 26 June 2023 – 11 September 2023
 	 
 **Venue:** Temasek Secondary School
