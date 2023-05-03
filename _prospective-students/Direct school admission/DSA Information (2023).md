@@ -23,4 +23,5 @@ Time:&nbsp;**7.00-8.00 pm**
 
 Please register [here.](https://tinyurl.com/2023TMS-DSA-OpenHouse-Regn)  
   
-<img style="width:60%" src="/images/qr.jpg">
+<img style="width:60%" src="/images/qr.jpg"> <br>
+
