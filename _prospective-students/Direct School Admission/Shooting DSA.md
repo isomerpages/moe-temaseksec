@@ -39,4 +39,3 @@ Our shooters compete annually in the National School Games Shooting Championship
 |       |   Air Rifle Men (B Div) Indiv   |   5th   |
 |      |   Air Rifle Men (B Div) Indiv   |   7th   |
 | .     |      |       |
-
