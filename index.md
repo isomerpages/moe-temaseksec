@@ -25,10 +25,8 @@ sections:
       alt: Image alt text
   - infopic:
       title: Speech Day 2023
-      description: Temasek congratulates the N level Class oc 2022 for their excellent
-        results and wish them all the best as they move on to the next phase of
-        their journey!
       alt: temasek sec n level
+      image: /images/tms 42nd speech day.jpeg
   - resources:
       title: Latest Announcements
 ---
