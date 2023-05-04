@@ -24,11 +24,10 @@ sections:
       image: /images/c0e4dcace_4846.png
       alt: Image alt text
   - infopic:
-      title: N Level Results 2022
+      title: Speech Day 2023
       description: Temasek congratulates the N level Class oc 2022 for their excellent
         results and wish them all the best as they move on to the next phase of
         their journey!
-      image: /images/ab11ee064_4843.png
       alt: temasek sec n level
   - resources:
       title: Latest Announcements
