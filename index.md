@@ -23,10 +23,6 @@ sections:
       url: https://online.fliphtml5.com/cjnla/yfaa/#p=1
       image: /images/c0e4dcace_4846.png
       alt: Image alt text
-  - infopic:
-      title: Speech Day 2023
-      alt: temasek sec n level
-      image: /images/tms 42nd speech day.jpeg
   - resources:
       title: Latest Announcements
 ---
