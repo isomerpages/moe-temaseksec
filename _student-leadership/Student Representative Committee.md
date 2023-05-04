@@ -42,4 +42,6 @@ Anything-But-A-Bag Day
 
 Chinese New Year Celebrations
 
+![](/images/2019%20Dialogue%20Session.png)
+
 ![](/images/student%20rep%20committee.jpg)
