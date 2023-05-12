@@ -30,7 +30,9 @@ DSA Student Leaders, like all students, will be assigned a CCA during the CCA Tr
 
 Student Leaders have timetabled time to have meetings every Monday from 4.00-6.00pm to allow them to have time to be mentored, trained and plan for events. Student Leaders will also have opportunities to attend training camps and days throughout the year.
 Student Leaders will be expected to organise and facilitate events that they are in charge of.
+
 Do take a look at the LEAD@TMS to have an idea of some events each leadership group will run.
+https://www.temaseksec.moe.edu.sg/co-curriculum/student-leadership-lead-tms/
 
 ##### 3. What are the requirements for a student to apply for DSA Student Leadership? Must an applicant have any student leadership experience (e.g. Prefect, Class Monitor) to apply for DSA Student Leadership?
 
