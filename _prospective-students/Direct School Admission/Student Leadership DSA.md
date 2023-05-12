@@ -47,3 +47,7 @@ https://www.todayonline.com/singapore/direct-school-admission-exercise-cap-raise
 From 2024, there will be no more streams. All applicants will be assigned a posting group based on the PSLE results.
 As our school offers all three posting groups, a child who is offered a place via DSA will have a place in Temasek Secondary School.
 https://www.channelnewsasia.com/singapore/secondary-school-subject-based-banding-posting-groups-form-classes-3311176
+
+##### 6. If a child is accepted into Temasek Secondary School via DSA, will he be in TIP (Temask Ignis Programme)?
+
+TIP is a distinct programme in the school that complements LEAD@TMS. DSA students will need to apply for TIP when applications are open in Semester 1, just like all other students.
