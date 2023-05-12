@@ -107,7 +107,7 @@ Details on the DSA-Sec exercise and application process can be found below:
 For further enquiries, please contact Miss Kamilah at 6449 5020 (General Office) or email to&nbsp;[**temasek\_ss@moe.edu.sg**](mailto:kamilah_zahri@moe.edu.sg).&nbsp;Kindly indicate “DSA 2023 Application Enquiry” in your email subject.
 
 
-## DSA ONLINE OUTREACH 2023
+## DSA Outline Outreach 2023 (Closed)
 
 ![](/images/dsa%20outreach%20banner.jpeg)
 
@@ -121,9 +121,9 @@ Find out more about Temasek Secondary School's DSA opportunities in
   
 Our students and student leaders will share with you what it means to be in a DSA CCA/leadership group!  
   
-Date:&nbsp;**12 May 2023 (Fri)**  
+Date:&nbsp;**12 May 2023 (Fri) (Closed)**  
 Time:&nbsp;**7.00-8.00 pm**  
 
-Please register [here.](https://tinyurl.com/2023TMS-DSA-OpenHouse-Regn)  
+Please register [here.](https://tinyurl.com/2023TMS-DSA-OpenHouse-Regn)  (Closed)
   
 <img style="width:60%" src="/images/qr.jpg"> <br>
