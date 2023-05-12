@@ -34,8 +34,7 @@ Student Leaders will be expected to organise and facilitate events that they are
 Do take a look at the LEAD@TMS to have an idea of some events each leadership group will run.
 https://www.temaseksec.moe.edu.sg/co-curriculum/student-leadership-lead-tms/
 
-##### 3. What are the requirements for a student to apply for DSA Student Leadership?
-##### Must an applicant have any student leadership experience (e.g. Prefect, Class Monitor, CCA Leader, etc.) to apply for DSA Student Leadership?
+##### 3. What are the requirements for a student to apply for DSA Student Leadership?  Must an applicant have any student leadership experience (e.g. Prefect, Class Monitor, CCA Leader, etc.) to apply for DSA Student Leadership?
 
 There are no hard requirements: Applicants ***do not need to have a leadership role*** to be considered for DSA Leadership. However, having leadership experience will be beneficial as it will help the applicant be able to perform better during the task assessment.
 
