@@ -36,7 +36,9 @@ https://www.temaseksec.moe.edu.sg/co-curriculum/student-leadership-lead-tms/
 
 ##### 3. What are the requirements for a student to apply for DSA Student Leadership? Must an applicant have any student leadership experience (e.g. Prefect, Class Monitor) to apply for DSA Student Leadership?
 
-There are no hard requirements. Applicants do not need to have a leadership role to be considered for DSA Leadership. However, having leadership experience will be beneficial as it will help the applicant be able to perform better during the task assessment. For example, if an applicant is a Head Prefect in the primary school, the applicant will have some experience in the task assessment.
+There are no hard requirements. Applicants ***do not need to have a leadership role*** to be considered for DSA Leadership. However, having leadership experience will be beneficial as it will help the applicant be able to perform better during the task assessment.
+
+For example, if an applicant is a Head Prefect in the primary school, the applicant will have some experience in the task assessment.
 The task assessment is unique to every cohort, but the skills and personal qualities assessed are the same, as stated in the Pre-Requisites.
 
 ##### 4. How many students are accepted into Temasek Secondary School through DSA Student Leadership?
