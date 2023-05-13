@@ -48,8 +48,8 @@ https://www.todayonline.com/singapore/direct-school-admission-exercise-cap-raise
 
 ##### 5. If my child is posted to Temasek Secondary School through DSA, how will my child's academic results affect the stream that he will be assigned?
 
-From 2024, there will be no more streams. All applicants will be assigned a posting group based on the PSLE results.
-As our school offers all three posting groups, a child who is offered a place via DSA will have a place in Temasek Secondary School.
+From 2024, there will be no more streams for Secondary 1 students. All applicants will be given a posting group based on the PSLE results.
+As our school offers vacancies for all three posting groups, a child (assigned any posting group) who is offered a place via DSA will be posted to Temasek Secondary School.
 https://www.channelnewsasia.com/singapore/secondary-school-subject-based-banding-posting-groups-form-classes-3311176
 
 ##### 6. If a child is accepted into Temasek Secondary School via DSA, will he be in TIP (Temask Ignis Programme)?
