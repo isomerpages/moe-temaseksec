@@ -121,7 +121,12 @@ Find out more about Temasek Secondary School's DSA opportunities in
   
 Our students and student leaders will share with you what it means to be in a DSA CCA/leadership group!  
   
-[Choir CCA](https://www.temaseksec.moe.edu.sg/curriculum/co-curricular-activities/choir/)
-[Dance CCA](https://www.temaseksec.moe.edu.sg/curriculum/co-curricular-activities/dance/)
+* [Choir CCA](https://www.temaseksec.moe.edu.sg/curriculum/co-curricular-activities/choir/)
+* [Dance CCA](https://www.temaseksec.moe.edu.sg/curriculum/co-curricular-activities/dance/)
+* [Drama CCA](https://www.temaseksec.moe.edu.sg/curriculum/co-curricular-activities/drama/)
+* [Shooting CCA](https://www.temaseksec.moe.edu.sg/curriculum/co-curricular-activities/shooting/)
+
+
+
   
 <img style="width:60%" src="/images/qr.jpg"> <br>
