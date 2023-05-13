@@ -68,34 +68,16 @@ Students will be assessed on their ability in the talent and leadership areas so
  
 ## Important dates to note
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="103%" style="width:103.0%;border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:
- 0cm 0cm 0cm 0cm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:20.2pt"><td width="306" valign="top" style="width:229.7pt;padding:0cm 0cm 0cm 0cm;
-  height:20.2pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#111111;mso-ansi-language:EN-SG">DSA Application</span></b><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#111111"></span></p></td><td width="583" valign="top" style="width:436.9pt;padding:0cm 0cm 0cm 0cm;
-  height:20.2pt"><p class="MsoNormal" style="margin-bottom:2.0pt;line-height:normal"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">4 May 2023 (Thurs), 11am</span></p><p class="MsoNormal" style="margin-bottom:2.0pt;line-height:normal"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">31 May 2023 (Wed), 3pm</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:22.5pt"><td width="306" valign="top" style="width:229.7pt;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#111111;mso-ansi-language:EN-SG">Audition &amp; Trial (CCA)</span></b><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#111111"></span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#111111;mso-ansi-language:EN-SG">Selection Test (Student Leadership)</span></b><span lang="EN-US" style="font-size:12.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#111111"></span></p></td><td width="583" valign="top" style="width:436.9pt;padding:0cm 0cm 0cm 0cm;
-  height:22.5pt"><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;line-height:
-  21.0pt"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#111111;background:white">26 June 2023 (Mon) to 29 August 2023 (Tues)</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#111111;mso-ansi-language:EN-SG"></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#111111;mso-ansi-language:EN-SG"></span></p><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;line-height:
-  21.0pt"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#111111;mso-ansi-language:
-  EN-SG">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;line-height:
-  15.0pt"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#111111;mso-ansi-language:
-  EN-SG">(Only shortlisted applicants will be notified via email of the date and time to attend the audition/trial/selection test via email)</span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#111111"></span></p><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;line-height:
-  21.0pt"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:#111111;background:white">Shortlisted candidates for the auditions/trials will be informed by email&nbsp;<u>no later than 28 July 2023.</u></span><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#111111"></span></p></td></tr></tbody></table>
 
+
+|  |  |  |
+| -------- | -------- | -------- |
+| **DSA Application**   | 4 May 2023 (Thurs), 11am | to 31 May 2023 (Wed), 3pm    |
+| **Auditions/ Trials/ Selection Tests (CCA)**  | 26 June 2023 (Mon) | to 29 August 2023 (Tues)    |
+
+(Only shortlisted applicants will be notified via email of the date and time to attend the audition/trial/selection test via email.
+
+Shortlisted candidates for the auditions/trials will be informed by email&nbsp;no later than 28 July 2023.
 ## Information and Application
 
 Details on the DSA-Sec exercise and application process can be found below:
@@ -106,10 +88,6 @@ Details on the DSA-Sec exercise and application process can be found below:
 
 For further enquiries, please contact Miss Kamilah at 6449 5020 (General Office) or email to&nbsp;[**temasek\_ss@moe.edu.sg**](mailto:kamilah_zahri@moe.edu.sg).&nbsp;Kindly indicate “DSA 2023 Application Enquiry” in your email subject.
 
-
-## DSA Online Outreach 2023 (Closed)
-
-![](/images/dsa%20outreach%20banner.jpeg)
 
 Find out more about Temasek Secondary School's DSA opportunities in  
 
@@ -125,8 +103,4 @@ Our students and student leaders will share with you what it means to be in a DS
 * [Dance CCA](https://www.temaseksec.moe.edu.sg/curriculum/co-curricular-activities/dance/)
 * [Drama CCA](https://www.temaseksec.moe.edu.sg/curriculum/co-curricular-activities/drama/)
 * [Shooting CCA](https://www.temaseksec.moe.edu.sg/curriculum/co-curricular-activities/shooting/)
-
-
-
-  
-<img style="width:60%" src="/images/qr.jpg"> <br>
+* [Student Leadership LEAD@TMS](https://www.temaseksec.moe.edu.sg/co-curriculum/student-leadership-lead-tms/)
