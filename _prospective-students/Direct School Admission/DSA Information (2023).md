@@ -102,28 +102,25 @@ Details on the DSA-Sec exercise and application process can be found below:
 
 ·&nbsp;&nbsp;&nbsp;&nbsp;[Application Process and Timeline (Flowchart)](/files/application%20process%20%20for%20%20dsa%20sec%201%20admission%202024.pdf)
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Frequently Asked Questions (FAQ)](/files/faqs%20for%20dsa-secondary%20exercise%202023.pdf)
+·&nbsp;&nbsp;&nbsp;&nbsp;[Frequently Asked Questions (FAQ)](/files/faqs%20for%20dsa-secondary%20exercise%202023.pdf)
 
 For further enquiries, please contact Miss Kamilah at 6449 5020 (General Office) or email to&nbsp;[**temasek\_ss@moe.edu.sg**](mailto:kamilah_zahri@moe.edu.sg).&nbsp;Kindly indicate “DSA 2023 Application Enquiry” in your email subject.
 
 
-## DSA Outline Outreach 2023 (Closed)
+## DSA Online Outreach 2023 (Closed)
 
 ![](/images/dsa%20outreach%20banner.jpeg)
 
 Find out more about Temasek Secondary School's DSA opportunities in  
 
-*  [Choir](https://www.temaseksec.moe.edu.sg/prospective-students/direct-school-admission/choir-dsa/)
-*   [Dance](https://www.temaseksec.moe.edu.sg/prospective-students/direct-school-admission/dance-dsa/)
-*   [Drama](https://www.temaseksec.moe.edu.sg/prospective-students/direct-school-admission/drama-dsa/)
-*   [Shooting](https://www.temaseksec.moe.edu.sg/prospective-students/direct-school-admission/shooting-dsa/)
-*   [Student Leadership](https://www.temaseksec.moe.edu.sg/prospective-students/direct-school-admission/student-leadership-dsa/)
+*  [Choir DSA](https://www.temaseksec.moe.edu.sg/prospective-students/direct-school-admission/choir-dsa/)
+*   [Dance DSA](https://www.temaseksec.moe.edu.sg/prospective-students/direct-school-admission/dance-dsa/)
+*   [Drama DSA](https://www.temaseksec.moe.edu.sg/prospective-students/direct-school-admission/drama-dsa/)
+*   [Shooting DSA](https://www.temaseksec.moe.edu.sg/prospective-students/direct-school-admission/shooting-dsa/)
+*   [Student Leadership DSA](https://www.temaseksec.moe.edu.sg/prospective-students/direct-school-admission/student-leadership-dsa/)
   
 Our students and student leaders will share with you what it means to be in a DSA CCA/leadership group!  
   
-Date:&nbsp;**12 May 2023 (Fri) (Closed)**  
-Time:&nbsp;**7.00-8.00 pm**  
 
-Please register [here.](https://tinyurl.com/2023TMS-DSA-OpenHouse-Regn)  (Closed)
   
 <img style="width:60%" src="/images/qr.jpg"> <br>
