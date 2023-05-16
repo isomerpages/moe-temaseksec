@@ -29,7 +29,7 @@ The Temasek Acappella Group (TAG) was first established in 2001, as an interest 
   
 ![a1.jpg](/images/popa1.jpg)
 
-  
+  <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/XbpT2sKQNKg" height="315" width="560"></iframe>
   
  <iframe width="560" height="315" src="https://www.youtube.com/embed/XbpT2sKQNKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
@@ -39,9 +39,6 @@ The Temasek Acappella Group (TAG) was first established in 2001, as an interest 
 ![a3.jpg](/images/popa3.jpg)  
 
 To inspire students to have a passion for contemporary acappella music and aim to achieve excellence in singing and performance.
-
-  
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/26YiHSywdZw" height="315" width="560"></iframe>
   
 
 ## TRAINING
