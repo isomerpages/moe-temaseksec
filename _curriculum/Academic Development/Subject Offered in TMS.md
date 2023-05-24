@@ -23,19 +23,19 @@ Temasek Secondary is pleased to be part of Phase 1 Schools offering MOE Subject-
 
 **What is SBB?**
 
-Through SBB, Sec 1 Normal Academic (NA) and Sec 1 Normal Technical (NT) students can now take higher level subjects (at Normal Academic and/or Express levels) if they meet the qualifying criteria. The SBB subjects available are the PSLE subjects: English Language, Mathematics, Science and/or Mother Tongue Languages.
+Through SBB, G1 and G2 students can now take higher level subjects (at G2 and/or G3 levels) if they meet the qualifying criteria. The SBB subjects available are the PSLE subjects: English Language, Mathematics, Science and/or Mother Tongue Languages.
 
   
 
 **Why SBB for students?**&nbsp;
 
-The objective for SBB is to provide greater flexibility to students at the lower secondary so that NA and NT students are able to stretch themselves by taking subjects at a higher level.&nbsp;
+The objective for SBB is to provide greater flexibility to students at the lower secondary so that G1 and G2 students are able to stretch themselves by taking subjects at a higher level.&nbsp;
 
   
 
 **How can students qualify for SBB?**&nbsp;
 
-There are three points from which NA and NT students can be considered for SBB:&nbsp;
+There are three points from which G1 and G2 students can be considered for SBB:&nbsp;
 
 *   Selection criteria based on PSLE results&nbsp;
 *   Selection criteria based on Secondary One Mid-Year results&nbsp;
