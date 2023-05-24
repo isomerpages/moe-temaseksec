@@ -40,6 +40,6 @@ Thank you.
 3.  Schools do not disclose reasons for selection / non-selection of students.&nbsp;
 4.  Students should still report to the posted secondary school on 3 January 2023, unless informed.&nbsp;
 5.  The application is deemed to be unsuccessful if you do not hear from the school by 3 January 2023.
-6.  Please note that the school will not be able to accept students who exceed the cut-off for the respective streams. The cut-off for the three streams are <br>EXP: 13 <br>NA: 22 <br>NT: 26
+6.  Please note that the school will not be able to accept students who exceed the cut-off for the respective streams. The cut-off for the three streams are <br>G3: 13 <br>G2: 22 <br>G1: 26
 
 7\. Please proceed to the&nbsp;[link&nbsp;to submit your appeal](https://go.gov.sg/s1-tms-appeal-2023).
