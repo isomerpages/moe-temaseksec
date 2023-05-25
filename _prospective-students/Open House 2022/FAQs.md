@@ -10,12 +10,14 @@ third_nav_title: Open House 2022
 The details for Secondary 1 class allocations are not available at this point. Based on the 2022 allocations, we have 7 classes.
 
 **2\. Is there a difference between Temasek Junior College (TJC) and TMS?**
-TJC is an IP (Integrated Programme) school. It offers a 6-year course where students do not sit for the GCE O Levels, but will graduate with the GCE ‘A’ Level certification.   
+TJC is an IP (Integrated Programme) school. It offers a 6-year course where students do not sit for Singapore-Cambridge Secondary Education Certificate (SEC) Examinations, but will graduate with the GCE ‘A’ Level certification.   
   
-TMS offers a 4-year/5-year course, depending on course – students graduate with the GCE ‘O’ Level certification.  
+TMS offers a 4-year programme with a 5-year option, students graduate with the Singapore-Cambridge Secondary Education Certificate (SEC).
   
-In short, students who take up the O-level course at TMS will have a choice of going to either junior college or polytechnic at the end of 4 – 5 years, whereas those going to TJC will have to be sure they want to take the junior college route right from Sec One.
-3\. Is Temasek Secondary affiliated to Temasek Junior College or even Temasek Polytechnic?
+In short, students who are posted to TMS will have a choice of going to either ITE, junior college or polytechnic at the end of 4 – 5 years, whereas those going to TJC will have to be sure they want to take the junior college route right from Sec One.
+
+**3\. Is Temasek Secondary affiliated to Temasek Junior College or even Temasek Polytechnic?**
+Temasek Secondary School is not affiliated to Temasek Junior College or Temasek Polytechnic.
 
 **4\. My first child is already studying at Temasek Secondary School, but I am not confident that my second child can make the grade. Can he/she still enter based on the fact that he/she has an older sibling in the school?**
 Most students are placed in secondary schools through the S1 posting process, which takes place once the PSLE results are released. Students are posted based primarily on DSA or the PSLE Results.   
@@ -102,4 +104,3 @@ Students who do not reach an expected level of performance are mentored closely 
 **17\. My child has diagnosed learning needs. What kinds of support does TMS offer?**
 
 We have teachers who are trained to understand and support the students with special learning needs. The school is also equipped with an Allied Educator for Learning Behavioural Support and a resource room for coaching these students so that they can adjust their strategies for optimal learning.
- 
