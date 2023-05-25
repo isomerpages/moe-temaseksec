@@ -6,8 +6,8 @@ third_nav_title: Open House 2022
 ---
 # Admissions
 
-**1\. How many Secondary 1 classes will there be in 2023?**
-The details for Secondary 1 class allocations are not available at this point. Based on the 2022 allocations, we have 7 classes.
+**1\. How many Secondary 1 classes will there be in 2024?**
+The details for Secondary 1 class allocations are not available at this point. Based on the 2023 allocations, we have 7 classes.
 
 **2\. Is there a difference between Temasek Junior College (TJC) and TMS?**
 TJC is an IP (Integrated Programme) school. It offers a 6-year course where students do not sit for Singapore-Cambridge Secondary Education Certificate (SEC) Examinations, but will graduate with the GCE ‘A’ Level certification.   
