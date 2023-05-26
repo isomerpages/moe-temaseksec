@@ -1,6 +1,6 @@
 ---
 title: Sec 3 Resilience Camp 2023
-permalink: /events/gallery-of-events/permalink/
+permalink: /events/gallery-of-events/s3rc/
 description: ""
 third_nav_title: Gallery of Events
 ---

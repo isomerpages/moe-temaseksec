@@ -1,6 +1,6 @@
 ---
 title: Student Leaders Convention 2023
-permalink: /events/gallery-of-events/permalink/
+permalink: /events/gallery-of-events/slc2023/
 description: ""
 image: ""
 third_nav_title: Gallery of Events

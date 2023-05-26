@@ -88,14 +88,6 @@ Students today face a future that will be very different from that experienced b
 
 One of the highlights of TMS’ ECG programme is the annual Career Guidance Day (CGD). CGD 2021 was held on 1 April 2021, and included sharing sessions by representatives from Junior Colleges, Polytechnics and ITE. Career professionals in a variety of fields were also invited to share their experiences with Secondary 4 and 5 students. To access materials used for Career Guidance Day 2021, please click&nbsp;**[here](https://sites.google.com/iamtemasek.edu.sg/tmscgd2021/)**.
 
-  
-
-We welcome our ECG counsellor, Ms Siti.
-
-  
-
-![ECG Counsellor.png](/images/ECG%20Counsellor.png)
-
 ## SEXUALITY EDUCATION
 
 

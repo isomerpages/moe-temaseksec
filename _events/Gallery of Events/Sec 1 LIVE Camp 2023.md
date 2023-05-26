@@ -1,6 +1,6 @@
 ---
 title: Sec 1 LIVE Camp 2023
-permalink: /events/gallery-of-events/permalink/
+permalink: /events/gallery-of-events/sec1-livecamp2023/
 description: ""
 third_nav_title: Gallery of Events
 ---
