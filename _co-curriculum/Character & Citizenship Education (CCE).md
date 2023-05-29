@@ -3,11 +3,11 @@ title: Character & Citizenship Education (CCE)
 permalink: /co-curriculum/character-n-citizenship-education-cce/
 description: ""
 ---
-Character and Citizenship Education (CCE), including National Education (NE), and Social and Emotional Learning (SEL), are integral to the holistic development of our students, leading to positive life outcomes. CCE 2022 provides an integrated approach to addressing our students’ development of values, character, social-emotional (SE) well-being, and citizenship dispositions in a coherent and holistic way.
+Character and Citizenship Education (CCE), including National Education (NE), and Social and Emotional Learning (SEL), are integral to the holistic development of our students, leading to positive life outcomes. CCE 2023 provides an integrated approach to addressing our students’ development of values, character, social-emotional (SE) well-being, and citizenship dispositions in a coherent and holistic way.
 
   
 
-CCE undergirds all that we do at TMS. CCE 2022 aims to develop in our students:
+CCE undergirds all that we do at TMS. CCE 2023 aims to develop in our students:
 
 a.&nbsp;**Good character**: Have a sound moral compass, a strong sense of right and wrong, think critically and ethically, be discerning in judgment, take responsibility for choices and actions, be caring towards others and strive for excellence;
 
@@ -86,7 +86,7 @@ Students today face a future that will be very different from that experienced b
 
   
 
-One of the highlights of TMS’ ECG programme is the annual Career Guidance Day (CGD). CGD 2021 was held on 1 April 2021, and included sharing sessions by representatives from Junior Colleges, Polytechnics and ITE. Career professionals in a variety of fields were also invited to share their experiences with Secondary 4 and 5 students. To access materials used for Career Guidance Day 2021, please click&nbsp;**[here](https://sites.google.com/iamtemasek.edu.sg/tmscgd2021/)**.
+One of the highlights of TMS’ ECG programme is the annual Career Guidance Day (CGD). CGD 2023 was held on 28 April 2023, and included sharing sessions by representatives from Junior Colleges, Polytechnics and ITE. Career professionals in a variety of fields were also invited to share their experiences with Secondary 4 and 5 students. To access materials used for Career Guidance Day 2023, please click&nbsp;**[here](https://sites.google.com/iamtemasek.edu.sg/tmscgd2021/)**.
 
 ## SEXUALITY EDUCATION
 
