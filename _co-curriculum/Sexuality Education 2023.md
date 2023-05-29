@@ -23,7 +23,7 @@ The key messages of Sexuality Education are:
 
 You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education) for more information on MOE Sexuality Education.  
 
-You may also click [here](https://temaseksec-moe-edu-sg-admin.cwp.sg/qql/slot/u187/Info_on_SEd_for_schs_website_Sec_2021.pdf) for the Overview of TMS's Sexuality Education Programme for 2021.
+You may also click [here](https://temaseksec-moe-edu-sg-admin.cwp.sg/qql/slot/u187/Info_on_SEd_for_schs_website_Sec_2021.pdf) for the Overview of TMS's Sexuality Education Programme for 2023.
 
   
 
