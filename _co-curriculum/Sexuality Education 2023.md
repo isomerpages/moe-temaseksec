@@ -29,11 +29,11 @@ You may also click [here](https://temaseksec-moe-edu-sg-admin.cwp.sg/qql/slot/u
 
 ### Information for Parents
 
-Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
 
-Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://temaseksec-moe-edu-sg-admin.cwp.sg/qql/slot/u187/Growing%20Years%20Opt%20out.pdf). The completed form is to be submitted by 17 February 2021.
+Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents via Parents Gateway. The completed form is to be submitted by 6 March 2023. 
 
-Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://temaseksec-moe-edu-sg-admin.cwp.sg/qql/slot/u187/eteens%20Opt%20out.pdf). The completed form is to be submitted by 17 February 2021.
+Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents via Parents Gateway.  The completed form is to be submitted by 6 March 2023.
 
 Parents can contact the school at 64495020 for discussion or to seek clarification about the school’s sexuality education programme.
 
