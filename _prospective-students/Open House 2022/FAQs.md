@@ -42,6 +42,7 @@ For Economics, students are considered based on their Sec 2 Science grades and o
   
 For Computing, students are considered based on their Sec 2 Mathematics results. Interested students are also required to sit for a Computing Aptitude Test to assess their suitability.
 
+## For students of the class of 2023-2026:
 **8\. How many Normal Academic students will proceed to do the GCE ‘O’ Level at the end of Sec 4?**
 <br>For the past few years, all NA students were eligible to be promoted to Sec 5 to sit for the GCE ‘O’ Level. More than 50% of our NA students have also qualified for the Polytechnic Foundation Programme (PFP). Parents can find out more about PFP at https://www.polytechnic.edu.sg/pfp/
 
@@ -53,8 +54,7 @@ For those who have decided to continue on in TMS, almost every NA student qualif
 Programmes for NT students are specially tailored to increase core competencies and self-management skills. NT students are also offered up to six subjects at N-level of which Science is a compulsory subject.
 
 **10\. Will students in the Normal Course have opportunities to take some subjects at higher level when they are in Temasek Secondary School?**
-
-For the Lower Secondary, they are able to do so through Subject-Based-Banding (SBB).  
+<br>For the Lower Secondary, they are able to do so through Subject-Based-Banding (SBB).  
   
 Through SBB, Sec 1 NA and Sec 1 NT students can take higher level subjects (at Normal Academic and/or Express levels) if they meet the qualifying criteria. The SBB subjects available are English Language, Mathematics, Science and/or Mother Tongue Language.  
   
@@ -64,20 +64,20 @@ For Upper Secondary, NA students are able to take up to a maximum of 3 SBB subje
 
 ## Co-Curricular Activities
 **11\. Can my child have more than one CCA?**
-Due to the demands of each CCA in terms of training and competition commitments, it is not recommended for students to take on more than one core CCA. However, there is an option to take on a non-core CCA. In TMS, the Temasek Acappella Group (TAG), which is our non-core CCA, is an option for students to explore.  
+<br>Due to the demands of each CCA in terms of training and competition commitments, it is not recommended for students to take on more than one core CCA. However, there is an option to take on a non-core CCA. In TMS, the Temasek Acappella Group (TAG), which is our non-core CCA, is an option for students to explore.  
   
 Students are also encouraged to take on Student Leadership especially if they are interested to develop their leadership skills.
 
 **12\. Does my child need to attend a CCA if he/she is in an external team /activity/club/society?**
-All students must be in a school-based CCA, unless they are in the Singapore National Youth Orchestra (SNYO) or the Singapore Youth Chinese Orchestra (SYCO). School-based CCAs allow students to build a sense of belonging with friends in the school.  
+<br>All students must be in a school-based CCA, unless they are in the Singapore National Youth Orchestra (SNYO) or the Singapore Youth Chinese Orchestra (SYCO). School-based CCAs allow students to build a sense of belonging with friends in the school.  
   
 Student may participate in external activities, but not in lieu of their school-based CCAs. Attendance for these activities will not be recognised as part of the CCA experience.
 
 **13\. Does the school recognise my child’s accomplishment in external activities (e.g. golf and swimming) if they go for competitions for organisations, etc.?**
-If the student wants to be recognised by the school for the competitions that they take part in, they must take part in the school category of these competitions and get approval from the HOD/CCA for them to represent Temasek Secondary School in these competitions. This is provided that their commitments to external activities do not clash with their school-based CCA training.
+<br>If the student wants to be recognised by the school for the competitions that they take part in, they must take part in the school category of these competitions and get approval from the HOD/CCA for them to represent Temasek Secondary School in these competitions. This is provided that their commitments to external activities do not clash with their school-based CCA training.
 
 **14\. Does your school have a strong performing arts culture?**
-Yes, the school is strong in the aesthetics CCA and have demonstrated this in the SYF Arts Presentation. For example, teams from Drama and Dance attained Distinctions in the 2021 SYF, while the rest attained Accomplishment. The pop acappella group has emerged as champions several times over the years.
+<br>Yes, the school is strong in the aesthetics CCA and have demonstrated this in the SYF Arts Presentation. For example, teams from Drama and Dance attained Distinctions in the 2021 SYF, while the rest attained Accomplishment. The pop acappella group has emerged as champions several times over the years.
 
 ## Character Development
 **15\. What kind of programmes does your school have that can prepare my child for the working world?**
@@ -93,8 +93,7 @@ The school actively uses the&nbsp;_MySkillsfuture_&nbsp;Portal to help students 
 In addition, our academic, character and citizenship education and co-curricular programmes equip students with 21st Century Competencies such as critical and inventive thinking, information and communication skills and cross-cultural awareness. These are essential competencies that all students will need when he/she enters the working world.
 
 **16\. With so many opportunities for student leadership development in the school, how does the school help Student Leaders manage their academic workload and student leadership commitments?**
-
-Like all other schools, TMS has a homework and assessment policy which ensures students are able to manage their daily homework and to give them ample time to prepare for their tests and examinations.  
+<br>Like all other schools, TMS has a homework and assessment policy which ensures students are able to manage their daily homework and to give them ample time to prepare for their tests and examinations.  
   
 The school monitors the academic results of all student leaders.  
   
@@ -102,5 +101,4 @@ Students who do not reach an expected level of performance are mentored closely 
 
 ## Support for Learning Needs
 **17\. My child has diagnosed learning needs. What kinds of support does TMS offer?**
-
-We have teachers who are trained to understand and support the students with special learning needs. The school is also equipped with an Allied Educator for Learning Behavioural Support and a resource room for coaching these students so that they can adjust their strategies for optimal learning.
+<br>We have teachers who are trained to understand and support the students with special learning needs. The school is also equipped with an Allied Educator for Learning Behavioural Support and a resource room for coaching these students so that they can adjust their strategies for optimal learning.
