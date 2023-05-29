@@ -7,46 +7,46 @@ third_nav_title: Open House 2022
 # Admissions
 
 **1\. How many Secondary 1 classes will there be in 2024?**
-The details for Secondary 1 class allocations are not available at this point. Based on the 2023 allocations, we have 7 classes.
+<br>The details for Secondary 1 class allocations are not available at this point. Based on the 2023 allocations, we have 7 classes.
 
 **2\. Is there a difference between Temasek Junior College (TJC) and TMS?**
-TJC is an IP (Integrated Programme) school. It offers a 6-year course where students do not sit for Singapore-Cambridge Secondary Education Certificate (SEC) Examinations, but will graduate with the GCE ‘A’ Level certification.   
+<br>TJC is an IP (Integrated Programme) school. It offers a 6-year course where students do not sit for Singapore-Cambridge Secondary Education Certificate (SEC) Examinations, but will graduate with the GCE ‘A’ Level certification.&nbsp;  
   
 TMS offers a 4-year programme with a 5-year option, students graduate with the Singapore-Cambridge Secondary Education Certificate (SEC).
   
 In short, students who are posted to TMS will have a choice of going to either ITE, junior college or polytechnic at the end of 4 – 5 years, whereas those going to TJC will have to be sure they want to take the junior college route right from Sec One.
 
 **3\. Is Temasek Secondary affiliated to Temasek Junior College or even Temasek Polytechnic?**
-Temasek Secondary School is not affiliated to Temasek Junior College or Temasek Polytechnic.
+<br>Temasek Secondary School is not affiliated to Temasek Junior College or Temasek Polytechnic.
 
 **4\. My first child is already studying at Temasek Secondary School, but I am not confident that my second child can make the grade. Can he/she still enter based on the fact that he/she has an older sibling in the school?**
-Most students are placed in secondary schools through the S1 posting process, which takes place once the PSLE results are released. Students are posted based primarily on DSA or the PSLE Results.   
+<br>Most students are placed in secondary schools through the S1 posting process, which takes place once the PSLE results are released. Students are posted based primarily on DSA or the PSLE Results.&nbsp;  
   
 Unlike primary school admissions, the fact the child has an older sibling in the school will not affect the outcome of the posting.
 
 **5\. What are my chances if I appeal to TMS?**
-Outcomes of appeal cases are determined by many factors every year. Those who meet the Cut Off Point will be considered on a case-by-case basis.
+<br>Outcomes of appeal cases are determined by many factors every year. Those who meet the Cut Off Point will be considered on a case-by-case basis.
 
 ## Academic Support and Pathways in TMS
 **6\. Does your school provide remedial/extra lessons for weaker students or is there an assumption that parents should engage a tuition teacher?**
-There are no expectations for parents to engage a tuition teacher for students. They may do so if they choose to.  
+<br>There are no expectations for parents to engage a tuition teacher for students. They may do so if they choose to.  
   
-The school provides remedial and extra lessons for individual subjects which students are weak in.   
+The school provides remedial and extra lessons for individual subjects which students are weak in.&nbsp;  
   
 Teachers are also available for consultation after school when students approach them.
 
 **7\. How does your school select students for Economics and Computing?**
-Selection of students for Sec 3 courses is based solely on merit.  
+<br>Selection of students for Sec 3 courses is based solely on merit.  
   
 For Economics, students are considered based on their Sec 2 Science grades and overall Sec 2 performance.  
   
 For Computing, students are considered based on their Sec 2 Mathematics results. Interested students are also required to sit for a Computing Aptitude Test to assess their suitability.
 
 **8\. How many Normal Academic students will proceed to do the GCE ‘O’ Level at the end of Sec 4?**
-For the past few years, all NA students were eligible to be promoted to Sec 5 to sit for the GCE ‘O’ Level. More than 50% of our NA students have also qualified for the Polytechnic Foundation Programme (PFP). Parents can find out more about PFP at https://www.polytechnic.edu.sg/pfp/
+<br>For the past few years, all NA students were eligible to be promoted to Sec 5 to sit for the GCE ‘O’ Level. More than 50% of our NA students have also qualified for the Polytechnic Foundation Programme (PFP). Parents can find out more about PFP at https://www.polytechnic.edu.sg/pfp/
 
 **9\. With such high cut-off points for NA and NT students, how does the school stretch the Normal Course students’ development?**
-For the past few years, our 4NA students have done well at the N-level with many of them qualifying for the Polytechnic Foundation Programme (PFP) and the Direct Entry Scheme to Polytechnic Programme (DPP).  
+<br>For the past few years, our 4NA students have done well at the N-level with many of them qualifying for the Polytechnic Foundation Programme (PFP) and the Direct Entry Scheme to Polytechnic Programme (DPP).  
   
 For those who have decided to continue on in TMS, almost every NA student qualified for polytechnic after O-level.  
   
@@ -84,12 +84,12 @@ Yes, the school is strong in the aesthetics CCA and have demonstrated this in th
 We have a progressive set of Education and Career Guidance (ECG) programmes, which include  
 
 *   personality profiling,
-*   HALOS (**H**arnessing **A**pplied **L**earning **O**pportunities for **S**tudents) in Secondary 2,
+*   HALOS (**H**arnessing&nbsp;**A**pplied&nbsp;**L**earning&nbsp;**O**pportunities for&nbsp;**S**tudents) in Secondary 2,
 *   work attachments,
 *   talks on the labour market trends and
 *   the annual Career Guidance Day.
 
-The school actively uses the _MySkillsfuture_ Portal to help students discover their interests and strengths, and to empower them to embark on a journey of self-discovery.  
+The school actively uses the&nbsp;_MySkillsfuture_&nbsp;Portal to help students discover their interests and strengths, and to empower them to embark on a journey of self-discovery.  
 In addition, our academic, character and citizenship education and co-curricular programmes equip students with 21st Century Competencies such as critical and inventive thinking, information and communication skills and cross-cultural awareness. These are essential competencies that all students will need when he/she enters the working world.
 
 **16\. With so many opportunities for student leadership development in the school, how does the school help Student Leaders manage their academic workload and student leadership commitments?**
