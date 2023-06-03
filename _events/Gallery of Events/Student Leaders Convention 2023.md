@@ -5,8 +5,6 @@ description: ""
 image: ""
 third_nav_title: Gallery of Events
 ---
-# Student Leaders Convention 2023
-
 ![](/images/2023%20slc%20(1).jpg)
 
 For the first time in four years, the Student Leaders Convention was back in full force! Mr Justin Ang, Assistant Chief Executive of IMDA, graced the occasion and delivered the keynote on Leadership In The New World. Student leaders also attended workshops and learnt about Peer Support Relations and Systems Thinking. The day concluded with a raucous game organised by the Alumni and an amazing Nite’s Out, featuring outstanding farewell performances by the Sec 4s and 5s. The SLC was truly a wonderful day of learning and celebration!
