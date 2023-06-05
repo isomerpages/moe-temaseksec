@@ -4,7 +4,6 @@ permalink: /events/gallery-of-events/mn2023/
 description: ""
 third_nav_title: Gallery of Events
 ---
-# Movie Nite 2023
 ![](/images/2023%20movie%20nite%20(6).png)
 
 It's the end of the Term 1 and it's time to give everyone a well deserved break together AND do our part for charity!
