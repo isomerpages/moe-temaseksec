@@ -86,7 +86,7 @@ Details on the DSA-Sec exercise and application process can be found below:
 
 ·&nbsp;&nbsp;&nbsp;&nbsp;[Frequently Asked Questions (FAQ)](/files/faqs%20for%20dsa-secondary%20exercise%202023.pdf)
 
-For further enquiries, please contact Miss Kamilah at 6449 5020 (General Office) or email to&nbsp;[**temasek\_ss@moe.edu.sg**](mailto:kamilah_zahri@moe.edu.sg).&nbsp;Kindly indicate “DSA 2023 Application Enquiry” in your email subject.
+For further enquiries, please contact Miss Kamilah at 6449 5020 (General Office) or email to&nbsp;[**temasek\_ss@moe.edu.sg**](mailto:temasek_ss@moe.edu.sg).&nbsp;Kindly indicate “DSA 2023 Application Enquiry” in your email subject.
 
 
 Find out more about Temasek Secondary School's DSA opportunities in  
