@@ -1,6 +1,6 @@
 ---
 title: Young Leaders Camp 2023
-permalink: /events/gallery-of-events/permalink/
+permalink: /events/gallery-of-events/youngleaderscamp2023/
 description: ""
 third_nav_title: Gallery of Events
 ---
