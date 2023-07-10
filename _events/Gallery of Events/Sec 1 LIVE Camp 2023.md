@@ -13,10 +13,17 @@ Over the course of three action-packed days, these young adventurers were brough
 We couldn't be prouder of our incredible Sec 1s for giving their all and embracing every opportunity to learn, grow, and etch lasting memories into their secondary school journey. Let the spirit of this camp guide you as you continue to soar towards your next peaks of excellence
 
 ![](/images/2023%20sec%201%20camp%20(1).jpeg)
+
 ![](/images/2023%20sec%201%20camp%20(2).jpeg)
+
 ![](/images/2023%20sec%201%20camp%20(3).jpeg)
+
 ![](/images/2023%20sec%201%20camp%20(5).jpeg)
+
 ![](/images/2023%20sec%201%20camp%20(7).jpeg)
+
 ![](/images/2023%20sec%201%20camp%20(8).jpeg)
+
 ![](/images/2023%20sec%201%20camp%20(10).jpeg)
+
 ![](/images/2023%20sec%201%20camp%20(12).jpeg)
