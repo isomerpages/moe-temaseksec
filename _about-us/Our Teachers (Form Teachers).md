@@ -3,8 +3,6 @@ title: Our Teachers (Form Teachers)
 permalink: /about-us/our-teachers/
 description: ""
 ---
-        
-
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="609" style="width:456.4pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.0pt"><td width="609" nowrap="" colspan="3" valign="bottom" style="width:456.4pt;border:
   solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
@@ -1114,4 +1112,3 @@ description: ""
   mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:#0563C1;
   mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG;mso-fareast-language:
   EN-SG"><a href="mailto:wong_wei_wen_clarence@moe.edu.sg"><span style="color:#0563C1">wong_wei_wen_clarence@moe.edu.sg</span></a></span></u></p></td><td style="height:15.0pt;border:none" width="0" height="20"></td></tr></tbody></table>
-	
