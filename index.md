@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/7a68f217b_1077.jpg
       key_highlights:
         - title: 2023 DSA Online Outreach
           description: Important Information
