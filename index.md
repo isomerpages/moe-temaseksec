@@ -14,7 +14,6 @@ sections:
         - title: Latest News
           description: School Calender 2023
           url: /events/school-calendar/
-      title: I am Temasek
       background: /images/2023 school banner.png
   - infopic:
       title: Yearbook 2022
