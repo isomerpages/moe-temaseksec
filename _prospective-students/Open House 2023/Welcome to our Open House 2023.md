@@ -8,7 +8,7 @@ third_nav_title: Open House 2023
 <br>
 
 
-A very warm welcome to Temasek Secondary School (TMS) Open House 2022!
+A very warm welcome to Temasek Secondary School (TMS) Open House 2023!
 
   
 
@@ -44,4 +44,3 @@ Finally, I would like to draw your attention to our&nbsp;**_three distinctive pr
   
 
 I hope that these special qualities and programmes of TMS will come through in your experience of our Open House, and we look forward to welcoming you to the TMS family!
-
