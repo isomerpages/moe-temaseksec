@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: 2023 DSA Online Outreach
-          description: Important Information
-          url: /prospective-students/direct-school-admission/information/
+        - title: Temasek Charity Challenge 2023
+          description: for President's Challenge
+          url: /events/upcoming-events/-students/direct-school-admission/information/temasek-charity-challenge-2023
         - title: Latest News
           description: School Calender 2023
           url: /events/school-calendar/

@@ -1,6 +1,6 @@
 ---
 title: DSA Online Outreach 2023
-permalink: /events/upcoming-events/permalink/
+permalink: /events/upcoming-events/dsa-online-outreach-2023/
 description: ""
 third_nav_title: Upcoming Events
 ---
