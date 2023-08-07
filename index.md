@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Temasek charity challenge 2023
+        - title: Temasek Charity Challenge 2023
           description: for President's Challenge
           url: /events/upcoming-events/-students/direct-school-admission/information/temasek-charity-challenge-2023
         - title: Latest News
