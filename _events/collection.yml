@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Upcoming Events/Temasek Charity Challenge 2023.md
       - Upcoming Events/Speech Day 2023.md
       - Upcoming Events/DSA Online Outreach 2023.md
       - Upcoming Events/.keep
