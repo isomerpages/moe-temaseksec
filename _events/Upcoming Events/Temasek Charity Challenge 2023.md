@@ -11,7 +11,7 @@ Every year, since 2006, the school has been raising funds for the President's Ch
 
 We need YOUR help to raise funds for the beneficiaries of the President's Challenge!
 
-This year, as part of the Temasek Charity Challenge (TCC), we are raising funds by going to the streets to get your support! With every $2 donation, our volunteers will be giving you a super hero pen because YOU are a SUERHERO to the many beneficiaries of the President Challenge (PC)!
+This year, as part of the Temasek Charity Challenge (TCC), we are raising funds by going to the streets to get your support! With every $2 donation, our volunteers will be giving you a super hero pen because YOU are a SUPERHERO to the many beneficiaries of the President Challenge (PC)!
 
 You can check out the full list of  [PC beneficiaries here!](https://www.presidentschallenge.gov.sg/whowesupport/)
 
