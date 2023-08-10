@@ -13,3 +13,29 @@ The Young Ambassadors also planned an exciting assembly programme where students
 National Day celebrations also takes on a new meaning at Temasek as we channel the spirit of giving through the Temasek Charity Challenge, our annual fund-raising event. Guided by the Peer Support Leaders, our passionate Upper Secondary students hit the streets to raise funds for the President's Challenge!
 
 Back in school, the energetic Sec 1s participated in the Go MAD (Go Make A Difference) initiative, turning our school into a lively hub of generosity and joy. Supported by our Class Managers, the classes offered an array of heartwarming care packages and engaging carnival-styled games!
+
+![](/images/2023%20national%20day%20celebrations%201.png)
+
+![](/images/2023%20national%20day%20celebrations%202.png)
+
+![](/images/2023%20national%20day%20celebrations%203.png)
+
+![](/images/2023%20national%20day%20celebrations%204.png)
+
+![](/images/2023%20national%20day%20celebrations%205.png)
+
+![](/images/2023%20national%20day%20celebrations%206.png)
+
+![](/images/2023%20national%20day%20celebrations%207.png)
+
+![](/images/2023%20national%20day%20celebrations%208.png)
+
+![](/images/2023%20national%20day%20celebrations%209.png)
+
+![](/images/2023%20national%20day%20celebrations%2010.png)
+
+![](/images/2023%20national%20day%20celebrations%2011.png)
+
+![](/images/2023%20national%20day%20celebrations%2012.png)
+
+![](/images/2023%20national%20day%20celebrations%2013.png)
