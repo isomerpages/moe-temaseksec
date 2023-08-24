@@ -181,7 +181,7 @@ SEPTEMBER
 11 September  
 **Teachers Day School Holiday**  
 
-11 September-10 October  
+12 September-10 October  
 **N Level Exam**  
   
 22 September  
