@@ -172,7 +172,7 @@ AUGUST
 
 SEPTEMBER
 ---------
-1 Septermber
+1 September
 **Presidential Elections**
 
 2-10 September  
