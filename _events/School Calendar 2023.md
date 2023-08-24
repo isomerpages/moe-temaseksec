@@ -172,14 +172,15 @@ AUGUST
 
 SEPTEMBER
 ---------
-
-1 September  
-**Teachers Day School Holiday**  
-
+1 Septermber
+**Presidential Elections**
 
 2-10 September  
 **Term 3 Break**  
-  
+
+11 September  
+**Teachers Day School Holiday**  
+
 11 September-10 October  
 **N Level Exam**  
   
