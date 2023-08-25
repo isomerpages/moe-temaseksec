@@ -12,4 +12,4 @@ As the school will be a polling centre, the school ***will not be able to receiv
 
 We seek your understanding in this and hope that you will still want to appreciate your teachers by dropping them a short message in the following link:
 
-go.gov.sg/2023All-Staff-Day-Wishes
+https://tinyurl.com/TMSAwishesASD2023
