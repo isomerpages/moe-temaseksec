@@ -3,7 +3,6 @@ title: School Calendar 2023
 permalink: /events/school-calendar/
 description: ""
 ---
-
 JANUARY
 -------
 
@@ -102,7 +101,7 @@ Speech Day
 **Secondary 3 Teacher Meet Parents**  
   
 26 May  
-**Secondary 1 & 4 Teacher Meet Parents**  
+**Secondary 1 &amp; 4 Teacher Meet Parents**  
   
 27 May - 25 June  
 **Term 2 Break**  
@@ -114,7 +113,7 @@ Speech Day
 **O Level MTL Exam**  
   
 29 May-2 June  
-**Applied Elective** **Modules**  
+**Applied Elective**&nbsp;**Modules**  
 
 JUNE
 ----
@@ -167,20 +166,22 @@ AUGUST
 16-29 August  
 **O Level Prelim**  
   
-31 August  
-**All Staff Day**  
+30 August  
+**All Staff Day Celebrations**  
+(Due to Presidential Elections)
 
 SEPTEMBER
 ---------
-
-1 September  
-**Teachers Day School Holiday**  
-
+1 September
+**Presidential Elections**
 
 2-10 September  
 **Term 3 Break**  
-  
-11 September-10 October  
+
+11 September  
+**Teachers Day School Holiday**  
+
+12 September-10 October  
 **N Level Exam**  
   
 22 September  
