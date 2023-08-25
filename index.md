@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: All Staff Day 2023
           description: 30 August 2023 (Wednesday)
-          url: /events/upcoming-events/all-staff-day2023
+          url: /events/upcoming-events/all-staff-day-2023
         - title: Latest News
           description: School Calender 2023
           url: /events/school-calendar/
