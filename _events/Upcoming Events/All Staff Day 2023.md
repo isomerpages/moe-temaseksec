@@ -4,8 +4,6 @@ permalink: /events/upcoming-events/all-staff-day-2023/
 description: ""
 third_nav_title: Upcoming Events
 ---
-
-
 ![](/images/all%20staff%20day.png)****
 
 Temasek will be celebrating All Staff Day on 30 August 2023 due to the Presidential Elections!
