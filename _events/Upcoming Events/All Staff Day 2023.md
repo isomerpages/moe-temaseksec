@@ -8,7 +8,7 @@ third_nav_title: Upcoming Events
 
 Thank you for wanting to visit your teachers at TMS!
  
-##### Due to the Presidential Elections, the school will be *unable to entertain any alumni* who plan to visit on either 30 & 31 Aug 2023 (Wednesday & Thursday)!
+##### Due to the Presidential Elections, the school will be *unable to entertain any alumni* who plans to visit on 30 & 31 Aug 2023 (Wednesday & Thursday)!
 
 If you wish to show your appreciation to your teachers, do give them a call or drop a text!
 
