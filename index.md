@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Temasek Charity Challenge 2023
-          description: for President's Challenge
-          url: /events/upcoming-events/temasek-charity-challenge-2023
+        - title: All Staff Day 2023
+          description: 30 August 2023 (Wednesday)
+          url: /events/upcoming-events/all-staff-day2023
         - title: Latest News
           description: School Calender 2023
           url: /events/school-calendar/
