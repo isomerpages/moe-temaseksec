@@ -12,5 +12,6 @@ Thank you for wanting to visit your teachers at TMS!
 
 If you wish to show your appreciation to your teachers, do give them a call or drop a text!
 
+You can also give your well wishes here!
 
 [Write your well wishes here!](https://tinyurl.com/TMSAwishesASD2023)
