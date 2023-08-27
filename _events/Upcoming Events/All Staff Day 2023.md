@@ -4,7 +4,7 @@ permalink: /events/upcoming-events/all-staff-day-2023/
 description: ""
 third_nav_title: Upcoming Events
 ---
-![](/images/teachers%20banner.png)
+![](/images/teachers%20banner%20large.png)
 
 Thank you for wanting to visit your teachers at TMS!
  
