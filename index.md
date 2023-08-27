@@ -12,7 +12,7 @@ sections:
           description: 30 August 2023 (Wednesday)
           url: /events/upcoming-events/all-staff-day-2023
         - title: Latest News
-          description: School Calender 2023
+          description: School Calendar 2023
           url: /events/school-calendar/
       title: I am Temasek
       background: /images/2023schoolbanner.png
