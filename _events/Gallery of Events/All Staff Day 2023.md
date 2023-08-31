@@ -10,9 +10,25 @@ Today was such an amazing day at Temasek School! It was the perfect chance for a
 
 And a HUGE shout out to the absolutely amazing PSG parents who went above and beyond to create beautiful bottle gifts for all the staff members at our school! Your thoughtfulness and generosity truly made our day even more special. Thank you for your incredible support and dedication to our school community!
 ![](/images/2023%20tms%20asd%2001.png)
+
 ![](/images/2023%20tms%20asd%2002.png)
+
 ![](/images/2023%20tms%20asd%2003.png)
+
 ![](/images/2023%20tms%20asd%2004.png)
+
 ![](/images/2023%20tms%20asd%2005.png)
+
 ![](/images/2023%20tms%20asd%2006.png)
+
 ![](/images/2023%20tms%20asd%2007.png)
+
+![](/images/2023%20tms%20asd%2008.png)
+
+![](/images/2023%20tms%20asd%2009.png)
+
+![](/images/2023%20tms%20asd%2010.png)
+
+![](/images/2023%20tms%20asd%2011.png)
+
+![](/images/2023%20tms%20asd%2012.png)
