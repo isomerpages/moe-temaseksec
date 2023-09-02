@@ -4,7 +4,7 @@ permalink: /curriculum/co-curricular-activities/softball-boys/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-## Softball (Boys Only)
+## Softball (Boys)
 
 ![banner-softball.jpg](/images/softball.jpg)
 
