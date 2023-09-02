@@ -29,7 +29,6 @@ Vice Captain (Boys): Tse Kai Sin Genesis, Shuan Chin Yong Jie
 ## HISTORY
 
 
-![canoe 1.jpg](/images/canoe1.jpg)
 
 Temasek Canoeing started in 2002 and has grown to be one of the school’s strongest sports CCAs. It currently has more than 70 members.&nbsp;  
 
