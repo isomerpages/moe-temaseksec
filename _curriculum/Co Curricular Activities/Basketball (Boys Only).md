@@ -4,7 +4,7 @@ permalink: /curriculum/co-curricular-activities/basketball-boys/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-## Basketball (Boys only)
+## Basketball (Boys)
 
 ![banner-basketball.jpg](/images/basketball.jpg)
 
@@ -18,7 +18,7 @@ Mdm Yeo Soh Hong (2I/C)
 Captain: Mohan Kumar Vaseekaran<br>
 Vice Captain: Jayden Mok Ze Yu
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h_SBePm2tsM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/g9DR0v3SfZs?si=Pt9iSVzJLEPyxSGR" height="315" width="560"></iframe>
 
 ## HISTORY
 
