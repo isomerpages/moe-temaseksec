@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Co Curricular Activities
 ---
 ## Bowling
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/7Xl1qfQe0WQ?si=v4FrhXWmjgrWNq3z" height="315" width="560"></iframe>
+
 ![](/images/82a67f84-03bd-459f-9925-47f5a7af49c0.jpg)
 
 ## HISTORY
