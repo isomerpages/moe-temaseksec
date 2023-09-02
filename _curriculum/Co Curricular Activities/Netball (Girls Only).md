@@ -4,7 +4,7 @@ permalink: /curriculum/co-curricular-activities/netball-girls/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-## Netball (Girls Only)
+## Netball (Girls)
 
 ![nb.jpeg](/images/netball.jpg)
 
@@ -19,7 +19,8 @@ Ms Chen Si Shann, Shannon
 Captain: Beatrice Chew Xiaoen<br>
 Vice Captain: Tessa Chia, Anisa Shaheera d/o Mohamed Ashraff
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lo9TE44r9ds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nlO6RMhookY?si=s6Cse98aAkn1MO7r" height="315" width="560"></iframe>
+
 
 ## HISTORY
 
