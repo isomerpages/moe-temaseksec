@@ -8,8 +8,8 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: All Staff Day 2023
-          description: 30 August 2023 (Wednesday)
+        - title: Open House 2023
+          description: 18 November 2023 (Sat)
           url: /events/upcoming-events/all-staff-day-2023
         - title: Latest News
           description: School Calendar 2023
