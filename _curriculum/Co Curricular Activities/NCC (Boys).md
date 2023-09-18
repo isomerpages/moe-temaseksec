@@ -1,5 +1,5 @@
 ---
-title: NCC (Boys Only)
+title: NCC (Boys)
 permalink: /curriculum/co-curricular-activities/ncc-boys/
 description: ""
 third_nav_title: Co Curricular Activities

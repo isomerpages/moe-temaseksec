@@ -1,12 +1,12 @@
 ---
-title: Canoeing (Girls Only)
+title: Canoeing (Girls)
 permalink: /curriculum/co-curricular-activities/canoeing-girls/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-## Canoeing (Girls only)
+## Canoeing (Girls)
 
-![banner-canoeing.jpg](/images/canoeing.jpg)
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ywzvNLPqv-0?si=9LgHJn-S9XrqLAXi" height="315" width="560"></iframe>
 
 **Teacher-in-charge**
 
@@ -25,12 +25,10 @@ Vice Captain (Boys): Tse Kai Sin Genesis, Shuan Chin Yong Jie
 
 ### Canoeing will only be accepting girls from 2023.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kAtKnlApQR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ## HISTORY
 
 
-![canoe 1.jpg](/images/canoe1.jpg)
 
 Temasek Canoeing started in 2002 and has grown to be one of the school’s strongest sports CCAs. It currently has more than 70 members.&nbsp;  
 
