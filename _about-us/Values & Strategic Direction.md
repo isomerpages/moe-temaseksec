@@ -1,9 +1,9 @@
 ---
-title: Values &amp; Strategic Direction
+title: Values & Strategic Direction
 permalink: /about-us/values-n-strategic-direction/
 description: ""
 ---
-### Our Values
+# Our Values
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -29,20 +29,20 @@ description: ""
 </tbody>
 </table>
 
-### Our Strategic Thrusts
+# Our Strategic Goals     
+### GOAL 1
+A caring school culture that enhances student's well-being and builds character for life.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2wh9{background-color:#FFF;color:#020014;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-2wh9"><span style="color:#020014">•   </span>ST1: <span style="color:#020014">Providing a 21st century values-centred character and citizenship curriculum</span><br><span style="color:#020014">•   </span>ST2: <span style="color:#020014">Providing a 21st century student-centric academic curriculum</span><br><span style="color:#020014">•   </span>ST3: <span style="color:#020014">Enhancing school’s distinctiveness in student leadership and cross-cultural awareness</span><br><span style="color:#020014">•   </span>ST4: <span style="color:#020014">Developing professional and dedicated staff in our Temasek Family</span><br><span style="color:#020014">•   </span>ST5: <span style="color:#020014">Achieving excellence in organisational support</span></td>
-  </tr>
-</thead>
-</table>
+### GOAL 2
+To nurture joyful, self-directed, lifelong learners.
+
+### GOAL 3
+An authentic environment of challenges and opportunities that develops leaders of character and intellect, who can thrive in a diverse and globalized world.
+
+### GOAL 4
+
+A staff culture that fosters caring, committed and competent learners and leaders in education.
+
+### GOAL 5
+
+Strategic and optimal use of key resources to achieve organisational excellence
