@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Canteen Advertisement.md
       - School History.md
       - Mission, Vision, Motto.md
       - Values & Strategic Direction.md
@@ -13,4 +12,5 @@ collections:
       - Our Teachers (Form Teachers).md
       - Contact Us.md
       - Privacy Policy.md
+      - School Canteen Advertisement.md
       - FAQs.md
