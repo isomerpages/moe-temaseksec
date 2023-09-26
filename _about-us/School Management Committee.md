@@ -90,7 +90,7 @@ description: ""
     <td class="tg-0lax">jared_oh@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Miss Jocelyn Woo (HOD/ Character &amp; Citizenship Education)</td>
+    <td class="tg-1wig">Ms Jocelyn Woo (HOD/ Character &amp; Citizenship Education)</td>
   </tr>
   <tr>
     <td class="tg-0lax">woo_mei_xian_jocelyn@moe.edu.sg</td>
