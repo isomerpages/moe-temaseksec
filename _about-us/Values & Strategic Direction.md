@@ -1,5 +1,5 @@
 ---
-title: Values &amp; Strategic Direction
+title: Values & Strategic Direction
 permalink: /about-us/values-n-strategic-direction/
 description: ""
 ---
@@ -29,7 +29,7 @@ description: ""
 </tbody>
 </table>
 
-### Our Strategic Thrusts
+### Our Strategic Goals
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
