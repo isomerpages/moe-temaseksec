@@ -14,7 +14,7 @@ sections:
         - title: Latest News
           description: School Calendar 2023
           url: /events/school-calendar/
-      title: I am Temasek
+      title: "  "
       background: /images/2023schoolbanner.png
   - infopic:
       title: Yearbook 2022
