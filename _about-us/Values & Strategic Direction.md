@@ -46,5 +46,3 @@ A staff culture that fosters caring, committed and competent learners and leader
 ### GOAL 5
 
 Strategic and optimal use of key resources to achieve organisational excellence
-
-
