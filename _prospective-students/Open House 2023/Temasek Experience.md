@@ -4,6 +4,9 @@ permalink: /prospective-students/open-house-2022/temasek-experience/
 description: ""
 third_nav_title: Open House 2023
 ---
+## Graduation 2023
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/LHzW7wIZLUI?si=fDvm8hqkKLSS_a5b" height="315" width="560"></iframe>
+
 ## Youth Day Celebrations 2023
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/B2GRw0JfkS4" height="315" width="560"></iframe>
@@ -19,7 +22,7 @@ third_nav_title: Open House 2023
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/aYtlBlSJBBM" height="315" width="560"></iframe>
 
-## Graduation Song 2022
+## Graduation 2022
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/WtlTgktbX_c" height="315" width="560"></iframe>
 
