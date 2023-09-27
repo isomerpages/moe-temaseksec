@@ -10,6 +10,7 @@ third_nav_title: Open House 2023
 
 ## Record-Making 2023
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/_0ZruEg7ibE?si=m2p0XkyD5VrUvh0c" height="315" width="560"></iframe>
+
 ## NE Learning Journey 2023
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/fc0fE341TY0" height="315" width="560"></iframe>
