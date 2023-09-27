@@ -4,6 +4,14 @@ permalink: /prospective-students/open-house-2022/temasek-experience/
 description: ""
 third_nav_title: Open House 2023
 ---
+## I am Temasek
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1WV1fLMyG4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+## We are Temasek
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jejlkym0IhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
 ## Graduation 2023
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/LHzW7wIZLUI?si=fDvm8hqkKLSS_a5b" height="315" width="560"></iframe>
 
@@ -32,15 +40,6 @@ third_nav_title: Open House 2023
 ## Movie Nite 2022
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uihjdh6GBvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-## I am Temasek
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1WV1fLMyG4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-## We are Temasek
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jejlkym0IhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
 
 ## Temasek Record Making 2021
 
