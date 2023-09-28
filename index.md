@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Open House 2023
           description: 18 November 2023 (Sat)
-          url: /events/upcoming-events/all-staff-day-2023
+          url: /prospective-students/open-house-2023/welcome/
         - title: Latest News
           description: School Calendar 2023
           url: /events/school-calendar/
