@@ -71,7 +71,7 @@ eugin_wong@moe.edu.sg
 
   
 
-Miss Jocelyn Woo (HOD/ Humanities)   
+Ms Jocelyn Woo (HOD/ Character and Citizenship Education) (covering)   
 woo_mei_xian_jocelyn@moe.edu.sg  
 
   
