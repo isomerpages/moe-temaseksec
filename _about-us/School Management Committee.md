@@ -90,7 +90,7 @@ description: ""
     <td class="tg-0lax">jared_oh@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Ms Jocelyn Woo (HOD/ Character &amp; Citizenship Education) (covering)</td>
+    <td class="tg-1wig">Ms Jocelyn Woo (HOD/ Character &amp; Citizenship Education)</td>
   </tr>
   <tr>
     <td class="tg-0lax">woo_mei_xian_jocelyn@moe.edu.sg</td>
@@ -210,7 +210,7 @@ description: ""
     <td class="tg-0lax">nurul_huda_modh_kamarulzaman@moe.edu.sg</td>
   </tr>
   <tr>
-		<td class="tg-1wig">Mrs Ruth Leong (SH/Geography) (covering)</td>
+		<td class="tg-1wig">Mrs Ruth Leong (SH/Geography)</td>
   </tr>
   <tr>
     <td class="tg-0lax">wong_su_ann_ruth@moe.edu.sg</td>
