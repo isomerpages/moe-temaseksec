@@ -71,7 +71,7 @@ Each level is overseen by the Year Head Team and the Discipline Committee, that 
     <td class="tg-0lax">lim_wei_ming@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Miss Nurul Huda Mohd Kamarulzaman (Asst. Year Head/ Upper Sec)</td>
+    <td class="tg-1wig">Mdm Nurul Huda Mohd Kamarulzaman (Asst. Year Head/ Upper Sec)</td>
   </tr>
   <tr>
     <td class="tg-0lax">nurul_huda_mohd_kamarulzaman@moe.edu.sg</td>
@@ -89,7 +89,7 @@ Each level is overseen by the Year Head Team and the Discipline Committee, that 
     <td class="tg-0lax">imesha_gracel_fernando@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Madam Nur Khairunnisa Abdul Rahim (Allied Educator for Learning &amp; Behavioural Support)</td>
+    <td class="tg-1wig">Mdm Nur Khairunnisa Abdul Rahim (Allied Educator for Learning &amp; Behavioural Support)</td>
   </tr>
   <tr>
     <td class="tg-0lax">nur_khairunnisa_a_rahim@moe.edu.sg</td>
