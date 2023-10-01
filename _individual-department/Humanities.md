@@ -77,7 +77,7 @@ lim_wei_ming@moe.edu.sg
 
   
 
-Mrs Ruth Leong  (SH/ Geography)
+Mrs Ruth Leong  (SH/ Humanities)
 wong_su_ann_ruth@moe.edu.sg  
   
 
