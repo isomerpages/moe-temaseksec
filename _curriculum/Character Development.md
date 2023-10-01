@@ -47,7 +47,7 @@ Each level is overseen by the Year Head Team and the Discipline Committee, that 
     <td class="tg-0lax">jared_oh@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Ms Jocelyn Woo (HOD/ Character &amp; Citizenship Education) (covering)</td>
+    <td class="tg-1wig">Ms Jocelyn Woo (HOD/ Character &amp; Citizenship Education)</td>
   </tr>
   <tr>
     <td class="tg-0lax">woo_mei_xian_jocelyn@moe.edu.sg</td>
@@ -83,7 +83,7 @@ Each level is overseen by the Year Head Team and the Discipline Committee, that 
     <td class="tg-0lax">lalitha_kok_koon_leong@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Miss Imesha Gracel Fernando (School Counsellor)</td>
+    <td class="tg-1wig">Ms Imesha Gracel Fernando (School Counsellor)</td>
   </tr>
   <tr>
     <td class="tg-0lax">imesha_gracel_fernando@moe.edu.sg</td>
