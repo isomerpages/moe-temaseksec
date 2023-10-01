@@ -95,10 +95,11 @@ Each level is overseen by the Year Head Team and the Discipline Committee, that 
     <td class="tg-0lax">nur_khairunnisa_a_rahim@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Ms Siti Raudhah (ECG Counsellor)</td>
+    <td class="tg-1wig">Ms 
+Kho Yee Lin (ECG Counsellor)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">siti_raudhah_sukri@moe.edu.sg</td>
+    <td class="tg-0lax">kho_yee_lin@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
