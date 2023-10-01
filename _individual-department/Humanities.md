@@ -44,93 +44,56 @@ Students will:
 *   Think critically from multiple perspectives as they explore the complexities associated with the different issues explored during MUNs
 
 ### DEPARTMENT CONTACT LIST
-
-  
-
 Mr Reuben Ong (HOD/ Humanities)  
 reuben_ong_ming_gui@moe.edu.sg
-
-  
 
 Mrs Audrey Ho (Year Head/ Upper Sec) 
 audrey_ho@moe.edu.sg
 
-  
-
 Mr Dominic Sim (LT/ History)
 sim_chwee_siang_dominic@moe.edu.sg
-
-  
 
 Mr Eugin Wong (HOD/ CCA & Safety)  
 eugin_wong@moe.edu.sg
 
-  
-
 Ms Jocelyn Woo (HOD/ Character & Citizenship Education)   
 woo_mei_xian_jocelyn@moe.edu.sg  
-
-  
 
 Mr Lim Wei Ming (Asst. Year Head/ Lower Sec)   
 lim_wei_ming@moe.edu.sg
 
-  
-
 Mrs Ruth Leong  (SH/ Humanities)
 wong_su_ann_ruth@moe.edu.sg  
-  
 
 Mr Bennett Lim  
 bennett_lim_chee_theng@moe.edu.sg  
 
-  
-
-Miss Chua Wan Yu  
+Ms Chua Wan Yu  
 chua_wan_yu@moe.edu.sg
-
-  
 
 Mr Gabriel Sim Qin Jie 
 gabriel_sim_qin_jie@moe.edu.sg
 
-  
-
 Mrs Janki Verma  
 janki_devi@moe.edu.sg
-
-  
 
 Mrs Joy Lim  
 joy_seng_en-yi@moe.edu.sg
 
-  
-
 Mrs Mirnigar Maesten  
 mirnigar_begum_khan@moe.edu.sg  
-
-   
 
 Mr Mohamed Anwaar  
 mohamed_al_anwaarulhaq_asaad@moe.edu.sg  
 
-  
-
 Madam Nur Azlilah Abdul Aziz  
 nur_azlilah_abdul_aziz@moe.edu.sg  
-
-  
 
 Madam Nurhidayah Mohamed Ali  
 nurhidayah_mohamed_ali@moe.edu.sg  
 
-
-  
-
-Miss Tan Poh Hoon 
+Ms Tan Poh Hoon 
 tan_poh_hoon@moe.edu.sg
 
-  
-
-Madam Yeo Soh Hong  
+Mdm Yeo Soh Hong  
 yeo_soh_hong@moe.edu.sg
