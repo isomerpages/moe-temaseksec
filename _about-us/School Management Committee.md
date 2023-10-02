@@ -210,6 +210,12 @@ description: ""
     <td class="tg-0lax">nurul_huda_modh_kamarulzaman@moe.edu.sg</td>
   </tr>
   <tr>
+		<td class="tg-1wig">Mrs Ruth Leong (SH/Humanities)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">wong_su_ann_ruth@moe.edu.sg</td>
+  </tr>
+  <tr>
     <td class="tg-1wig">Mrs Soo-Tay Yu Xin (SH/ Information Communication Technology)</td>
   </tr>
   <tr>

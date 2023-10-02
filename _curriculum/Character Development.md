@@ -47,7 +47,7 @@ Each level is overseen by the Year Head Team and the Discipline Committee, that 
     <td class="tg-0lax">jared_oh@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Ms Jocelyn Woo (HOD/ Character &amp; Citizenship Education) (covering)</td>
+    <td class="tg-1wig">Ms Jocelyn Woo (HOD/ Character &amp; Citizenship Education)</td>
   </tr>
   <tr>
     <td class="tg-0lax">woo_mei_xian_jocelyn@moe.edu.sg</td>
@@ -71,7 +71,7 @@ Each level is overseen by the Year Head Team and the Discipline Committee, that 
     <td class="tg-0lax">lim_wei_ming@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Miss Nurul Huda Mohd Kamarulzaman (Asst. Year Head/ Upper Sec)</td>
+    <td class="tg-1wig">Mdm Nurul Huda Mohd Kamarulzaman (Asst. Year Head/ Upper Sec)</td>
   </tr>
   <tr>
     <td class="tg-0lax">nurul_huda_mohd_kamarulzaman@moe.edu.sg</td>
@@ -83,22 +83,23 @@ Each level is overseen by the Year Head Team and the Discipline Committee, that 
     <td class="tg-0lax">lalitha_kok_koon_leong@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Miss Imesha Gracel Fernando (School Counsellor)</td>
+    <td class="tg-1wig">Ms Imesha Gracel Fernando (School Counsellor)</td>
   </tr>
   <tr>
     <td class="tg-0lax">imesha_gracel_fernando@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Madam Nur Khairunnisa Abdul Rahim (Allied Educator for Learning &amp; Behavioural Support)</td>
+    <td class="tg-1wig">Mdm Nur Khairunnisa Abdul Rahim (Allied Educator for Learning &amp; Behavioural Support)</td>
   </tr>
   <tr>
     <td class="tg-0lax">nur_khairunnisa_a_rahim@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Ms Siti Raudhah (ECG Counsellor)</td>
+    <td class="tg-1wig">Ms 
+Kho Yee Lin (ECG Counsellor)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">siti_raudhah_sukri@moe.edu.sg</td>
+    <td class="tg-0lax">kho_yee_lin@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
