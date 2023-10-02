@@ -1021,14 +1021,14 @@ description: ""
   padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
   mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG;mso-fareast-language:
-  EN-SG">Ms Tan Peck Har Sharon</span></p></td><td width="303" nowrap="" valign="bottom" style="width:227.15pt;border-top:none;
+  EN-SG">Ms Sharon Koh Hui Hoon</span></p></td><td width="303" nowrap="" valign="bottom" style="width:227.15pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><u><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:#0563C1;
   mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG;mso-fareast-language:
-  EN-SG"><a href="mailto:tan_peck_har_sharon@moe.edu.sg"><span style="color:#0563C1">tan_peck_har_sharon@moe.edu.sg</span></a></span></u></p></td><td style="height:15.0pt;border:none" width="0" height="20"></td></tr><tr style="mso-yfti-irow:34;height:15.0pt"><td width="47" nowrap="" rowspan="3" style="width:35.15pt;border:solid windowtext 1.0pt;
+  EN-SG"><a href="mailto:koh_hui_hoon_sharon@moe.edu.sg"><span style="color:#0563C1">koh_hui_hoon_sharon@moe.edu.sg</span></a></span></u></p></td><td style="height:15.0pt;border:none" width="0" height="20"></td></tr><tr style="mso-yfti-irow:34;height:15.0pt"><td width="47" nowrap="" rowspan="3" style="width:35.15pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
   line-height:normal"><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:
@@ -1097,18 +1097,4 @@ description: ""
   padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><u><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:#0563C1;
   mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG;mso-fareast-language:
-  EN-SG"><a href="mailto:karima_syahirah_abdul_ka@moe.edu.sg"><span style="color:#0563C1">karima_syahirah_abdul_ka@moe.edu.sg</span></a></span></u></p></td><td style="height:15.0pt;border:none" width="0" height="20"></td></tr><tr style="mso-yfti-irow:38;mso-yfti-lastrow:yes;height:15.0pt"><td width="259" nowrap="" valign="bottom" style="width:194.1pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
-  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG;mso-fareast-language:
-  EN-SG">Mr Wong Wei Wen Clarence</span></p></td><td width="303" nowrap="" valign="bottom" style="width:227.15pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
-  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><u><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:#0563C1;
-  mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:EN-SG;mso-fareast-language:
-  EN-SG"><a href="mailto:wong_wei_wen_clarence@moe.edu.sg"><span style="color:#0563C1">wong_wei_wen_clarence@moe.edu.sg</span></a></span></u></p></td><td style="height:15.0pt;border:none" width="0" height="20"></td></tr></tbody></table>
+  EN-SG"><a href="mailto:karima_syahirah_abdul_ka@moe.edu.sg"><span style="color:#0563C1">karima_syahirah_abdul_ka@moe.edu.sg</span></a></span></u></p></td></tr></tbody></table>
