@@ -44,108 +44,75 @@ The Temasek school experience aims to equip students with the knowledge, skills 
 ## DEPARTMENT CONTACT LIST
   
 
-Miss Alexis Lim (HOD/ Science)  
-
+Ms Alexis Lim (HOD/ Science)  
 alexis_lim@moe.edu.sg  
 
   
 
 Dr Bryan Tan (SSD/ School Staff Developer)  
-
 bryan_tan_yong_hao@moe.edu.sg  
 
   
 
 Mr Jared Oh (HOD/Student Leadership & Aesthetics)  
-
 jared_oh@moe.edu.sg
 
   
 
-Miss Lok Teng Ping (SH/ Student Leadership)   
-
+Ms Lok Teng Ping (SH/ Student Leadership)   
 teng_ping_lok@moe.edu.sg
 
   
 
 Mrs Tracy Teo (ST/ Chemistry)  
-
 lim_sue_yee_tracy@moe.edu.sg
 
   
 
-Madam Chua Ying Ling Eileen
-
+Mdm Chua Ying Ling Eileen
 chua_ying_ling_eileen@moe.edu.sg
 
-  
 
-Mr Ethan Tay  
 
-tay_eng_kian@moe.edu.sg  
-
-  
-
-Miss Ho Foong Ling  
-
+Ms Ho Foong Ling  
 ho_foong_ling@moe.edu.sg
 
   
 
-Miss Karima Syahirah Abdul Karim  
-
+Mdm Karima Syahirah Abdul Karim 
 karima_syahirah_abdul_ka@moe.edu.sg  
 
   
 
 Mr Kuah Chin Yong  
-
 kuah_chin_yong@moe.edu.sg  
 
   
 
 Mr Lee Sze Meng  
-
 lee_sze_meng@moe.edu.sg  
 
   
 
-Miss Liu Peishan  
 
-liu_peishan@moe.edu.sg  
-
-  
-
-Madam Nur' Adilah Suhaimi Salleh  
-
+Mdm Nur' Adilah Suhaimi Salleh  
 nur_adilah_suhaimi_salleh@moe.edu.sg  
 
-  
-
-Mr Seah Zuo Sheng  
-
-seah_zuo_sheng@moe.edu.sg  
+   
 
   
 
-Madam Tham Wai Leng  
-
+Mdm Tham Wai Leng  
 tham_wai_leng@moe.edu.sg  
 
-  
 
-Mr Wong Wei Wen Clarence
-
-wong_wei_wen_clarence@moe.edu.sg
 
   
 
-Miss Woon Mui Lang  
-
+Ms Woon Mui Lang  
 woon_mui_lang@moe.edu.sg  
 
   
 
 Mr Yeo Jun Song  
-
 yeo_jun_song@moe.edu.sg

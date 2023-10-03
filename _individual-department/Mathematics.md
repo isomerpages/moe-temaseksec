@@ -55,7 +55,7 @@ Mr Lim Wei Ming (Asst. Year Head/ Lower Sec)
 lim_wei_ming@moe.edu.sg
 
   
-Miss Lok Teng Ping (SH/ Student Leadership)  
+Ms Lok Teng Ping (SH/ Student Leadership)  
 teng_ping_lok@moe.edu.sg
 
   
@@ -63,7 +63,7 @@ Mr Bennett Lim
 bennett_lim_chee_theng@moe.edu.sg
 
   
-Madam Chan Choy Wei  
+Mdm Chan Choy Wei  
 chan_choy_wei@moe.edu.sg
 
   
@@ -79,7 +79,7 @@ Mr Elvis Low
 low_yi_wee@moe.edu.sg
 
   
-Madam Lee Tse Ying  
+Mdm Lee Tse Ying  
 lee_tse_ying@moe.edu.sg
 
   
@@ -91,23 +91,20 @@ Mrs Lim Swu Yun
 loo_swu_yun@moe.edu.sg
 
   
-Miss Lydia Chew  
+Ms Lydia Chew  
 chew_li_shan_lydia@moe.edu.sg
 
   
 
-Mr Roger Lim
-
+Mr Roger Lim  
 lim_pang_kiat@moe.edu.sg
 
   
 
-Miss Tan Hui Xin
-
+Ms Tan Hui Xin  
 tan_hui_xin@moe.edu.sg
 
   
 
-Madam Tay Ngee Mui
-
+Mdm Tay Ngee Mui  
 tay_ngee_mui@moe.edu.sg

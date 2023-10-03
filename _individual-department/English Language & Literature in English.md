@@ -12,7 +12,7 @@ The English Language and Literature Department's focus is to nurture our student
 
 Literature is also integral in developing students to be (i) critical readers who can appreciate the nuances of language and the author's intent when using language for impact, (ii) empathetic and global thinkers who can consider multiple perspectives and are sensitive to other's experiences, (iii) creative meaning makers who can confidently form their own informed interpretations, and (iv) convincing communicators who can effectively articulate their views.
 
-In developing these skills, our mission is for Temasekians to become more self-directed in their learning and application. This way, they will become confident, purposeful and responsible users of the language. 
+In developing these skills, our mission is for Temasekians to become more self-directed in their learning and application. This way, they will become confident, purposeful and responsible users of the language.&nbsp;
 
 **Secondary One to Five**  
 
@@ -24,11 +24,11 @@ Our Reading Programme has been re-conceptualised with the aim to not only cultiv
 
 Students will:
 
-•  Appreciate reading and viewing by looking at the authors’ craft in conveying meaning in creative ways, by manipulating language or by employing the clever art of storytelling or argumentation
+•&nbsp; Appreciate reading and viewing by looking at the authors’ craft in conveying meaning in creative ways, by manipulating language or by employing the clever art of storytelling or argumentation
 
-•  Develop a sense of curiosity that will spark more self-directed pursuits as they engage in a variety of texts
+•&nbsp;&nbsp;Develop a sense of curiosity that will spark more self-directed pursuits as they engage in a variety of texts
 
-•  Become better writers, orators and hence more effective communicators
+•&nbsp;&nbsp;Become better writers, orators and hence more effective communicators
 
 **
 
@@ -44,11 +44,11 @@ This performative learning experience develops students’ ability to articulate
 
 Students will:
 
-•  Become more effective meaning makers who can communicate with clarity
+•&nbsp;&nbsp;Become more effective meaning makers who can communicate with clarity
 
-•  Appreciate and analyse the nuances of language: how meaning and emotions can be conveyed with subtlety, or with certainty
+•&nbsp;&nbsp;Appreciate and analyse the nuances of language: how meaning and emotions can be conveyed with subtlety, or with certainty
 
-•  Take into consideration Purpose, Audience, Context and Culture, a crucial life skill that is relevant for effective communication in real life contexts, and across all disciplines
+•&nbsp;&nbsp;Take into consideration Purpose, Audience, Context and Culture, a crucial life skill that is relevant for effective communication in real life contexts, and across all disciplines
 
 **Secondary One to Three**  
 
@@ -60,11 +60,11 @@ Selected students who have the talent and passion for public speaking will be id
 
 Students will:
 
-•  Develop their thinking as they begin to venture into the conceptual thinking process behind the writing and delivery of their own speeches
+•&nbsp;&nbsp;Develop their thinking as they begin to venture into the conceptual thinking process behind the writing and delivery of their own speeches
 
-•  Become responsible, critical thinkers who seek feedback from others in order to improve their skills
+•&nbsp;&nbsp;Become responsible, critical thinkers who seek feedback from others in order to improve their skills
 
-•  Gain confidence as writers or speakers
+•&nbsp;&nbsp;Gain confidence as writers or speakers
 
 **Secondary One to Five**  
 
@@ -76,120 +76,95 @@ Various literary experiences (e.g. digital theatre programme and SingLit Station
 
 Students will:
 
-•  Foster greater appreciation for the literary arts
+•&nbsp;&nbsp;Foster greater appreciation for the literary arts
 
-•  Learn more about the craft of writing through learning experiences that involve engagement with practitioners in the field
+•&nbsp;&nbsp;Learn more about the craft of writing through learning experiences that involve engagement with practitioners in the field
 
-## DEPARTMENT CONTACT LIST 
+## DEPARTMENT CONTACT LIST&nbsp;
 
 
-Mrs Andrea Chan (HOD/ English Language & English Literature)  
-
-yap_ying_hui_andrea@moe.edu.sg  
+Ms Nurulhuda Borhan Said (HOD/English Language &amp; English Literature)
+nurulhuda_said@moe.edu.sg  
 
   
 
-Miss Mazna Mohd Hussain (SH/ English Language & English Literature)  
-
+Ms Mazna Mohd Hussain (SH/ English Language &amp; English Literature)  
 mazna_mohd_hussain@moe.edu.sg  
 
   
 
-Madam Harpreet Kaur (ST/ English Literature)  
-
+Mdm Harpreet Kaur (ST/ English Literature)  
 harpreet_kaur_a@moe.edu.sg  
 
   
 
 Mrs Deborah Huang  
-
 deborah_chua_lihui@moe.edu.sg
 
   
 
 Mrs Doris Lee  
-
 doris_lee@iamtemasek.edu.sg
 
   
 
-Mr Gabriel Sim Qin Jie 
-
+Mr Gabriel Sim Qin Jie  
 gabriel_sim_qin_jie@moe.edu.sg
 
   
 
-Mr Ian Alexander Ng 
-
+Mr Ian Alexander Ng  
 ian_alexander_ng@moe.edu.sg
 
   
 
-Miss Idriaty Sabari  
-
+Ms Idriaty Sabari  
 idriaty_sabari@moe.edu.sg
 
   
 
-Madam Low Hwee Lin Clare
-
+Mdm Low Hwee Lin Clare  
 low_hwee_lin@moe.edu.sg
 
   
 
-Miss Martina Ann Mei Qiang 
-
+Ms Martina Ann Mei Qiang  
 martina_ann_mei_qiang@moe.edu.sg
 
   
 
 Mrs Millicent Tee  
-
 millicent_yap_yan_ying@moe.edu.sg  
 
   
 
 Mr Muhammad Hilmy Zohry  
-
 muhammad_hilmy_zohry@moe.edu.sg  
 
   
 
-Miss Robyn Yang  
-
+Ms Robyn Yang  
 yang_liling_robyn@moe.edu.sg
 
   
 
 Mr Shafiq Rafi  
-
 shafiq_rafi@moe.edu.sg  
 
-  
 
-Miss Shanthini Thiagarajah  
-
-shanthini_thiagarajah@moe.edu.sg  
-
-  
-
-Miss Sharon Koh  
-
+Ms Sharon Koh  
 koh_hui_hoon_sharon@moe.edu.sg
   
 
-Miss Tan Hui Xin
-
+Miss Tan Hui Xin  
 tan_hui_xin@moe.edu.sg  
 
   
 
-Miss Tan Poh Hoon 
-
+Ms Tan Poh Hoon  
 tan_poh_hoon@moe.edu.sg
 
   
 
-Miss Tia Kai Ling  
-
+Ms Tia Kai Ling  
 tia_kai_ling@moe.edu.sg

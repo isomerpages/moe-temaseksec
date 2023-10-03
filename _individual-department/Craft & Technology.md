@@ -107,13 +107,12 @@ vendasalam_chandramohan@moe.edu.sg
   
 
 Mr Edward Leow (SH/ Design & Technology)
-
 leow_mun_tat@moe.edu.sg  
   
-Madam Farizah Minhart (ST/ Educational Support [Learning Needs])  
+Mdm Farizah Minhart (ST/ Character & Citizenship Education)  
 farizah_minhart@moe.edu.sg  
   
-Miss Lim Chek Quay (ST/ Nutrition and Food Science)  
+Ms Lim Chek Quay (ST/ Nutrition and Food Science)  
 lim_chek_quay@moe.edu.sg  
   
 Mrs Rebecca Loke (ST/ Music)  
@@ -125,7 +124,7 @@ ali_jaafar@moe.edu.sg
 Mr Elliot Ong  
 ong_yan_pei_elliot@moe.edu.sg  
   
-Madam Ivy Tay  
+Mdm Ivy Tay  
 tay_lay_peng@moe.edu.sg  
   
 Mrs Jacinta Zheng  
@@ -134,11 +133,9 @@ jacinta_yeo_soo_hua@moe.edu.sg
 Mr Mohamed Anwaar  
 mohamed_al_anwaarulhaq\_asaad@moe.edu.sg  
   
-Madam Nur Azlilah Abdul Aziz  
+Mdm Nur Azlilah Abdul Aziz  
 nur_azlilah_abdul_aziz@moe.edu.sg  
   
-Madam Nurzakiah Zainul Abiden  
-nurzakiah_zainul_abiden@moe.edu.sg  
   
 Mr Salleh Kassim  
 salleh_kassim@moe.edu.sg  
@@ -149,5 +146,5 @@ sulaiman_hussin@moe.edu.sg
 Mr Tan Bok Sim  
 tan_bok_sim@moe.edu.sg  
   
-Madam Tham Wai Leng  
+Mdm Tham Wai Leng  
 tham_wai_leng@moe.edu.sg

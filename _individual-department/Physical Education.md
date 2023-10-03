@@ -50,35 +50,29 @@ Students will:
 
 
 Mr Mohammed Iskandar B Salleh (HOD/ Physical & Outdoor Education)  
-
 mohammed_iskandar_b_salleh@moe.edu.sg  
 
   
 
-Mr Alex Chua (Subject Head/ Discipline)  
-
+Mr Alex Chua (SH/ Discipline)  
 chua_ghee_soon@moe.edu.sg  
 
   
 
 Mr Boo Yongfeng  
-
 boo_yongfeng@moe.edu.sg  
 
   
 
 Mrs Jeanette Neo  
-
 wee_yue_lynn_jeanette@moe.edu.sg  
 
   
 
 Mr Jonathan Soh  
-
 soh_cher_boon@moe.edu.sg  
 
   
 
 Mr Viswanath Singgaravello  
-
 viswanath_singgaravello@moe.edu.sg

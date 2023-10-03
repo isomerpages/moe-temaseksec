@@ -204,10 +204,10 @@ description: ""
     <td class="tg-0lax">nurfadilah_abdul_rahman@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Mdm Nurul Huda Modh Kamarulzman (Asst. Year Head/ Upper Sec)</td>
+    <td class="tg-1wig">Mdm Nurul Huda Mohd Kamarulzman (Asst. Year Head/ Upper Sec)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">nurul_huda_modh_kamarulzaman@moe.edu.sg</td>
+    <td class="tg-0lax">nurul_huda_mohd_kamarulzaman@moe.edu.sg</td>
   </tr>
   <tr>
 		<td class="tg-1wig">Mrs Ruth Leong (SH/Humanities)</td>
