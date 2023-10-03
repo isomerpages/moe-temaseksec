@@ -86,10 +86,10 @@ mirnigar_begum_khan@moe.edu.sg
 Mr Mohamed Anwaar  
 mohamed_al_anwaarulhaq_asaad@moe.edu.sg  
 
-Madam Nur Azlilah Abdul Aziz  
+Mdm Nur Azlilah Abdul Aziz  
 nur_azlilah_abdul_aziz@moe.edu.sg  
 
-Madam Nurhidayah Mohamed Ali  
+Mdm Nurhidayah Mohamed Ali  
 nurhidayah_mohamed_ali@moe.edu.sg  
 
 Ms Tan Poh Hoon   
