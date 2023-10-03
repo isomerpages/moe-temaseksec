@@ -47,10 +47,10 @@ Students will:
 Mr Reuben Ong (HOD/ Humanities)  
 reuben_ong_ming_gui@moe.edu.sg
 
-Mrs Audrey Ho (Year Head/ Upper Sec) 
+Mrs Audrey Ho (Year Head/ Upper Sec)   
 audrey_ho@moe.edu.sg
 
-Mr Dominic Sim (LT/ History)
+Mr Dominic Sim (LT/ History)   
 sim_chwee_siang_dominic@moe.edu.sg
 
 Mr Eugin Wong (HOD/ CCA & Safety)  
@@ -62,7 +62,7 @@ woo_mei_xian_jocelyn@moe.edu.sg
 Mr Lim Wei Ming (Asst. Year Head/ Lower Sec)   
 lim_wei_ming@moe.edu.sg
 
-Mrs Ruth Leong  (SH/ Humanities)
+Mrs Ruth Leong  (SH/ Humanities)   
 wong_su_ann_ruth@moe.edu.sg  
 
 Mr Bennett Lim  
@@ -71,7 +71,7 @@ bennett_lim_chee_theng@moe.edu.sg
 Ms Chua Wan Yu  
 chua_wan_yu@moe.edu.sg
 
-Mr Gabriel Sim Qin Jie 
+Mr Gabriel Sim Qin Jie   
 gabriel_sim_qin_jie@moe.edu.sg
 
 Mrs Janki Verma  
@@ -92,7 +92,7 @@ nur_azlilah_abdul_aziz@moe.edu.sg
 Madam Nurhidayah Mohamed Ali  
 nurhidayah_mohamed_ali@moe.edu.sg  
 
-Ms Tan Poh Hoon 
+Ms Tan Poh Hoon   
 tan_poh_hoon@moe.edu.sg
 
 Mdm Yeo Soh Hong  
