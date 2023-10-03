@@ -54,7 +54,7 @@ mohammed_iskandar_b_salleh@moe.edu.sg
 
   
 
-Mr Alex Chua (Subject Head/ Discipline)  
+Mr Alex Chua (SH/ Discipline)  
 chua_ghee_soon@moe.edu.sg  
 
   
