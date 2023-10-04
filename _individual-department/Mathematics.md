@@ -7,10 +7,9 @@ description: ""
 
 The Mathematics Department aims to develop students who are confident and self-directed problem solvers. Our curriculum seeks to engage students in varied learning experiences that deepen their understanding of concepts and skills, strengthen their reasoning and communication skills, and empower them with the disposition to use mathematics to solve problems, including those in real world contexts.
 
-**Lower Secondary**
+## Lower Secondary
 
-**Mathematics is Everywhere – Making sense of data**
-
+#### Mathematics is Everywhere – Making sense of data
 
 Numbers and graphs are used to give voice to the truth behind data. Constructing a statistical poster is a powerful way to learn how to analyse data and draw conclusions from the data. Students work in groups to collect, classify and tabulate data on a topic of inquiry. As students tell the story through statistical posters, they exercise and develop their quantitative and communication skills.
 
@@ -19,7 +18,7 @@ Students learn to:
 •  Solve problems based on real-world contexts  
 •  Use ICT tools to organise, interpret, analyse and present data and information
 
-**Mathematics is Everywhere - The Escape Room**  
+#### Mathematics is Everywhere - The Escape Room
 The Escape Room is a 60-minute game whereby the students work in groups to solve Math puzzles by making sense of thought-provoking clues to escape from a locked room. Through participating in this fun-filled game with their peers, students get to apply the mathematics they have learned in lower secondary mathematics and appreciate that mathematics is indeed everywhere!
 
 Students learn to:  
@@ -27,9 +26,9 @@ Students learn to:
 •  Work effectively as a team to interpret and make sense of the thought-provoking clues provided  
 •  Use relevant ICT tools/devices to help unravel the clues in solving the puzzles
 
-**Upper Secondary**  
+## Upper Secondary
 
-**Seeing the World Through Mathematical Eyes – Mathematical Modelling**
+#### Seeing the World Through Mathematical Eyes – Mathematical Modelling
 
 Applying mathematics to real-world problems often involves modelling, where reasonable assumptions and simplifications are made. Working in groups, students apply mathematics to real-world problems by formulating appropriate mathematical models to represent them, interpret and evaluate the mathematical solutions in the context of problem and reflecting on alternative model or solution.
 
@@ -41,8 +40,6 @@ Students will learn to:
 
 ## DEPARTMENT CONTACT LIST
 
-
-  
 Mrs Teo Hwee Ping (HOD/ Mathematics)  
 tay_hwee_ping@moe.edu.sg
 
