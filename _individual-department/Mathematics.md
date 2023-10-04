@@ -3,7 +3,7 @@ title: Mathematics
 permalink: /individual-department/mathematics/
 description: ""
 ---
-![2022.01.12 Temasek Sec Department Photographs 11798.jpg](/images/20220112%20Temasek%20Sec%20Department%20Photographs%2011798.jpg)  
+![](/images/2023%20dept%20maths.png)
 
 The Mathematics Department aims to develop students who are confident and self-directed problem solvers. Our curriculum seeks to engage students in varied learning experiences that deepen their understanding of concepts and skills, strengthen their reasoning and communication skills, and empower them with the disposition to use mathematics to solve problems, including those in real world contexts.
 
