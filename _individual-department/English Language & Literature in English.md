@@ -3,7 +3,7 @@ title: English Language & Literature in English
 permalink: /individual-department/english-n-literature/
 description: ""
 ---
-![2022.01.12 Temasek Sec Department Photographs 11764.jpg](/images/20220112%20Temasek%20Sec%20Department%20Photographs%2011764.jpg)  
+![](/images/2023%20dept%20el.png)
 
 **Too often we teach our students what to think, not how to think.**<br>
 The Organisation for Economic Cooperation and Development (OECD)
