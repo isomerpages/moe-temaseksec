@@ -3,8 +3,7 @@ title: Craft & Technology
 permalink: /individual-department/craft-n-technology/
 description: ""
 ---
-![2022.03.23 Temasek Sec Department Photographs 8673.jpg](/images/20220323%20Temasek%20Sec%20Department%20Photographs%208673.jpg)  
-
+![](/images/2023%20dept%20c&t%202.png)
 The Craft & Technology Department's aim is to develop an environment and curriculum that nurture students to think creatively, innovate and be responsible members of society. Through this, we hope our students become independent thinkers who are activists of innovation, and who have a genuine love for aesthetics and gracious living.  
   
 ## Design & Technology (D&T)
