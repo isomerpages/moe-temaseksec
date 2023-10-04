@@ -9,9 +9,9 @@ The Physical Education Department aims to provide quality physical education pro
 
   
 
-**Lower Secondary**
+## Lower Secondary
 
-**Let’s Dance**
+#### Let’s Dance
 
   
 
@@ -29,9 +29,9 @@ Students will:
 *   Manage complexities and ambiguities
 *   Work with others to resolve conflicts
 
-**Upper Secondary**
+## Upper Secondary
 
-**Games Creation Module (GCM)**
+#### Games Creation Module (GCM)
 
   
 
