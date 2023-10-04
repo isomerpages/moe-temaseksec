@@ -3,7 +3,7 @@ title: Humanities
 permalink: /individual-department/humanities/
 description: ""
 ---
-![2022.03.23 Temasek Sec Department Photographs 8651.jpg](/images/20220323%20Temasek%20Sec%20Department%20Photographs%208651.jpg)  
+![](/images/2023%20dept%20humanities.jpg)
 
 ### DEPARTMENT PROGRAMMES
 
