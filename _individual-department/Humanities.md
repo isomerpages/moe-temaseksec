@@ -13,8 +13,8 @@ The Humanities Department aims to develop students with empathy for the human an
 The following subjects are offered by the Department: Social Studies, History, Geography, Economics, Principles of Accounts and Elements of Business Skills.  
 
 
-**Lower Secondary**  
-**Geographical & Historical Investigations**  
+## Lower Secondary
+#### Geographical & Historical Investigations
 
 
 In line with the current Lower Secondary Humanities curriculum, the Geographical and Historical Investigations provide students with opportunities to conduct studies on their communities.  
@@ -28,9 +28,9 @@ Students will:
 *   Draw conclusions and present findings on issues based on the study of historical artefacts, observations and interviews
 
   
-**Upper Secondary**  
+## Upper Secondary
   
-**Model United Nations (MUN)**  
+#### Model United Nations (MUN)
   
 Students who show interest in current affairs and world issues are offered opportunities to participate in various MUNs across the year.  
   
