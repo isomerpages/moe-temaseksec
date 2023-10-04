@@ -3,7 +3,7 @@ title: Mother Tongue Languages
 permalink: /individual-department/mtl/
 description: ""
 ---
-![2022.01.12 Temasek Sec Department Photographs 11815.jpg](/images/20220112%20Temasek%20Sec%20Department%20Photographs%2011815.jpg)  
+![](/images/2023%20dept%20mtl.png)
 
 The Mother Tongue Department's (Chinese Language, Malay Language and Tamil Language) focus is to inspire students to develop a love for the various mother tongue languages and cultures in a nurturing environment, so as to develop students to be confident users of the languages. With the changing multi-cultural and multi-lingual landscape in Singapore, we also hope to raise students' linguistic abilities by focusing on students' reading, writing, speaking and listening skills, and ensuring that all students have the opportunity to express themselves and apply the skills that they have learnt to authentic contexts purposely and meaningfully. We also seek to raise students' cultural awareness through various cultural programmes and activities, so that they can learn to embrace and appreciate their own and other cultures.
 
