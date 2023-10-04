@@ -14,12 +14,8 @@ Literature is also integral in developing students to be (i) critical readers wh
 
 In developing these skills, our mission is for Temasekians to become more self-directed in their learning and application. This way, they will become confident, purposeful and responsible users of the language.&nbsp;
 
-**Secondary One to Five**  
-
-  
-
-**The Reading Programme**
-
+## Secondary One to Five
+#### The Reading Programme
 Our Reading Programme has been re-conceptualised with the aim to not only cultivate a good reading culture among Temasekians, but also to inculcate habits of thinking that will develop Temasekians into critical thinkers. Students are challenged to assess biasness, consider multiple perspectives and draw connections to larger issues (just to name a few thinking frames) when they engage with a text. The selection of multimodal texts that our students will read and discuss has also been specially curated by our team of teachers. They explore current and relevant issues that will encourage students to broaden their horizons and question their pre-existing assumptions.
 
 Students will:
@@ -30,15 +26,8 @@ Students will:
 
 •&nbsp;&nbsp;Become better writers, orators and hence more effective communicators
 
-**
-
-Lower Secondary
-
-**
-
-  
-
-**Readers' Theatre/Production of a Trailer**
+## Lower Secondary
+#### Readers' Theatre/Production of a Trailer
 
 This performative learning experience develops students’ ability to articulate with intent and meaning, representing what they read and hear effectively as they convey the appropriate emotions and characterisation of the individuals in a text. After all, every story told well paints a million images in the listeners’ and viewers’ minds.
 
@@ -50,11 +39,9 @@ Students will:
 
 •&nbsp;&nbsp;Take into consideration Purpose, Audience, Context and Culture, a crucial life skill that is relevant for effective communication in real life contexts, and across all disciplines
 
-**Secondary One to Three**  
+## Secondary One to Three
 
-  
-
-**Public Speaking**
+#### Public Speaking
 
 Selected students who have the talent and passion for public speaking will be identified by their teachers to be trained and to provided with platforms to develop their craft as orators. Seen as our way of stretching students with talent, these opportunities see students developing skills beyond the classroom curriculum.
 
@@ -66,11 +53,8 @@ Students will:
 
 •&nbsp;&nbsp;Gain confidence as writers or speakers
 
-**Secondary One to Five**  
-
-  
-
-****Literary Appreciation Programmes****
+## Secondary One to Five  
+#### Literary Appreciation Programmes
 
 Various literary experiences (e.g. digital theatre programme and SingLit Station’s Book a Writer series) are organised for the students across their four/five years in Temasek. These authentic learning opportunities will serve to enrich and enhance their understanding of how language can be used in an impactful and purposeful manner through different artistic forms.
 
@@ -83,7 +67,7 @@ Students will:
 ## DEPARTMENT CONTACT LIST&nbsp;
 
 
-Ms Nurulhuda Borhan Said (HOD/English Language &amp; English Literature)
+Ms Nurulhuda Borhan Said (HOD/English Language &amp; English Literature)  
 nurulhuda_said@moe.edu.sg  
 
   
@@ -100,11 +84,6 @@ harpreet_kaur_a@moe.edu.sg
 
 Mrs Deborah Huang  
 deborah_chua_lihui@moe.edu.sg
-
-  
-
-Mrs Doris Lee  
-doris_lee@iamtemasek.edu.sg
 
   
 
