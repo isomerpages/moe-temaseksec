@@ -3,6 +3,7 @@ title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
 ---
+![](/images/2023%20dept%20smc.jpg)
 ### SCHOOL LEADERS
 
 <style type="text/css">
