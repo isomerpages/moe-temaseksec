@@ -3,7 +3,7 @@ title: Science
 permalink: /individual-department/science/
 description: ""
 ---
-![2022.01.12 Temasek Sec Department Photographs 11743.jpg](/images/20220112%20Temasek%20Sec%20Department%20Photographs%2011743.jpg)  
+![](/images/2023%20dept%20science.png)
 
 The Science Department's focus is to develop students who continuously seek knowledge, appreciate the works of science in their daily lives and are aware of scientific developments around them. Our science curriculum seeks to help students enjoy and value science as a tool to help them explore the natural and physical world.  
 
