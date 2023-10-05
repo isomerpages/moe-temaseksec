@@ -3,11 +3,10 @@ title: Craft & Technology
 permalink: /individual-department/craft-n-technology/
 description: ""
 ---
-![2022.03.23 Temasek Sec Department Photographs 8673.jpg](/images/20220323%20Temasek%20Sec%20Department%20Photographs%208673.jpg)  
-
+![](/images/2023%20dept%20c&t%202.png)
 The Craft & Technology Department's aim is to develop an environment and curriculum that nurture students to think creatively, innovate and be responsible members of society. Through this, we hope our students become independent thinkers who are activists of innovation, and who have a genuine love for aesthetics and gracious living.  
   
-**Design & Technology (D&T)**  
+## Design & Technology (D&T)
 
 The Lower Secondary curriculum provides our students the opportunity to develop freehand sketching skills through idea generation and development. It also offers tactile learning experiences for students to construct prototypes of their chosen idea.  
   
@@ -25,7 +24,7 @@ Students will:
 • Use appropriate materials and tools to experiment and prototype ideas
 
   
-**Art**  
+## Art
 
 In Lower Secondary, students are taught digital software skills as well as conventional dry and wet media such as colour pencils and poster colours. Students also learn the works of various artists including their intent and adapt the artists' style into their own artworks.
 
@@ -47,7 +46,7 @@ Students will develop:
 
   
 
-**Nutrition & Food Science**  
+## Nutrition & Food Science 
 
 In the Lower Secondary Food and Consumer Education (FCE) programme, students get an opportunity to have a hands-on experience of tasting, seeing and learning about healthy food choices. They will carry out a thematic coursework where they plan a nutritious meal, cook and present it. They then do a reflection on their learning processes. They will carry out ICT collaboration to discuss and make recommendations when buying food products, and explore ways to prevent diet-related diseases. 
 
@@ -70,7 +69,7 @@ Students will become consumers who are:
 • Able to understand that consumers shape the world with their choices
 
   
-**Music**  
+## Music
 
 The Lower Secondary curriculum comprises musical activities that will develop students’ instrumental and piano keyboard playing skills. In addition, students are also exposed to technological skills in midi sequencing and song arrangement. Students' understanding of the elements of music is deepened as they will be taught on how music can be utilised to create different musical styles. These activities involve listening, appreciating and discussing music from various cultures and styles, analysing and evaluating performances through multi-media modes.
 
@@ -106,7 +105,7 @@ vendasalam_chandramohan@moe.edu.sg
 
   
 
-Mr Edward Leow (SH/ Design & Technology)
+Mr Edward Leow (SH/ Design & Technology)   
 leow_mun_tat@moe.edu.sg  
   
 Mdm Farizah Minhart (ST/ Character & Citizenship Education)  
@@ -131,7 +130,7 @@ Mrs Jacinta Zheng
 jacinta_yeo_soo_hua@moe.edu.sg  
   
 Mr Mohamed Anwaar  
-mohamed_al_anwaarulhaq\_asaad@moe.edu.sg  
+mohamed_al_anwaarulhaq_asaad@moe.edu.sg  
   
 Mdm Nur Azlilah Abdul Aziz  
 nur_azlilah_abdul_aziz@moe.edu.sg  

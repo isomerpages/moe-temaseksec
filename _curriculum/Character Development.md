@@ -3,7 +3,7 @@ title: Character Development
 permalink: /curriculum/character-development/
 description: ""
 ---
-![2022.04.08 Temasek Sec Department Photographs 8695.jpg](/images/20220408%20Temasek%20Sec%20Department%20Photographs%208695.jpg)  
+![](/images/2023%20dept%20sdt.jpg)
 
 The Student Development Team (SDT) oversees the design and delivery of a holistic student development experience. With a focus on character education and life-skills development, every Temasekian is nurtured to be a socially responsible youth who is able to lead purposeful lives.&nbsp;
 

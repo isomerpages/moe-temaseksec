@@ -3,15 +3,15 @@ title: Mother Tongue Languages
 permalink: /individual-department/mtl/
 description: ""
 ---
-![2022.01.12 Temasek Sec Department Photographs 11815.jpg](/images/20220112%20Temasek%20Sec%20Department%20Photographs%2011815.jpg)  
+![](/images/2023%20dept%20mtl.png)
 
 The Mother Tongue Department's (Chinese Language, Malay Language and Tamil Language) focus is to inspire students to develop a love for the various mother tongue languages and cultures in a nurturing environment, so as to develop students to be confident users of the languages. With the changing multi-cultural and multi-lingual landscape in Singapore, we also hope to raise students' linguistic abilities by focusing on students' reading, writing, speaking and listening skills, and ensuring that all students have the opportunity to express themselves and apply the skills that they have learnt to authentic contexts purposely and meaningfully. We also seek to raise students' cultural awareness through various cultural programmes and activities, so that they can learn to embrace and appreciate their own and other cultures.
 
 As a Department, we offer Higher Mother Tongue Languages (Chinese, Malay, Tamil). We aim to develop higher level of proficiency, a deeper appreciation, and love for the languages, literature and culture on the students. 
 
-**All Levels**  
+## All Levels  
 
-**Mother Tongue Languages (MTL) Reading Programme**  
+#### Mother Tongue Languages (MTL) Reading Programme
 
 This programme aims to instill an interest for reading MTL short stories, thus helping students to appreciate the author's use of language. Each story bears different themes and characterisation. The varied activities conducted by teachers help make this programme engaging for students. 
 
@@ -23,9 +23,9 @@ Students will:
 •  Be more confident and effective communicators as they create videos/podcasts to present their reflections  
 •  Appreciate and understand the author's craft and creativity in conveying meaning so that they can sharpen their own skills in reading and writing  
 
-**Secondary One to Three**  
+## Secondary One to Three
 
-**Mother Tongue Fortnight Programme**  
+#### Mother Tongue Fortnight Programme
 
 Students are immersed in various cultural and literary activities during the Mother Tongue Fortnight. 
 
@@ -37,10 +37,7 @@ Students will:
 •  Enjoy and express their creativity through various oratorical and singing competitions
 
 ## DEPARTMENT CONTACT LIST
-
-
-  
-**Malay Language Unit**  
+##### Malay Language Unit
   
 Mdm Sahriana Rani (HOD/ Mother Tongue Languages)  
 sahriana_rani@moe.edu.sg  
@@ -63,7 +60,7 @@ rozmaini_abu_bakar@moe.edu.sg
 Mdm Siti Farhana Mohamed Shariff  
 siti_farhana_mohamed_shariff@moe.edu.sg  
 
-**Chinese Language Unit**  
+##### Chinese Language Unit
   
 Ms Chua An Ting (SH/ Chinese Language)  
 chua_an_ting@moe.edu.sg  
@@ -90,7 +87,7 @@ tay_qin_xuan@moe.edu.sg
 Mr Wong Ching Siong  
 wong_ching_siong@moe.edu.sg  
 
-**Tamil Language Unit**  
+##### Tamil Language Unit
   
 Mdm JLM Amaljacintha  
 j_l_m_amaljacintha@moe.edu.sg  

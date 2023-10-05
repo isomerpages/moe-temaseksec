@@ -7,9 +7,9 @@ description: ""
 
 The Information Communications Technology (ICT) Department provides support to all departments in the implementation of the school instructional programme and the use of ICT for teaching and learning in and out of the classrooms.  
 
-**All Levels & Streams**  
+## All Levels & Streams
 
-**Digital Literacy Programme @ TMS**  
+#### Digital Literacy Programme @ TMS
 
 As part of the MOE National Digital Literacy Programme (NDLP), students will be taught digital literacy skills which will enable them to acquire the necessary knowledge and skills in navigating the digital age.
 
@@ -25,9 +25,9 @@ Students will develop the dispositions, knowledge and skills to thrive in the di
 
   
 
-**Sec One to Four (Normal Technical)**  
+## Sec One to Four (Normal Technical)
 
-**Computer Applications (CPA)**  
+#### Computer Applications (CPA)
 
 CPA is a 4-year skills-based subject offered to all Normal Technical students. Students sit for the CPA paper in the GCE 'N'(T) Level Examinations.
 
