@@ -71,7 +71,6 @@ Ms Nurulhuda Borhan Said (HOD/English Language &amp; English Literature)
 nurulhuda_said@moe.edu.sg  
 
   
-
 Ms Mazna Mohd Hussain (SH/ English Language &amp; English Literature)  
 mazna_mohd_hussain@moe.edu.sg  
 
@@ -135,7 +134,7 @@ Ms Sharon Koh
 koh_hui_hoon_sharon@moe.edu.sg
   
 
-Miss Tan Hui Xin  
+Ms Tan Hui Xin  
 tan_hui_xin@moe.edu.sg  
 
   
@@ -147,3 +146,6 @@ tan_poh_hoon@moe.edu.sg
 
 Ms Tia Kai Ling  
 tia_kai_ling@moe.edu.sg
+
+Mrs Doris Lee  
+teo_hwee_hua_a@moe.edu.sg
