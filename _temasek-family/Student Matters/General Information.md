@@ -26,15 +26,13 @@ Website: tmss@cascoedsupply.com.sg / order@cascoedsupply.com.sg&nbsp;
 
 ## SCHOOL UNIFORM
 
-
+InTrend Uniforms <br>
 1 Kaki Bukit Road 1  
 #01-30/31  
 Enterprise One&nbsp;  
-
 Singapore 415934
 
 [](http://www.intrenduniforms.com.sg/)
 
-Tel Number: +65 6741 0930
-
+Tel Number: +65 6741 0930<br>
 Website: www.intrenduniforms.com
