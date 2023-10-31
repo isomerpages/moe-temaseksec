@@ -11,19 +11,17 @@ third_nav_title: Student Matters
 
 
 **Operating hours of the School Bookshop**  
-Monday, Tuesday, Thursday, Friday - 8.00a.m. to 3.00p.m.  
-Wednesday - 8.00a.m. to 2.30 p.m.  
+Monday - Friday <br>From 9.00a.m. to 3.00p.m.  
   
 **Address and Contact of Bookshop Vendor**  
 
-POPULAR Book Co Pte Ltd  
-15 Serangoon North Avenue 5  
-Singapore 554360
+Casco Educational Supply  
+53 Ubi Ave 1, Paya, Ubi Industrial Park, #05-54, 408564
 
 [](https://pacificbookstores.com/)
 
-Tel Number: 6462 9530 / 6462 9529  
-Website: [](http://www.intrenduniforms.com.sg/) [http://www.popular.com.sg](http://www.popular.com.sg/)  
+School Bookshop Contact: 6483 9388 (9am - 3pm) <br> Casco Office Contact: 6547 4204 (9am - 5pm)   
+Website: tmss@cascoedsupply.com.sg / order@cascoedsupply.com.sg&nbsp;
   
 
 ## SCHOOL UNIFORM
@@ -31,7 +29,7 @@ Website: [](http://www.intrenduniforms.com.sg/) [http://www.popular.com.sg](ht
 
 1 Kaki Bukit Road 1  
 #01-30/31  
-Enterprise One   
+Enterprise One&nbsp;  
 
 Singapore 415934
 

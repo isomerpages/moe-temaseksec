@@ -46,3 +46,4 @@ Finally, I would like to draw your attention to our&nbsp;**_three distinctive pr
 I hope that these special qualities and programmes of TMS will come through in your experience of our Open House, and we look forward to welcoming you to the TMS family!
 
 ![](/images/2023%20open%20house%20banner.png)
+#### No pre-registration needed to attend the Open House!
