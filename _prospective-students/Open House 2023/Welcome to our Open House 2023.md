@@ -3,6 +3,7 @@ title: Welcome to our Open House 2023
 permalink: /prospective-students/open-house-2023/welcome/
 description: ""
 third_nav_title: Open House 2023
+variant: markdown
 ---
 <img src="/images/TMS Dept Photoshoot 2021-2.jpg" style="width:400px">
 <br>
@@ -46,4 +47,7 @@ Finally, I would like to draw your attention to our&nbsp;**_three distinctive pr
 I hope that these special qualities and programmes of TMS will come through in your experience of our Open House, and we look forward to welcoming you to the TMS family!
 
 ![](/images/2023%20open%20house%20banner.png)
+
+#### Principal's Talk @ 10am and 1pm
+
 #### No pre-registration needed to attend the Open House!
