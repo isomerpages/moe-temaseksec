@@ -2,92 +2,135 @@
 title: Financial Information
 permalink: /prospective-students/financial-information/
 description: ""
+variant: markdown
 ---
 ### Fees
+          
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:45.0pt"><td style="width:647.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.0pt" valign="top" colspan="5" nowrap="" width="863"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:24.0pt;font-family:
+  &quot;Arial&quot;,sans-serif" lang="EN-US">2024</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:45.0pt"><td style="width:104.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:45.0pt" valign="top" nowrap="" width="139"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">Nationality</span></b></p></td><td style="width:152.1pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.0pt" valign="top" nowrap="" width="203"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">Monthly School Fee</span></b></p></td><td style="width:143.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.0pt" valign="top" width="191"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">Monthly Single-Tier Misc Fee</span></b></p></td><td style="width:126.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.0pt" valign="top" width="169"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">Monthly Autonomous<br>Fee</span></b></p></td><td style="width:121.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.0pt" valign="top" width="162"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">Monthly Total Payable by Student</span></b></p></td></tr><tr style="mso-yfti-irow:2;height:45.0pt"><td style="width:104.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:45.0pt" valign="top" nowrap="" width="139"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">SC</span></p></td><td style="width:152.1pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.0pt" valign="top" nowrap="" width="203"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">$5*</span></p></td><td style="width:143.4pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.0pt" valign="top" nowrap="" width="191"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">$20*</span></p></td><td style="width:126.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.0pt" valign="top" nowrap="" width="169"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">$3</span></p></td><td style="width:121.25pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.0pt" valign="top" nowrap="" width="162"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">$28*</span></p></td></tr><tr style="mso-yfti-irow:3;height:45.0pt"><td style="width:104.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:45.0pt" valign="top" nowrap="" width="139"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">PR</span></p></td><td style="width:152.1pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.0pt" valign="top" nowrap="" width="203"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">$560*</span></p></td><td style="width:143.4pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.0pt" valign="top" nowrap="" width="191"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">$20*</span></p></td><td style="width:126.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.0pt" valign="top" nowrap="" width="169"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">$3</span></p></td><td style="width:121.25pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.0pt" valign="top" nowrap="" width="162"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">$583*</span></p></td></tr><tr style="mso-yfti-irow:4;height:45.0pt"><td style="width:104.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:45.0pt" valign="top" nowrap="" width="139"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">IS (ASEAN)</span></p></td><td style="width:152.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.0pt" valign="top" width="203"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">$970<br>($889.91 + GST $80.09)</span></p></td><td style="width:143.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.0pt" valign="top" width="191"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">$21.80<br>($20.00 + GST $1.80)</span></p></td><td style="width:126.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.0pt" valign="top" nowrap="" width="169"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">$3</span></p></td><td style="width:121.25pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.0pt" valign="top" nowrap="" width="162"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">$994.80</span></p></td></tr><tr style="mso-yfti-irow:5;height:45.0pt"><td style="width:104.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:45.0pt" valign="top" nowrap="" width="139"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">IS (NON-ASEAN)</span></p></td><td style="width:152.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.0pt" valign="top" width="203"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">$1,910<br>($1,752.29 + GST $157.71)</span></p></td><td style="width:143.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.0pt" valign="top" width="191"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">$21.80<br>($20.00 + GST $1.80)</span></p></td><td style="width:126.6pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.0pt" valign="top" nowrap="" width="169"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">$3</span></p></td><td style="width:121.25pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.0pt" valign="top" nowrap="" width="162"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">$1,934.80</span></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes;height:14.25pt"><td style="width:647.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt" valign="top" colspan="5" nowrap="" width="863"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><i><span style="font-size:8.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US">* Excluding GST as GST is subsidised for SC/PR by MOE</span></i><span style="font-size:8.0pt;font-family:&quot;Arial&quot;,sans-serif" lang="EN-US"></span></p></td></tr></tbody></table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-e3i2{background-color:#FFFBF0;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-liqh{background-color:#033172;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-liqh"><span style="font-weight:bold;color:#FFF;background-color:#033172">Nationality</span></th>
-    <th class="tg-liqh"><span style="font-weight:bold;color:#FFF;background-color:#033172">School Fees</span></th>
-    <th class="tg-liqh"><span style="font-weight:bold;color:#FFF;background-color:#033172">Standard + 2nd Tier Misc Fees</span></th>
-    <th class="tg-liqh"><span style="font-weight:bold;color:#FFF;background-color:#033172">Autonomous Fees</span></th>
-    <th class="tg-liqh"><span style="font-weight:bold;color:#FFF;background-color:#033172">Total</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">Singaporean</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">$5.00</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">$20.00</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">$3.00</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">$28.00</span></td>
-  </tr>
-  <tr>
-    <td class="tg-e3i2"><span style="color:#222;background-color:#FFFBF0">Permanent Resident</span></td>
-    <td class="tg-e3i2"><span style="color:#222;background-color:#FFFBF0">$500.00</span></td>
-    <td class="tg-e3i2"><span style="color:#222;background-color:#FFFBF0">$20.00</span></td>
-    <td class="tg-e3i2"><span style="color:#222;background-color:#FFFBF0">$3.00</span></td>
-    <td class="tg-e3i2"><span style="color:#222;background-color:#FFFBF0">$523.00</span></td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">International Student (ASEAN)</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">$910.00</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">$20.00</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">$3.00</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">$933.00</span></td>
-  </tr>
-  <tr>
-    <td class="tg-e3i2"><span style="color:#222;background-color:#FFFBF0">International Student (Non-ASEAN)</span></td>
-    <td class="tg-e3i2"><span style="color:#222;background-color:#FFFBF0">$1,770.00</span></td>
-    <td class="tg-e3i2"><span style="color:#222;background-color:#FFFBF0">$20.00</span></td>
-    <td class="tg-e3i2"><span style="color:#222;background-color:#FFFBF0">$3.00</span></td>
-    <td class="tg-e3i2"><span style="color:#222;background-color:#FFFBF0">$1,793.00</span></td>
-  </tr>
-</tbody>
-</table>
+Singapore Citizen student may choose to pay the single-tier miscellaneous fees and autonomous fees from your Edusave account. Complete the [online Edusave Standing Order form](https://form.gov.sg/5be24a1bb3f842000fdc4e59) with either parent’s SingPass login.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Singapore Citizen student may choose to pay the second-tier miscellaneous fees and autonomous fees from your Edusave account. Complete the online Edusave Standing Order form with either parent's SingPass login.
-
-Presently, Temasek Secondary School operates two financial assistance schemes to help our needy students.
-
-### Ministry of Education Financial Assistance Scheme (MOEFAS)
+Ministry of Education Financial Assistance Scheme (MOEFAS)
 
 This scheme will assist students in:
 
-·&nbsp;Waiver of school fees
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Waiver of school fees
 
-·&nbsp;Waiver of standard miscellaneous fees
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Waiver of single-tier miscellaneous fees
 
-·&nbsp;Free textbooks
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free textbooks
 
-·&nbsp;Free school attire
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free school attire
 
-·&nbsp;Transport allowance
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Transport allowance
 
-·&nbsp;Meal allowance
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Meal allowance
 
-  
+For more information, please click&nbsp;[**here**](https://www.moe.gov.sg/financial-matters/financial-assistance).([**https://www.moe.gov.sg/financial-matters/financial-assistance**](https://www.moe.gov.sg/financial-matters/financial-assistance)).
 
-For more information, please click&nbsp;[**here**](https://www.moe.gov.sg/financial-matters/financial-assistance).  
+To apply for MOEFAS, please click&nbsp;[**here**](https://go.gov.sg/moe-efas).([**https://go.gov.sg/moe-efas**](https://go.gov.sg/moe-efas)).
 
-([**https://www.moe.gov.sg/financial-matters/financial-assistance**](https://www.moe.gov.sg/financial-matters/financial-assistance)).
-
-  
-
-To apply for MOEFAS, please click&nbsp;[**here**](https://go.gov.sg/moe-efas)
-
-([**https://go.gov.sg/moe-efas**](https://go.gov.sg/moe-efas)).
 
 ### School Advisory Committee (SAC) Fund
 
