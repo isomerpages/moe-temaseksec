@@ -2,6 +2,7 @@ collections:
   prospective-students:
     output: true
     order:
+      - Prospectus.md
       - TMS in a Nutshell.md
       - Achievements/.keep
       - Achievements/School Achievements.md
