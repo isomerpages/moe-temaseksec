@@ -43,14 +43,6 @@ The Temasek Secondary School's student councillors orchestrated a dazzling prom 
 
 ![](/images/2023_TMS_Grad_Night_16.png)
 
-![](/images/2023_TMS_Grad_Night_17.png)
-
-![](/images/2023_TMS_Grad_Night_18.png)
-
-![](/images/2023_TMS_Grad_Night_19.png)
-
-![](/images/2023_TMS_Grad_Night_20.png)
-
 ![](/images/2023_TMS_Grad_Night_21.png)
 
 ![](/images/2023_TMS_Grad_Night_22.png)
@@ -89,16 +81,3 @@ The Temasek Secondary School's student councillors orchestrated a dazzling prom 
 
 ![](/images/2023_TMS_Grad_Night_39.png)
 
-![](/images/2023_TMS_Grad_Night_40.png)
-
-![](/images/2023_TMS_Grad_Night_41.png)
-
-![](/images/2023_TMS_Grad_Night_42.png)
-
-![](/images/2023_TMS_Grad_Night_43.png)
-
-![](/images/2023_TMS_Grad_Night_44.png)
-
-![](/images/2023_TMS_Grad_Night_45.png)
-
-![](/images/2023_TMS_Grad_Night_46.png)
