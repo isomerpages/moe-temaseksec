@@ -9,6 +9,14 @@ third_nav_title: Gallery of Events
 
 The Temasek Secondary School's student councillors orchestrated a dazzling prom night at Orchard Rendezvous on November 21, 2023. The theme was Enchanted Forest and the ball room was transformed into a glamorous haven, where students experienced a night of sophistication and camaraderie! The evening included a photo booth capturing candid moments and a culinary buffet spread that delighted the taste buds. With support from the Parent Support Group, the school and organised by the amazing Student Councillors, Grad Night became a cherished memory for all.
 
+![](/images/2023_TMS_Grad_Night_00.png)
+
+![](/images/2023_TMS_Grad_Night_01.png)
+
+![](/images/2023_TMS_Grad_Night_02.png)
+
+![](/images/2023_TMS_Grad_Night_03.png)
+
 ![](/images/2023_TMS_Grad_Night_04.png)
 
 ![](/images/2023_TMS_Grad_Night_05.png)
