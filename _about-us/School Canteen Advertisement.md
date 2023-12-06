@@ -2,14 +2,15 @@
 title: School Canteen Advertisement
 permalink: /about-us/school-canteen-advertisement/
 description: ""
+variant: markdown
 ---
 #### School Canteen Advertisement
 
 
 | Type of Stall | Closing date | <br>
 | -------- | -------- |-------|
-| Halal Malay Rice/Noodles | 30 October 2023 | 
-| Halal Japanese/Korean Food | 30 October 2023 |
+| Halal Japanese/Korean Food | 31 December 2023 |
+|Chinese Noodle | 31 December 2023 |
 
 
 **Application Procedure**
