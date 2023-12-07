@@ -1,7 +1,32 @@
 ---
 title: Sec 1 Registration 2024
 permalink: /events/upcoming-events/sec-1-registration-2024/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: Upcoming Events
 ---
+Temasek Secondary School warmly welcomes all incoming 2024 Sec 1 students to our Temasek Family!
+
+### Details
+The details of the Sec 1 E-Registration & Webinar are as follows:
+
+Date & Time: **21 December 2023 @ 9.00 am (To Be Confirmed)**
+
+Please access the link below on 21st Dec (9.00 am) to join us for the Webinar.
+
+Link & Password: **To be released on 20 December 2023**
+### Programme
+|Time | Item |
+| -------- | -------- |
+| 9.00 am     | Start of Webinar |
+| 9.05 am    | Principal's Welcome Address |
+| 9.10 am     | Sharing by Year Head (Lower Sec) |
+| 9.25 am     | Registration and Admin Matters |
+| 9.45 am     | Q & A sessions |
+| 10.00 am     | SBB Briefing for Parents/Guardians of students offered PG1 or PG2 courses |
+
+Parents will receive a School placement letter as well as HMTL and 3rd Language offer letters (for eligible Express course students) via Parents Gateway (PG) on 21st Dec 2023 (To Be Confirmed).
+
+### SBB Letter of Offer
+1.  If your child is eligible to offer a subject at a more demanding level, you would have received a SBB offer letter via email by 21st Dec (tbc).
+2.  If you have not received it, please email tay_hwee_ping@moe.edu.sg and provide your updated email address as soon as possible.
