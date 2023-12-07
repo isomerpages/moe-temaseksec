@@ -30,7 +30,7 @@ Please access the link to join us for the Webinar.<br>
 | 9.45 | Q &amp; A sessions     |      |
 | 10.00 | SBB Briefing for Parents/Guardians of students offered PG1/PG2 courses |      |
 
-Parents will receive a School placement letter as well as HMTL and 3rd Language offer letters (for eligible Express course students) via Parents Gateway (PG) on 21st December 2023 (To Be Confirmed).
+Parents will receive a School placement letter as well as HMTL and 3rd Language offer letters (for eligible Express course students) via Parents Gateway (PG) on 21st December 2023 (TBC).
 
 ### SBB Letter of Offer
 * If your child is eligible to offer a subject at a more demanding level, you would have received a SBB offer letter via email by 21 December 2023 (TBC).
