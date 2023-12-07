@@ -9,24 +9,26 @@ Temasek Secondary School warmly welcomes all incoming 2024 Sec 1 students to our
 
 ### Details
 The details of the Sec 1 E-Registration &amp; Webinar are as follows.<br>
-Please access the link to join us for the Webinar.
-|   |  |
-| --- | -------- |
-| Date   | 21 December 2023 (TBC)   |
-| Passcode    | 9.00 am     |
-| Link    | https://moe-singapore.zoom.us/j/85014617908     |
-| Passcode    | 109563     |
-|      |       |
+Please access the link to join us for the Webinar.<br>
+
+
+
+Date:   **21 December 2023 (Thu) (TBC)**<br>
+Time: **9.00 am**<br>
+Link: **https://moe-singapore.zoom.us/j/85014617908**<br>
+Passcode: **109563**
+
+
 
 ### Programme
-|Time | Item |
-| -------- | -------- |
-| 9.00 am     | Start of Webinar |
-| 9.05 am    | Principal's Welcome Address |
-| 9.10 am     | Sharing by Year Head (Lower Sec) |
-| 9.25 am     | Registration and Admin Matters |
-| 9.45 am     | Q &amp; A sessions |
-| 10.00 am     | SBB Briefing for Parents/Guardians of students offered PG1 or PG2 courses |
+| Time (am)| Item | |
+| -------- | -------- | - |
+| 9.00     | Start of Webinar     |      |
+| 9.05     | Principal's Welcome Address |      |
+| 9.10     | Sharing by Year Head (Lower Sec)  |      |
+| 9.25     | Registration and Admin Matters     |      |
+| 9.45 | Q &amp; A sessions     |      |
+| 10.00 | SBB Briefing for Parents/Guardians of students offered PG1/PG2 courses |      |
 
 Parents will receive a School placement letter as well as HMTL and 3rd Language offer letters (for eligible Express course students) via Parents Gateway (PG) on 21st December 2023 (To Be Confirmed).
 
