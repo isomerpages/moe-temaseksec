@@ -21,8 +21,14 @@ Please access the link to join us for the Webinar.<br>
 
 
 ### Programme
-| Time (am)| Item | |
-| -------- | -------- | -------- |
+| Time (am)| Item | 
+
+
+| Time (am) | Item | 
+| ------ | ------ |
+|  9.00am|Start of Webinar|
+
+
 | 9.00     | Start of Webinar     |      |
 | 9.05     | Principal's Welcome Address |      |
 | 9.10     | Sharing by Year Head (Lower Sec)  |      |
