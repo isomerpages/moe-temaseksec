@@ -28,7 +28,7 @@ Please access the link to join us for the Webinar.<br>
 | 9.10     | Sharing by Year Head (Lower Sec)  |      |
 | 9.25     | Registration and Admin Matters     |      |
 | 9.45     | Q &amp; A sessions     |      |
-| 10.00 | SBB Briefing for Parents/Guardians of students offered PG1/PG2 courses |      |
+| 10.00    | SBB Briefing for Parents/Guardians of students offered PG1/PG2 courses |      |
 
 
 Parents will receive a School placement letter as well as HMTL and 3rd Language offer letters (for eligible Express course students) via Parents Gateway (PG) on 21st December 2023 (TBC).
