@@ -8,17 +8,15 @@ third_nav_title: Upcoming Events
 Temasek Secondary School warmly welcomes all incoming 2024 Sec 1 students to our Temasek Family!
 
 ### Details
-The details of the Sec 1 E-Registration & Webinar are as follows:
-
+The details of the Sec 1 E-Registration & Webinar are as follows.
+Please access the link to join us for the Webinar.
 |   |  |
-| -------- | -------- |
-| Date   | 21 December 2023   |
+| --- | -------- |
+| Date   | 21 December 2023 (TBC)   |
 | Passcode    | 9.00 am     |
 | Link    | https://moe-singapore.zoom.us/j/85014617908     |
 | Passcode    | 109563     |
 |      |       |
-
-Please access the link to join us for the Webinar.
 
 ### Programme
 |Time | Item |
@@ -30,8 +28,8 @@ Please access the link to join us for the Webinar.
 | 9.45 am     | Q & A sessions |
 | 10.00 am     | SBB Briefing for Parents/Guardians of students offered PG1 or PG2 courses |
 
-Parents will receive a School placement letter as well as HMTL and 3rd Language offer letters (for eligible Express course students) via Parents Gateway (PG) on 21st Dec 2023 (To Be Confirmed).
+Parents will receive a School placement letter as well as HMTL and 3rd Language offer letters (for eligible Express course students) via Parents Gateway (PG) on 21st December 2023 (To Be Confirmed).
 
 ### SBB Letter of Offer
-1.  If your child is eligible to offer a subject at a more demanding level, you would have received a SBB offer letter via email by 21st Dec (tbc).
-2.  If you have not received it, please email tay_hwee_ping@moe.edu.sg and provide your updated email address as soon as possible.
+* If your child is eligible to offer a subject at a more demanding level, you would have received a SBB offer letter via email by 21 December 2023 (TBC).
+* If you have not received it, please email tay_hwee_ping@moe.edu.sg and provide your updated email address as soon as possible.
