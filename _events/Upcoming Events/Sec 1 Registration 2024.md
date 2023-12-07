@@ -11,12 +11,12 @@ Temasek Secondary School warmly welcomes all incoming 2024 Sec 1 students to our
 The details of the Sec 1 E-Registration &amp; Webinar are as follows.<br>
 Please access the link to join us for the Webinar.<br>
 
-
-
-Date:   **21 December 2023 (Thu) (TBC)**<br>
-Time: **9.00 am**<br>
-Link: **https://moe-singapore.zoom.us/j/85014617908**<br>
-Passcode: **109563**
+|   |   |   |
+| -------- | -------- | -------- |
+| Date    | 21 December 2023 (Thu) (TBC)     |  |
+| Time    | 9.00 am     |  |
+| Webinar Link    | https://moe-singapore.zoom.us/j/85014617908     |  |
+| Webinar Password    | 109563  |  |
 
 
 
