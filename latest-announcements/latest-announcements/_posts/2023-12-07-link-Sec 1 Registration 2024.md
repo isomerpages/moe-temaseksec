@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.temaseksec.moe.edu.sg/events/upcoming-events/sec-1-registration-2024/
+external: https://www.temaseksec.moe.edu.sg/events/upcoming-events/sec-1-registration-2024/
 ---
