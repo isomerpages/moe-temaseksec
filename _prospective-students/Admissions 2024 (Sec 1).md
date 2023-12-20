@@ -1,6 +1,6 @@
 ---
-title: Admission 2024 (Sec 1)
-permalink: /prospective-students/admissions-2023-sec-1/
+title: Admissions 2024 (Sec 1)
+permalink: /prospective-students/admissions-2024-sec-1/
 description: ""
 variant: tiptap
 ---
