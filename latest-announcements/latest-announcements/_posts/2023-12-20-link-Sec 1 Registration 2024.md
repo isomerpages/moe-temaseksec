@@ -1,6 +1,6 @@
 ---
 title: Sec 1 Registration 2024
-date: 2023-12-07
+date: 2023-12-20
 layout: link
 description: ""
 image: ""
