@@ -2,13 +2,13 @@ collections:
   prospective-students:
     output: true
     order:
+      - Admission 2024 (Sec 1).md
       - Appeal for Sec 1 Admissions 2024.md
       - TMS in a Nutshell.md
       - Achievements/.keep
       - Achievements/School Achievements.md
       - Achievements/GCE Results.md
       - Achievements/CCA Achievements.md
-      - Admission 2024 (Sec 1).md
       - Direct School Admission/.keep
       - Direct School Admission/DSA Information (2023).md
       - Direct School Admission/Choir DSA.md
