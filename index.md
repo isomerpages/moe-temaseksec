@@ -9,10 +9,10 @@ sections:
   - hero:
       key_highlights:
         - title: Latest News
-          description: School Calendar 2023
+          description: School Calendar 2024
           url: /events/school-calendar/
-        - title: Sec 1 Registration 2024
-          description: 21 December 2024 (Thu)
+        - title: Sec 1 Registration
+          description: 21 December 2023 (Thu)
           url: /events/upcoming-events/sec-1-registration-2024
       background: /images/2023schoolbanner.png
   - resources:
