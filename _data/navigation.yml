@@ -1,0 +1,23 @@
+logo: /images/logotemasek.jpg
+links:
+  - title: About Us
+    collection: about-us
+  - title: Curriculum
+    collection: curriculum
+  - title: Co-Curriculum
+    url: /co-curriculum/temasek-experience/
+    sublinks:
+      - title: Temasek Experience
+        url: /co-curriculum/temasek-experience/
+      - title: CCE
+        url: /co-curriculum/character-n-citizenship-education-cce/
+      - title: Sexuality Education 2023
+        url: /co-curriculum/sexuality-education-2023/
+      - title: Student Leadership (LEAD@TMS)
+        url: /co-curriculum/student-leadership-lead-tms/
+  - title: Prospective Students
+    collection: prospective-students
+  - title: Events
+    collection: events
+  - title: Temasek Family
+    collection: temasek-family

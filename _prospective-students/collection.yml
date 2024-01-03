@@ -1,0 +1,29 @@
+collections:
+  prospective-students:
+    output: true
+    order:
+      - Sec 1 Admissions 2024.md
+      - Appeal for Admissions 2024 (Sec 1).md
+      - TMS in a Nutshell.md
+      - Achievements/.keep
+      - Achievements/School Achievements.md
+      - Achievements/GCE Results.md
+      - Achievements/CCA Achievements.md
+      - Direct School Admission/.keep
+      - Direct School Admission/DSA Information (2023).md
+      - Direct School Admission/Choir DSA.md
+      - Direct School Admission/Dance DSA.md
+      - Direct School Admission/Drama DSA.md
+      - Direct School Admission/Shooting DSA.md
+      - Direct School Admission/Student Leadership DSA.md
+      - Open House 2023/.keep
+      - Open House 2023/Welcome to our Open House 2023.md
+      - Open House 2023/Temasek Experience.md
+      - Open House 2023/Aesthetic Performances.md
+      - Open House 2023/Uniformed Groups.md
+      - Open House 2023/Sports.md
+      - Open House 2023/Performing Arts.md
+      - Open House 2023/Clubs.md
+      - Open House 2023/Temasek Secondary School Prospectus.md
+      - Open House 2023/FAQs.md
+      - Financial Information.md

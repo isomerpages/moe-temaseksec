@@ -1,0 +1,16 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - School History.md
+      - Mission, Vision, Motto.md
+      - Values & Strategic Direction.md
+      - School Crest, School Song, The Temasek Creed.md
+      - Principal's Message.md
+      - School Advisory Committee.md
+      - School Management Committee.md
+      - Our Teachers (Form Teachers).md
+      - Contact Us.md
+      - Privacy Policy.md
+      - School Canteen Advertisement.md
+      - FAQs.md
