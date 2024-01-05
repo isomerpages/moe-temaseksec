@@ -5,3 +5,4 @@ variant: tiptap
 description: ""
 third_nav_title: Gallery of Events
 ---
+<div class="iframe-wrapper"><iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XO3tvm_aUtY?si=DmzE9IQJMn5Ff_nt"></iframe></div><p></p><p>2024 marks a new beginning for our Sec 1 students in Temasek Secondary School. With great excitement and anticipation, the newest members of the Temasek family were warmly welcomed by our student leaders (Student Councillors, Peer Support Leaders, Sports Captains, Class Managers and Young Ambassadors) who conducted many fun and exciting activities to help them learn what it means to be a Temasekian!</p><p>The Sec 1 Orientation is a showcase of the first important experience for our freshly minted Temasekians of 2024!</p>
