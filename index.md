@@ -11,7 +11,7 @@ sections:
         - title: Latest News
           description: School Calendar 2024
           url: /events/school-calendar/
-        - title: Sec 1 Registration
+        - title: Sec 1 Registration (2024 Intake)
           description: 21 December 2023 (Thu)
           url: /events/upcoming-events/sec-1-registration-2024
       background: /images/2023schoolbanner.png
