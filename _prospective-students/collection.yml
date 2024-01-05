@@ -2,7 +2,7 @@ collections:
   prospective-students:
     output: true
     order:
-      - Sec 1 Admissions 2024.md
+      - Sec 1 Admissions (2024 Intake).md
       - Appeal for Admissions 2024 (Sec 1).md
       - TMS in a Nutshell.md
       - Achievements/.keep
