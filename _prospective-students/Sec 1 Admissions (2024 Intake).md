@@ -1,5 +1,5 @@
 ---
-title: Sec 1 Admissions 2024
+title: Sec 1 Admissions (2024 Intake)
 permalink: /prospective-students/sec-1-admissions-2024/
 description: ""
 variant: tiptap

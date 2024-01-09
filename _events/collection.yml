@@ -2,7 +2,7 @@ collections:
   events:
     output: true
     order:
-      - Upcoming Events/Sec 1 Registration 2024.md
+      - Upcoming Events/Sec 1 Registration (2024 Intake).md
       - Upcoming Events/All Staff Day 2023.md
       - Upcoming Events/Temasek Charity Challenge 2023.md
       - Upcoming Events/Speech Day 2023.md
@@ -14,6 +14,7 @@ collections:
         General Office Operation Hours.md
       - Upcoming Events/Open House 2022.md
       - School Calendar 2024.md
+      - Gallery of Events/Sec 1 Orientation 2024.md
       - Gallery of Events/Graduation Night 2023.md
       - Gallery of Events/.keep
       - Gallery of Events/Open House 2023.md

@@ -1,5 +1,5 @@
 ---
-title: Appeal for Admissions 2024 (Sec 1)
+title: Appeal for Admissions (2024 Intake)
 permalink: /prospective-students/appeal-for-sec-1-admissions-2024/
 variant: tiptap
 description: ""

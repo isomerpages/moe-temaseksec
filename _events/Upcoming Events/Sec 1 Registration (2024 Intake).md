@@ -1,5 +1,5 @@
 ---
-title: Sec 1 Registration 2024
+title: Sec 1 Registration (2024 Intake)
 permalink: /events/upcoming-events/sec-1-registration-2024/
 variant: tiptap
 description: ""

@@ -1,5 +1,5 @@
 ---
-title: Sec 1 Admissions 2024
+title: Sec 1 Admissions (2024 Intake)
 date: 2023-12-20
 layout: link
 description: ""
