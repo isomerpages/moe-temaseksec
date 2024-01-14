@@ -3,51 +3,6 @@ title: Basketball (Boys)
 permalink: /curriculum/co-curricular-activities/basketball-boys/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: tiptap
 ---
-## Basketball (Boys)
-
-![banner-basketball.jpg](/images/basketball.jpg)
-
-**Teacher-in-charge**
-
-Mr Lee Sze Meng (I/C)<br>
-Mdm Yeo Soh Hong (2I/C)
-
-**Executive Committee**
-
-Captain: Mohan Kumar Vaseekaran<br>
-Vice Captain: Jayden Mok Ze Yu
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/g9DR0v3SfZs?si=Pt9iSVzJLEPyxSGR" height="315" width="560"></iframe>
-
-## HISTORY
-
-
-With a rich history spanning several decades, our CCA has continued to develop members of character and strive for team excellence. In 2019, our C division boys made it to top 8 of the zonal competition.  
-  
-![bb1.jpg](/images/bb1.jpg)
-
-## MISSION
-
-
-Basketball aspires to provide its&nbsp;players&nbsp;with the&nbsp;opportunity to&nbsp;learn the fundamental&nbsp;skills of&nbsp;basketball&nbsp;while instilling life-lessons and values such as character, team work, discipline, respect and sportsmanship.
-
-## TRAINING
-
-
-![bb2.jpg](/images/bb2.jpg)  
-  
-Training is held twice a week in school. The training programme is holistic in approach, focusing on two aspects.  
-  
-The first aspect is developing physical fitness such as timing, coordination, speed, strength, and stamina with an emphasis on ball handling skills of dribbling, passing and shooting. The second aspect seeks to maintain an athlete’s well-being with sessions on nutrition and injury management. Members also learn technical aspects in basketball refereeing to enhance their game knowledge.
-
-## OPPORTUNITIES
-
-
-![bb3.jpg](/images/bb3.jpg)  
-  
-*   Participate in competitions such as the National Inter-Schools Championships and the East Zone Schools Basketball tournament&nbsp;
-*   Participate in Basketball clinic sessions with the Singapore Slingers&nbsp;
-*   View matches during events such as the ASEAN School Games
-
-<img style="width:50%" src="/images/cca%20basketball.jpg">
+<h2>Basketball (Boys)</h2><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="banner-basketball.jpg" src="/images/basketball.jpg"></div><p><strong>Teachers-in-charge</strong></p><ul data-tight="true" class="tight"><li><p>Mr Lee Sze Meng (I/C)</p></li><li><p>Mdm Yeo Soh Hong (2I/C)</p></li></ul><div class="iframe-wrapper"><iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/g9DR0v3SfZs?si=Pt9iSVzJLEPyxSGR"></iframe></div><h2>HISTORY</h2><p>With a rich history spanning several decades, our CCA has continued to develop members of character and strive for team excellence. In 2019, our C division boys made it to top 8 of the zonal competition.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="bb1.jpg" src="/images/bb1.jpg"></div><h2>MISSION</h2><p>Basketball aspires to provide its&nbsp;players&nbsp;with the&nbsp;opportunity to&nbsp;learn the fundamental&nbsp;skills of&nbsp;basketball&nbsp;while instilling life-lessons and values such as character, team work, discipline, respect and sportsmanship.</p><h2>TRAINING</h2><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="bb2.jpg" src="/images/bb2.jpg"></div><p>Training is held twice a week in school. The training programme is holistic in approach, focusing on two aspects.</p><p>The first aspect is developing physical fitness such as timing, coordination, speed, strength, and stamina with an emphasis on ball handling skills of dribbling, passing and shooting. The second aspect seeks to maintain an athlete’s well-being with sessions on nutrition and injury management. Members also learn technical aspects in basketball refereeing to enhance their game knowledge.</p><h2>OPPORTUNITIES</h2><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="bb3.jpg" src="/images/bb3.jpg"></div><ul data-tight="true" class="tight"><li><p>Participate in competitions such as the National Inter-Schools Championships and the East Zone Schools Basketball tournament&nbsp;</p></li><li><p>Participate in Basketball clinic sessions with the Singapore Slingers&nbsp;</p></li><li><p>View matches during events such as the ASEAN School Games</p></li></ul><div class="isomer-image-wrapper"><img style="width:50%" height="auto" width="100%" src="/images/cca%20basketball.jpg"></div><p></p>
