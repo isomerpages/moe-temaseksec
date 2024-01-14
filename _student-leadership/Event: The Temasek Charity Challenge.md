@@ -4,11 +4,11 @@ permalink: /student-leadership/event-the-temasek-charity-challenge/
 description: ""
 variant: markdown
 ---
-Every year, the students and student leaders organise the Temasek Charity Challenge, an event to raise funds for the President's Challenge.  
+Every year, the student leaders organise the Temasek Charity Challenge, an event to raise funds for the President's Challenge.  
 
-TCC has two parts: the street fund-raising is done by the Sec 3-5s whilst the GoMAD Carnival is done by the Sec 1-2s in the school!
+The challenge consists of two parts. The Sec 1-2s run a the GoMAD Carnival in school while the Sec 3-5s go to the streets to fund-raise!
 
-Over the years, the school has raised more than $500k for the President's Challenge!
+Over the years, the TCC has raised more than $500k for the President's Challenge!
 
 This culminates in a Record-Making Event in the Singapore Book of Records to celebrate the fund-raising efforts of the students!  
 
