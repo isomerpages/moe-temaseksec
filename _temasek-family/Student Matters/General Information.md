@@ -3,9 +3,8 @@ title: General Information
 permalink: /tms-family/student-matters/general-information/
 description: ""
 third_nav_title: Student Matters
+variant: markdown
 ---
-[Student Handbook](/tms-family/student-handbook)  
-[School Calendar 2022](/events/school-calendar)  
 
 ## SCHOOL BOOKSHOP
 
