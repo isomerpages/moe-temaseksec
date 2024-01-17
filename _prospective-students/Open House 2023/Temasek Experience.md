@@ -3,6 +3,7 @@ title: Temasek Experience
 permalink: /prospective-students/open-house-2022/temasek-experience/
 description: ""
 third_nav_title: Open House 2023
+variant: markdown
 ---
 ## I am Temasek
 
@@ -11,6 +12,8 @@ third_nav_title: Open House 2023
 ## We are Temasek
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jejlkym0IhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+## Sec 1 Adventure Camp 2024
 
 ## Graduation 2023
 
