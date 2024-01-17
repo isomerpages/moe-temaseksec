@@ -14,6 +14,10 @@ variant: markdown
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jejlkym0IhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ## Sec 1 Adventure Camp 2024
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qbzLoU4Zty4?si=tEEcBMV9HAUEclht" height="315" width="560"></iframe>
+
+## Sec 1 Orientation 2024
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/XO3tvm_aUtY?si=C3hDO_mgUJ-0d-p2" height="315" width="560"></iframe>
 
 ## Graduation 2023
 
