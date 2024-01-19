@@ -14,4 +14,4 @@ This culminates in a Record-Making Event in the Singapore Book of Records to cel
 
 This has been a tradition since 2006!
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/7FiENe90FtU?si=AX5K7t1F559Xnqxi" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Bd_wG6tjXHM?si=N0GNb3CkNFuKHXD1" height="315" width="560"></iframe>

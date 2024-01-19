@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - School Calendar 2024.md
       - Upcoming Events/.keep
       - Upcoming Events/Young Leaders Programme 2024 (for primary schools).md
       - Upcoming Events/Sec 1 Registration (2024 Intake).md
@@ -13,10 +14,10 @@ collections:
       - Upcoming Events/Closure of School on 22 November 2022 and Change in
         General Office Operation Hours.md
       - Upcoming Events/Open House 2022.md
-      - School Calendar 2024.md
+      - Gallery of Events/Sec 1 Adventure Camp 2024.md
+      - Gallery of Events/.keep
       - Gallery of Events/Sec 1 Orientation 2024.md
       - Gallery of Events/Graduation Night 2023.md
-      - Gallery of Events/.keep
       - Gallery of Events/Open House 2023.md
       - Gallery of Events/End Of Semester Activities 2023.md
       - Gallery of Events/Farewell Assembly 2023.md
