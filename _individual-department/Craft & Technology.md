@@ -2,6 +2,7 @@
 title: Craft & Technology
 permalink: /individual-department/craft-n-technology/
 description: ""
+variant: markdown
 ---
 ![](/images/2023%20dept%20c&t%202.png)
 The Craft & Technology Department's aim is to develop an environment and curriculum that nurture students to think creatively, innovate and be responsible members of society. Through this, we hope our students become independent thinkers who are activists of innovation, and who have a genuine love for aesthetics and gracious living.  
@@ -103,11 +104,12 @@ Students  will be able to:
 Mr Vendasalam Chandramohan (Year Head/ Lower Sec)   
 vendasalam_chandramohan@moe.edu.sg  
 
-  
-
 Mr Edward Leow (SH/ Design & Technology)   
 leow_mun_tat@moe.edu.sg  
   
+Mr Elliot Ong  (SH/ Student Leadership) 
+ong_yan_pei_elliot@moe.edu.sg  
+
 Mdm Farizah Minhart (ST/ Character & Citizenship Education)  
 farizah_minhart@moe.edu.sg  
   
@@ -120,9 +122,6 @@ rebecca_loke@moe.edu.sg
 Mr Ali Jaafar  
 ali_jaafar@moe.edu.sg  
   
-Mr Elliot Ong  
-ong_yan_pei_elliot@moe.edu.sg  
-  
 Mdm Ivy Tay  
 tay_lay_peng@moe.edu.sg  
   
@@ -134,7 +133,6 @@ mohamed_al_anwaarulhaq_asaad@moe.edu.sg
   
 Mdm Nur Azlilah Abdul Aziz  
 nur_azlilah_abdul_aziz@moe.edu.sg  
-  
   
 Mr Salleh Kassim  
 salleh_kassim@moe.edu.sg  
