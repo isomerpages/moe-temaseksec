@@ -2,6 +2,7 @@
 title: Science
 permalink: /individual-department/science/
 description: ""
+variant: markdown
 ---
 ![](/images/2023%20dept%20science.png)
 
@@ -47,72 +48,32 @@ The Temasek school experience aims to equip students with the knowledge, skills 
 Ms Alexis Lim (HOD/ Science)  
 alexis_lim@moe.edu.sg  
 
-  
-
 Dr Bryan Tan (SSD/ School Staff Developer)  
 bryan_tan_yong_hao@moe.edu.sg  
-
-  
 
 Mr Jared Oh (HOD/Student Leadership & Aesthetics)  
 jared_oh@moe.edu.sg
 
-  
-
-Ms Lok Teng Ping (SH/ Student Leadership)   
-teng_ping_lok@moe.edu.sg
-
-  
+Mdm Nur 'Adilah Suhaimi Salleh (SH/ Pupil Well-Being)
+nur_adilah_suhaimi_salleh@moe.edu.sg 
 
 Mrs Tracy Teo (ST/ Chemistry)  
 lim_sue_yee_tracy@moe.edu.sg
 
-  
-
 Mdm Chua Ying Ling Eileen  
 chua_ying_ling_eileen@moe.edu.sg
-
-
-
-Ms Ho Foong Ling  
-ho_foong_ling@moe.edu.sg
-
-  
 
 Mdm Karima Syahirah Abdul Karim  
 karima_syahirah_abdul_ka@moe.edu.sg  
 
-  
-
 Mr Kuah Chin Yong  
 kuah_chin_yong@moe.edu.sg  
-
-  
 
 Mr Lee Sze Meng  
 lee_sze_meng@moe.edu.sg  
 
-  
-
-
-Mdm Nur' Adilah Suhaimi Salleh  
-nur_adilah_suhaimi_salleh@moe.edu.sg  
-
-   
-
-  
-
 Mdm Tham Wai Leng  
-tham_wai_leng@moe.edu.sg  
-
-
-
-  
-
-Ms Woon Mui Lang  
-woon_mui_lang@moe.edu.sg  
-
-  
+tham_wai_leng@moe.edu.sg 
 
 Mr Yeo Jun Song  
 yeo_jun_song@moe.edu.sg
