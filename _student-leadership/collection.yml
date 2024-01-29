@@ -2,6 +2,7 @@ collections:
   student-leadership:
     output: true
     order:
+      - House Captains.md
       - Student Leadership (LEAD@TMS).md
       - Philosophy and Desired Outcomes.md
       - Student Leadership Development Framework.md
