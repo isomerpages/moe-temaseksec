@@ -2,13 +2,14 @@
 title: Student Representative Committee
 permalink: /student-leadership/student-representative-committee/
 description: ""
+variant: markdown
 ---
 <img style="width:40%" src="/images/Crest%20SRC.png">
 
 **Teacher-in-charge**  
 
 Mr Jared Oh  <br>
-Ms Lok Teng Ping  
+Mr Elliot Ong
   
 **Members**
 
