@@ -38,9 +38,8 @@ to school safety, school improvement and general direction of the student
 leadership groups.</p>
 <h3>Key School-Wide Events</h3>
 <p>Student Dialogue sessions</p>
-<p>Youth Day Celebration</p>
-<p>Anything-But-A-Bag Day</p>
-<p>Chinese New Year Celebrations</p>
+<p>Youth Day Celebrations</p>
+<p>Youth Day</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2019%20Dialogue%20Session.png">
 </div>
