@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <p>Temasek Secondary School has seven houses to strengthen school spirit
-and nurture excellence in every student. The seven houses Denali, Everest,
-Fuji, Kilimanjaro, Matterhorn, Olympus and Rinjani! battle out throughout
+and nurture excellence in every student. The seven houses (Denali, Everest,
+Fuji, Kilimanjaro, Matterhorn, Olympus and Rinjani) battle out throughout
 the year in various competitions across the whole year to attain points
 that will help the win the House Cup.</p>
 <p></p>
