@@ -16,7 +16,7 @@ Play and Temasek Acappella Group present TAP! (Temasek Aesthetic Performers)
 Concert! The 2-night concert will feature entertainment from all five groups
 and will be enjoyable evenings for everyone!</p>
 <p>Tickets will be on sale from 25 March 2024 (Mon)!</p>
-<p>Check out the QR Code for online sales on this date!</p>
+<p>Check out the link HERE and QR Code for online sales on this date!</p>
 <p></p>
 <p>TAP: DAT (Dance, Acappella, Theatre) featuring the Freestylers, SeriousPlay
 is on 13 April 2024 (Sat) @ 7pm @ Victoria Theatre.</p>
