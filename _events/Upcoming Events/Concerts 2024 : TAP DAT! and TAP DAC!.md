@@ -18,7 +18,7 @@ and will be enjoyable evenings for everyone!</p>
 <p>Tickets will be on sale from 25 March 2024 (Mon)!</p>
 <p>Check out the QR Code for online sales on this date!</p>
 <p></p>
-<p>TAP: DAT (Dance, Acappella, Theatre) is on 13 April 2024 (Sat) @ 7pm @
-Victoria Theatre while</p>
-<p>TAP: BaC (BAnd, Choir) is on 27 April 2024 (Sat) @ 7.30pm @ NAFA Lee Foundation
-Auditorium</p>
+<p>TAP: DAT (Dance, Acappella, Theatre) featuring the Freestylers, SeriousPlay
+is on 13 April 2024 (Sat) @ 7pm @ Victoria Theatre.</p>
+<p>TAP: BaC (BAnd, Choir) featuring Temasek Wind Ensemble and Temasek Chorale
+is on 27 April 2024 (Sat) @ 7.30pm @ NAFA Lee Foundation Auditorium.</p>
