@@ -12,9 +12,9 @@ third_nav_title: Upcoming Events
 </div>
 <p>Temasek Secondary School Aesthetic CCAs are back!</p>
 <p>The Temasek Freestyles, Temasek Chorale, Temasek Wind Ensemble, Serious
-Play and Temasek Acappella Group present TAP! (Temasek Aesthetic Performers)
-Concert! The 2-night concert will feature entertainment from all five groups
-and will be enjoyable evenings for everyone!</p>
+Play and Temasek Acappella Group present TAP! (Temasek Aesthetic Performances)!
+The 2-night concert will feature entertainment from all five groups and
+will be enjoyable evenings for everyone!</p>
 <p>Tickets will be on sale from 25 March 2024 (Mon)!</p>
 <p>Check out the link HERE and QR Code for online sales on this date!</p>
 <p></p>
