@@ -13,7 +13,11 @@ third_nav_title: Upcoming Events
 <p>Temasek Secondary School Aesthetic CCAs are back!</p>
 <p>The Temasek Freestyles, Temasek Chorale, Temasek Wind Ensemble, Serious
 Play and Temasek Acappella Group present TAP! (Temasek Aesthetic Performers)
-Concert!</p>
+Concert! The 2-night concert will feature entertainment from all five groups
+and will be enjoyable evenings for everyone!</p>
+<p>Tickets will be on sale from 25 March 2024 (Mon)!</p>
+<p>Check out the QR Code for online sales on this date!</p>
+<p></p>
 <p>TAP: DAT (Dance, Acappella, Theatre) is on 13 April 2024 (Sat) @ 7pm @
 Victoria Theatre while</p>
 <p>TAP: BaC (BAnd, Choir) is on 27 April 2024 (Sat) @ 7.30pm @ NAFA Lee Foundation
