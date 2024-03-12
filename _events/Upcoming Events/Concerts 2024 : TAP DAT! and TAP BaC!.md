@@ -1,6 +1,6 @@
 ---
-title: "Concerts 2024 : TAP DAT! and TAP DAC!"
-permalink: /events/upcoming-events/concerts-tapdat-tapdac/
+title: "Concerts 2024 : TAP DAT! and TAP BaC!"
+permalink: /events/upcoming-events/concerts-tapdat-tapbac/
 variant: tiptap
 description: ""
 image: /images/2024_Combined_Concert_Poster.png
