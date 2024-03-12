@@ -32,7 +32,8 @@ SeriousPlay and TAG
 <p>19 April 2024 (Fri) for TAP:BaC!</p>
 </li>
 </ul>
-<p>Check out the link <a href="go.gov.sg/2024TMS-TAP-Tickets" rel="noopener noreferrer nofollow" target="_blank">HERE</a> and QR Code for online sales!</p>
+<p>Check out the link <a href="https://go.gov.sg/2024tms-tap-tickets" rel="noopener noreferrer nofollow" target="_blank">HERE</a> and QR Code for online
+sales!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_2024tms_tap_tickets.png">
