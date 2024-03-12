@@ -23,10 +23,16 @@ SeriousPlay and TAG
 <p>TAP:BaC (BAnd, Choir) featuring Temasek Wind Ensemble and Temasek Chorale
 <br>is on <strong>27 April 2024 (Sat) @ 7.30pm @ NAFA Lee Foundation Theatre</strong>.</p>
 <p></p>
-<p>Tickets will be on sale till 12 March 2024 (Fri) for TAP:DAT and 26 March
-2024 (Fri) for TAP:BaC!</p>
-<p>Check out the link <a href="go.gov.sg/ 2024TMS-TAP-Tickets" rel="noopener noreferrer nofollow" target="_blank">HERE</a> and QR Code for online sales
-on this date!</p>
+<p>Tickets will be on sale till</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>5 April 2024 (Fri) for TAP:DAT and</p>
+</li>
+<li>
+<p>19 April 2024 (Fri) for TAP:BaC!</p>
+</li>
+</ul>
+<p>Check out the link <a href="go.gov.sg/ 2024TMS-TAP-Tickets" rel="noopener noreferrer nofollow" target="_blank">HERE</a> and QR Code for online sales!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_2024tms_tap_tickets.png">
