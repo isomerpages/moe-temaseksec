@@ -13,9 +13,10 @@ third_nav_title: Upcoming Events
 <p>Temasek Secondary School Aesthetic CCAs are back!</p>
 <p>The Temasek Freestyles, Temasek Chorale, Temasek Wind Ensemble, Serious
 Play and Temasek Acappella Group present TAP! (Temasek Aesthetic Performances)!
-The 2-night concert will feature differnt entertainment for each night
+The 2-night concert will feature different entertainment for each night
 from all five groups and will be enjoyable evenings for everyone!</p>
-<p>Tickets will be on sale from 25 March 2024 (Mon)!</p>
+<p>Tickets will be on sale till 12 March 2024 (Fri) for TAP:DAT and 26 March
+2024 (Fri) for TAP:BaC!</p>
 <p>Check out the link <a href="go.gov.sg/ 2024TMS-TAP-Tickets" rel="noopener noreferrer nofollow" target="_blank">HERE</a> and QR Code for online sales
 on this date!</p>
 <p></p>
