@@ -44,6 +44,3 @@ not only a night of fun, but also a meaningful one!</p>
 ![](/images/2024_TMS_Movie_Nite_12.png)
 
 ![](/images/2024_TMS_Movie_Nite_13.png)
-
-
-
