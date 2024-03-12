@@ -20,7 +20,7 @@ from all five groups and will be enjoyable evenings for everyone!</p>
 on this date!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_2024tms_tap_tickets.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_2024tms_tap_tickets.png">
 </div>
 <p>TAP: DAT (Dance, Acappella, Theatre) featuring the Freestylers, SeriousPlay
 and TAG
