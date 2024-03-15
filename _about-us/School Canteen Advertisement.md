@@ -9,8 +9,7 @@ variant: markdown
 
 | Type of Stall | Closing date | <br>
 | -------- | -------- |-------|
-| Halal Japanese/Korean Food | 31 December 2023 |
-|Chinese Noodle | 31 December 2023 |
+| Halal Japanese/Korean Food | 15 April 2024 |
 
 
 **Application Procedure**
