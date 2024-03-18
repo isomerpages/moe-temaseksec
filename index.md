@@ -11,9 +11,9 @@ sections:
         - title: Latest News
           description: School Calendar 2024
           url: /events/school-calendar/
-        - title: Sec 1 Registration (2024 Intake)
-          description: 21 December 2023 (Thu)
-          url: /events/upcoming-events/sec-1-registration-2024
+        - title: Temasek Aesthetic Performances
+          description: 13 & 27 April 2024 (Sat)
+          url: /events/upcoming-events/concerts-tapdat-tapbac/
       background: /images/2023schoolbanner.png
   - resources:
       title: Latest Announcements
