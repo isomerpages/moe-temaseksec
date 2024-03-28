@@ -67,10 +67,10 @@ variant: tiptap
 <br><strong>Speech Day</strong>
 </p>
 <p>13 April (Sat)
-<br><strong> Aesthetics Concert 1 (Dance, Drama, TAG)</strong>
+<br><strong>Aesthetics Concert 1: TAP: DAT (Dance, Drama, TAG)</strong>
 </p>
 <p>27 April (Sat)
-<br><strong>Aesthetics Concert 2 (Band, Choir)</strong>
+<br><strong>Aesthetics Concert 2: BaC (Band, Choir)</strong>
 </p>
 <p>29 April - 3 May (Mon-Fri)
 <br><strong>Gratitude Week</strong>
