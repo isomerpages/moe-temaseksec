@@ -3,6 +3,7 @@ title: Drama DSA
 permalink: /prospective-students/direct-school-admission/drama-dsa/
 description: ""
 third_nav_title: Direct School Admission
+variant: markdown
 ---
 Serious Play started as an interest group and was soon established as a core CCA in 2010. It has now grown from a group of eight members to nearly 50 members taking on roles such as directors, actors, costume, makeup artists and prop masters.
 
@@ -28,6 +29,7 @@ Besides training twice a week, the members also get together for drama appreciat
 
 | YEAR | PERFORMANCE | VENUE |
 | -------- | -------- | -------- |
+| 2024    | TAP:DAT! | Victoria Theatre |
 | 2022    | This Is Us | SOTA |
 | 2028    | Once Upon A Time | Festival Arts Theatre |
 | 2017    | Aestrella | TMS |
