@@ -3,6 +3,7 @@ title: Dance DSA
 permalink: /prospective-students/direct-school-admission/dance-dsa/
 description: ""
 third_nav_title: Direct School Admission
+variant: markdown
 ---
 Beginning as part of the Music and Dance Club in 1990 and having performed in musicals, such as the Pied Piper, the group became formally known as the Temasek Freestylers in 2002. Under the mentorship of Mr Terence Then, the group has performed well in the Singapore Youth Festival Arts Presentations as well as in competitions like the Super 24 Dance showcase.
 
@@ -28,6 +29,7 @@ Beginning as part of the Music and Dance Club in 1990 and having performed in mu
 
 | Year | Performance | Venue |
 | -------- | -------- | -------- |
+| 2024    | TAP:DAT!    |   Victoria Theatre  |
 | 2022    | This Is Us    | SOTA     |
 | 2022    | Siglap CC Opening Ceremony    | Siglap CC     |
 | 2018    | Siglap CC Fundraiser    | Singapore Expo     |
