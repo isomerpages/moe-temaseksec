@@ -3,6 +3,7 @@ title: Choir DSA
 permalink: /prospective-students/direct-school-admission/choir-dsa/
 description: ""
 third_nav_title: Direct School Admission
+variant: markdown
 ---
 The Temasek Chorale was established in 1990 and now has just over 70 members.
 
@@ -25,6 +26,8 @@ All members uphold a common goal to develop a lifelong love for singing and abid
 
 | YEAR | EVENT | VENUE |
 | -------- | ----------- | -------- |
+| 2024    | TAP: BaC!    |   NAFA Lee Foundation Theatre  |
+| 2023    | Voices of Singapore Festival    |   CHIJMES  |
 | 2022    | Voices of Singapore Festival    |   CHIJMES  |
 | 2022    | This Is Us    |   SOTA   |
 | 2019    | One Voices Combined Concert at Victoria Concert Hall    | Victoria Concert Hall     |
