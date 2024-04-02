@@ -19,3 +19,7 @@ Muhammed Uzayr (SCL), Leia Skyler Vance (PSL), Alayna Athena Ross (SCP,
 Aaron Chua Ming Hong (CM) and Muhammad Nabil for their outstanding service
 and contributions.</p>
 <p>We Lead to Serve!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TMS_SLI_01.png">
+</div>
+<p></p>
