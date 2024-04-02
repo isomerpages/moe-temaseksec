@@ -1,7 +1,7 @@
 ---
 title: Student Leaders Investiture 2024
 permalink: /student-leaders-investiture-2024/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Gallery of Events
 ---
@@ -19,4 +19,8 @@ Muhammed Uzayr (SCL), Leia Skyler Vance (PSL), Alayna Athena Ross (SCP,
 Aaron Chua Ming Hong (CM) and Muhammad Nabil for their outstanding service
 and contributions.</p>
 <p>We Lead to Serve!</p>
-![](/images/2024_TMS_SLI_12.png)
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TMS_SLI_13.png">
+</div>
+<p></p>
