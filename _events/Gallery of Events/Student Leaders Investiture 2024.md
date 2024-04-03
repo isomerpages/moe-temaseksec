@@ -8,7 +8,7 @@ third_nav_title: Gallery of Events
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/mD6pvUIJWus?si=QnY_oM8Z-vqNdX6V" height="315" width="560"></iframe>
 
 
-<p>Today, more than 120 student were invested as student leaders of Temasek
+<p>Today, more than 150 student were invested as student leaders of Temasek
 Secondary School. The 23rd Student Leaders Investiture celebrated our young
 leaders as they became appointed as Student Councillors, Peer Support Leaders,
 Sports Captains, Class Managers and Young Ambassadors.</p>
