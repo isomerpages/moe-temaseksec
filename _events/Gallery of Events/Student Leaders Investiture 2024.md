@@ -5,11 +5,9 @@ variant: markdown
 description: ""
 third_nav_title: Gallery of Events
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TMS_SLI_01.png">
-</div>
-<p></p>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/mD6pvUIJWus?si=QnY_oM8Z-vqNdX6V" height="315" width="560"></iframe>
+
+
 <p>Today, more than 120 student were invested as student leaders of Temasek
 Secondary School. The 23rd Student Leaders Investiture celebrated our young
 leaders as they became appointed as Student Councillors, Peer Support Leaders,
@@ -24,6 +22,11 @@ Muhammed Uzayr (SCL), Leia Skyler Vance (PSL), Alayna Athena Ross (SCP,
 Aaron Chua Ming Hong (CM) and Muhammad Nabil for their outstanding service
 and contributions.</p>
 <p>We Lead to Serve!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TMS_SLI_01.png">
+</div>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TMS_SLI_02.jpg">
