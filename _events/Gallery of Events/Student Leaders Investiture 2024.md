@@ -19,7 +19,7 @@ serve and make a difference in the school and wider community.</p>
 Olympus and Rinjani) also saw the appointment of their House Captains.</p>
 <p>Lastly, we would like to congratulate the TMSA Leader of the Year Awardees:
 Muhammed Uzayr (SCL), Leia Skyler Vance (PSL), Alayna Athena Ross (SCP,
-Aaron Chua Ming Hong (CM) and Muhammad Nabil for their outstanding service
+Aaron Chua Ming Hong (CM) and Muhammad Nabil (YA) for their outstanding service
 and contributions.</p>
 <p>We Lead to Serve!</p>
 <p></p>
