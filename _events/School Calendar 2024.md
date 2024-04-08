@@ -153,7 +153,7 @@ variant: tiptap
 <p></p>
 <h2>AUGUST</h2>
 <p>8 August (Thu)
-<br><strong>National Day Commemoration</strong>
+<br><strong>National Day Commemoration</strong> 
 <br><strong>GoMAD Carnival</strong>
 </p>
 <p>9 August (Fri)
