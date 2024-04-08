@@ -83,7 +83,7 @@ variant: tiptap
 <br><strong>Fatamorgana</strong>
 </p>
 <p>10 May (Fri)
-<br><strong>DSA SL Open Outreach</strong>
+<br><strong>DSA Online Outreach</strong>
 </p>
 <p>12-16 May (Mon-Thu)
 <br><strong>Special Timetable</strong>
