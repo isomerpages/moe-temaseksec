@@ -3,6 +3,7 @@ title: Shooting DSA
 permalink: /prospective-students/direct-school-admission/shooting-dsa/
 description: ""
 third_nav_title: Direct School Admission
+variant: markdown
 ---
 Shooting at TMS has been one of the school’s key CCA program. Training sessions are conducted at the school’s own air-conditioned automated shooting range.&nbsp;
 
@@ -14,6 +15,19 @@ Our shooters compete annually in the National School Games Shooting Championship
 
 | YEAR | COMPETITION | AWARD |
 | -------- | -------- | -------- |
+|   2024   |   National School Games Shooting Championship   |       |
+|       |   Air Rifle Girls (B Div) Team   |   6th   |
+|       |   Air Rifle Girls (B Div) Individual   |  5th   |
+|       |   Air Rifle Boys (B Div) Team   |  8th   |
+|   2024   |   NTU Invitational Shoot   |       |
+|       |   Air Rifle Girls (C Div) Team   |  2nd   |
+|   2023   |   National School Games Shooting Championship   |       |
+|       |   Air Pistol Girls (B Div) Team   |   7th   |
+|       |   Air Rifle Girls (B Div) Team   |  5th   |
+|       |   Air Rifle Girls (B Div) Individual   |  8th   |
+|       |   Air Rifle Girls (C Div) Team   |   5th   |
+|       |   Air Rifle Girls (C Div) Individual   |   1st   |
+|       |   Air Rifle Boys (C Div) Team   |   8th   |
 |   2022   |   National School Games Shooting Championship   |       |
 |       |   Air Pistol Boys (B Div) Team   |   9th   |
 |       |   Air Pistol Girls (B Div) Team   |   12th   |
