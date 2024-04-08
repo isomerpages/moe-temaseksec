@@ -126,7 +126,7 @@ variant: tiptap
 <br><strong>Hari Raya Haji</strong>
 </p>
 <p>28 June (Fri)
-<br><strong>Movie Nite</strong>
+<br><strong>English Language &amp; Literature Festival</strong>
 </p>
 <h2>JULY</h2>
 <p>28 July (Fri)
@@ -154,6 +154,7 @@ variant: tiptap
 <h2>AUGUST</h2>
 <p>8 August (Thu)
 <br><strong>National Day Commemoration</strong>
+<br><strong>GoMAD Carnival</strong>
 </p>
 <p>9 August (Fri)
 <br><strong>National Day</strong>
