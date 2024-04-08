@@ -28,7 +28,7 @@ SeriousPlay and TAG
 <p>Tickets will be on sale till</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>5 April 2024 (Fri) for TAP:DAT.</p>
+<p>11 April 2024 (Thu) for TAP:DAT.</p>
 </li>
 </ul>
 <p>Check out the link <a href="https://go.gov.sg/2024tms-tap-tickets" rel="noopener noreferrer nofollow" target="_blank">HERE</a> and QR Code for online
