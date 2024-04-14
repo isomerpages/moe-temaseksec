@@ -298,10 +298,10 @@ dance schools</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Round 1</strong>
+<p><strong>Round 1</strong> 
 <br>All participants should be prepared to learn a simple 4-eights dance routine</p>
 <p></p>
-<p><strong>Round 2</strong>
+<p><strong>Round 2</strong> 
 <br>Selected participants would be given a callback to perform a 1 minute
 solo dance (any genre) to your choice of music on a later date</p>
 </td>
