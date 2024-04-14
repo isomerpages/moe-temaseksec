@@ -3,45 +3,309 @@ title: Dance DSA
 permalink: /prospective-students/direct-school-admission/dance-dsa/
 description: ""
 third_nav_title: Direct School Admission
-variant: markdown
+variant: tiptap
 ---
-Beginning as part of the Music and Dance Club in 1990 and having performed in musicals, such as the Pied Piper, the group became formally known as the Temasek Freestylers in 2002. Under the mentorship of Mr Terence Then, the group has performed well in the Singapore Youth Festival Arts Presentations as well as in competitions like the Super 24 Dance showcase.
-
-![d1.jpg](/images/d11.jpg)
-
-
-
-| Year | Event/Competition | Award |
-| -------- | -------- | -------- |
-| 2023   | Singapore Youth Festival Arts Presentation | Distinction |
-| 2021    | Singapore Youth Festival Arts Presentation | Distinction |
-| 2019    | Singapore Youth Festival Arts Presentation | Distinction |
-| 2019    | Super 24 | Champion |
-| 2018    | Super 24 | Champion |
-| 2017    | Singapore Youth Festival Arts Presentation | Distinction |
-| 2017    | Super 24 | 1st Runner-Up |
-| 2016    | Super 24 | Champion |
-| 2015    | Singapore Youth Festival Arts Presentation | Distinction |
-| 2015    | Super 24 | Champion |
-|   |  |
-
-
-
-| Year | Performance | Venue |
-| -------- | -------- | -------- |
-| 2024    | TAP:DAT!    |   Victoria Theatre  |
-| 2022    | This Is Us    | SOTA     |
-| 2022    | Siglap CC Opening Ceremony    | Siglap CC     |
-| 2018    | Siglap CC Fundraiser    | Singapore Expo     |
-| 2018    | Once Upon A Time    | Festival Arts Theatre  |
-| 2018    | Singapore Tennis Festival    | OCBC Arena     |
-
+<p>Beginning as part of the Music and Dance Club in 1990 and having performed
+in musicals, such as the Pied Piper, the group became formally known as
+the Temasek Freestylers in 2002. Under the mentorship of Mr Terence Then,
+the group has performed well in the Singapore Youth Festival Arts Presentations
+as well as in competitions like the Super 24 Dance showcase.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="d1.jpg" src="/images/d11.jpg">
+</div>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event/Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Super 24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Super 24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Super 24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Runner-Up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2016</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Super 24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Super 24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Performance</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAP:DAT!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Victoria Theatre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This Is Us</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SOTA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siglap CC Opening Ceremony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siglap CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siglap CC Fundraiser</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Expo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Once Upon A Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Festival Arts Theatre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Tennis Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OCBC Arena</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
-
-### DSA Audition details:
-
-&nbsp;**Audition period:**&nbsp;26 June 2023 – 11 September 2023
-
-**Venue:**&nbsp;Temasek Secondary School
-
-<table class="iveo_table ives_tab_1" width="99%" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234);"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="153" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">DSA Category</span></u></b><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td><td width="254" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">Pre-requisite</span></u></b><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td><td width="215" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">Audition / Trial Preparation</span></u></b><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="153" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">DSA CCA</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">Dance</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</span></b></p></td><td width="254" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">Applicants should be able to:</span>&nbsp;</p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">·<span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">demonstrate a passion for dance</span>&nbsp;</p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">·<span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">enjoy performing in front of an audience.</span></p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">·<span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">appreciate working as part of a team.</span></p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">·<span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">train twice a week, and participate in additional training sessions nearing competitions.</span>&nbsp;</p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">·<span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">[Preferably] have 3 years of prior experience dancing in school or external dance schools</span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td><td width="215" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">Applicants should:</span>&nbsp;</p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">·<span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">be in primary school PE attire.</span>&nbsp;</p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">·<span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">check their given email for the details of the trials.</span>&nbsp;</p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">·<span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">be prepared to perform 1 minute of dance (any genre) to your choice of music.</span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">·<span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">be prepared to learn a simple 4-eights hip-hop routine</span>&nbsp;</p></td></tr></tbody></table>
+</p>
+<h3>DSA Audition details:</h3>
+<p>&nbsp;<strong>Audition period:</strong>&nbsp;26 June 2023 – 11 September
+2023</p>
+<p><strong>Venue:</strong>&nbsp;Temasek Secondary School</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>DSA Category</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Pre-requisite</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Audition / Trial Preparation</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>DSA CCA</strong>
+</p>
+<p><strong>Dance</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Applicants should be able to:&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>demonstrate a passion for dance&nbsp;</p>
+</li>
+<li>
+<p>enjoy performing in front of an audience.</p>
+</li>
+<li>
+<p>appreciate working as part of a team.</p>
+</li>
+<li>
+<p>train twice a week, and participate in additional training sessions nearing
+competitions.&nbsp;</p>
+</li>
+<li>
+<p>[Preferably] have 3 years of prior experience dancing in school or external
+dance schools</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Applicants should:&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>be in primary school PE attire.&nbsp;</p>
+</li>
+<li>
+<p>check their given email for the details of the trials.&nbsp;</p>
+</li>
+<li>
+<p>be prepared to participate in 2 rounds of auditions</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Round 1</strong>
+<br>All participants should be prepared to learn a simple 4-eights dance routine</p>
+<p></p>
+<p><strong>Round 2</strong>
+<br>Selected participants would be given a callback to perform a 1 minute
+solo dance (any genre) to your choice of music on a later date</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
