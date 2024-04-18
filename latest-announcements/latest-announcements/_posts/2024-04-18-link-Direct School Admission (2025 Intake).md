@@ -1,6 +1,6 @@
 ---
-title: Direct School Admission (2024 Intake)
-date: 2023-05-03
+title: Direct School Admission (2025 Intake)
+date: 2024-04-18
 layout: link
 description: ""
 image: ""
