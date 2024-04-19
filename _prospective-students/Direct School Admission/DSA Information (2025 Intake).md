@@ -1,5 +1,5 @@
 ---
-title: DSA Information (2024 Intake)
+title: DSA Information (2025 Intake)
 permalink: /prospective-students/direct-school-admission/information/
 description: ""
 third_nav_title: Direct School Admission
@@ -22,8 +22,7 @@ each year.</p>
 and successful applicants will join Temasek Secondary School in January
 2025.&nbsp;&nbsp;</p>
 <p>For more information on this year’s DSA-Sec Exercise for Sec 1 admission
-for 2025, please refer to MOE’s DSA centralised application&nbsp;<a href="https://www.moe.gov.sg/admissions/direct-admissions/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">portal</a>.
-<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+for 2025, please refer to MOE’s DSA centralised application portal. <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
 <p><strong>DSA-Sec to Temasek Secondary School: Domains and Criteria</strong>&nbsp;
 <br>In line with the school’s focus on holistic development to nurture leaders
@@ -138,8 +137,8 @@ The date at which candidates will be informed when all announcements on
 DSA is announced on 6 May.</p>
 <h2>Information and Application</h2>
 <p>Details on the DSA-Sec exercise and application process for 2025 will
-be announced on 6 May. However, details for last year's DSA-Sec exercise
-for 2024 can be found below:</p>
+be announced on 6 May. However, details for <strong>last year's</strong> DSA-Sec
+exercise for 2024 can be found below:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;<a href="/files/application%20process%20%20for%20%20dsa%20sec%201%20admission%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Process and Timeline (Flowchart)</a>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;<a href="/files/faqs%20for%20dsa-secondary%20exercise%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions (FAQ)</a>

@@ -21,7 +21,7 @@ executed with precision and beautiful choreography, while the Temasek Acappella
 Group jumped on the bandwagon of recent artistes that were in Singapore
 and sand songs from the repertoire of Taylor Swift and Bruno Mars!</p>
 <p></p>
-<p>It was truly an evening to remembers!</p>
+<p>It was truly an evening to remember!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TAP_DAT_01.jpg">
