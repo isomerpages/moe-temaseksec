@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Direct School Admission
 variant: tiptap
 ---
-<h2>Direct School Admission to Secondary 1 (2025 Intake)</h2>
 <p><strong>Direct School Admission-Secondary (DSA-Sec) Exercise</strong>
 </p>
 <p>At Temasek Secondary School, we are guided by our school motto “We Care”
@@ -146,7 +145,9 @@ exercise for 2024 can be found below:</p>
 <p>For further enquiries, please contact Ms Kamilah at 6449 5020 (General
 Office) or email to&nbsp;<strong><a href="mailto:temasek_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">temasek_ss@moe.edu.sg</a></strong>.&nbsp;Kindly
 indicate “DSA 2023 Application Enquiry” in your email subject.</p>
-<p>Find out more about Temasek Secondary School's DSA opportunities in</p>
+<p>Find out more about Temasek Secondary School's DSA opportunities in during
+our DSA Online Outreach <a href="https://www.temaseksec.moe.edu.sg/events/upcoming-events/dsa-online-outreach-2024/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>You can also find out more about our DSA Offerings here:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.temaseksec.moe.edu.sg/prospective-students/direct-school-admission/choir-dsa/" rel="noopener noreferrer nofollow" target="_blank">Choir DSA</a>
