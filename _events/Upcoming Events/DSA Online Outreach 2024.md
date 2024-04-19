@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Upcoming Events
 variant: tiptap
 ---
-<h1>DSA Online Outreach 2024</h1>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TMS_DSA_Outreach.png">
@@ -30,7 +29,7 @@ variant: tiptap
 </ul>
 <p>Our students and student leaders will share with you what it means to
 be in a DSA CCA/leadership group!</p>
-<p>Date:&nbsp;<strong>10 May 2024 (Fri)</strong>
+<p>Date:&nbsp;<strong>10 May 2024 (Fri)</strong> 
 <br>Time:&nbsp;<strong>7.00-8.00 pm</strong>
 </p>
 <p>Please register <a href="https://tinyurl.com/2024TMS-DSA-OpenHouse-Regn" rel="noopener noreferrer nofollow" target="_blank">here.</a>
