@@ -22,8 +22,7 @@ each year.</p>
 and successful applicants will join Temasek Secondary School in January
 2025.&nbsp;&nbsp;</p>
 <p>For more information on this year’s DSA-Sec Exercise for Sec 1 admission
-for 2025, please refer to MOE’s DSA centralised application&nbsp;<a href="https://www.moe.gov.sg/admissions/direct-admissions/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">portal</a>.
-<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+for 2025, please refer to MOE’s DSA centralised application portal. <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
 <p><strong>DSA-Sec to Temasek Secondary School: Domains and Criteria</strong>&nbsp;
 <br>In line with the school’s focus on holistic development to nurture leaders
