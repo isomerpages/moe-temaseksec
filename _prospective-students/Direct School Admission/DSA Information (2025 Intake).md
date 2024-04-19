@@ -147,6 +147,7 @@ Office) or email to&nbsp;<strong><a href="mailto:temasek_ss@moe.edu.sg" rel="noo
 indicate “DSA 2023 Application Enquiry” in your email subject.</p>
 <p>Find out more about Temasek Secondary School's DSA opportunities in during
 our DSA Online Outreach <a href="https://www.temaseksec.moe.edu.sg/events/upcoming-events/dsa-online-outreach-2024/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>You can also find out more about our DSA Offerings here:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.temaseksec.moe.edu.sg/prospective-students/direct-school-admission/choir-dsa/" rel="noopener noreferrer nofollow" target="_blank">Choir DSA</a>
