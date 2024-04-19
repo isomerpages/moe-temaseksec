@@ -138,8 +138,8 @@ The date at which candidates will be informed when all announcements on
 DSA is announced on 6 May.</p>
 <h2>Information and Application</h2>
 <p>Details on the DSA-Sec exercise and application process for 2025 will
-be announced on 6 May. However, details for last year's DSA-Sec exercise
-for 2024 can be found below:</p>
+be announced on 6 May. However, details for <strong>last year's</strong> DSA-Sec
+exercise for 2024 can be found below:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;<a href="/files/application%20process%20%20for%20%20dsa%20sec%201%20admission%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Process and Timeline (Flowchart)</a>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;<a href="/files/faqs%20for%20dsa-secondary%20exercise%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions (FAQ)</a>
