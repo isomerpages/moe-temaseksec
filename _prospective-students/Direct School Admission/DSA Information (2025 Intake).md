@@ -145,6 +145,10 @@ exercise for 2024 can be found below:</p>
 <p>For further enquiries, please contact Ms Kamilah at 6449 5020 (General
 Office) or email to&nbsp;<strong><a href="mailto:temasek_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">temasek_ss@moe.edu.sg</a></strong>.&nbsp;Kindly
 indicate “DSA 2023 Application Enquiry” in your email subject.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TMS_DSA_Outreach.png">
+</div>
 <p>Find out more about Temasek Secondary School's DSA opportunities in during
 our DSA Online Outreach <a href="https://www.temaseksec.moe.edu.sg/events/upcoming-events/dsa-online-outreach-2024/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>You can also find out more about our DSA Offerings here:</p>
@@ -171,7 +175,7 @@ our DSA Online Outreach <a href="https://www.temaseksec.moe.edu.sg/events/upcomi
 </li>
 </ul>
 <p>Our students and student leaders will share with you what it means to
-be in a DSA CCA/leadership group!</p>
+be in a CCA/leadership group!</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.temaseksec.moe.edu.sg/curriculum/co-curricular-activities/choir/" rel="noopener noreferrer nofollow" target="_blank">Choir CCA</a>
