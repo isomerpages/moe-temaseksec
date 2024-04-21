@@ -2,7 +2,7 @@
 title: Choir DSA
 permalink: /prospective-students/direct-school-admission/choir-dsa/
 description: ""
-third_nav_title: Direct School Admission
+third_nav_title: Direct School Admission 2025
 variant: markdown
 ---
 The Temasek Chorale was established in 1990 and now has just over 70 members.

@@ -2,7 +2,7 @@
 title: Student Leadership DSA
 permalink: /prospective-students/direct-school-admission/student-leadership-dsa/
 description: ""
-third_nav_title: Direct School Admission
+third_nav_title: Direct School Admission 2025
 variant: markdown
 ---
 Student Leadership is the school's distinctive programme.  
