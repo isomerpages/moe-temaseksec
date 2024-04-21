@@ -4,11 +4,6 @@ collections:
     order:
       - Sec 1 Admissions (2024 Intake).md
       - Appeal for Admissions (2024 Intake).md
-      - TMS in a Nutshell.md
-      - Achievements/.keep
-      - Achievements/School Achievements.md
-      - Achievements/GCE Results.md
-      - Achievements/CCA Achievements.md
       - Direct School Admission/.keep
       - Direct School Admission/DSA Information (2025 Intake).md
       - Direct School Admission/Choir DSA.md
@@ -16,6 +11,11 @@ collections:
       - Direct School Admission/Drama DSA.md
       - Direct School Admission/Shooting DSA.md
       - Direct School Admission/Student Leadership DSA.md
+      - TMS in a Nutshell.md
+      - Achievements/.keep
+      - Achievements/School Achievements.md
+      - Achievements/GCE Results.md
+      - Achievements/CCA Achievements.md
       - Open House 2023/.keep
       - Open House 2023/Welcome to our Open House 2023.md
       - Open House 2023/Temasek Experience.md
