@@ -144,7 +144,7 @@ exercise for 2024 can be found below:</p>
 </p>
 <p>For further enquiries, please contact Ms Kamilah at 6449 5020 (General
 Office) or email to&nbsp;<strong><a href="mailto:temasek_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">temasek_ss@moe.edu.sg</a></strong>.&nbsp;Kindly
-indicate “DSA 2023 Application Enquiry” in your email subject.</p>
+indicate “DSA 2025 Application Enquiry” in your email subject.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TMS_DSA_Outreach.png">
