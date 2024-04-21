@@ -36,6 +36,6 @@ be in a DSA CCA/leadership group!</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TMS_DSA_Outreach_QR_Code.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2024_TMS_DSA_Outreach_QR_Code.png">
 </div>
 <p></p>
