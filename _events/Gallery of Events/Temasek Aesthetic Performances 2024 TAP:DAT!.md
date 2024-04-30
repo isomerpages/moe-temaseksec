@@ -8,10 +8,13 @@ third_nav_title: Gallery of Events
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QsxjbxwutXo?si=9Y_gWi9I56XXfrFS"></iframe>
 </div>
-<p>Our talented Aesthetic CCAs put up combined concerts to celebrate the
-beauty and inspiration from the performing arts! Held on 13 April 2024
-(Sat) at Victoria Theatre, the more than 500 audiences were treated to
-an evening of entertaining performances.</p>
+<p>Our talented Aesthetic CCAs put up combined concerts TAP (Temasek Aesthetic
+Performances) to celebrate the beauty and inspiration from the performing
+arts!</p>
+<p>TAP: DAT! (Dance, Acappella, Theatre) was held on 13 April 2024 (Sat)
+at Victoria Theatre where more than 500 audiences were treated to an evening
+of entertaining performances, while TAP: BaC! (Band and Choir) was held
+on 27 April 2024 (Sat).</p>
 <p></p>
 <p>SeriousPlay put up two plays on: one on the perils of being a supernatural
 being in the modern world and the other about the importance of understanding
@@ -21,6 +24,7 @@ executed with precision and beautiful choreography, while the Temasek Acappella
 Group jumped on the bandwagon of recent artistes that were in Singapore
 and sand songs from the repertoire of Taylor Swift and Bruno Mars!</p>
 <p></p>
+<p>The Temasek Wind Ensemble played</p>
 <p>It was truly an evening to remember!</p>
 <p></p>
 <div class="isomer-image-wrapper">
