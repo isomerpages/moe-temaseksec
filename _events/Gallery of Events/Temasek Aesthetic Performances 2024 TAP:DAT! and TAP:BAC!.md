@@ -10,7 +10,7 @@ third_nav_title: Gallery of Events
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/me9m1Qiqo2I?si=1CUO_-658Dy5jzr_"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1bZLDWHjJCc?si=ogo-Xbw4dDvdrBFw"></iframe>
 </div>
 <p>Our talented Aesthetic CCAs put up combined concerts TAP (Temasek Aesthetic
 Performances) to celebrate the beauty and inspiration from the performing
