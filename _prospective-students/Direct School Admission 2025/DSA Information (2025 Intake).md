@@ -142,9 +142,9 @@ DSA is announced on 6 May.</p>
 <p>Details on the DSA-Sec exercise and application process for 2025 will
 be announced on 6 May. However, details for <strong>last year's</strong> DSA-Sec
 exercise for 2024 can be found below:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;<a href="/files/application%20process%20%20for%20%20dsa%20sec%201%20admission%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Process and Timeline (Flowchart)</a>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;<a href="/files/Application_Process__for__DSA_Sec_1_Admission_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Process for DSA Sec 1 Admission 2025</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;<a href="/files/faqs%20for%20dsa-secondary%20exercise%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions (FAQ)</a>
+<p>·&nbsp;&nbsp;&nbsp;<a href="/files/FAQ_for_2024_Direct_School_Admission.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Question (FAQ)</a>
 </p>
 <p>For further enquiries, please contact Ms Kamilah at 6449 5020 (General
 Office) or email to&nbsp;<strong><a href="mailto:temasek_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">temasek_ss@moe.edu.sg</a></strong>.&nbsp;Kindly
@@ -178,6 +178,7 @@ our DSA Online Outreach <a href="https://www.temaseksec.moe.edu.sg/events/upcomi
 </p>
 </li>
 </ul>
+<p></p>
 <p>Our students and student leaders will share with you what it means to
 be in a CCA/leadership group!</p>
 <ul data-tight="true" class="tight">
