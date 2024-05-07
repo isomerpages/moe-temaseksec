@@ -3,45 +3,294 @@ title: Choir DSA
 permalink: /prospective-students/direct-school-admission/choir-dsa/
 description: ""
 third_nav_title: Direct School Admission 2025
-variant: markdown
+variant: tiptap
 ---
-The Temasek Chorale was established in 1990 and now has just over 70 members.
-
-![H3.jpg](/images/H3.jpg)
-
-All members uphold a common goal to develop a lifelong love for singing and abide by the values of harmony in voices, unity in spirit, creativity in expression and perseverance in training. Through the last decade, the Temasek Chorale has taken part in school musicals, public concerts and achieved Distinction at the Singapore Youth Festival Arts Presentation.
-
-
-| YEAR | EVENT | AWARD |
-| -------- | -------- | -------- |
-| 2023    | Singapore Youth Festival Arts Presentation | Accomplishment |
-| 2021    | Singapore Youth Festival Arts Presentation | Non-Adjudicated |
-| 2019    | Singapore Youth Festival Arts Presentation | Distinction |
-| 2017    | Singapore Youth Festival Arts Presentation | Distinction |
-| 2015    | Singapore Youth Festival Arts Presentation | Distinction |
-|   . |   |  |
-
-
-
-
-| YEAR | EVENT | VENUE |
-| -------- | ----------- | -------- |
-| 2024    | TAP: BaC!    |   NAFA Lee Foundation Theatre  |
-| 2023    | Voices of Singapore Festival    |   CHIJMES  |
-| 2022    | Voices of Singapore Festival    |   CHIJMES  |
-| 2022    | This Is Us    |   SOTA   |
-| 2019    | One Voices Combined Concert at Victoria Concert Hall    | Victoria Concert Hall     |
-| 2019    | Voices of Singapore Festival    |   CHIJMES  |
-| 2018    |Three Beats In A Bar    |   United World College   |
-| 2017   | Voices of Singapore Festival    |   CHIJMES  |
-| 2016    | Voices of Singapore Festival    |   CHIJMES  |
-| 2016    | Limelight  |   Esplanade  |
-
-
-### DSA Audition details:
-
-**Audition period:** 26 June 2023 – 11 September 2023
-	 
-**Venue:** Temasek Secondary School
-
-<table class="iveo\_table ives\_tab\_1" width="99%" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234); width: 837.25px;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="153" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 215px;"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">DSA Category</span></u></b><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td><td width="254" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 354px;"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">Pre-requisite</span></u></b><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td><td width="215" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34); width: 301px;"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">Audition / Trial Preparation</span></u></b><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="153" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">DSA CCA</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">Choir</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</span></b></p></td><td width="254" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">Applicants should be able to:</span>&nbsp;</p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">·<span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">demonstrate a passion for choral singing.</span>&nbsp;</p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">·<span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">enjoy performing in front of an audience.</span>&nbsp;</p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">·<span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">appreciate working as part of a team.</span>&nbsp;</p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">·<span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">train twice a week, and participate in additional training sessions nearing competitions.</span>&nbsp;</p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">·<span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">\[Preferably\] have prior experience singing in a school or external choir.</span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</span></p></td><td width="215" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">Applicants should:</span>&nbsp;</p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">·<span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">be in primary school uniform.</span>&nbsp;</p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">·<span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">check their given email for the details of the trials.</span>&nbsp;</p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">·<span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">be prepared to sing from one choral piece of music (in any voice part) of your choice.</span>&nbsp;</p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">·<span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">be prepared to sing major and harmonic minor scales and arpeggios.</span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">·<span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">be prepared to echo sing a tune</span>&nbsp;</p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">·<span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">be able to clap to a rhythm.</span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr></tbody></table>
+<p>The Temasek Chorale was established in 1990 and now has just over 70 members.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="H3.jpg" src="/images/H3.jpg">
+</div>
+<p>All members uphold a common goal to develop a lifelong love for singing
+and abide by the values of harmony in voices, unity in spirit, creativity
+in expression and perseverance in training. Through the last decade, the
+Temasek Chorale has taken part in school musicals, public concerts and
+achieved Distinction at the Singapore Youth Festival Arts Presentation.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>YEAR</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>EVENT</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>AWARD</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Non-Adjudicated</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>YEAR</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>EVENT</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>VENUE</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAP: BaC!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NAFA Lee Foundation Theatre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Voices of Singapore Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIJMES</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Voices of Singapore Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIJMES</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This Is Us</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SOTA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>One Voices Combined Concert at Victoria Concert Hall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Victoria Concert Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Voices of Singapore Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIJMES</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Three Beats In A Bar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>United World College</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Voices of Singapore Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIJMES</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2016</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Voices of Singapore Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIJMES</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2016</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Limelight</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Esplanade</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>DSA Audition details:</h3>
+<p><strong>Audition period:</strong> 24 June 2024 to 9 September 2024</p>
+<p><strong>Venue:</strong> Temasek Secondary School</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>DSA Category</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Pre-requisite</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Audition / Trial Preparation</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>DSA CCA</strong>
+</p>
+<p><strong>Choir</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Applicants should be able to:&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;demonstrate a passion for choral
+singing.&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;enjoy performing in front of
+an audience.&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;appreciate working as part
+of a team.&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;train twice a week, and participate
+in additional training sessions nearing competitions.&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\[Preferably\] have prior experience
+singing in a school or external choir.</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Applicants should:&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be in primary school uniform.&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;check their given email for
+the details of the trials.&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be prepared to sing from one
+choral piece of music (in any voice part) of your choice.&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be prepared to sing major and
+harmonic minor scales and arpeggios.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be prepared to echo sing a
+tune&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be able to clap to a rhythm.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
