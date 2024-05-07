@@ -29,7 +29,10 @@ of Character and Intellect, we are looking for promising Primary 6 students
 who demonstrate talent and interest in the following:
 <br>
 </p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -86,7 +89,12 @@ the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
 <h2>Important dates to note</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -105,12 +113,10 @@ the area of talent.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
-<p>Please check on 6 May 2024</p>
+<p>7 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
-<p>Please check on 6 May 2024</p>
+<p>3 Jun 2024</p>
 </td>
 </tr>
 <tr>
@@ -119,12 +125,10 @@ the area of talent.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
-<p>Please check on 6 May 2024</p>
+<p>24 Jun 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
-<p>Please check on 6 May 2024</p>
+<p>9 September 2024</p>
 </td>
 </tr>
 </tbody>
