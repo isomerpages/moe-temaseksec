@@ -135,13 +135,9 @@ the area of talent.</p>
 </table>
 <p>Only shortlisted applicants will be notified via email of the date and
 time to attend the audition/trial/selection test via email.</p>
-<p>Shortlisted candidates for the auditions/trials will be informed by email.
-The date at which candidates will be informed when all announcements on
-DSA is announced on 6 May.</p>
+<p>Shortlisted candidates for the auditions/trials will be informed by email
+by 31 July 2024.</p>
 <h2>Information and Application</h2>
-<p>Details on the DSA-Sec exercise and application process for 2025 will
-be announced on 6 May. However, details for <strong>last year's</strong> DSA-Sec
-exercise for 2024 can be found below:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;<a href="/files/Application_Process__for__DSA_Sec_1_Admission_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Process for DSA Sec 1 Admission 2025</a>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;<a href="/files/FAQ_for_2024_Direct_School_Admission.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Question (FAQ)</a>
