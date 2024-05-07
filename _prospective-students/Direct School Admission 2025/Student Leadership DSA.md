@@ -3,59 +3,123 @@ title: Student Leadership DSA
 permalink: /prospective-students/direct-school-admission/student-leadership-dsa/
 description: ""
 third_nav_title: Direct School Admission 2025
-variant: markdown
+variant: tiptap
 ---
-Student Leadership is the school's distinctive programme.  
-  
-![2019 SLI 2.png](/images/2019%20SLI%202.png)  
-With a comprehensive leadership development training programme and a numerous leadership opportunities for student leaders to apply the leadership skills learnt, LEAD@TMS seeks to develop leaders of character and intellect.  
-  
-Find out more about the school's leadership programme&nbsp;[here](https://temaseksec.moe.edu.sg/co-curriculum/student-leadership-lead-tms).
-
-### DSA Interview details:
-
-**Interview period:**&nbsp;26 June 2023 – 11 September 2023
-
-**Venue:**&nbsp;Temasek Secondary School
-
-<table class="iveo_table ives_tab_1" width="99%" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234);"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="153" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">DSA Category</span></u></b><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td><td width="254" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">Pre-requisite</span></u></b><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td><td width="215" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">Audition / Trial Preparation</span></u></b><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="153" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">DSA</span></b></p><p class="" align="center" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">Student Leadership</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</span></b></p></td><td width="254" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"></p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);">Applicants should:</p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);">•<span style="margin: 0px; outline: 0px; padding: 0px; white-space: pre;"> </span>demonstrate a passion for Service.</p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);">•<span style="margin: 0px; outline: 0px; padding: 0px; white-space: pre;"> </span>demonstrate strong communication, facilitation, problem-solving, collaborative skills.</p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);">•<span style="margin: 0px; outline: 0px; padding: 0px; white-space: pre;"> </span>demonstrate positive values including care and excellence.</p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);">•<span style="margin: 0px; outline: 0px; padding: 0px; white-space: pre;"> </span>contribute actively school/ community needs.</p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><br style="margin: 0px; outline: 0px; padding: 0px;"></p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);">&nbsp;AND</p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><br style="margin: 0px; outline: 0px; padding: 0px;"></p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);">•<span style="margin: 0px; outline: 0px; padding: 0px; white-space: pre;"> </span>preferably have a track record of Student Leadership experience in their Primary School. Not a pre-requisite.</p></td><td width="215" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span lang="EN-US" class="" style="margin: 0px; outline: 0px; padding: 0px;">Applicants should:</span>&nbsp;</p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">·<span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">be in primary school PE attire.</span>&nbsp;</p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">·<span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">check their given email for the details of the trials.</span>&nbsp;</p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 28px; font-size: 16px; color: rgb(17, 17, 17);"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">·<span class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">be prepared to perform a task involving&nbsp;<span style="margin: 0px; outline: 0px; padding: 0px; color: rgb(34, 34, 34);">communication, facilitation, problem-solving, collaborative skills</span><br style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr></tbody></table>
-
-### Frequently Asked Questions
-##### 1. Do DSA Student Leaders need to take up a CCA?
-
-All students will need to have a CCA as CCAs are an integral part of a holistic education.
-DSA Student Leaders, like all students, will be assigned a CCA during the CCA Trials and Allocation Process in Term 1. The CCA assigned will be based on (1) the student choice, (2) audition/trial outcomes and (3) the number of vacancies in the CCA.
-
-
-##### 2. If my child is accepted under DSA Student Leadership, what will the commitment be like in Temasek Secondary School?
-
-Student Leaders have timetabled time to have meetings every Monday from 4.00-6.00pm to allow them to have time to be mentored, trained and plan for events. Student Leaders will also have opportunities to attend training camps and days throughout the year.
-Student Leaders will be expected to organise and facilitate events that they are in charge of.
-
-Do take a look at the LEAD@TMS to have an idea of some events each leadership group will run.
-
-https://www.temaseksec.moe.edu.sg/co-curriculum/student-leadership-lead-tms/
-
-##### 3. What are the requirements for a student to apply for DSA Student Leadership?  Must an applicant have any student leadership experience (e.g. Prefect, Class Monitor, CCA Leader, etc.) to apply for DSA Student Leadership?
-
-There are no hard requirements: Applicants ***do not need to have a leadership role*** to be considered for DSA Leadership. However, having leadership experience will be beneficial as it will help the applicant be able to perform better during the task assessment.
-
-For example, if an applicant is a Head Prefect in the primary school, the applicant will likely have some experience in planning and organising events. These skills will be assessed during the task assessment.
-The task assessment is unique to every cohort, but the skills and personal qualities assessed are the same, as stated in the Pre-Requisites.
-
-##### 4. How many students are accepted into Temasek Secondary School through DSA Student Leadership?
-
-Every school is ablet to accept up to 20% of the Sec 1 Cohort via DSA. The number of students accepted via DSA Student Leadership varies, depending on the performance of applicants across all DSA Areas (i.e. Choir, Dance, Drama, Shooting and Student Leadership).
-
-https://www.todayonline.com/singapore/direct-school-admission-exercise-cap-raised-20-all-schools-moe
-
-##### 5. If my child is posted to Temasek Secondary School through DSA, how will my child's academic results affect the stream that he will be assigned?
-
-From 2024, there will be no more streams for Secondary 1 students. All applicants will be given a posting group based on the PSLE results.
-As our school offers vacancies for all three posting groups, a child (assigned any posting group) who is offered a place via DSA will be posted to Temasek Secondary School.
-
-https://www.channelnewsasia.com/singapore/secondary-school-subject-based-banding-posting-groups-form-classes-3311176
-
-##### 6. If a child is accepted into Temasek Secondary School via DSA, will he be in TIP (Temask Ignis Programme)?
-
-TIP is a distinct programme in the school that complements LEAD@TMS. DSA students will need to apply for TIP when applications are open in Semester 1, just like all other students.
+<p>Student Leadership is the school's distinctive programme.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2019 SLI 2.png" src="/images/2019%20SLI%202.png">
+</div>
+<p>
+<br>With a comprehensive leadership development training programme and a numerous
+leadership opportunities for student leaders to apply the leadership skills
+learnt, LEAD@TMS seeks to develop leaders of character and intellect.</p>
+<p>Find out more about the school's leadership programme&nbsp;<a href="https://temaseksec.moe.edu.sg/co-curriculum/student-leadership-lead-tms" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h3>DSA Interview details:</h3>
+<p><strong>Interview period:</strong>&nbsp;24 June 2024 to 9 September 2024</p>
+<p><strong>Venue:</strong>&nbsp;Temasek Secondary School</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>DSA Category</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Pre-requisite</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Audition / Trial Preparation</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>DSA</strong>
+</p>
+<p><strong>Student Leadership</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p>Applicants should:</p>
+<p>• demonstrate a passion for Service.</p>
+<p>• demonstrate strong communication, facilitation, problem-solving, collaborative
+skills.</p>
+<p>• demonstrate positive values including care and excellence.</p>
+<p>• contribute actively school/ community needs.</p>
+<p>
+<br>
+</p>
+<p>&nbsp;AND</p>
+<p>
+<br>
+</p>
+<p>• preferably have a track record of Student Leadership experience in their
+Primary School. Not a pre-requisite.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Applicants should:&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be in primary school PE attire.&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;check their given email for
+the details of the trials.&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be prepared to perform a task
+involving&nbsp;communication, facilitation, problem-solving, collaborative
+skills
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Frequently Asked Questions</h3>
+<h5>1. Do DSA Student Leaders need to take up a CCA?</h5>
+<p>All students will need to have a CCA as CCAs are an integral part of a
+holistic education. DSA Student Leaders, like all students, will be assigned
+a CCA during the CCA Trials and Allocation Process in Term 1. The CCA assigned
+will be based on (1) the student choice, (2) audition/trial outcomes and
+(3) the number of vacancies in the CCA.</p>
+<h5>2. If my child is accepted under DSA Student Leadership, what will the commitment be like in Temasek Secondary School?</h5>
+<p>Student Leaders have timetabled time to have meetings every Monday from
+4.00-6.00pm to allow them to have time to be mentored, trained and plan
+for events. Student Leaders will also have opportunities to attend training
+camps and days throughout the year. Student Leaders will be expected to
+organise and facilitate events that they are in charge of.</p>
+<p>Do take a look at the LEAD@TMS to have an idea of some events each leadership
+group will run.</p>
+<p>https://www.temaseksec.moe.edu.sg/co-curriculum/student-leadership-lead-tms/</p>
+<h5>3. What are the requirements for a student to apply for DSA Student Leadership? Must an applicant have any student leadership experience (e.g. Prefect, Class Monitor, CCA Leader, etc.) to apply for DSA Student Leadership?</h5>
+<p>There are no hard requirements: Applicants <strong><em>do not need to have a leadership role</em></strong> to
+be considered for DSA Leadership. However, having leadership experience
+will be beneficial as it will help the applicant be able to perform better
+during the task assessment.</p>
+<p>For example, if an applicant is a Head Prefect in the primary school,
+the applicant will likely have some experience in planning and organising
+events. These skills will be assessed during the task assessment. The task
+assessment is unique to every cohort, but the skills and personal qualities
+assessed are the same, as stated in the Pre-Requisites.</p>
+<h5>4. How many students are accepted into Temasek Secondary School through DSA Student Leadership?</h5>
+<p>Every school is ablet to accept up to 20% of the Sec 1 Cohort via DSA.
+The number of students accepted via DSA Student Leadership varies, depending
+on the performance of applicants across all DSA Areas (i.e. Choir, Dance,
+Drama, Shooting and Student Leadership).</p>
+<p>https://www.todayonline.com/singapore/direct-school-admission-exercise-cap-raised-20-all-schools-moe</p>
+<h5>5. If my child is posted to Temasek Secondary School through DSA, how will my child's academic results affect the stream that he will be assigned?</h5>
+<p>From 2024, there will be no more streams for Secondary 1 students. All
+applicants will be given a posting group based on the PSLE results. As
+our school offers vacancies for all three posting groups, a child (assigned
+any posting group) who is offered a place via DSA will be posted to Temasek
+Secondary School.</p>
+<p>https://www.channelnewsasia.com/singapore/secondary-school-subject-based-banding-posting-groups-form-classes-3311176</p>
+<h5>6. If a child is accepted into Temasek Secondary School via DSA, will he be in TIP (Temask Ignis Programme)?</h5>
+<p>TIP is a distinct programme in the school that complements LEAD@TMS. DSA
+students will need to apply for TIP when applications are open in Semester
+1, just like all other students.</p>
