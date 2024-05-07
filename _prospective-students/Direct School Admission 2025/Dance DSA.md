@@ -13,7 +13,12 @@ as well as in competitions like the Super 24 Dance showcase.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="d1.jpg" src="/images/d11.jpg">
 </div>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -149,7 +154,12 @@ as well as in competitions like the Super 24 Dance showcase.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -234,10 +244,15 @@ as well as in competitions like the Super 24 Dance showcase.</p>
 <br>
 </p>
 <h3>DSA Audition details:</h3>
-<p>&nbsp;<strong>Audition period:</strong>&nbsp;26 June 2023 – 11 September
-2023</p>
+<p>&nbsp;<strong>Audition period:</strong>&nbsp;24 June 2024 to 9 September
+2024</p>
 <p><strong>Venue:</strong>&nbsp;Temasek Secondary School</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
