@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Temasek Experience/.keep
-      - Temasek Experience.md
       - Academic Development/Departments.md
       - Academic Development/Subject Offered in TMS.md
       - Academic Development/.keep
