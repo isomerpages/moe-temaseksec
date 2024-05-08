@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Temasek Experience.md
       - Character & Citizenship Education (CCE).md
       - Academic Development/.keep
       - CCE/.keep
