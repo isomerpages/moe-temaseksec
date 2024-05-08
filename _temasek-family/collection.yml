@@ -2,7 +2,6 @@ collections:
   temasek-family:
     output: true
     order:
-      - TMS Yearbook 2023.md
       - Parents/.keep
       - Parents/Parents Support Group.md
       - Parents/Parenting Workshop.md
@@ -28,3 +27,4 @@ collections:
       - Student handbook/CCA Matters.md
       - TMS & Alumni Facebook Link.md
       - Links.md
+      - TMS Yearbook 2023.md
