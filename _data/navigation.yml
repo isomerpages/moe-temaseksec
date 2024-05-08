@@ -2,8 +2,8 @@ logo: /images/logotemasek.jpg
 links:
   - title: About Us
     collection: about-us
-  - title: Temasek A
-    collection: temasek-a
+  - title: Temasek Experience
+    collection: temasek-experience
   - title: Co-Curriculum
     url: /co-curriculum/temasek-experience/
     sublinks:
