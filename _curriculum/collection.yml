@@ -1,5 +1,5 @@
 collections:
-  temasek-experience:
+  curriculum:
     output: true
     order:
       - Subject Offered in TMS.md
