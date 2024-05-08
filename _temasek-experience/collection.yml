@@ -2,7 +2,6 @@ collections:
   temasek-experience:
     output: true
     order:
-      - Academic Development/.keep
       - CCE/.keep
       - CCE/Sexuality Education.md
       - Character & Citizenship Education (CCE).md
