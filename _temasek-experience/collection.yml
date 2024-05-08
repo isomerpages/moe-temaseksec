@@ -2,11 +2,11 @@ collections:
   temasek-experience:
     output: true
     order:
-      - Character & Citizenship Education (CCE).md
-      - Academic Development/Departments.md
       - Academic Development/.keep
-      - CCE/Sexuality Education.md
+      - Academic Development/Departments.md
       - CCE/.keep
+      - CCE/Sexuality Education.md
+      - Character & Citizenship Education (CCE).md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/CCAs.md
       - Co Curricular Activities/Basketball (Boys).md
@@ -32,5 +32,5 @@ collections:
       - Distinctive Programme/Cross–Cultural Awareness (C2A).md
       - Distinctive Programme/Temasek Ignis Programme (TIP).md
       - Character Development.md
-      - Temasek Experience/Temasek Experience.md
       - Temasek Experience/.keep
+      - Temasek Experience/Temasek Experience.md
