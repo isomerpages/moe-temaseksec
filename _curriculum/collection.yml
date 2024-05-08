@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Character & Citizenship Education (CCE).md
-      - Temasek Experience/Temasek Experience.md
       - Temasek Experience/.keep
       - Academic Development/Departments.md
       - Academic Development/Subject Offered in TMS.md
