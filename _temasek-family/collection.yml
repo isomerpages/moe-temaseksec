@@ -2,6 +2,7 @@ collections:
   temasek-family:
     output: true
     order:
+      - TMS Yearbook 2023/TMS Yearbook 2023.md
       - TMS Yearbook 2023/.keep
       - Parents/.keep
       - Parents/Parents Support Group.md
