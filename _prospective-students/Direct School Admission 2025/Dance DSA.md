@@ -314,7 +314,8 @@ dance schools</p>
 </ul>
 <p></p>
 <p><strong>Round 1</strong> 
-<br>All participants should be prepared to learn a simple 4-eights dance routine</p>
+<br>All participants should be prepared to learn a simple 4-eights dance routine.
+A video will be taken of all participants.</p>
 <p></p>
 <p><strong>Round 2</strong> 
 <br>Selected participants would be given a callback to perform a 1 minute
