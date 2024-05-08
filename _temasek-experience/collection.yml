@@ -1,5 +1,5 @@
 collections:
-  co-curriculum:
+  temasek-experience:
     output: true
     order:
       - Temasek Experience.md
