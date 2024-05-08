@@ -2,4 +2,5 @@ collections:
   temasek-experience:
     output: true
     order:
+      - Character & Citizenship Education (CCE).md
       - Temasek Experience.md
