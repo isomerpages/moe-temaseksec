@@ -1,5 +1,5 @@
 collections:
-  curriculum:
+  temasek-a:
     output: true
     order:
       - Temasek Experience.md
