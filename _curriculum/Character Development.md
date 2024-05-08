@@ -2,106 +2,153 @@
 title: Character Development
 permalink: /curriculum/character-development/
 description: ""
+variant: tiptap
 ---
-![](/images/2023%20dept%20sdt.jpg)
-
-The Student Development Team (SDT) oversees the design and delivery of a holistic student development experience. With a focus on character education and life-skills development, every Temasekian is nurtured to be a socially responsible youth who is able to lead purposeful lives.&nbsp;
-
-  
-
-Each level is overseen by the Year Head Team and the Discipline Committee, that work closely with the Form Teachers to meet the social-emotional needs of our students, while the Character and Citizenship ([CCE](/co-curriculum/character-n-citizenship-education-cce/)), LEAD@TMS: Student Leadership, and Cross Cultural Awareness (C2A) teams deliver a coherent and customised experience that helps our students be grounded in a core set of values whilst developing new 21st century competencies that will prepare them for the future.
-
-  
-
-### CONTACT LIST
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0lax"><span style="font-weight:bold">Mrs Audrey Ho (Year Head/ Upper Sec)</span></th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20dept%20sdt.jpg">
+</div>
+<p>The Student Development Team (SDT) oversees the design and delivery of
+a holistic student development experience. With a focus on character education
+and life-skills development, every Temasekian is nurtured to be a socially
+responsible youth who is able to lead purposeful lives.&nbsp;</p>
+<p>Each level is overseen by the Year Head Team and the Discipline Committee,
+that work closely with the Form Teachers to meet the social-emotional needs
+of our students, while the Character and Citizenship (<a href="/co-curriculum/character-n-citizenship-education-cce/" rel="noopener noreferrer nofollow" target="_blank">CCE</a>),
+LEAD@TMS: Student Leadership, and Cross Cultural Awareness (C2A) teams
+deliver a coherent and customised experience that helps our students be
+grounded in a core set of values whilst developing new 21st century competencies
+that will prepare them for the future.</p>
+<h3>CONTACT LIST</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-0lax">audrey_ho@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Mr V. Chandramohan (Year Head/ Lower Sec)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">vendasalam_chandramohan@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Mr Jared Oh (HOD/ Student Leadership &amp; Aesthetics)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">jared_oh@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Ms Jocelyn Woo (HOD/ Character &amp; Citizenship Education)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">woo_mei_xian_jocelyn@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Mr Alex Chua (SH/ Discipline)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">chua_ghee_soon@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Ms Lok Teng Ping (SH/ Student Leadership)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">teng_ping_lok@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Mr Lim Wei Ming (Asst. Year Head/ Lower Sec)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">lim_wei_ming@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Mdm Nurul Huda Mohd Kamarulzaman (Asst. Year Head/ Upper Sec)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">nurul_huda_mohd_kamarulzaman@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Mrs Lalitha Kok Koon Leong (School Counsellor)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">lalitha_kok_koon_leong@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Ms Imesha Gracel Fernando (School Counsellor)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">imesha_gracel_fernando@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Mdm Nur Khairunnisa Abdul Rahim (Allied Educator for Learning &amp; Behavioural Support)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">nur_khairunnisa_a_rahim@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Ms 
-Kho Yee Lin (ECG Counsellor)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">kho_yee_lin@schools.gov.sg</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mrs Audrey Ho (Year Head/ Upper Sec)</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>audrey_ho@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr V. Chandramohan (Year Head/ Lower Sec)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>vendasalam_chandramohan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Jared Oh (HOD/ Student Leadership &amp; Aesthetics)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>jared_oh@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jocelyn Woo (HOD/ Character &amp; Citizenship Education)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>woo_mei_xian_jocelyn@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Boo Yongfeng (SH/ Discipline)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>boo_yongfeng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Elliot Ong (SH/ Student Leadership)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ong_yan_pei_elliot@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Wei Ming (Asst. Year Head/ Lower Sec)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>lim_wei_ming@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurul Huda Mohd Kamarulzaman (Asst. Year Head/ Upper Sec)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>nurul_huda_mohd_kamarulzaman@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Lalitha Kok Koon Leong (School Counsellor)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>lalitha_kok_koon_leong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Imesha Gracel Fernando (School Counsellor)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>imesha_gracel_fernando@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Khairunnisa Abdul Rahim (Allied Educator for Learning &amp; Behavioural
+Support)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>nur_khairunnisa_a_rahim@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kho Yee Lin (ECG Counsellor)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>kho_yee_lin@schools.gov.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-<img style="width:50%" src="/images/sdt%20counselling.jpg">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/sdt%20counselling.jpg">
+</div>
+<p></p>
