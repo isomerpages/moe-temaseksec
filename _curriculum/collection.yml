@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Academic Development/.keep
-      - Academic Development/Subject Offered in TMS.md
       - CCE/.keep
       - Co Curricular Activities/.keep
       - Co Curricular Activities/CCAs.md
