@@ -1,5 +1,5 @@
 collections:
-  curriculum:
+  temasek-experience-w:
     output: true
     order:
       - Character & Citizenship Education (CCE).md
