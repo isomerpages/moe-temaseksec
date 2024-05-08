@@ -2,5 +2,4 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Temasek Experience.md
       - Sexuality Education.md
