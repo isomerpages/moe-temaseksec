@@ -1,4 +1,5 @@
 collections:
   distinctive-programme:
     output: true
-    order: []
+    order:
+      - Cross–Cultural Awareness (C2A).md
