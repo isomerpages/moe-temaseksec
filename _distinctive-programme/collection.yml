@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Distinctive Programme/.keep
-      - Temasek Ignis Programme (TIP).md
       - Cross–Cultural Awareness (C2A).md
