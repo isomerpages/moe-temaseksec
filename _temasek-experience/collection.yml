@@ -2,8 +2,10 @@ collections:
   temasek-experience:
     output: true
     order:
-      - CCE/Character & Citizenship Education (CCE).md
+      - Temasek Experience/.keep
+      - Temasek Experience/Temasek Experience.md
       - CCE/.keep
+      - CCE/Character & Citizenship Education (CCE).md
       - CCE/Sexuality Education.md
       - Character Development.md
       - Co Curricular Activities/.keep
@@ -27,5 +29,3 @@ collections:
       - Co Curricular Activities/Softball (Boys).md
       - Co Curricular Activities/Track & Field.md
       - Co Curricular Activities/Wushu.md
-      - Temasek Experience/.keep
-      - Temasek Experience/Temasek Experience.md
