@@ -2,6 +2,7 @@ collections:
   temasek-experience:
     output: true
     order:
+      - Temasek Ignis Programme (TIP).md
       - Student Leadership (LEAD@TMS).md
       - Cross–Cultural Awareness (C2A).md
       - Distinctive Programme/.keep
