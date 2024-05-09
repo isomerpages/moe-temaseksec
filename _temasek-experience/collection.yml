@@ -2,9 +2,6 @@ collections:
   temasek-experience:
     output: true
     order:
-      - Temasek Ignis Programme (TIP).md
-      - Student Leadership (LEAD@TMS).md
-      - Cross–Cultural Awareness (C2A).md
       - Temasek Experience/.keep
       - Temasek Experience/Temasek Experience.md
       - CCE/.keep
@@ -32,3 +29,6 @@ collections:
       - Co Curricular Activities (CCA)/Softball (Boys).md
       - Co Curricular Activities (CCA)/Track & Field.md
       - Co Curricular Activities (CCA)/Wushu.md
+      - Cross–Cultural Awareness (C2A).md
+      - Student Leadership (LEAD@TMS).md
+      - Temasek Ignis Programme (TIP).md
