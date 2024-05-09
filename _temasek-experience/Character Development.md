@@ -25,10 +25,9 @@ that will prepare them for the future.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Mrs Audrey Ho (Year Head/ Upper Sec)</strong>
-</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Mrs Audrey Ho (Year Head/ Upper Sec)</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
