@@ -2,5 +2,4 @@ collections:
   distinctive-programme:
     output: true
     order:
-      - Temasek Ignis Programme (TIP).md
       - Cross–Cultural Awareness (C2A).md
