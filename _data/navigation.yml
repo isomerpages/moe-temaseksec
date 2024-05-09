@@ -21,3 +21,10 @@ links:
     collection: events
   - title: Temasek Family
     collection: temasek-family
+  - title: Curriculum
+    url: /curriculum
+    sublinks:
+      - title: Academic Development
+        url: /academic-development
+      - title: New submenu
+        url: /permalink
