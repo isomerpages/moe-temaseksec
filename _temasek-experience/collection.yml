@@ -2,6 +2,7 @@ collections:
   temasek-experience:
     output: true
     order:
+      - Distinctive Programme/Temasek Ignis Programme (TIP).md
       - Distinctive Programme/.keep
       - Temasek Experience/.keep
       - Temasek Experience/Temasek Experience.md
