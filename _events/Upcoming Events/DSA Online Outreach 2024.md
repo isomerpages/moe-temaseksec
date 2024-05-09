@@ -38,4 +38,11 @@ be in a DSA CCA/leadership group!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2024_TMS_DSA_Outreach_QR_Code.png">
 </div>
-<p></p>
+<p>The details for our DSA Online Outreach is as follows:</p>
+<p>Topic: TMS DSA E-Open house</p>
+<p>Time: May 10, 2024 06:15 PM Singapore</p>
+<p>Join Zoom Meeting</p>
+<p><a href="https://moe-singapore.zoom.us/j/87938109548" rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/87938109548</a>
+</p>
+<p>Meeting ID: 879 3810 9548</p>
+<p>Passcode: 275712</p>
