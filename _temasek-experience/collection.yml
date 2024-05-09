@@ -1,0 +1,34 @@
+collections:
+  temasek-experience:
+    output: true
+    order:
+      - Temasek Experience/.keep
+      - Temasek Experience/Temasek Experience.md
+      - CCE/.keep
+      - CCE/Character & Citizenship Education (CCE).md
+      - CCE/Sexuality Education.md
+      - Student Development.md
+      - Co Curricular Activities (CCA)/.keep
+      - Co Curricular Activities (CCA)/CCAs.md
+      - Co Curricular Activities (CCA)/Basketball (Boys).md
+      - Co Curricular Activities (CCA)/Canoeing (Girls).md
+      - Co Curricular Activities (CCA)/Band.md
+      - Co Curricular Activities (CCA)/Bowling.md
+      - Co Curricular Activities (CCA)/Choir.md
+      - Co Curricular Activities (CCA)/Dance.md
+      - Co Curricular Activities (CCA)/Drama.md
+      - Co Curricular Activities (CCA)/Environmental Science Club.md
+      - Co Curricular Activities (CCA)/Infocomm & Media Club.md
+      - Co Curricular Activities (CCA)/NCC (Boys).md
+      - Co Curricular Activities (CCA)/NCDCC.md
+      - Co Curricular Activities (CCA)/Netball (Girls).md
+      - Co Curricular Activities (CCA)/NPCC.md
+      - Co Curricular Activities (CCA)/Pop Acappella.md
+      - Co Curricular Activities (CCA)/Robotics Club.md
+      - Co Curricular Activities (CCA)/Shooting.md
+      - Co Curricular Activities (CCA)/Softball (Boys).md
+      - Co Curricular Activities (CCA)/Track & Field.md
+      - Co Curricular Activities (CCA)/Wushu.md
+      - Cross–Cultural Awareness (C2A).md
+      - Student Leadership (LEAD@TMS).md
+      - Temasek Ignis Programme (TIP).md

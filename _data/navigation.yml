@@ -3,18 +3,23 @@ links:
   - title: About Us
     collection: about-us
   - title: Curriculum
-    collection: curriculum
-  - title: Co-Curriculum
-    url: /co-curriculum/temasek-experience/
+    url: /curriculum/academic-development/departments/
     sublinks:
-      - title: Temasek Experience
-        url: /co-curriculum/temasek-experience/
-      - title: CCE
-        url: /co-curriculum/character-n-citizenship-education-cce/
-      - title: Sexuality Education 2024
-        url: /co-curriculum/sexuality-education-2024/
-      - title: Student Leadership (LEAD@TMS)
-        url: /co-curriculum/student-leadership-lead-tms/
+      - title: Departments
+        url: /curriculum/academic-development/departments/
+      - title: Subjects Offered in TMS
+        url: /curriculum/academic-development/subjects-offered-in-tms/
+  - title: Temasek Experience
+    url: /temasek-experience/
+    sublinks:
+      - title: Character & Citizenship (CCE)
+        url: /temasek-experience/character-n-citizenship-education-cce/
+      - title: Character Development
+        url: /temasek-experience/character-development/
+      - title: Co-Curricular Activities
+        url: /temasek-experience/co-curricular-activities/ccas/
+      - title: Distinctive Programme
+        url: /distinctive-programme/cross-cultural-awareness-c2a/
   - title: Prospective Students
     collection: prospective-students
   - title: Events

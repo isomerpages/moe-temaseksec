@@ -1,7 +1,8 @@
 ---
 title: Student Leadership (LEAD@TMS)
-permalink: /co-curriculum/student-leadership-lead-tms/
+permalink: /temasek-experience/student-leadership-lead-tms/
 description: ""
+variant: tiptap
 ---
 ### LEADERSHIP @ TEMASEK
 
