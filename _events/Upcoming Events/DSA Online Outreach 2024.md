@@ -34,7 +34,7 @@ be in a DSA CCA/leadership group!</p>
 </p>
 <p>Zoom Link: <a href="https://moe-singapore.zoom.us/j/87938109548" rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/87938109548</a>
 </p>
-<p>Meeting ID: <strong>879 3810 9548</strong>
+<p>Meeting ID: <strong>879 3810 9548</strong> 
 <br>Passcode: <strong>275712</strong>
 </p>
 <p></p>
