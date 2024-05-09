@@ -9,7 +9,16 @@ links:
         url: /curriculum/academic-development/departments/
       - title: Subjects Offered in TMS
         url: /curriculum/academic-development/subjects-offered-in-tms/
-  - title: Co-Curriculum
+  - title: Temasek Experience
+    url: /temasek-experience/
+    sublinks:
+      - title: Character & Citizenship (CCE)
+        url: /temasek-experience/character-n-citizenship-education-cce/
+      - title: Character Development
+        url: /temasek-experience/character-development/
+      - title: Co-Curriculur Activities
+        url: /temasek-experience/co-curricular-activities/ccas/
+  - title: Distinctive Programme
     url: /co-curriculum/temasek-experience/
     sublinks:
       - title: Temasek Experience
@@ -26,12 +35,3 @@ links:
     collection: events
   - title: Temasek Family
     collection: temasek-family
-  - title: Temasek Experience
-    url: /temasek-experience/
-    sublinks:
-      - title: Character & Citizenship (CCE)
-        url: /temasek-experience/character-n-citizenship-education-cce/
-      - title: Character Development
-        url: /temasek-experience/character-development/
-      - title: Co-Curriculur Activities
-        url: /temasek-experience/co-curricular-activities/ccas/
