@@ -24,9 +24,6 @@ are able to learn to lose with grace or win with humility.</p>
 </div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TMS_IHSC_02.jpg">
-</div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -34,9 +31,6 @@ are able to learn to lose with grace or win with humility.</p>
 </div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TMS_IHSC_04.jpg">
-</div>
 <p></p>
 <p></p>
 <p></p>
@@ -82,9 +76,6 @@ are able to learn to lose with grace or win with humility.</p>
 <p></p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TMS_IHSC_09.jpg">
-</div>
 <p></p>
 <p></p>
 <p></p>
