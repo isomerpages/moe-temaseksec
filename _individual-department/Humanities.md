@@ -2,6 +2,7 @@
 title: Humanities
 permalink: /individual-department/humanities/
 description: ""
+variant: markdown
 ---
 ![](/images/2023%20dept%20humanities.jpg)
 
@@ -91,9 +92,6 @@ nur_azlilah_abdul_aziz@moe.edu.sg
 
 Mdm Nurhidayah Mohamed Ali  
 nurhidayah_mohamed_ali@moe.edu.sg  
-
-Ms Tan Poh Hoon   
-tan_poh_hoon@moe.edu.sg
 
 Mdm Yeo Soh Hong  
 yeo_soh_hong@moe.edu.sg
