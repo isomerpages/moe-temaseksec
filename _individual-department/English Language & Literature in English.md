@@ -7,7 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20dept%20el.png">
 </div>
-<p><strong>Too often we teach our students what to think, not how to think.</strong>
+<p><strong>Too often we teach our students what to think, not how to think.</strong> 
 <br>The Organisation for Economic Cooperation and Development (OECD)</p>
 <p>The English Language and Literature Department's focus is to nurture our
 students’ critical thinking and effective communication skills. We want
