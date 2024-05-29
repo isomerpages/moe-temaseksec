@@ -7,3 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Please take note that the school will be closed from 3rd June 2024 (Monday)
+1pm to 4th June 2024 (Tuesday) 3pm as all staff will be away for Staff
+Training.</p>
+<p>Please also take note that during the School Holidays, the school will
+be operating from 8am to 5pm.</p>
+<p>Thank you.</p>
