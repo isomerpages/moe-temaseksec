@@ -25,3 +25,7 @@ are conducted.</p>
 <p>With reflections every night that covered key business principles and
 the school's Cross-Cultural Awareness (C2A) curriculum, the trip was an
 incredible success!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TMS_Leadership_Trip_02.jpg">
+</div>
+<p></p>
