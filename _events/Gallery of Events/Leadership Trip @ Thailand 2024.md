@@ -16,9 +16,9 @@ leaders from all five groups attending it. With visits to Kubota Farm (Japan),
 Holiday Inn Express (America) and Boon Tong Kee (Singapore), the team visited
 companies that expanded their business into Thailand to learn from them
 key considerations in how they adapted their business to the local market.
-The team also learnt important ways that Bangkok adapted their businesses
-to keep up with a changing market and how they successfully transitioned
-from a cultural focus to a commercial enerprise.</p>
+The team also learnt important ways that local businesses adapted their
+businesses to remain relevant in a changing market and how they successfully
+transitioned from a cultural focus to a commercial enterprise.</p>
 <p>The team also visited Chulalongkorn University Demonstration Secondary
 School and learnt from their student leaders how their leadership programmes
 are conducted.</p>
