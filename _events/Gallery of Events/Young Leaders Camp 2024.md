@@ -13,5 +13,7 @@ third_nav_title: Gallery of Events
 organised by the Peer Support Leaders, with support from the student leaders
 of Temasek, have helped more than 360 young leaders from over 13 primary
 schools to learn leadership skills and values through fun experiential
-games! This year's theme was about space and the specially designed activities
+games!</p>
+<p></p>
+<p>This year's theme was about space and the specially designed activities
 was an enjoyable time for the many young leaders!</p>
