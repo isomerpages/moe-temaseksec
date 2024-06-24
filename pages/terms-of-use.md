@@ -10,7 +10,7 @@ Thank you for visiting Temasek Secondary School. By accessing and using this Web
 3. This Web Site is maintained by Temasek Secondary School. It is owned by Temasek Secondary School.
 4. The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by Temasek Secondary School. 
 ### Privacy Policy 
-5. Click here to review this Web Site Privacy Statement. 
+5. Click [here](https://www.temaseksec.moe.edu.sg/privacy/)  to review this Web Site Privacy Statement. 
 ### Restrictions on Use of Materials 
 6. Except as otherwise provided, the Contents of this Web Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of Temasek Secondary School.  To use any parts of the contents of this Site, the user must seek permission in writing, stating the contents for use; intent of use; manner of use; time frame of use and identity of the user. MOE reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient. 
 7. Modification of any of the Contents or use of the Contents for any other purpose will be a violation of  Temasek Secondary School’s copyright and other intellectual property rights. Graphics and images on this Web Site are protected by copyright and may not be reproduced or appropriated in any manner without written permission of Temasek Secondary School.
@@ -31,5 +31,5 @@ Thank you for visiting Temasek Secondary School. By accessing and using this Web
 16. In no circumstances shall  Temasek Secondary School be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on web sites that link to this Web Site or any of the Contents. 
 17.  Temasek Secondary School reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights. 
 18.  Temasek Secondary School reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Web Site or any of the Contents. 
-### Governing Law 
+### Governing Law [here](https://www.temaseksec.moe.edu.sg/privacy/)
 19. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
