@@ -3,9 +3,9 @@ title: Parents Support Group
 permalink: /tms-family/parents/psg/
 description: ""
 third_nav_title: Parents
+variant: markdown
 ---
-![2022 PSG Exco.jpeg](/images/2022%20PSG%20Exco.jpeg)  
-
+![2024 PSG Exco](/images/PSG_Exco_New_Pic_2024.jpg)
 ## PARENT SUPPORT GROUP (PSG)
 
 
