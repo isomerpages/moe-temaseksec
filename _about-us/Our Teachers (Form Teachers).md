@@ -37,10 +37,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sabrina Tay Nian Zi</p>
+<p>Mdm Liu Liping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tay_nian_zi@moe.edu.sg</p>
+<p>liu_liping@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
