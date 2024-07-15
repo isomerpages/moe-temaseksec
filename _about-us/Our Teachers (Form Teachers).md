@@ -201,6 +201,17 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Aminah Bte Mohd Nagieb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>aminah_mohd_nagieb@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p>2E</p>
 </td>
@@ -270,10 +281,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Dominic Sim Chwee Siang</p>
+<p>Mr Chia Chun Keong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sim_chwee_siang_dominic@moe.edu.sg</p>
+<p>chia_chun_keong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

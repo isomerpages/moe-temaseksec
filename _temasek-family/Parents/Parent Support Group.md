@@ -1,5 +1,5 @@
 ---
-title: Parents Support Group
+title: Parent Support Group
 permalink: /tms-family/parents/psg/
 description: ""
 third_nav_title: Parents
