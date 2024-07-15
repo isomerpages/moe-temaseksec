@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Parents/.keep
-      - Parents/Parents Support Group.md
+      - Parents/Parent Support Group.md
       - Parents/Parenting Workshop.md
       - Student Matters/.keep
       - Student Matters/General Information.md
