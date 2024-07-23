@@ -63,6 +63,8 @@ solutions
 <br>bennett_lim_chee_theng@moe.edu.sg</p>
 <p>Mdm Chan Choy Wei
 <br>chan_choy_wei@moe.edu.sg</p>
+<p>Mr Chia Chun Keong
+<br>chia_chun_keong@moe.edu.sg</p>
 <p>Mr Chua Kok Thye
 <br>chua_kok_thye@moe.edu.sg</p>
 <p>Mr Elliot Ong
@@ -75,14 +77,10 @@ solutions
 <br>loo_swu_yun@moe.edu.sg</p>
 <p>Ms Lydia Chew
 <br>chew_li_shan_lydia@moe.edu.sg</p>
-<p>Ms Ooi Liu Qi</p>
-<p>ooi_liu_qi@moe.edu.sg</p>
+<p>Ms Ooi Liu Qi
+<br>ooi_liu_qi@moe.edu.sg</p>
 <p>Mr Roger Lim
 <br>lim_pang_kiat@moe.edu.sg</p>
 <p>Ms Tan Hui Xin
 <br>tan_hui_xin@moe.edu.sg</p>
-<p>Mdm Tay Ngee Mui</p>
-<p>tay_ngee_mui@moe.edu.sg</p>
-<p>Ms Toh Ai Kit</p>
-<p>toh_ai_kit@moe.edu.sg</p>
 <p></p>
