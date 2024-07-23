@@ -112,12 +112,9 @@ ong_yan_pei_elliot@moe.edu.sg
 
 Mdm Farizah Minhart (ST/ Character & Citizenship Education)  
 farizah_minhart@moe.edu.sg  
-  
+
 Ms Lim Chek Quay (ST/ Nutrition and Food Science)  
 lim_chek_quay@moe.edu.sg  
-  
-Mrs Rebecca Loke (ST/ Music)  
-rebecca_loke@moe.edu.sg  
   
 Mr Ali Jaafar  
 ali_jaafar@moe.edu.sg  
@@ -125,14 +122,17 @@ ali_jaafar@moe.edu.sg
 Mdm Ivy Tay  
 tay_lay_peng@moe.edu.sg  
   
-Mrs Jacinta Zheng  
-jacinta_yeo_soo_hua@moe.edu.sg  
+Ms Aminah Bte Mohd Nagieb
+aminah_mohd_nagieb@moe.edu.sg
   
 Mr Mohamed Anwaar  
 mohamed_al_anwaarulhaq_asaad@moe.edu.sg  
   
 Mdm Nur Azlilah Abdul Aziz  
 nur_azlilah_abdul_aziz@moe.edu.sg  
+
+Mrs Rebecca Loke
+rebecca_loke@moe.edu.sg  
   
 Mr Salleh Kassim  
 salleh_kassim@moe.edu.sg  
