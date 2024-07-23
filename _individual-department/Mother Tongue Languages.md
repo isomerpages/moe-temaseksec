@@ -2,6 +2,7 @@
 title: Mother Tongue Languages
 permalink: /individual-department/mtl/
 description: ""
+variant: markdown
 ---
 ![](/images/2023%20dept%20mtl.png)
 
@@ -92,8 +93,8 @@ wong_ching_siong@moe.edu.sg
 Mdm JLM Amaljacintha  
 j_l_m_amaljacintha@moe.edu.sg  
   
-Dr. Jasline Presilda Sathiya Seelan  
-jasline_presilda_sathiya_seelan@moe.edu.sg  
+Ms Naseema Begum D/O Sarfudin
+naseema_begum@moe.edu.sg
   
 Mdm Shanthi Sarafin Durairaj  
 shanthi_sarafin_durairaj@moe.edu.sg
