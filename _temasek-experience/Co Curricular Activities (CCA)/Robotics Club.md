@@ -22,7 +22,7 @@ variant: tiptap
 <p>Ms Aminah Bte Mohd Nagieb</p>
 </li>
 <li>
-<p>Mr Phuah Kia Liang</p>
+<p>Mr Mohammed Iqbal Bin Arshad</p>
 </li>
 </ul>
 <p></p>
