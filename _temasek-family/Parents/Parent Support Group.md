@@ -69,7 +69,7 @@ grow in fulfilling its aspirations but also serve the cause of education
 and also facilitate rendering something back to the community at large.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/photo_collage.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_Photo_collage.jpg">
 </div>
 <h2>JOIN THE TMS PSG FAMILY!</h2>
 <p>We welcome all parents of Temasek Secondary School to join us by filling
