@@ -44,22 +44,20 @@ Students will be technologically adept as effective citizens and able to functio
 Mrs Janice Chao (HOD/ Information Communication Technology)  
 janice_chao@moe.edu.sg  
 
-  
-Mrs Soo-Tay Yu Xin (SH/ Information Communication Technology)  
+Mrs Soo-Tay Yu Xin (SH/ Information Communication Technology) 
 tay_yu_xin@moe.edu.sg  
 
+Mohammed Iqbal Bin Arshad (ICT Manager)
+mohammed_iqbal_arshad@moe.edu.sg
   
 Mr Chua Kok Thye  
 chua_kok_thye@moe.edu.sg
 
-
 Ms Lydia Chew  
 chew_li_shan_lydia@moe.edu.sg
 
-  
 Mdm Tham Wai Leng  
 tham_wai_leng@moe.edu.sg
 
-  
 Mrs Smitha Rajeev  
 smitha_rajeev@moe.edu.sg
