@@ -2,7 +2,7 @@
 title: Sports
 permalink: /prospective-students/open-house-2022/sports/
 description: ""
-third_nav_title: Open House 2023
+third_nav_title: Open House 2024
 ---
 ## Wushu
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SihpMaszJsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
