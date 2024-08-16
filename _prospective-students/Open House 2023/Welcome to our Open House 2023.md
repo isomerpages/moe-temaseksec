@@ -9,7 +9,7 @@ variant: markdown
 <br>
 
 
-A very warm welcome to Temasek Secondary School (TMS) Open House 2023!
+A very warm welcome to Temasek Secondary School (TMS) Open House 2024!
 
   
 
@@ -46,11 +46,5 @@ Finally, I would like to draw your attention to our&nbsp;**_three distinctive pr
 
 I hope that these special qualities and programmes of TMS will come through in your experience of our Open House, and we look forward to welcoming you to the TMS family!
 
-### The Open House has ended!
-### Do explore our web page to find out more about Temasek!
-
-![](/images/2023%20open%20house%20banner.png)
-
-#### Principal's Talk @ 10am and 1pm
 
 #### No pre-registration needed to attend the Open House!
