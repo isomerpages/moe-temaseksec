@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Gallery of Events
 ---
-<p>We had a fantastic National Day celebration.</p>
+<p>We had a fantastic National Day celebration!</p>
 <p></p>
 <p>The day started off with a National Day Observance Ceremony where the
 school reflected on Singapore's independence.</p>
