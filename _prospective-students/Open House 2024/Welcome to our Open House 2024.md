@@ -19,7 +19,6 @@ As the Principal of TMS, I would like to share with you the few key distinguishi
 
 Firstly, our school Motto is a short and simple –&nbsp;**We Care**. This refers to the spirit of caring, and a strong commitment to all that we undertake as a school community, be it caring for the school, for our staff and schoolmates, the wider community, and also caring about excellence in the work that we do. Through the past few COVID years that have been so challenging, this quality of care has come to the fore, propelling our staff to go the extra mile to work self-sacrificially for the students, and motivating our students to overcome all odds to continue to support and help their friends so that everyone can achieve and move forward together. The spirit of caring unites and strengthens the TMS family in all that we do.
 
-  
 
 The second distinguishing feature of TMS is&nbsp;**strength in diversity**. Our school mission is to provide an environment where Temasekians are nurtured to embrace diversity. As an autonomous school that offers three courses (Express, NA and NT), and as an MOE pilot school – a forerunner of sorts – for the mixing of form classes across three courses, we truly believe that schools should be a vibrant microcosm of wider society. True to our name “Temasek”, this diverse environment helps our students to build a cohesive national identity, grow more holistically and be better prepared to lead and thrive in their future external environment.  
 
@@ -46,5 +45,6 @@ Finally, I would like to draw your attention to our&nbsp;**_three distinctive pr
 
 I hope that these special qualities and programmes of TMS will come through in your experience of our Open House, and we look forward to welcoming you to the TMS family!
 
+  ![](/images/2024_TMS_Postcard_Landscapre.png)
 
 #### No pre-registration needed to attend the Open House!
