@@ -46,6 +46,10 @@ as individuals and team players.</p>
 <p><a href="/curriculum/co-curricular-activities/ncdcc/" rel="noopener noreferrer nofollow" target="_blank">National Civil Defence Cadet Corps</a>
 </p>
 </li>
+<li>
+<p><a href="https://www.temaseksec.moe.edu.sg/curriculum/co-curricular-activities/npcc/" rel="noopener nofollow" target="_blank">National Police Cadet Corps</a>
+</p>
+</li>
 </ol>
 <h4>SPORTS</h4>
 <ol data-tight="true" class="tight">
