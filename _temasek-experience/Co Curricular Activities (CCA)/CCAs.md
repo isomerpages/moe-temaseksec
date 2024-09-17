@@ -129,6 +129,4 @@ their commitments to the CCA.</p>
 allotted CCA of their first choice in cases where the CCA is oversubscribed
 and they may be allotted choices other than their 1st choice.</p>
 <p>+Shooting, Choir, Drama, Modern Dance are CCAs that offer DSA.
-<br>*Canoeing will cease to accept boys from 2023.
-<br>**Chinese Orchestra will cease to operate from May 2023.
 <br>***Pop Acappella is not a core CCA.</p>
