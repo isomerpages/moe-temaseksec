@@ -54,7 +54,7 @@ as individuals and team players.</p>
 </p>
 </li>
 <li>
-<p>*<a href="/curriculum/co-curricular-activities/canoeing-girls/" rel="noopener noreferrer nofollow" target="_blank">Canoeing (Girls Only)</a>
+<p><a href="/curriculum/co-curricular-activities/canoeing-girls/" rel="noopener noreferrer nofollow" target="_blank">Canoeing (Girls Only)<sup>+</sup></a>
 </p>
 </li>
 <li>
@@ -62,7 +62,7 @@ as individuals and team players.</p>
 </p>
 </li>
 <li>
-<p><strong>+<a href="/curriculum/co-curricular-activities/shooting/" rel="noopener noreferrer nofollow" target="_blank">Shooting</a></strong>
+<p><strong><a href="/curriculum/co-curricular-activities/shooting/" rel="noopener noreferrer nofollow" target="_blank">Shooting<sup>+</sup></a></strong>
 </p>
 </li>
 <li>
@@ -88,19 +88,19 @@ as individuals and team players.</p>
 </p>
 </li>
 <li>
-<p><strong>+<a href="/curriculum/co-curricular-activities/choir" rel="noopener noreferrer nofollow" target="_blank">Choir</a></strong>
+<p><strong><a href="/curriculum/co-curricular-activities/choir" rel="noopener noreferrer nofollow" target="_blank">Choir<sup>+</sup></a></strong>
 </p>
 </li>
 <li>
-<p><strong>+<a href="/curriculum/co-curricular-activities/drama" rel="noopener noreferrer nofollow" target="_blank">Drama</a></strong>
+<p><strong><a href="/curriculum/co-curricular-activities/drama" rel="noopener noreferrer nofollow" target="_blank">Drama<sup>+</sup></a></strong>
 </p>
 </li>
 <li>
-<p><strong>+<a href="/curriculum/co-curricular-activities/dance" rel="noopener noreferrer nofollow" target="_blank">Modern Dance</a></strong>
+<p><strong><a href="/curriculum/co-curricular-activities/dance" rel="noopener noreferrer nofollow" target="_blank">Modern Dance<sup>+</sup></a></strong>
 </p>
 </li>
 <li>
-<p>***<a href="/curriculum/co-curricular-activities/pop-acappella/" rel="noopener noreferrer nofollow" target="_blank">Pop Acappella</a>
+<p><a href="/curriculum/co-curricular-activities/pop-acappella/" rel="noopener noreferrer nofollow" target="_blank">Pop Acappella**</a>
 </p>
 </li>
 </ol>
@@ -129,4 +129,4 @@ their commitments to the CCA.</p>
 allotted CCA of their first choice in cases where the CCA is oversubscribed
 and they may be allotted choices other than their 1st choice.</p>
 <p>+Shooting, Choir, Drama, Modern Dance are CCAs that offer DSA.
-<br>***Pop Acappella is not a core CCA.</p>
+<br>**Pop Acappella is not a core CCA.</p>
