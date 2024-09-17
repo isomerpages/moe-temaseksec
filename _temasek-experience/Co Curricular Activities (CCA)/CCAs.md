@@ -54,7 +54,7 @@ as individuals and team players.</p>
 </p>
 </li>
 <li>
-<p>*<a href="/curriculum/co-curricular-activities/canoeing-girls/" rel="noopener noreferrer nofollow" target="_blank">Canoeing (Girls Only from 2023)</a>
+<p>*<a href="/curriculum/co-curricular-activities/canoeing-girls/" rel="noopener noreferrer nofollow" target="_blank">Canoeing (Girls Only)</a>
 </p>
 </li>
 <li>
