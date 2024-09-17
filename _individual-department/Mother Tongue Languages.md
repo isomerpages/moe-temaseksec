@@ -81,9 +81,7 @@ poon_han_yaw@moe.edu.sg
   
 Mrs Soo-Tay Yu Xin  
 tay_yu_xin@moe.edu.sg  
-  
-Ms Tay Qin Xuan  
-tay_qin_xuan@moe.edu.sg  
+
   
 Mr Wong Ching Siong  
 wong_ching_siong@moe.edu.sg  
