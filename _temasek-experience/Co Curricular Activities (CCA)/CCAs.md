@@ -54,7 +54,7 @@ as individuals and team players.</p>
 </p>
 </li>
 <li>
-<p><a href="/curriculum/co-curricular-activities/canoeing-girls/" rel="noopener noreferrer nofollow" target="_blank">Canoeing (Girls Only)<sup>+</sup></a>
+<p><a href="/curriculum/co-curricular-activities/canoeing-girls/" rel="noopener noreferrer nofollow" target="_blank">Canoeing (Girls Only)</a>
 </p>
 </li>
 <li>
@@ -128,5 +128,5 @@ their commitments to the CCA.</p>
 <p>Students are reminded to make their choices wisely as they may not be
 allotted CCA of their first choice in cases where the CCA is oversubscribed
 and they may be allotted choices other than their 1st choice.</p>
-<p>+Shooting, Choir, Drama, Modern Dance are CCAs that offer DSA.
+<p><sup>+</sup>Shooting, Choir, Drama, Modern Dance are CCAs that offer DSA.
 <br>**Pop Acappella is not a core CCA.</p>
