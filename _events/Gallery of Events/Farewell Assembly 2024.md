@@ -27,3 +27,8 @@ the lunch buffet that followed was a fitting symbol of the support and
 nourishment these students have given one another over the years. Reaching
 this milestone is a testament to their hard work, and we couldn’t be prouder
 of them.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sXLTVeTb5RI?si=Y4TLPSIAkjHki7Df"></iframe>
+</div>
+<p></p>
