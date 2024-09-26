@@ -138,7 +138,7 @@ variant: tiptap
 <h2>House System</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024_House_Captains.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2024_House_Captains.jpg">
 </div>
 <p><a href="https://www.temaseksec.moe.edu.sg/student-leadership/house-captains/" rel="noopener nofollow" target="_blank">HOUSE CAPTAINS</a>
 </p>
