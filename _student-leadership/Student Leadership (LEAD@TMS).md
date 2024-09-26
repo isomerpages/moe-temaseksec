@@ -60,7 +60,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>5 LEADERSHIP GROUPS &amp; STUDENT REP COMMITTEE</h3>
+<h3>5 LEADERSHIP GROUPS, STUDENT REP COMMITTEE, HOUSE CAPTAINS</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -133,14 +133,29 @@ variant: tiptap
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<h2>House System</h2>
-<p></p>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2024_House_Captains.jpg">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.temaseksec.moe.edu.sg/student-leadership/house-captains/" rel="noopener nofollow" target="_blank">HOUSE CAPTAINS</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
