@@ -190,7 +190,7 @@ variant: tiptap
 <br><strong>Marking Day</strong>
 </p>
 <p>14 October (Mon)
-<br><strong>Result Processing Day</strong>
+<br><strong>Marking &amp;</strong>  <strong>Results Processing Day</strong>
 </p>
 <p>17-25 October (Thu-Fri)
 <br><strong>End Of Semester Activities</strong>
