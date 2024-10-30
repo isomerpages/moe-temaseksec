@@ -7,9 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
-<p>
-<br>Dear Parent/Guardian,
+<p>Dear Parent/Guardian,
 <br>
 <br>The appeal for transfers into Temasek Secondary School for Academic Year
 2025 is now open. Please bear in mind the following information:
