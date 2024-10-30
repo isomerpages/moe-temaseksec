@@ -16,10 +16,8 @@ variant: tiptap
 <br><strong>Secondary 4</strong> – No admission
 <br><strong>Secondary 3</strong> – No vacancies available
 <br><strong>Secondary 2 </strong>– Limited vacancies</p>
-<p></p>
 <p>The application for appeals is open from 1 November 2024 (9.00am) to 8<sup> </sup>November
-2024 (12.00pm).</p>
-<p>
+2024 (12.00pm).
 <br>Only candidates who are shortlisted for interview and placement test (if
 necessary), will be informed via telephone and email by 15 November 2024(4.00pm).
 <br>
