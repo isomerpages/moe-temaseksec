@@ -69,13 +69,15 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" src="/images/student%20councillors.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Student_Councillors.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/peer%20support%20leaders.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Peer_Suport_Leader.png">
 </div>
 </th>
 </tr>
@@ -91,13 +93,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" src="/images/sports%20captain.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Sports_Captain.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/class%20manager.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Class_Managers.png">
 </div>
 </td>
 </tr>
@@ -113,13 +117,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" src="/images/young%20ambassadors.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Young_Ambassador.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/student%20representative%20committee.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SRC.png">
 </div>
 </td>
 </tr>
@@ -137,7 +143,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024_House_Captains.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_House_Captains.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
