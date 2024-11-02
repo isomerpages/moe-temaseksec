@@ -12,18 +12,18 @@ links:
   - title: Temasek Experience
     url: /temasek-experience/
     sublinks:
-      - title: Character & Citizenship (CCE)
-        url: /temasek-experience/character-n-citizenship-education-cce/
       - title: Character Development
         url: /temasek-experience/character-development/
-      - title: Co-Curricular Activities
-        url: /temasek-experience/co-curricular-activities/ccas/
-      - title: Cross-Cultural Awareness (C2A)
-        url: /distinctive-programme/cross-cultural-awareness-c2a/
       - title: Student Leadership (LEAD@TMS)
         url: /student-leadership-lead-tms/
+      - title: Cross-Cultural Awareness (C2A)
+        url: /distinctive-programme/cross-cultural-awareness-c2a/
       - title: Talent Development Programme
         url: /temasek-ignis-programme-tip/
+      - title: Character & Citizenship (CCE)
+        url: /temasek-experience/character-n-citizenship-education-cce/
+      - title: Co-Curricular Activities
+        url: /temasek-experience/co-curricular-activities/ccas/
   - title: Prospective Students
     collection: prospective-students
   - title: Events
