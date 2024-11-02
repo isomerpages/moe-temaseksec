@@ -17,12 +17,12 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/philosophy%20and%20desired%20outcomes.png">
+<img style="width: 70%;" height="auto" width="100%" src="/images/philosophy%20and%20desired%20outcomes.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/student%20leadership%20framework.png">
+<img style="width: 70%;" height="auto" width="100%" src="/images/student%20leadership%20framework.png">
 </div>
 </th>
 </tr>
@@ -39,12 +39,12 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/training%20and%20opportunities.png">
+<img style="width: 70%;" height="auto" width="100%" src="/images/training%20and%20opportunities.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/temasek%20charity%20challenge.png">
+<img style="width: 70%;" height="auto" width="100%" src="/images/temasek%20charity%20challenge.png">
 </div>
 </td>
 </tr>
