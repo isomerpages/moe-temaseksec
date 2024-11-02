@@ -60,7 +60,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h3>5 Leadership, Student Rep Committee, House Captains</h3>
+<h3>5 Leadership Groups, Student Rep Committee, House Captains</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
