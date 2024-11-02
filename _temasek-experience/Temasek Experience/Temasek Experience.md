@@ -24,16 +24,13 @@ to be a Temasekian.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XO3tvm_aUtY?si=H44xdFczL3Q09l5e"></iframe>
 </div>
 <p>Temasekians have opportunities to experience many amazing experiences!</p>
+<p>The Inter-House e-Games!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IJZSBZL4GjY?si=tYYajtMDIEx-A9HC"></iframe>
 </div>
-<p>The Inter-House e-Games!</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6KVIyZ3AVEs?si=PYCLTI7vHEa_qM_T"></iframe>
-</div>
 <p>Youth Day Celebrations!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XMnIOWQsfw4?si=ZWHzBsBiKqQA0qna"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6KVIyZ3AVEs?si=PYCLTI7vHEa_qM_T"></iframe>
 </div>
 <p>All Staff Day Celebrations!</p>
 <div class="iframe-wrapper">
@@ -42,5 +39,9 @@ to be a Temasekian.</p>
 <p>Movie Night!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kkIEuh3Jq9U?si=aCMWFZ_UPQVrK8WZ"></iframe>
+</div>
+<p>LEAD@Thailand</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vPWxIkmD--Y?si=ObuXyYg93eBSa7lD"></iframe>
 </div>
 <p></p>
