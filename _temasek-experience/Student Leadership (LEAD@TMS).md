@@ -17,12 +17,12 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/philosophy%20and%20desired%20outcomes.png">
+<img style="width: 100%;" height="auto" width="100%" src="/images/philosophy%20and%20desired%20outcomes.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/student%20leadership%20framework.png">
+<img style="width: 100%;" height="auto" width="100%" src="/images/student%20leadership%20framework.png">
 </div>
 </th>
 </tr>
@@ -39,12 +39,12 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/training%20and%20opportunities.png">
+<img style="width: 100%;" height="auto" width="100%" src="/images/training%20and%20opportunities.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/temasek%20charity%20challenge.png">
+<img style="width: 100%;" height="auto" width="100%" src="/images/temasek%20charity%20challenge.png">
 </div>
 </td>
 </tr>
@@ -71,7 +71,7 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024_Student_Councillors.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2024_Student_Councillors.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -95,7 +95,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024_Sports_Captain.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2024_Sports_Captain.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -119,7 +119,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024_Young_Ambassador.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2024_Young_Ambassador.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -143,7 +143,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024_House_Captains.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2024_House_Captains.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
