@@ -47,7 +47,7 @@ for Temasekians to have many amazing experiences!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IJZSBZL4GjY?si=MYkc97oMF4H9gLJj"></iframe>
 </div>
-<p>LEAD@Thailand</p>
+<p>LEAD@Thailand!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vPWxIkmD--Y?si=ObuXyYg93eBSa7lD"></iframe>
 </div>
@@ -58,5 +58,9 @@ for Temasekians to have many amazing experiences!</p>
 <p>Literary Oydessy!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vmXVJqFjjO4?si=igs-Q6QWJn5zR8Ov"></iframe>
+</div>
+<p>Farewell ASsembly!</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jNLbeCPQlMM?si=QC2lfXBm6NI1-a7b"></iframe>
 </div>
 <p></p>
