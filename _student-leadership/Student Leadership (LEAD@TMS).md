@@ -60,7 +60,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>5 Leadership Groups, Student Rep Committee, House Captains</h3>
+<h3>Leadership Roles</h3>
+<p>5 Leadership groups, Student Rep Committee and House Captains are formal
+leadership roles that Temasekians can look forward to serving in.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
