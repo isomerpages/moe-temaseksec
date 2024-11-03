@@ -22,7 +22,11 @@ to be a Temasekian.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XO3tvm_aUtY?si=H44xdFczL3Q09l5e"></iframe>
 </div>
-<p>Temasekians have opportunities to experience many amazing experiences!</p>
+<p>Temasek Secondary School is a vibrant school. There are numerous opportunities
+for Temasekians to have many amazing experiences!</p>
+<p></p>
+<p>This is an example of some events that take place in Temasek!</p>
+<p></p>
 <p>The Inter-House e-Games!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IJZSBZL4GjY?si=tYYajtMDIEx-A9HC"></iframe>
