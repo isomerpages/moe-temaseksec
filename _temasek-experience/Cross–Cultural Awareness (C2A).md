@@ -70,6 +70,21 @@ and heritage through a customised learning experience.
 to adapt effectively in cross-cultural environments.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OVERSEAS TRIPS</p>
+<p>Temasek's re-introduction of overseas trips post-2023 strengthens students
+understanding of cross-cultural skills through exchange programmes with
+overseas schools.</p>
+<p>With school trips to Thailand, Malaysia and other ASEAN countries, these
+overseas trips give students a first-hand experience of interacting with
+students from other cultures.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vPWxIkmD--Y?si=22Ia87TOVrohm6iG"></iframe>
+</div>
+</td>
+</tr>
 </tbody>
 </table>
 <p>The following table captures the learning outcomes of Lower Secondary
