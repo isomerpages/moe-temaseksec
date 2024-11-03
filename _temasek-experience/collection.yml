@@ -2,8 +2,8 @@ collections:
   temasek-experience:
     output: true
     order:
-      - The TMS Experience/.keep
-      - The TMS Experience/Temasek Experience.md
+      - The Temasek Experience/.keep
+      - The Temasek Experience/Temasek Experience.md
       - CCE/.keep
       - CCE/Character & Citizenship Education (CCE).md
       - CCE/Sexuality Education.md
