@@ -43,9 +43,9 @@ for Temasekians to have many amazing experiences!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kkIEuh3Jq9U?si=aCMWFZ_UPQVrK8WZ"></iframe>
 </div>
-<p>Inter-House Sports Carnival!</p>
+<p>End Of Semester Activities!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IJZSBZL4GjY?si=MYkc97oMF4H9gLJj"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nQ0ZWk9Up3s?si=Ziow4ScM9dDqe9i2"></iframe>
 </div>
 <p>LEAD@Thailand!</p>
 <div class="iframe-wrapper">
