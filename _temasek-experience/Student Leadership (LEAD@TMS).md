@@ -75,7 +75,7 @@ description: ""
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024_House_Captain.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024_Sports_Captain.png">
 </div>
 <p><a href="/student-leadership/sports-captains/" rel="noopener noreferrer nofollow" target="_blank">SPORTS CAPTAINS</a>
 </p>
