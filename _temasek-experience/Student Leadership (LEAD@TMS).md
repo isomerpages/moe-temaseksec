@@ -60,7 +60,11 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h3>5 Leadership Groups, Student Rep Committee, House Captains</h3>
+<h3>Leadership Roles</h3>
+<p>The 5 Leadership groups are formal leadership roles that Temasekians can
+look forward to serving in. Also, students who demonstrate strong leadership
+skills can be involved as members of the Student Rep Committee and House
+Captains.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
