@@ -2,7 +2,7 @@
 title: Examination Rules & Regulations
 permalink: /tms-family/student-handbook/examination-rules-n-regulations/
 description: ""
-third_nav_title: Student handbook
+third_nav_title: Student Handbook
 ---
 ### BEFORE THE START OF THE EXAMINATION
 

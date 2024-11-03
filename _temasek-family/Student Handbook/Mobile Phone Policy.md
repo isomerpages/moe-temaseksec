@@ -2,7 +2,7 @@
 title: Mobile Phone Policy
 permalink: /tms-family/student-handbook/mobile-phone-policy/
 description: ""
-third_nav_title: Student handbook
+third_nav_title: Student Handbook
 ---
 The school reserves the right to confiscate students’ mobile phones as a disciplinary measure if they contravene the school’s mobile phone regulations or for the purpose of investigation.
 

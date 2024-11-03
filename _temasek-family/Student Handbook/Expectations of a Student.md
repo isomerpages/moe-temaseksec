@@ -2,7 +2,7 @@
 title: Expectations of a Student
 permalink: /tms-family/student-handbook/expectations-of-a-student/
 description: ""
-third_nav_title: Student handbook
+third_nav_title: Student Handbook
 ---
 ...based on the Student Handbook.  
   

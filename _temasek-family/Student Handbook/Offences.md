@@ -2,7 +2,7 @@
 title: Offences
 permalink: /tms-family/student-handbook/offences/
 description: ""
-third_nav_title: Student handbook
+third_nav_title: Student Handbook
 ---
 There will be consequences for students who misbehave or commit offence/s that contravene the Temasek Creed and/or School Rules.
 

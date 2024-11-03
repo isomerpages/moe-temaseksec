@@ -2,7 +2,7 @@
 title: Acceptable Use Policy
 permalink: /tms-family/student-handbook/acceptable-use-policy/
 description: ""
-third_nav_title: Student handbook
+third_nav_title: Student Handbook
 ---
 Computing devices and access to the Internet have become a necessity for work, play and learning in the 21st century. In order to ensure a safe and conducive learning environment, please abide by the rules stated in this Acceptable Use Policy.
 

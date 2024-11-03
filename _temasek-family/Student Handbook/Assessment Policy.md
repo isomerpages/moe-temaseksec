@@ -2,7 +2,7 @@
 title: Assessment Policy
 permalink: /tms-family/student-handbook/assessment-policy/
 description: ""
-third_nav_title: Student handbook
+third_nav_title: Student Handbook
 ---
 ## ASSESSMENT POLICY
 

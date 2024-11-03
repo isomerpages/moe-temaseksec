@@ -2,6 +2,7 @@
 title: TMS & Alumni Facebook Link
 permalink: /tms-family/tms-n-alumni-facebook-link/
 description: ""
+variant: markdown
 ---
 ![ALUMNI.jpg](/images/ALUMNI.jpg)  
 

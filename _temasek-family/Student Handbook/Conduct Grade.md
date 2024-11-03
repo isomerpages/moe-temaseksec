@@ -2,7 +2,7 @@
 title: Conduct Grade
 permalink: /tms-family/student-handbook/conduct-grade/
 description: ""
-third_nav_title: Student handbook
+third_nav_title: Student Handbook
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

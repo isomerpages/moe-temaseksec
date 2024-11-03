@@ -2,7 +2,7 @@
 title: Charging of Personal Learning Devices (PLDs) in Temasek Secondary School
 permalink: /tms-family/students/student-handbook/charging-of-personal-learning-devices-plds/
 description: ""
-third_nav_title: Student handbook
+third_nav_title: Student Handbook
 ---
 Charging PLDs in school is a privilege for Temasekians.
 

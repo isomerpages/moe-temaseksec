@@ -2,7 +2,7 @@
 title: Additional Pathways for Sec 4 Normal (Academic) Graduates
 permalink: /tms-family/student-handbook/additional-pathways-for-sec-4-normal-academic-graduates/
 description: ""
-third_nav_title: Student handbook
+third_nav_title: Student Handbook
 ---
 Students who meet the criteria for progression to Secondary 5N (i.e. EL-Maths\-Best 3 Subjects &lt; 19) based on their GCE&nbsp;N&nbsp;Level examination will be given two additional options, on top of having the choice of enrolling in Higher&nbsp;Nitec&nbsp;courses in the ITE.
 
