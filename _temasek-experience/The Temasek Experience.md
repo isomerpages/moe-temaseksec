@@ -1,9 +1,8 @@
 ---
-title: Temasek Experience
-permalink: /temasek-experience/
-description: ""
-third_nav_title: The TMS Experience
+title: The Temasek Experience
+permalink: /temasek-experience/the-temasek-experience/
 variant: tiptap
+description: ""
 ---
 <p>Temasek Secondary School is a place of teaching and learning, but more
 so a place for boys and girls to become young men and women - it is a place

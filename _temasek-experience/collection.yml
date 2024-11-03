@@ -2,18 +2,16 @@ collections:
   temasek-experience:
     output: true
     order:
-      - The TMS Experience/.keep
-      - The TMS Experience/Temasek Experience.md
+      - The Temasek Experience.md
       - CCE/.keep
       - CCE/Character & Citizenship Education (CCE).md
       - CCE/Sexuality Education.md
-      - Student Development.md
       - Co Curricular Activities (CCA)/.keep
       - Co Curricular Activities (CCA)/CCAs.md
-      - Co Curricular Activities (CCA)/Basketball (Boys).md
-      - Co Curricular Activities (CCA)/Canoeing (Girls).md
       - Co Curricular Activities (CCA)/Band.md
+      - Co Curricular Activities (CCA)/Basketball (Boys).md
       - Co Curricular Activities (CCA)/Bowling.md
+      - Co Curricular Activities (CCA)/Canoeing (Girls).md
       - Co Curricular Activities (CCA)/Choir.md
       - Co Curricular Activities (CCA)/Dance.md
       - Co Curricular Activities (CCA)/Drama.md
@@ -32,3 +30,4 @@ collections:
       - Cross–Cultural Awareness (C2A).md
       - Student Leadership (LEAD@TMS).md
       - Temasek Ignis Programme (TIP).md
+      - Student Development.md

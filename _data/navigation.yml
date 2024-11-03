@@ -10,20 +10,22 @@ links:
       - title: Subjects Offered in TMS
         url: /curriculum/academic-development/subjects-offered-in-tms/
   - title: Temasek Experience
-    url: /temasek-experience/
+    url: /temasek-experience/the-temasek-experience
     sublinks:
+      - title: Temasek Experience
+        url: /temasek-experience/the-temasek-experience
       - title: Character Development
         url: /temasek-experience/character-development/
+      - title: Character & Citizenship (CCE)
+        url: /temasek-experience/character-n-citizenship-education-cce/
+      - title: Co-Curricular Activities
+        url: /temasek-experience/co-curricular-activities/ccas/
       - title: Student Leadership (LEAD@TMS)
         url: /student-leadership-lead-tms/
       - title: Cross-Cultural Awareness (C2A)
         url: /distinctive-programme/cross-cultural-awareness-c2a/
       - title: Talent Development Programme
         url: /temasek-ignis-programme-tip/
-      - title: Character & Citizenship (CCE)
-        url: /temasek-experience/character-n-citizenship-education-cce/
-      - title: Co-Curricular Activities
-        url: /temasek-experience/co-curricular-activities/ccas/
   - title: Prospective Students
     collection: prospective-students
   - title: Events
