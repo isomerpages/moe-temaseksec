@@ -61,48 +61,69 @@ description: ""
 </tbody>
 </table>
 <h3>5 Leadership Groups, Student Rep Committee, House Captains</h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024_Student_Councillors.png">
-</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/student-leadership/student-councillors/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2024_Student_Councillors.png"></a>
+</th>
+<th rowspan="1" colspan="1">
 <p><a href="/student-leadership/student-councillors/" rel="noopener noreferrer nofollow" target="_blank">STUDENT COUNCILLORS</a>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024_Peer_Suport_Leader.png">
-</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/student-leadership/peer-support-leaders/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2024_Peer_Suport_Leader.png"></a>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="/student-leadership/peer-support-leaders/" rel="noopener noreferrer nofollow" target="_blank">PEER SUPPORT LEADERS</a>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024_Sports_Captain.png">
-</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/student-leadership/sports-captains/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2024_Sports_Captain.png"></a>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="/student-leadership/sports-captains/" rel="noopener noreferrer nofollow" target="_blank">SPORTS CAPTAINS</a>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024_Class_Managers.png">
-</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/student-leadership/class-managers/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2024_Class_Managers.png"></a>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="/student-leadership/class-managers/" rel="noopener noreferrer nofollow" target="_blank">CLASS MANAGERS</a>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024_Young_Ambassador.png">
-</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/student-leadership/young-ambassadors/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2024_Young_Ambassador.png"></a>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="/student-leadership/young-ambassadors/" rel="noopener noreferrer nofollow" target="_blank">YOUNG AMBASSADORS</a>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024_SRC.png">
-</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/student-leadership/student-representative-committee/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2024_SRC.png"></a>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="/student-leadership/student-representative-committee/" rel="noopener noreferrer nofollow" target="_blank">STUDENT REP COMMITTEE</a>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024_House_Captains.jpg">
-</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/student-leadership/house-captains/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2024_House_Captains.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="/student-leadership/house-captains/" rel="noopener nofollow" target="_blank">HOUSE CAPTAINS</a>
 </p>
-<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
