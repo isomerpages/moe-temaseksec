@@ -31,11 +31,6 @@ students develop the necessary attitudes, skills and knowledge through
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<h3><strong>PROGRAMMES &amp; ACTIVITIES</strong></h3>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <h4>PROJECT CULTURE</h4>
 <p>Project Culture is a customised school-based curriculum to enhance Secondary
@@ -72,7 +67,7 @@ to adapt effectively in cross-cultural environments.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OVERSEAS TRIPS</p>
+<h4>OVERSEAS TRIPS</h4>
 <p>Temasek's re-introduction of overseas trips post-2023 strengthens students
 understanding of cross-cultural skills through exchange programmes with
 overseas schools.</p>
@@ -101,37 +96,36 @@ students in the various domains.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>Collaboration</h4>
-<p>Students are able to explore and evaluate ideas with others through effective
-use of collaborative skills.</p>
+<p><strong>COLLABORATION<br></strong>Students are able to explore and evaluate
+ideas with others through effective use of collaborative skills.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>Communication</h4>
-<p>Students are able to explain information and ideas coherently for specific
-purposes in both the written and oral forms.</p>
+<p><strong>COMMUNICATION<br></strong>Students are able to explain information
+and ideas coherently for specific purposes in both the written and oral
+forms.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>Cross-Cultural Awareness</h4>
-<p>Students demonstrate curiosity and motivation to learn about another culture.
+<p><strong>CROSS-CULTURAL APPLICATION<br></strong>Students demonstrate curiosity
+and motivation to learn about another culture.
 <br>Students demonstrate understanding that there are three categories of
 human behaviour (universal, cultural, personal).</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>Knowledge Application</h4>
-<p>Students are able to use existing knowledge, and assess and analyse information
-from a variety of sources, to generate new knowledge.</p>
+<p><strong>KNOWLEDGE APPLICATION<br></strong>Students are able to use existing
+knowledge, and assess and analyse information from a variety of sources,
+to generate new knowledge.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>ICT</h4>
-<p>Students are able to use ICT tool(s) efficiently to communicate and collaborate
+<p><strong>INFORMATION AND COMMUNICATION TECHNOLOGY</strong>
+<br>Students are able to use ICT tool(s) efficiently to communicate and collaborate
 with others.
 <br>Students are able to acquire new knowledge of a culture and cultural practices
 through efficient use of ICT tool(s).</p>
