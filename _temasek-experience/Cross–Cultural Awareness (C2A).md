@@ -31,11 +31,6 @@ students develop the necessary attitudes, skills and knowledge through
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<h3><strong>PROGRAMMES &amp; ACTIVITIES</strong></h3>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <h4>PROJECT CULTURE</h4>
 <p>Project Culture is a customised school-based curriculum to enhance Secondary
@@ -72,7 +67,7 @@ to adapt effectively in cross-cultural environments.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OVERSEAS TRIPS</p>
+<h4>OVERSEAS TRIPS</h4>
 <p>Temasek's re-introduction of overseas trips post-2023 strengthens students
 understanding of cross-cultural skills through exchange programmes with
 overseas schools.</p>
@@ -130,7 +125,7 @@ from a variety of sources, to generate new knowledge.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>ICT</h4>
+<h4>Information and Communication Technology</h4>
 <p>Students are able to use ICT tool(s) efficiently to communicate and collaborate
 with others.
 <br>Students are able to acquire new knowledge of a culture and cultural practices
