@@ -2,7 +2,7 @@ collections:
   temasek-experience:
     output: true
     order:
-      - Test.md
+      - The Temasek Experience.md
       - The Temasek Experience/.keep
       - The Temasek Experience/Temasek Experience.md
       - CCE/.keep
