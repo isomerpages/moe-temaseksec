@@ -7,7 +7,7 @@ third_nav_title: Gallery of Events
 ---
 <p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6KVIyZ3AVEs?si=WAWHNCrVI_BP8C8_"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6KVIyZ3AVEs?si=bpv4b0kOkFTYUsjj"></iframe>
 </div>
 <p>Temasek Secondary School celebrated Youth Day with BUDDY DAY! On this
 day, Temasekians celebrated this special day by getting their friends to
