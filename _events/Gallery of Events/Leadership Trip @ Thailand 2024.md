@@ -7,7 +7,7 @@ third_nav_title: Gallery of Events
 ---
 <p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vPWxIkmD--Y?si=qb0NAQcXLL6rexl4"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vPWxIkmD--Y?si=GXYi2TnAXt7mVxC9"></iframe>
 </div>
 <p>Temasek Secondary School restarted the overseas trips in 2024!</p>
 <p>One of the trips is the augural Leadership (Entrepreneurship) Trip (LET)
