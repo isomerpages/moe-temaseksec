@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Gallery of Events
 ---
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9N-SQKCVvUw?si=5iUC1WUO2dD0JPzL"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9N-SQKCVvUw?si=8z31Y0exnIGFHuyp"></iframe>
 </div>
 <p>Temasek Secondary School celebrated the good work of the teachers and
 staff that help shape our students on All Staff Day!</p>
