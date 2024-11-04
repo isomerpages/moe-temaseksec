@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Gallery of Events
 ---
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EU7zp99u-zs?si=ksz68dYx6uDfrtPg"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EU7zp99u-zs?si=yzHljc3sEFKeyNfM"></iframe>
 </div>
 <p></p>
 <p>The Young Leaders Camp is here again! The 2-day workshop (28-29 May 2024)
