@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Gallery of Events
 ---
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jNLbeCPQlMM?si=wzblLgZr6N6w7UK0"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jNLbeCPQlMM?si=WjU-qVoXQpIbj70l"></iframe>
 </div>
 <p></p>
 <p>Last Friday, the Sec 4 and 5 came together to spend a special moment to
