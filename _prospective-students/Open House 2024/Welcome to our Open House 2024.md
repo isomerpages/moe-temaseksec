@@ -7,43 +7,31 @@ variant: markdown
 ---
 <img src="/images/TMS Dept Photoshoot 2021-2.jpg" style="width:400px">
 <br>
+A very warm welcome to Temasek Secondary School (TMS)!
 
+We are an established autonomous school located in a vibrant neighbourhood – one that is going to become even more connected and packed with amenities in the near future as the entire Bayshore area develops.
 
-A very warm welcome to Temasek Secondary School (TMS) Open House 2024!
+I would like to share with you three qualities of Temasek that distinguish our school and have helped us to carve out a unique identity in the past over 40 years of the school’s history.&nbsp;
 
-  
+The first distinguishing quality of TMS is expressed simply and powerfully in our school Motto – “We Care”, which has remained the same for many years. Care is a spirit and commitment we undertake as a school community, be it caring for the school, for our staff and schoolmates, and for the broader community. We truly believe that all of us can be stronger together and that it is more blessed to give than to receive.&nbsp;&nbsp;
 
-As the Principal of TMS, I would like to share with you the few key distinguishing features of TMS that strike me as being very special and important for anyone considering where to go for their secondary education journey.&nbsp;  
+As a school, we want to create a caring environment that enhances every student’s well-being and equips them with the skills to lead a flourishing life. This emphasis is even more critical against a backdrop of an increasingly stressful and competitive world, the challenges posed by technology such as social media on the mental well-being of our young people, the polarisation and lack of trust that has grown in many societies worldwide, and global challenges we have to face together such as climate change and pandemics. This is why we have recently embarked on the journey of Positive Education in TMS. Rooted in the scientific field of Positive Psychology, this upstream and holistic approach to enhance student well-being focuses on the six important elements that lead to a flourishing life, as follows: Positive Emotions, Engagement, Relationships, Meaning, Accomplishment and Health (PERMAH, for short). In TMS, these 6 elements are encapsulated the acronym W.E. C.A.R.E., with Wellness mapping to Health, and Contribution to the greater good mapping to Meaning, which is about finding purpose in something beyond oneself. This framework has been used to guide the school in both the academic and non-academic curriculum, so that students develop the awareness and the skills to manage their own well-being, and to lead a thriving, engaged and meaningful life.&nbsp;&nbsp;
 
-  
+![](/images/WE_CARE.png)
 
-Firstly, our school Motto is a short and simple –&nbsp;**We Care**. This refers to the spirit of caring, and a strong commitment to all that we undertake as a school community, be it caring for the school, for our staff and schoolmates, the wider community, and also caring about excellence in the work that we do. Through the past few COVID years that have been so challenging, this quality of care has come to the fore, propelling our staff to go the extra mile to work self-sacrificially for the students, and motivating our students to overcome all odds to continue to support and help their friends so that everyone can achieve and move forward together. The spirit of caring unites and strengthens the TMS family in all that we do.
+The second distinguishing aspect of TMS is joyful learning. We believe that it is critical for our students to know how to learn and to love the process of learning. This will help them to remain relevant and to secure good livelihoods in the future. Students fall in love with learning when they are empowered in the learning process and experience joy in discovering new things with their classmates and teachers. A key part of strengthening joy of learning and lifelong learning would be TMS’ focus on Learning Dispositions (summarised as “GROWTH”).&nbsp;
 
+![](/images/GROWTH.png)
 
-The second distinguishing feature of TMS is&nbsp;**strength in diversity**. Our school mission is to provide an environment where Temasekians are nurtured to embrace diversity. As an autonomous school that offers three courses (Express, NA and NT), and as an MOE pilot school – a forerunner of sorts – for the mixing of form classes across three courses, we truly believe that schools should be a vibrant microcosm of wider society. True to our name “Temasek”, this diverse environment helps our students to build a cohesive national identity, grow more holistically and be better prepared to lead and thrive in their future external environment.  
+These aim to nurture in our students the skills to work well with others, metacognition (reflective learning), grit and resilience when faced with setbacks, a work ethic of excellence, proactiveness and a passion for learning. In TMS, each student will be paired up with a learning coach (one of our teachers), who will mentor him/her on this journey of acquiring these positive learning dispositions. As PM Lee has said: “Let us prepare our children for the test of life, not a life of tests.”
 
-  
+The last key feature of TMS is “strength in diversity”.
 
-Finally, I would like to draw your attention to our&nbsp;**_three distinctive programmes_**&nbsp;that are different from what most other schools provide:&nbsp;&nbsp;**LEAD@TMS**, the&nbsp;**Temasek Ignis Programme (TIP)**, and the&nbsp;**Cross-Cultural Awareness (C2A) Programme**.
+As an autonomous school that admits students studying subjects across the G1, G2 and G3 range, we are proud that we have been a national pilot school in the mixing of Form Classes across the three secondary posting groups. Our programmes have been able to cater to a wide range of student readiness and interests. Our students and staff live out daily the deep conviction that our schools should be a vibrant microcosm of wider society. This diverse environment helps our students to build a cohesive national identity, grow more holistically and be better prepared to be leaders in their future external environment.
 
-  
+With that, I welcome you to find out more, join us, and be part of the Temasek family!
 
-*   LEAD@TMS is our established leadership programme, and the great focus and emphasis that the school places on this programme is evident in the fact that almost half of our students are selected and trained to be student leaders in various capacities. This programme nurtures a strong sense of responsibility and pride in our students, and influences the entire school tone in a very positive way.&nbsp;  
-    
-
-  
-
-*   The Temasek Ignis Programme (TIP) is a talent development programme that nurtures talent and intellectual curiosity in our students. Through a broad based programme at lower secondary and specific areas of specialisation in upper secondary, students gain both breadth and depth of exposure and exploration, and are able to flourish intellectually.  
-    
-
-  
-
-*   Finally, the Cross-Cultural Awareness (C2A) Programme emphasises the importance of global awareness and cross-cultural literacy – key dispositions and skills that our students need to thrive in the cosmopolitan 21st century.  
-    
-
-  
-
-I hope that these special qualities and programmes of TMS will come through in your experience of our Open House, and we look forward to welcoming you to the TMS family!
+**
 
   ![](/images/2024_TMS_Postcard_Landscapre.png)
 
