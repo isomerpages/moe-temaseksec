@@ -17,7 +17,6 @@ singing with a National Day theme was also performed by our students!</p>
 <p>The day rounded up with the Sec 1s showcased their entrepreneurial spirit
 as they raised funds for the President’s Challenge through the GoMAD (Go
 Make A Difference) initiative.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_National_Day_01.jpg">
 </div>
