@@ -25,6 +25,9 @@ variant: markdown
 ## e-Games 2024
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IJZSBZL4GjY?si=tYYajtMDIEx-A9HC"></iframe>
 
+## Movie Night 2024
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kkIEuh3Jq9U?si=aCMWFZ_UPQVrK8WZ"></iframe>
+
 ## Graduation 2023
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/LHzW7wIZLUI?si=fDvm8hqkKLSS_a5b" height="315" width="560"></iframe>
