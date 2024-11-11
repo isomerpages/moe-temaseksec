@@ -72,13 +72,16 @@ throughout the school!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1000-1100h</p>
+<p><strong>1000-1100h</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Principal's Talk</p>
+<p><strong>Principal's Talk</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Temasek Room/Theatrette</p>
+<p><strong>Temasek Room/Theatrette</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -160,13 +163,16 @@ throughout the school!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1200-1300h</p>
+<p><strong>1200-1300h</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Principal's Talk</p>
+<p><strong>Principal's Talk</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Temasek Room/Theatrette</p>
+<p><strong>Temasek Room/Theatrette</strong>
+</p>
 </td>
 </tr>
 <tr>
