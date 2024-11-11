@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Open House 2024
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TMS_Postcard_Landscapre.png">
+</div>
 <p>Come to Temasek and check out the different performances and activities
 throughout the school!</p>
 <p></p>
