@@ -19,6 +19,9 @@ variant: markdown
 ## Sec 1 Orientation 2024
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/XO3tvm_aUtY?si=C3hDO_mgUJ-0d-p2" height="315" width="560"></iframe>
 
+## e-Games 2024
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IJZSBZL4GjY?si=tYYajtMDIEx-A9HC"></iframe>
+
 ## Graduation 2023
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/LHzW7wIZLUI?si=fDvm8hqkKLSS_a5b" height="315" width="560"></iframe>
