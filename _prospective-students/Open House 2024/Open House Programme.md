@@ -5,3 +5,247 @@ variant: tiptap
 description: ""
 third_nav_title: Open House 2024
 ---
+<p>Come to Temasek and check out the different performances and activities
+throughout the school!</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Programme</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>0900h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Start of Open House</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>0915h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Foyer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>0930-1030h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science Lesson Demo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Biology Lab</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>0940h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pop Acappella</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1000-1100h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal's Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Temasek Room/Theatrette</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1015h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wushu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball Court</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1040h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Uniformed Group</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball Court</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1100h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball Court</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1105h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learning Hub 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1120h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Canteen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1130h-1230h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science Lesson Demo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Biology Lab</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1140h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pop Acappella</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1200-1300h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal's Talk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Temasek Room/Theatrette</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1215h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Uniformed Group</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball Court</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1230h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Foyer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1245h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wushu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball Court</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1305h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learning Hub 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1325h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Canteen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1345h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball Court</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1400h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>End of Open House</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
