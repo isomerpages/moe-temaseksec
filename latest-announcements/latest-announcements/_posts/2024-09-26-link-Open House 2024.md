@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://www.temaseksec.moe.edu.sg/prospective-students/open-house-2024/welcome/
+external: https://https://www.temaseksec.moe.edu.sg/open-house-programme/
 ---
