@@ -1,5 +1,5 @@
 ---
-title: Welcome to our Open House 2024
+title: Principal's Welcome
 permalink: /prospective-students/open-house-2024/welcome/
 description: ""
 third_nav_title: Open House 2024

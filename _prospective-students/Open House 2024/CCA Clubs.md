@@ -1,8 +1,9 @@
 ---
-title: Clubs
+title: CCA Clubs
 permalink: /prospective-students/open-house-2022/clubs/
 description: ""
 third_nav_title: Open House 2024
+variant: tiptap
 ---
 ### Environmental Science Club
 

@@ -1,10 +1,14 @@
 ---
-title: Performing Arts
+title: CCA Performing Arts
 permalink: /prospective-students/open-house-2022/performing-arts/
 description: ""
 third_nav_title: Open House 2024
+variant: markdown
 ---
-## Modern Dance
+## Band
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZnhE7PljuuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+## Dance
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F1Q4WfbnhIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ## Drama
@@ -12,12 +16,6 @@ third_nav_title: Open House 2024
 
 ## Choir
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-7cRneYz-k0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-## Chinese Orchestra
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8k5dLULjusw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-## Band
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZnhE7PljuuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ## Pop Acappella
 <iframe width="560" height="315" src="https://www.youtube.com/embed/26YiHSywdZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
