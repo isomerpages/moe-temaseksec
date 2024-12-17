@@ -11,9 +11,9 @@ sections:
         - title: Latest News
           description: School Calendar 2024
           url: /events/school-calendar/
-        - title: Open House 2024
+        - title: Sec 1 Admissions 2025
           description: 16 November (Sat)
-          url: https://www.temaseksec.moe.edu.sg/prospective-students/open-house-2024/welcome
+          url: https://www.temaseksec.moe.edu.sg/prospective-students/sec-1-admissions-2025/
       background: /images/2023schoolbanner.png
   - resources:
       title: Latest Announcements
