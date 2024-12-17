@@ -1,7 +1,7 @@
 ---
 title: Sec 1 Registration (2025 Intake)
 permalink: /events/upcoming-events/sec-1-registration-2025/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Upcoming Events
 ---
@@ -168,6 +168,9 @@ letters via PG on 19 December 2024, from 12.00pm onwards.</p>
 <p>Parents will receive an SBB offer letter on 19 December 2024 from 12.00pm
 onwards via PG if their child is eligible to be offered a subject at a
 more demanding level.</p>
+<p><strong>Please complete and submit the form online.</strong>
+</p>
+<p></p>
 <p>If you have not received it, please email <a rel="noopener noreferrer nofollow" target="_blank">tay_hwee_ping@moe.edu.sg</a> with
 your child’s full name, NRIC and posting group as soon as possible</p>
 </td>
