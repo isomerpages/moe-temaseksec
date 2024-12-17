@@ -10,41 +10,8 @@ variant: tiptap
 textbooks, stationeries, P.E attire, uniforms and MOE Financial Assistance
 via the information sheet and booklists as attached below:&nbsp;</p>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Purchase of textbooks</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="/files/School Uniform and Booklists/2025_Sec_1_TMS_Booklist.pdf" rel="noopener nofollow" target="_blank">Information on Sec 1 Booklist</a>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Purchase of school attire from In-Trend Uniforms</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/School Uniform and Booklists/Information_for_Sale_of_Uniforms_2025.pdf" rel="noopener nofollow" target="_blank">Information for Sale of Uniforms</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4>Purchase of textbooks</h4>
 <p><a href="/files/School Uniform and Booklists/2025_Sec_1_TMS_Booklist.pdf" rel="noopener nofollow" target="_blank">Information on Sec 1 Booklist</a>
 </p>
