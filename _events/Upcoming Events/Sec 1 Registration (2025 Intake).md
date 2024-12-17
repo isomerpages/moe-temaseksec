@@ -168,10 +168,8 @@ letters via PG on 19 December 2024, from 12.00pm onwards.</p>
 <p>Parents will receive an SBB offer letter on 19 December 2024 from 12.00pm
 onwards via PG if their child is eligible to be offered a subject at a
 more demanding level.</p>
-<p>&nbsp;</p>
 <p>If you have not received it, please email <a rel="noopener noreferrer nofollow" target="_blank">tay_hwee_ping@moe.edu.sg</a> with
 your child’s full name, NRIC and posting group as soon as possible</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
