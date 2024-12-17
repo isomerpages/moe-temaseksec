@@ -143,4 +143,3 @@ miscellaneous fees</p>
 <h3>School-based Financial Assistance Scheme (School-based FAS)</h3>
 <p>Students who miss the MOEFAS income criteria marginally may be provided
 with textbooks, uniforms, transport and meal allowance under this scheme.</p>
-<p>and meal allowance.</p>
