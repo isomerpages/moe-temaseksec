@@ -10,13 +10,13 @@ variant: tiptap
 textbooks, stationeries, P.E attire, uniforms and MOE Financial Assistance
 via the information sheet and booklists as attached below:&nbsp;</p>
 <h4>Purchase of textbooks</h4>
-<p><a href="/files/2024_Booklist__Sec_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Sec 1 Booklist</a>
+<p><a href="/files/School Uniform and Booklists/2025_Sec_1_TMS_Booklist.pdf" rel="noopener nofollow" target="_blank">Information on Sec 1 Booklist</a>
 </p>
 <h4>Purchase of school attire from In-Trend Uniforms</h4>
-<p><a href="/files/2024_Uniform.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on School Uniform</a>
+<p><a href="/files/School Uniform and Booklists/Information_for_Sale_of_Uniforms_2025.pdf" rel="noopener nofollow" target="_blank">Information for Sale of Uniforms</a>
 </p>
 <p>For more information, please attend our Sec 1 E-registration briefing
-on 21 December 2023 at 9am.</p>
+on 19 December 2024, 9.00am.</p>
 <h4>Sec 1 Registration Briefing</h4>
 <p><a href="https://www.temaseksec.moe.edu.sg/events/upcoming-events/sec-1-registration-2025/" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Registration 2025</a>
 </p>
@@ -24,6 +24,7 @@ on 21 December 2023 at 9am.</p>
 <p><a href="https://www.temaseksec.moe.edu.sg/prospective-students/financial-information/" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application</a>
 </p>
 <h4>2025 SEC 1 APPEAL</h4>
-<p><a href="https://www.temaseksec.moe.edu.sg/prospective-students/appeal-for-sec-1-admissions-2024/" rel="noopener noreferrer nofollow" target="_blank">Appeal For Sec 1 Admissions 2025</a>
+<p><a href="https://go.gov.sg/tms-sec1-appeal-2025" rel="noopener nofollow" target="_blank">Appeal for Sec 1 Admissions 2025</a>
 </p>
+<p></p>
 <p></p>
