@@ -122,16 +122,25 @@ to our Temasek Family!</p>
 </tr>
 </tbody>
 </table>
-<p>Parents will receive a School placement letter as well as HMTL and 3rd
-Language offer letters (for eligible Express course students) via Parents
-Gateway (PG) on 21st December 2023.</p>
-<p>Due to technical issues with PG, do look out for the placement letter
-throughout the day.</p>
+<h3>Notes</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>All parents will receive a School Placement Offer letter via Parents Gateway
+(PG) on 19 December 2024, 12.00pm. Please complete and submit the form
+online.</p>
+</li>
+<li>
+<p>Parents of eligible G3 students will also receive HMTL and 3rd language
+offer letters via PG on 19 December 2024, 12.00pm.</p>
+<p></p>
+</li>
+</ul>
+<p>In the event of technical issues with PG, please look out for the offer
+letter throughout the day on 19 December 2024.</p>
 <h3>SBB Letter of Offer</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>If your child is eligible, you should have received a SBB offer letter
-via email by today.</p>
+<p>Parents will receive a SBB offer lett</p>
 </li>
 <li>
 <p>If you have not received it, please email <a href="mailto:tay_hwee_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_hwee_ping@moe.edu.sg</a> with
