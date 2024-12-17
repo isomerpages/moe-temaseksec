@@ -21,7 +21,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.temaseksec.moe.edu.sg/events/upcoming-events/sec-1-registration-2025/" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Registration 2025</a>
+<p><a href="https://www.temaseksec.moe.edu.sg/events/upcoming-events/sec-1-registration-2025/" rel="noopener nofollow" target="_blank">Sec 1 Registration 2025</a>
 </p>
 </td>
 </tr>
