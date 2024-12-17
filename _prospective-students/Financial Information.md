@@ -16,7 +16,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="5">
-<p><strong>2024</strong>
+<p><strong>2025</strong>
 </p>
 </td>
 </tr>
@@ -64,7 +64,7 @@ variant: tiptap
 <p>PR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$560*</p>
+<p>$680*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$20*</p>
@@ -73,7 +73,7 @@ variant: tiptap
 <p>$3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$583*</p>
+<p>$703*</p>
 </td>
 </tr>
 <tr>
@@ -81,18 +81,20 @@ variant: tiptap
 <p>IS (ASEAN)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$970
-<br>($889.91 + GST $80.09)</p>
+<p>$1090</p>
+<p>($1000 + GST $90)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$21.80
-<br>($20.00 + GST $1.80)</p>
+<p>$21.80</p>
+<p>($20.00 + GST $1.80)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$994.80</p>
+<p>$1114.80</p>
 </td>
 </tr>
 <tr>
@@ -100,18 +102,20 @@ variant: tiptap
 <p>IS (NON-ASEAN)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,910
-<br>($1,752.29 + GST $157.71)</p>
+<p>$2190</p>
+<p>($2009.17 + GST $180.83)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$21.80
-<br>($20.00 + GST $1.80)</p>
+<p>$21.80</p>
+<p>($20.00 + GST $1.80)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,934.80</p>
+<p>$2214.80</p>
 </td>
 </tr>
 <tr>
