@@ -17,13 +17,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>2025 Sec 1 Registration Briefing</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.temaseksec.moe.edu.sg/events/upcoming-events/sec-1-registration-2025/" rel="noopener nofollow" target="_blank">Sec 1 Registration 2025</a>
-</p>
-<p></p>
 <p><a href="https://temaseksec.moe.edu.sg/events/upcoming-events/sec-1-registration-2025/" rel="noopener nofollow" target="_blank">Sec 1 Registration 2025</a>
 </p>
 </td>
