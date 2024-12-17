@@ -4,8 +4,8 @@ permalink: /prospective-students/sec-1-admissions-2025/
 description: ""
 variant: tiptap
 ---
-<h4>2024 SEC 1 PURCHASE OF TEXTBOOKS, P.E ATTIRE, UNIFORMS</h4>
-<p>Dear parents of our 2024 Sec 1 students,</p>
+<h4>2025 SEC 1 PURCHASE OF TEXTBOOKS, P.E ATTIRE, UNIFORMS</h4>
+<p>Dear parents of our 2025 Sec 1 students,</p>
 <p>You may wish to go through the information on how to purchase our school's
 textbooks, stationeries, P.E attire, uniforms and MOE Financial Assistance
 via the information sheet and booklists as attached below:&nbsp;</p>
@@ -23,7 +23,7 @@ on 21 December 2023 at 9am.</p>
 <h4>Application for MOE Financial Assistance Programme</h4>
 <p><a href="https://www.temaseksec.moe.edu.sg/prospective-students/financial-information/" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application</a>
 </p>
-<h4>2024 SEC 1 APPEAL</h4>
-<p><a href="https://www.temaseksec.moe.edu.sg/prospective-students/appeal-for-sec-1-admissions-2024/" rel="noopener noreferrer nofollow" target="_blank">Appeal For Sec 1 Admissions 2024</a>
+<h4>2025 SEC 1 APPEAL</h4>
+<p><a href="https://www.temaseksec.moe.edu.sg/prospective-students/appeal-for-sec-1-admissions-2024/" rel="noopener noreferrer nofollow" target="_blank">Appeal For Sec 1 Admissions 2025</a>
 </p>
 <p></p>
