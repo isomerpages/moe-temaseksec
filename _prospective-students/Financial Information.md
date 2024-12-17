@@ -2,7 +2,7 @@
 title: Financial Information
 permalink: /prospective-students/financial-information/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3>Fees</h3>
 <table style="minWidth: 125px">
