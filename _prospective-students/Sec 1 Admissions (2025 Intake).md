@@ -60,16 +60,9 @@ on 19 December 2024, 9.00am.</p>
 <p>&nbsp;</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2025 Sec 1 Appeal toTemasek Secondary School</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/prospective-students/appeal-for-sec-1-admissions-2025/" rel="noopener noreferrer nofollow" target="_blank">Appeal for Sec 1 Admissions 2025</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
