@@ -140,7 +140,7 @@ letter throughout the day on 19 December 2024.</p>
 <h3>SBB Letter of Offer</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Parents will receive a SBB offer lett</p>
+<p>Parents will receive a SBB offer letter on 19 December 2024</p>
 </li>
 <li>
 <p>If you have not received it, please email <a href="mailto:tay_hwee_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_hwee_ping@moe.edu.sg</a> with
