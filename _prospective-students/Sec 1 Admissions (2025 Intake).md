@@ -2,7 +2,7 @@
 title: Sec 1 Admissions (2025 Intake)
 permalink: /prospective-students/sec-1-admissions-2025/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4>2025 SEC 1 PURCHASE OF TEXTBOOKS, P.E ATTIRE, UNIFORMS</h4>
 <p>Dear parents of our 2025 Sec 1 students,</p>
