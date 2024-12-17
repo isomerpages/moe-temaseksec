@@ -170,7 +170,7 @@ onwards via PG if their child is eligible to be offered a subject at a
 more demanding level.
 <br><strong>Please complete and submit the form online.</strong>
 <br><br>If you have not received it, please email <a rel="noopener noreferrer nofollow" target="_blank">tay_hwee_ping@moe.edu.sg</a> with
-your child’s full name, NRIC and posting group as soon as possible</p>
+your child’s full name, NRIC and posting group as soon as possible.</p>
 </td>
 </tr>
 </tbody>
