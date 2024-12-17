@@ -140,7 +140,9 @@ to our Temasek Family!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All parents will receive a School Placement Offer letter via PG on 19
-December 2024, 12.00pm. <strong>Please complete and submit the form online.</strong>
+December 2024 from 12.00pm onwards.</p>
+<p></p>
+<p><strong>Please complete and submit the form online.</strong>
 </p>
 </td>
 </tr>
@@ -151,7 +153,10 @@ December 2024, 12.00pm. <strong>Please complete and submit the form online.</str
 </td>
 <td rowspan="1" colspan="1">
 <p>Eligible G3 students will receive HMTL and/or 3<sup>rd</sup> Language offer
-letters via PG on 19 December 2024, 12.00pm.</p>
+letters via PG on 19 December 2024, from 12.00pm onwards.</p>
+<p></p>
+<p><strong>Please complete and submit the form online.</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -160,8 +165,9 @@ letters via PG on 19 December 2024, 12.00pm.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents will receive an SBB offer letter on 19 December 2024 via PG if
-their child is eligible to be offered a subject at a more demanding level.</p>
+<p>Parents will receive an SBB offer letter on 19 December 2024 from 12.00pm
+onwards via PG if their child is eligible to be offered a subject at a
+more demanding level.</p>
 <p>&nbsp;</p>
 <p>If you have not received it, please email <a rel="noopener noreferrer nofollow" target="_blank">tay_hwee_ping@moe.edu.sg</a> with
 your child’s full name, NRIC and posting group as soon as possible</p>
@@ -170,30 +176,6 @@ your child’s full name, NRIC and posting group as soon as possible</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>All parents will receive a School Placement Offer letter via PG on 19
-December 2024, 12.00pm. Please complete and submit the form online.</p>
-</li>
-<li>
-<p>Parents of eligible G3 students will also receive HMTL and 3rd language
-offer letters via PG on 19 December 2024, 12.00pm.</p>
-<p></p>
-</li>
-</ul>
 <p>In the event of technical issues with PG, please look out for the offer
 letter throughout the day on 19 December 2024.</p>
-<h3>SBB Letter of Offer</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Parents will receive an SBB offer letter on 19 December 2024 via PG if
-their child is eligible to be offered a subject at a more demanding level.</p>
-</li>
-<li>
-<p>If you have not received it, please email <a href="mailto:tay_hwee_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_hwee_ping@moe.edu.sg</a> with
-your child’s full name, NRIC and posting group as soon as possible</p>
-</li>
-</ul>
 <p></p>
