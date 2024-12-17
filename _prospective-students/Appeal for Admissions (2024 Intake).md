@@ -13,9 +13,9 @@ for the relevant Posting Group(PG) .</p>
 appeals.</p>
 <p>Transfers will be subject to available vacancies and the school’s admission
 criteria.</p>
-<p><strong>The deadline for the submission of appeals is on 23 December 2024, 12:00pm.  We regret that we are unable to consider late submissions.</strong>
+<p><strong>The deadline for the submission of appeals is on 23 December 2024, 12:00pm. We regret that we are unable to consider late submissions.</strong>
 </p>
-<p><strong>Notes: </strong>
+<p><strong>Notes:</strong>
 </p>
 <p>The personal information provided in this form will be solely used for
 the purpose of appealing for secondary school transfer based on non-medical
