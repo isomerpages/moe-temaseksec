@@ -82,12 +82,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>$1090</p>
-<p>($1000 + GST $90)</p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$21.80</p>
-<p>($20.00 + GST $1.80)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,12 +102,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>$2190</p>
-<p>($2009.17 + GST $180.83)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$21.80</p>
-<p>($20.00 + GST $1.80)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
