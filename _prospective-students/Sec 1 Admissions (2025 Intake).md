@@ -24,7 +24,7 @@ on 19 December 2024, 9.00am.</p>
 <p><a href="https://www.temaseksec.moe.edu.sg/prospective-students/financial-information/" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application</a>
 </p>
 <h4>2025 SEC 1 APPEAL</h4>
-<p><a href="https://go.gov.sg/tms-sec1-appeal-2025" rel="noopener nofollow" target="_blank">Appeal for Sec 1 Admissions 2025</a>
+<p><a href="/prospective-students/appeal-for-sec-1-admissions-2025/" rel="noopener nofollow" target="_blank">Appeal for Sec 1 Admissions 2025</a>
 </p>
 <p></p>
 <p></p>
