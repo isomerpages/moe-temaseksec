@@ -1,7 +1,7 @@
 ---
 title: Appeal for transfers into Temasek Secondary School for Academic Year 2025
-permalink: /appeal-for-transfers-into-temasek-secondary-school-for-academic-year-2025/
-date: 2024-10-30
+permalink: /prospective-students/appeal-for-sec-1-admissions-2025/
+date: 2024-12-18
 layout: post
 description: ""
 image: ""
