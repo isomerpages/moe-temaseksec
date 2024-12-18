@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.temaseksec.moe.edu.sg/open-house-programme/
+external: https://www.temaseksec.moe.edu.sg/open-house-programme/
 ---
