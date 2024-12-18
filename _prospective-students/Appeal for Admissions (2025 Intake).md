@@ -6,9 +6,49 @@ description: ""
 ---
 <p>Congratulations on receiving your Secondary school posting. Do use this
 <a href="https://go.gov.sg/tms-sec1-appeal-2025" rel="noopener nofollow" target="_blank">form</a>, if you wish to apply for transfer to Temasek Secondary School.
-The applicant's PSLE score must meet the school's Achievement Level (AL)
-for the relevant Posting Group(PG) .</p>
-<p>The details on AL scores are listed below.</p>
+The applicant's PSLE score <strong><u>must meet the school's Achievement Level (AL)</u></strong> for
+the relevant Posting Group(PG) .</p>
+<p>The details on AL scores are listed below:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Posting Group</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Cut-Off</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PG1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PG2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PG3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Students who were posted to schools via DSA will not be eligible for transfer
 appeals.</p>
 <p>Transfers will be subject to available vacancies and the school’s admission
@@ -30,47 +70,5 @@ of the transfer appeal. Due to the large number of applications expected,
 please consider your appeal unsuccessful if you do not hear from the school
 by 2 January 2025.</p>
 <p></p>
-<p>Table below is based on Sec 1 2024 cohort's cut-off points.</p>
-<p>Sec 1 2025 cohort's cut-off points will be updated by 18 December 2024,
-12.00pm.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Posting Group</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Cut-Off</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PG1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>27</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PG2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>22</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PG3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>Table below is based on Sec 1 2025 cohort's cut-off point:</p>
 <p></p>
