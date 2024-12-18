@@ -4,7 +4,7 @@ permalink: /about-us/principals-message/
 description: ""
 variant: tiptap
 ---
-<h3>2025 Principal's Message </h3>
+<h3>2025 Principal's Message</h3>
 <p>Look out for the new Principal's message in January 2025.</p>
 <h3>2024 Principal's Message</h3>
 <p>Since the start of 2023, after a process of engagement and re-envisioning,
