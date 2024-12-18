@@ -8,17 +8,20 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20dept%20smc.jpg">
 </div>
 <h3>SCHOOL LEADERS</h3>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Ms Leah Aw (Principal)</strong>
+<p><strong>Mr Tan Shun Loong (Principal)</strong>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>leah_aw@schools.gov.sg</p>
+<p>tan_shun_loong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -46,17 +49,20 @@ variant: tiptap
 </tbody>
 </table>
 <h3>HEADS OF DEPARTMENT</h3>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Ms Alexis Lim (HOD/ Science)</strong>
+<p><strong>Dr Yap Ann Teck (HOD/ Science)</strong>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>alexis_lim@moe.edu.sg</p>
+<p>yap_ann_teck@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -205,7 +211,10 @@ variant: tiptap
 </tbody>
 </table>
 <h3>SUBJECT &amp; LEVEL HEADS</h3>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
