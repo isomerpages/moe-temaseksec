@@ -30,9 +30,7 @@ of the transfer appeal. Due to the large number of applications expected,
 please consider your appeal unsuccessful if you do not hear from the school
 by 2 January 2025.</p>
 <p></p>
-<p>Table below is based on Sec 1 2024 cohort's cut-off points.</p>
-<p>Sec 1 2025 cohort's cut-off points will be updated by 18 December 2024,
-12.00pm.</p>
+<p>Table below is based on Sec 1 2025 cohort's cut-off point:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -52,7 +50,7 @@ by 2 January 2025.</p>
 <p>PG1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27</p>
+<p>26</p>
 </td>
 </tr>
 <tr>
@@ -68,7 +66,7 @@ by 2 January 2025.</p>
 <p>PG3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12</p>
+<p>11</p>
 </td>
 </tr>
 </tbody>
