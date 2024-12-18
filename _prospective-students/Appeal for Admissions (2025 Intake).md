@@ -51,7 +51,7 @@ the relevant Posting Group(PG) .</p>
 </table>
 <p>Students who were posted to schools via DSA will not be eligible for transfer
 appeals.</p>
-<p>Transfers will be subjected to available vacancies and the school’s admission
+<p>Transfers will be subject to available vacancies and the school’s admission
 criteria.</p>
 <p><strong>The deadline for the submission of appeals is on 23 December 2024, 12:00pm. We regret that we are unable to consider late submissions.</strong>
 </p>
