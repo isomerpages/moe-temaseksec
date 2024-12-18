@@ -70,5 +70,4 @@ of the transfer appeal. Due to the large number of applications expected,
 please consider your appeal unsuccessful if you do not hear from the school
 by 2 January 2025.</p>
 <p></p>
-<p>Table below is based on Sec 1 2025 cohort's cut-off point:</p>
 <p></p>
