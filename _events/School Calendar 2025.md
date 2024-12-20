@@ -1,5 +1,5 @@
 ---
-title: School Calendar 2024
+title: School Calendar 2025
 permalink: /events/school-calendar/
 description: ""
 variant: tiptap

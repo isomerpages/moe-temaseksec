@@ -1,7 +1,7 @@
 ---
 title: Sec 1 Registration (2025 Intake)
 permalink: /events/upcoming-events/sec-1-registration-2025/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Upcoming Events
 ---
@@ -133,14 +133,15 @@ to our Temasek Family!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Placement Offer Letter</strong>
+<p><strong>Sec 1 Posting Acknowledgement</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All parents will receive a School Placement Offer letter via PG on 19
-December 2024 from 12.00pm onwards.</p>
+<p>All parents will receive an offer letter to acknowledge your child's Sec
+1 Posting to Temasek Secondary School via PG on 19 December 2024 from 12.00pm
+onwards.</p>
 <p></p>
 <p><strong>Please complete and submit the form online.</strong>
 </p>
@@ -169,7 +170,8 @@ letters via PG on 19 December 2024, from 12.00pm onwards.</p>
 onwards via PG if their child is eligible to be offered a subject at a
 more demanding level.
 <br><strong>Please complete and submit the form online.</strong>
-<br><br>If you have not received it, please email <a rel="noopener noreferrer nofollow" target="_blank">tay_hwee_ping@moe.edu.sg</a> with
+<br>
+<br>If you have not received it, please email <a rel="noopener noreferrer nofollow" target="_blank">tay_hwee_ping@moe.edu.sg</a> with
 your child’s full name, NRIC and posting group as soon as possible.</p>
 </td>
 </tr>
