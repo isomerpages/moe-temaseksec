@@ -139,8 +139,8 @@ to our Temasek Family!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All parents will receive a link to acknowledge your child's Sec 1 Posting
-to Temasek Secondary School Placement via PG on 19 December 2024 from 12.00pm
+<p>All parents will receive an offer letter to acknowledge your child's Sec
+1 Posting to Temasek Secondary School via PG on 19 December 2024 from 12.00pm
 onwards.</p>
 <p></p>
 <p><strong>Please complete and submit the form online.</strong>
