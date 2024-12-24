@@ -6,7 +6,7 @@ description: ""
 ---
 <p>Dear Parents, thank you for your interest and appeal into our school for
 the Sec 1 2025 intake. Transfers will be subject to available vacancies
-and the school’s admission criteria. <strong>The deadline for the submission of appeals is on 23 December 2024, 12:00pm. We regret that we are unable to consider late submissions. </strong>
+and the school’s admission criteria. <strong>The deadline for the submission of appeals is on 23 December 2024, 12:00pm. We regret that we are unable to consider late submissions.</strong>
 </p>
 <p></p>
 <p>Congratulations on receiving your Secondary school posting. Do use this
