@@ -4,6 +4,11 @@ permalink: /prospective-students/appeal-for-sec-1-admissions-2025/
 variant: tiptap
 description: ""
 ---
+<p>Dear Parents, thank you for your interest and appeal into our school for
+the Sec 1 2025 intake. Transfers will be subject to available vacancies
+and the school’s admission criteria. <strong>The deadline for the submission of appeals is on 23 December 2024, 12:00pm. We regret that we are unable to consider late submissions. </strong>
+</p>
+<p></p>
 <p>Congratulations on receiving your Secondary school posting. Do use this
 <a href="https://go.gov.sg/tms-sec1-appeal-2025" rel="noopener nofollow" target="_blank">form</a>, if you wish to apply for transfer to Temasek Secondary School.
 The applicant's PSLE score <strong><u>must meet the school's Achievement Level (AL)</u></strong> for
@@ -51,10 +56,7 @@ the relevant Posting Group(PG) .</p>
 </table>
 <p>Students who were posted to schools via DSA will not be eligible for transfer
 appeals.</p>
-<p>Transfers will be subject to available vacancies and the school’s admission
-criteria.</p>
-<p><strong>The deadline for the submission of appeals is on 23 December 2024, 12:00pm. We regret that we are unable to consider late submissions.</strong>
-</p>
+<p></p>
 <p><strong>Notes:</strong>
 </p>
 <p>The personal information provided in this form will be solely used for
