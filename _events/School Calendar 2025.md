@@ -5,48 +5,50 @@ description: ""
 variant: tiptap
 ---
 <h2>JANUARY</h2>
-<p>2-105 Jan (Thu-Fri)
+<p>2-105 January (Thu-Fri)
 <br><strong>Secondary 1 Orientation</strong>
 </p>
-<p>20-24 Jan (Mon-Wed)
+<p>20-24 January (Mon-Wed)
 <br><strong>Explore Week<br></strong>- Sec 1 Adventure Camp
 <br>- Sec 2 Camp Culture
 <br>- Sec 3 Outdoor Adventure Learning Camp</p>
-<p>28 Jan (Tue)
+<p>28 January (Tue)
 <br><strong>Chinese New Year Celebrations</strong>
 </p>
-<p>29-30 Jan (Wed-Thu)
+<p>29-30 January (Wed-Thu)
 <br><strong>Chinese New Year</strong>
 </p>
 <h2>FEBRUARY</h2>
-<p>2 February (Fri)
+<p>7 February (Fri)
 <br><strong>Secondary 1 Parents Engagement</strong>
 </p>
-<p>7 February (Wed)
+<p>12 February (Wed)
 <br><strong>Friendship Day</strong>
 </p>
-<p></p>
-<p>15 February (Thu)
+<p>13 February (Thu)
+<br><strong>Secondary 4 Parents Engagement</strong>
+</p>
+<p>17 &amp; 21 February (Mon &amp; Fri)
+<br><strong>Total Defence Day Commemoration</strong>
+</p>
+<p>27 February (Thu)
 <br><strong>Secondary 3 Parents Engagement</strong>
 </p>
-<p>16 February (Fri)
-<br><strong>Total Defence Day Celebrations</strong>
-</p>
-<p>23 February (Fri)
-<br><strong>Career Guidance Day</strong>
-</p>
 <h2>MARCH</h2>
-<p>1 March (Fri)
+<p>7 March (Fri)
 <br><strong>Student Leaders Convention</strong>
 </p>
-<p>7 March (Thu)
-<br><strong>Movie Nite</strong>
+<p>13 March (Thu)
+<br><strong>e-Games</strong>
 </p>
-<p>8 March (Fri)
+<p>14 March (Fri)
 <br><strong>Secondary 2 Parents Engagement</strong>
 </p>
-<p>9-17 March (Sat-Sun)
+<p>15-12 March (Sat-Sun)
 <br><strong>Term 1 Break</strong>
+</p>
+<p>28 March (Fri)
+<br><strong>Career Guidance Day</strong>
 </p>
 <p>29 March (Fri)
 <br><strong>Good Friday</strong>
