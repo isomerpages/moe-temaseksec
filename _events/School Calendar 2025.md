@@ -50,37 +50,37 @@ variant: tiptap
 <p>28 March (Fri)
 <br><strong>Career Guidance Day</strong>
 </p>
-<p>29 March (Fri)
-<br><strong>Good Friday</strong>
-</p>
-<h2>APRIL</h2>
-<p>2 April (Tue)
-<br><strong>Student Leaders Investiture</strong>
-</p>
-<p>5 April (Fri)
-<br><strong>International Friendship Day Celebrations</strong>
-</p>
-<p>10 April (Wed)
+<p>31 March (Mon)
 <br><strong>Hari Raya Puasa</strong>
 </p>
-<p>12 April (Fri)
+<h2>APRIL</h2>
+<p>4 April (Fri)
+<br><strong>Student Leaders Investiture</strong>
+</p>
+<p>4 April (Fri)
+<br><strong>Fatamorgana</strong>
+</p>
+<p>8 April (Tue)
+<br><strong>International Friendship Day Celebrations</strong>
+</p>
+<p>11 April (Fri)
 <br><strong>Speech Day</strong>
 </p>
-<p>13 April (Sat)
-<br><strong>Aesthetics Concert 1: TAP: DAT (Dance, Drama, TAG)</strong>
+<p>18 April (Fri)
+<br><strong>Good Friday</strong>
 </p>
-<p>27 April (Sat)
-<br><strong>Aesthetics Concert 2: BaC (Band, Choir)</strong>
-</p>
-<p>29 April - 3 May (Mon-Fri)
-<br><strong>Gratitude Week</strong>
+<p>25 April (Fri)
+<br><strong>TAG Concert</strong>
 </p>
 <h2>MAY</h2>
-<p>1 May (Wed)
+<p>1 May (Thu)
 <br><strong>Labour Day</strong>
 </p>
-<p>3 May (Fri)
-<br><strong>Fatamorgana</strong>
+<p>5-9 May (Mon-Fri)
+<br><strong>Gratitude Week</strong>
+</p>
+<p>12 May (Mon)
+<br><strong>Vesak Day</strong>
 </p>
 <p>10 May (Fri)
 <br><strong>DSA Online Outreach</strong>
@@ -96,9 +96,6 @@ variant: tiptap
 </p>
 <p>20-23 May (Mon-Thu)
 <br><strong>End Of Semester Activities</strong>
-</p>
-<p>22 May (Wed)
-<br><strong>Vesak Day</strong>
 </p>
 <p>23 May (Thu)
 <br><strong>Secondary 3 Teacher Meet Parents</strong>
