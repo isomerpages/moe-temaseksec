@@ -5,13 +5,19 @@ description: ""
 variant: tiptap
 ---
 <h2>JANUARY</h2>
-<p>2-5 January (Tue-Fri)
+<p>2-105 Jan (Thu-Fri)
 <br><strong>Secondary 1 Orientation</strong>
 </p>
-<p>15-17 Jan (Mon-Wed)
+<p>20-24 Jan (Mon-Wed)
 <br><strong>Explore Week<br></strong>- Sec 1 Adventure Camp
 <br>- Sec 2 Camp Culture
 <br>- Sec 3 Outdoor Adventure Learning Camp</p>
+<p>28 Jan (Tue)
+<br><strong>Chinese New Year Celebrations</strong>
+</p>
+<p>29-30 Jan (Wed-Thu)
+<br><strong>Chinese New Year</strong>
+</p>
 <h2>FEBRUARY</h2>
 <p>2 February (Fri)
 <br><strong>Secondary 1 Parents Engagement</strong>
@@ -19,15 +25,7 @@ variant: tiptap
 <p>7 February (Wed)
 <br><strong>Friendship Day</strong>
 </p>
-<p>8 February (Thu)
-<br><strong>Chinese New Year Celebrations</strong>
-</p>
-<p>10-11 February (Sat-Sun)
-<br><strong>Chinese New Year</strong>
-</p>
-<p>12-13 February (Mon-Tue)
-<br><strong>Chinese New Year Holiday</strong>
-</p>
+<p></p>
 <p>15 February (Thu)
 <br><strong>Secondary 3 Parents Engagement</strong>
 </p>
