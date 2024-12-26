@@ -132,50 +132,51 @@ variant: tiptap
 <p>7 July (Mon)
 <br><strong>Youth Day School Holiday</strong>
 </p>
-<p>9-12 July (Tue-Fri)
+<p>8-11 July (Tue-Fri)
 <br><strong>Mental Health Week</strong>
 </p>
-<p>18 July - 6 August (Thu-Tue)
-<br><strong>N Level Prelim</strong>
-</p>
-<p>19 July (Fri)
-<br><strong>Racial Harmony Day Celebrations</strong>
-</p>
-<p>23-25 July (Tue-Thu)
+<p>14-18 July (Mon-Fri)
 <br><strong>National Oral Exams</strong>
 </p>
-<p></p>
-<h2>AUGUST</h2>
-<p>8 August (Thu)
-<br><strong>National Day Commemoration</strong> 
-<br><strong>GoMAD Carnival</strong>
+<p>22 July (Tue)
+<br><strong>Racial Harmony Day Celebrations</strong>
 </p>
-<p>9 August (Fri)
+<p>24 July - 4 August (Thu-Tue)
+<br><strong>N Level Prelim</strong>
+</p>
+<h2>AUGUST</h2>
+<p>8 August (Fri)
+<br><strong>National Day Commemoration</strong> 
+<br><strong>45th Anniversary Carnival</strong>
+</p>
+<p>9 August (Sat)
 <br><strong>National Day</strong>
 </p>
-<p>19 August - 10 Sept (Mon-Tue)
+<p>11 August (Mon)
+<br><strong>National Day Holiday</strong>
+</p>
+<p>18 August - 3 Sept (Mon-Wed)
 <br><strong>O Level Prelim</strong>
 </p>
-<p>29 August (Thu)
+<h2>SEPTEMBER</h2>
+<p>4 September (Thu)
 <br><strong>All Staff Day Celebrations</strong>
 </p>
-<p>30 August (Fri)
+<p>5 September (Fri)
 <br><strong>Teachers' Day</strong>
 </p>
-<p>31 August - 8 September (Sat-Sun)
+<p>6-14 September (Sat-Sun)
 <br><strong>Term 3 Break</strong>
 </p>
-<h2>SEPTEMBER</h2>
-<p>9 September-8 October (Mon-Tue)
+<p>15-25 September (Mon-Thu)
 <br><strong>N Level Exam</strong>
 </p>
-<p>20 September (Fri)
-<br><strong>Farewell Assembly</strong>
-</p>
-<p>27 September-10 October (Fri-Thu)
+<p>22 September - 6 October (Mon-Mon)
 <br><strong>Final Term Exam</strong>
 </p>
-<p></p>
+<p>26 September (Fri)
+<br><strong>Farewell Assembly</strong>
+</p>
 <h2>OCTOBER</h2>
 <p>2 October-11 November (Wed-Mon)
 <br><strong>O Level Exam</strong>
