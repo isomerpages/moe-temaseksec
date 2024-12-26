@@ -5,237 +5,231 @@ description: ""
 variant: tiptap
 ---
 <h2>JANUARY</h2>
-<p>2-5 January (Tue-Fri)
+<p>2-105 January (Thu-Fri)
 <br><strong>Secondary 1 Orientation</strong>
 </p>
-<p>15-17 Jan (Mon-Wed)
+<p>20-24 January (Mon-Wed)
 <br><strong>Explore Week<br></strong>- Sec 1 Adventure Camp
 <br>- Sec 2 Camp Culture
 <br>- Sec 3 Outdoor Adventure Learning Camp</p>
-<h2>FEBRUARY</h2>
-<p>2 February (Fri)
-<br><strong>Secondary 1 Parents Engagement</strong>
-</p>
-<p>7 February (Wed)
-<br><strong>Friendship Day</strong>
-</p>
-<p>8 February (Thu)
+<p>28 January (Tue)
 <br><strong>Chinese New Year Celebrations</strong>
 </p>
-<p>10-11 February (Sat-Sun)
+<p>29-30 January (Wed-Thu)
 <br><strong>Chinese New Year</strong>
 </p>
-<p>12-13 February (Mon-Tue)
-<br><strong>Chinese New Year Holiday</strong>
+<h2>FEBRUARY</h2>
+<p>7 February (Fri)
+<br><strong>Secondary 1 Parents Engagement</strong>
 </p>
-<p>15 February (Thu)
+<p>12 February (Wed)
+<br><strong>Friendship Day</strong>
+</p>
+<p>13 February (Thu)
+<br><strong>Secondary 4 Parents Engagement</strong>
+</p>
+<p>17 &amp; 21 February (Mon &amp; Fri)
+<br><strong>Total Defence Day Commemoration</strong>
+</p>
+<p>27 February (Thu)
 <br><strong>Secondary 3 Parents Engagement</strong>
 </p>
-<p>16 February (Fri)
-<br><strong>Total Defence Day Celebrations</strong>
-</p>
-<p>23 February (Fri)
-<br><strong>Career Guidance Day</strong>
-</p>
 <h2>MARCH</h2>
-<p>1 March (Fri)
+<p>7 March (Fri)
 <br><strong>Student Leaders Convention</strong>
 </p>
-<p>7 March (Thu)
-<br><strong>Movie Nite</strong>
+<p>13 March (Thu)
+<br><strong>e-Games</strong>
 </p>
-<p>8 March (Fri)
+<p>14 March (Fri)
 <br><strong>Secondary 2 Parents Engagement</strong>
 </p>
-<p>9-17 March (Sat-Sun)
+<p>15-12 March (Sat-Sun)
 <br><strong>Term 1 Break</strong>
 </p>
-<p>29 March (Fri)
-<br><strong>Good Friday</strong>
+<p>28 March (Fri)
+<br><strong>Career Guidance Day</strong>
 </p>
-<h2>APRIL</h2>
-<p>2 April (Tue)
-<br><strong>Student Leaders Investiture</strong>
-</p>
-<p>5 April (Fri)
-<br><strong>International Friendship Day Celebrations</strong>
-</p>
-<p>10 April (Wed)
+<p>31 March (Mon)
 <br><strong>Hari Raya Puasa</strong>
 </p>
-<p>12 April (Fri)
-<br><strong>Speech Day</strong>
+<h2>APRIL</h2>
+<p>4 April (Fri)
+<br><strong>Student Leaders Investiture</strong>
 </p>
-<p>13 April (Sat)
-<br><strong>Aesthetics Concert 1: TAP: DAT (Dance, Drama, TAG)</strong>
-</p>
-<p>27 April (Sat)
-<br><strong>Aesthetics Concert 2: BaC (Band, Choir)</strong>
-</p>
-<p>29 April - 3 May (Mon-Fri)
-<br><strong>Gratitude Week</strong>
-</p>
-<h2>MAY</h2>
-<p>1 May (Wed)
-<br><strong>Labour Day</strong>
-</p>
-<p>3 May (Fri)
+<p>4 April (Fri)
 <br><strong>Fatamorgana</strong>
 </p>
-<p>10 May (Fri)
-<br><strong>DSA Online Outreach</strong>
+<p>8 April (Tue)
+<br><strong>International Friendship Day Celebrations</strong>
 </p>
-<p>12-16 May (Mon-Thu)
-<br><strong>Special Timetable</strong>
+<p>11 April (Fri)
+<br><strong>Speech Day</strong>
 </p>
-<p>17 May (Fri)
-<br><strong>Sports Carnival</strong>
+<p>18 April (Fri)
+<br><strong>Good Friday</strong>
 </p>
-<p>20 May (Mon)
-<br><strong>Temasek Charity Challenge</strong>
+<p>25 April (Fri)
+<br><strong>TAG Concert</strong>
 </p>
-<p>20-23 May (Mon-Thu)
-<br><strong>End Of Semester Activities</strong>
+<h2>MAY</h2>
+<p>1 May (Thu)
+<br><strong>Labour Day</strong>
 </p>
-<p>22 May (Wed)
+<p>5-9 May (Mon-Fri)
+<br><strong>Gratitude Week</strong>
+</p>
+<p>12 May (Mon)
 <br><strong>Vesak Day</strong>
 </p>
-<p>23 May (Thu)
-<br><strong>Secondary 3 Teacher Meet Parents</strong>
+<p>15 May (Thu)
+<br><strong>Movie Night</strong>
 </p>
-<p>24 May (Fri)
-<br><strong>Secondary 1 &amp; 4 Teacher Meet Parents</strong>
+<p>16 May (Fri)
+<br><strong>DSA Online Outreach</strong>
 </p>
-<p>25 May-23 June (Sat-Sun)
+<p>18-29 May (Mon-Thu)
+<br><strong>Special Timetable</strong>
+</p>
+<p>23 May (Fri)
+<br><strong>Literary Odyssey</strong>
+</p>
+<p>29 May (Thu)
+<br><strong>Sports Carnival</strong>
+</p>
+<p>29-30 May (Thu-Fri)
+<br><strong>Secondary 1, 3 &amp; 4 Teacher Meet Parents</strong>
+</p>
+<p>31 May-29 June (Sat-Sun)
 <br><strong>Term 2 Break</strong>
 </p>
-<p>27 May (Mon)
+<p>26 May (Mon)
 <br><strong>O Level MTL Exam</strong>
 </p>
-<p>27-28 May (Mon-Tue)
+<h2>JUNE</h2>
+<p>2-3 June (Mon-Tue)
 <br><strong>SL Training Days</strong>
 </p>
-<p>27-31 May (Mon-Fri)
-<br><strong>Sec 3 Applied Learning</strong>&nbsp;<strong>Modules @ Polytechnics</strong>
+<p>4-5 June (Wed-Thu)
+<br><strong>Young Leaders Camp</strong>
 </p>
-<p>28-31 May (Tue-Fri)
+<p>3-6 June (Tue-Fri)
 <br><strong>Sec 4 Extended Curriculum</strong>
 </p>
-<h2>JUNE</h2>
-<p>17 June (Mon)
+<p>7 June (Sat)
 <br><strong>Hari Raya Haji</strong>
 </p>
-<p>28 June (Fri)
-<br><strong>English Language &amp; Literature Festival</strong>
+<p>9 June (Mon)
+<br><strong>Hari Raya Haji Holiday</strong>
 </p>
 <h2>JULY</h2>
-<p>28 July (Fri)
+<p>4 July (Fri)
 <br><strong>Youth Day Commemoration</strong>
 </p>
-<p>30 Jun (Sun)
+<p>6 July (Sun)
 <br><strong>Youth Day</strong>
 </p>
-<p>1 July (Mon)
+<p>7 July (Mon)
 <br><strong>Youth Day School Holiday</strong>
 </p>
-<p>9-12 July (Tue-Fri)
+<p>8-11 July (Tue-Fri)
 <br><strong>Mental Health Week</strong>
 </p>
-<p>18 July - 6 August (Thu-Tue)
-<br><strong>N Level Prelim</strong>
-</p>
-<p>19 July (Fri)
-<br><strong>Racial Harmony Day Celebrations</strong>
-</p>
-<p>23-25 July (Tue-Thu)
+<p>14-18 July (Mon-Fri)
 <br><strong>National Oral Exams</strong>
 </p>
-<p></p>
-<h2>AUGUST</h2>
-<p>8 August (Thu)
-<br><strong>National Day Commemoration</strong> 
-<br><strong>GoMAD Carnival</strong>
+<p>22 July (Tue)
+<br><strong>Racial Harmony Day Celebrations</strong>
 </p>
-<p>9 August (Fri)
+<p>24 July - 4 August (Thu-Tue)
+<br><strong>N Level Prelim</strong>
+</p>
+<h2>AUGUST</h2>
+<p>8 August (Fri)
+<br><strong>National Day Commemoration</strong> 
+<br><strong>45th Anniversary Carnival</strong>
+</p>
+<p>9 August (Sat)
 <br><strong>National Day</strong>
 </p>
-<p>19 August - 10 Sept (Mon-Tue)
+<p>11 August (Mon)
+<br><strong>National Day Holiday</strong>
+</p>
+<p>18 August - 3 Sept (Mon-Wed)
 <br><strong>O Level Prelim</strong>
 </p>
-<p>29 August (Thu)
+<h2>SEPTEMBER</h2>
+<p>4 September (Thu)
 <br><strong>All Staff Day Celebrations</strong>
 </p>
-<p>30 August (Fri)
+<p>5 September (Fri)
 <br><strong>Teachers' Day</strong>
 </p>
-<p>31 August - 8 September (Sat-Sun)
+<p>6-14 September (Sat-Sun)
 <br><strong>Term 3 Break</strong>
 </p>
-<h2>SEPTEMBER</h2>
-<p>9 September-8 October (Mon-Tue)
+<p>15-25 September (Mon-Thu)
 <br><strong>N Level Exam</strong>
 </p>
-<p>20 September (Fri)
+<p>22 September - 6 October (Mon-Mon)
+<br><strong>End of Year Exam</strong>
+</p>
+<p>26 September (Fri)
 <br><strong>Farewell Assembly</strong>
 </p>
-<p>27 September-10 October (Fri-Thu)
-<br><strong>Final Term Exam</strong>
-</p>
-<p></p>
 <h2>OCTOBER</h2>
-<p>2 October-11 November (Wed-Mon)
+<p>1 October - 10 November (Wed-Mon)
 <br><strong>O Level Exam</strong>
 </p>
-<p>11 October (Fri)
-<br><strong>Marking Day</strong>
-</p>
-<p>14 October (Mon)
+<p>7-8 October (Tue-Wed)
 <br><strong>Marking &amp;</strong>  <strong>Results Processing Day</strong>
 </p>
-<p>17-25 October (Thu-Fri)
+<p>14-24 October (Tue-Fri)
 <br><strong>End Of Semester Activities</strong>
 </p>
-<p>22 October (Tue)
-<br><strong>Promotion Day</strong>
-</p>
-<p>22 October (Tue)
+<p>17 October (Fri)
 <br><strong>Young Leaders Sharing</strong>
 </p>
-<p>25 October (Fri)
-<br><strong>Last Day of School</strong>
-</p>
-<p>25 October (Fri)
-<br><strong>TIP Night</strong>
-</p>
-<p>28 October-1 November (Mon-Fri)
-<br><strong>Extended Curriculum/Bridging Programme</strong>
-</p>
-<p>31 October (Thu)
+<p>20 October (Mon)
 <br><strong>Deepavali</strong>
 </p>
+<p>24 October (Fri)
+<br><strong>Last Day of School</strong>
+</p>
+<p>24 October (Fri)
+<br><strong>TIP Night</strong>
+</p>
+<p>27-30 October (Mon-Thu)
+<br><strong>Extended Curriculum/Bridging Programme</strong>
+</p>
+<p>31 October (Fri)
+<br><strong>Sec 1 Student Leaders Induction Day</strong>
+</p>
 <h2>NOVEMBER</h2>
-<p>4-5 November (Mon-Tue)
+<p>5-6 November (Wed-Thu)
 <br><strong>Combined UG Camp</strong>
 </p>
-<p>4-8 November (Mon-Fri)
+<p>10-14 November (Mon-Fri)
 <br><strong>Career Guidance and Work Attachment</strong>
 </p>
-<p>6, 8 November (Wed, Fri)
+<p>12, 14 November (Wed, Fri)
 <br><strong>Young Leaders Programme</strong>
 </p>
-<p>11-15 November (Mon-Fri)
+<p>17-21 November (Mon-Fri)
 <br><strong>Student Leaders Camps</strong>
 </p>
-<p>16 November (Sat)
+<p>22 November (Sat)
 <br><strong>Open House</strong>
 </p>
-<p>17 November-31 December (Sun-Tue)
+<p>23 November-31 December (Sun-Wed)
 <br><strong>Term 4 Break</strong>
 </p>
-<p>19 November (Tue)
+<p>25 November (Tue) (TBC)
 <br><strong>Graduation Night</strong>
 </p>
 <h2>DECEMBER</h2>
 <p>25 December (Wed)
 <br><strong>Christmas</strong>
 </p>
+<p></p>
+<p></p>
