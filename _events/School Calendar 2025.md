@@ -82,57 +82,54 @@ variant: tiptap
 <p>12 May (Mon)
 <br><strong>Vesak Day</strong>
 </p>
-<p>10 May (Fri)
+<p>15 May (Thu)
+<br><strong>Movie Night</strong>
+</p>
+<p>16 May (Fri)
 <br><strong>DSA Online Outreach</strong>
 </p>
-<p>12-16 May (Mon-Thu)
+<p>18-29 May (Mon-Thu)
 <br><strong>Special Timetable</strong>
 </p>
-<p>17 May (Fri)
+<p>23 May (Fri)
+<br><strong>Literary Odyssey</strong>
+</p>
+<p>29 May (Thu)
 <br><strong>Sports Carnival</strong>
 </p>
-<p>20 May (Mon)
-<br><strong>Temasek Charity Challenge</strong>
+<p>29-30 May (Thu-Fri)
+<br><strong>Secondary 1, 3 &amp; 4 Teacher Meet Parents</strong>
 </p>
-<p>20-23 May (Mon-Thu)
-<br><strong>End Of Semester Activities</strong>
-</p>
-<p>23 May (Thu)
-<br><strong>Secondary 3 Teacher Meet Parents</strong>
-</p>
-<p>24 May (Fri)
-<br><strong>Secondary 1 &amp; 4 Teacher Meet Parents</strong>
-</p>
-<p>25 May-23 June (Sat-Sun)
+<p>31 May-29 June (Sat-Sun)
 <br><strong>Term 2 Break</strong>
 </p>
-<p>27 May (Mon)
+<p>26 May (Mon)
 <br><strong>O Level MTL Exam</strong>
 </p>
-<p>27-28 May (Mon-Tue)
+<h2>JUNE</h2>
+<p>2-3 June (Mon-Tue)
 <br><strong>SL Training Days</strong>
 </p>
-<p>27-31 May (Mon-Fri)
-<br><strong>Sec 3 Applied Learning</strong>&nbsp;<strong>Modules @ Polytechnics</strong>
+<p>4-5 June (Wed-Thu)
+<br><strong>Young Leaders Camp</strong>
 </p>
-<p>28-31 May (Tue-Fri)
+<p>3-6 June (Tue-Fri)
 <br><strong>Sec 4 Extended Curriculum</strong>
 </p>
-<h2>JUNE</h2>
-<p>17 June (Mon)
+<p>7 June (Sat)
 <br><strong>Hari Raya Haji</strong>
 </p>
-<p>28 June (Fri)
-<br><strong>English Language &amp; Literature Festival</strong>
+<p>9 June (Mon)
+<br><strong>Hari Raya Haji Holiday</strong>
 </p>
 <h2>JULY</h2>
-<p>28 July (Fri)
+<p>4 July (Fri)
 <br><strong>Youth Day Commemoration</strong>
 </p>
-<p>30 Jun (Sun)
+<p>6 July (Sun)
 <br><strong>Youth Day</strong>
 </p>
-<p>1 July (Mon)
+<p>7 July (Mon)
 <br><strong>Youth Day School Holiday</strong>
 </p>
 <p>9-12 July (Tue-Fri)
