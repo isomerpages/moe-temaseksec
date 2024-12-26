@@ -206,28 +206,30 @@ variant: tiptap
 <br><strong>Sec 1 Student Leaders Induction Day</strong>
 </p>
 <h2>NOVEMBER</h2>
-<p>4-5 November (Mon-Tue)
+<p>5-6 November (Wed-Thu)
 <br><strong>Combined UG Camp</strong>
 </p>
-<p>4-8 November (Mon-Fri)
+<p>10-14 November (Mon-Fri)
 <br><strong>Career Guidance and Work Attachment</strong>
 </p>
-<p>6, 8 November (Wed, Fri)
+<p>12, 14 November (Wed, Fri)
 <br><strong>Young Leaders Programme</strong>
 </p>
-<p>11-15 November (Mon-Fri)
+<p>17-21 November (Mon-Fri)
 <br><strong>Student Leaders Camps</strong>
 </p>
-<p>16 November (Sat)
+<p>22 November (Sat)
 <br><strong>Open House</strong>
 </p>
-<p>17 November-31 December (Sun-Tue)
+<p>23 November-31 December (Sun-Wed)
 <br><strong>Term 4 Break</strong>
 </p>
-<p>19 November (Tue)
+<p>25 November (Tue) (TBC)
 <br><strong>Graduation Night</strong>
 </p>
 <h2>DECEMBER</h2>
 <p>25 December (Wed)
 <br><strong>Christmas</strong>
 </p>
+<p></p>
+<p></p>
