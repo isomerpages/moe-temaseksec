@@ -172,41 +172,38 @@ variant: tiptap
 <br><strong>N Level Exam</strong>
 </p>
 <p>22 September - 6 October (Mon-Mon)
-<br><strong>Final Term Exam</strong>
+<br><strong>End of Year Exam</strong>
 </p>
 <p>26 September (Fri)
 <br><strong>Farewell Assembly</strong>
 </p>
 <h2>OCTOBER</h2>
-<p>2 October-11 November (Wed-Mon)
+<p>1 October - 10 November (Wed-Mon)
 <br><strong>O Level Exam</strong>
 </p>
-<p>11 October (Fri)
-<br><strong>Marking Day</strong>
-</p>
-<p>14 October (Mon)
+<p>7-8 October (Tue-Wed)
 <br><strong>Marking &amp;</strong>  <strong>Results Processing Day</strong>
 </p>
-<p>17-25 October (Thu-Fri)
+<p>14-24 October (Tue-Fri)
 <br><strong>End Of Semester Activities</strong>
 </p>
-<p>22 October (Tue)
-<br><strong>Promotion Day</strong>
-</p>
-<p>22 October (Tue)
+<p>17 October (Fri)
 <br><strong>Young Leaders Sharing</strong>
 </p>
-<p>25 October (Fri)
+<p>20 October (Mon)
+<br><strong>Deepavali</strong>
+</p>
+<p>24 October (Fri)
 <br><strong>Last Day of School</strong>
 </p>
-<p>25 October (Fri)
+<p>24 October (Fri)
 <br><strong>TIP Night</strong>
 </p>
-<p>28 October-1 November (Mon-Fri)
+<p>27-30 October (Mon-Thu)
 <br><strong>Extended Curriculum/Bridging Programme</strong>
 </p>
-<p>31 October (Thu)
-<br><strong>Deepavali</strong>
+<p>31 October (Fri)
+<br><strong>Sec 1 Student Leaders Induction Day</strong>
 </p>
 <h2>NOVEMBER</h2>
 <p>4-5 November (Mon-Tue)
