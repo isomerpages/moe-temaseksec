@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2>JANUARY</h2>
-<p>2-105 January (Thu-Fri)
+<p>2-10 January (Thu-Fri)
 <br><strong>Secondary 1 Orientation</strong>
 </p>
 <p>20-24 January (Mon-Wed)
