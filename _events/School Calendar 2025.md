@@ -31,6 +31,9 @@ variant: tiptap
 <p>17 &amp; 21 February (Mon &amp; Fri)
 <br><strong>Total Defence Day Commemoration</strong>
 </p>
+<p>21 March (Fri)
+<br><strong>e-Games</strong>
+</p>
 <p>27 February (Thu)
 <br><strong>Secondary 3 Parents Engagement</strong>
 </p>
