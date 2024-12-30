@@ -31,7 +31,7 @@ variant: tiptap
 <p>17 &amp; 21 February (Mon &amp; Fri)
 <br><strong>Total Defence Day Commemoration</strong>
 </p>
-<p>21 March (Fri)
+<p>21 February (Fri)
 <br><strong>e-Games</strong>
 </p>
 <p>27 February (Thu)
@@ -47,7 +47,7 @@ variant: tiptap
 <p>14 March (Fri)
 <br><strong>Secondary 2 Parents Engagement</strong>
 </p>
-<p>15-12 March (Sat-Sun)
+<p>15-23 March (Sat-Sun)
 <br><strong>Term 1 Break</strong>
 </p>
 <p>28 March (Fri)
