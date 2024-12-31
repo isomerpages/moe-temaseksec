@@ -86,6 +86,6 @@ and use of microcontrollers.</p>
 <p>Mdm Tham Wai Leng
 <br>tham_wai_leng@moe.edu.sg</p>
 <p>Ms Yang Linxi
-<br>yang_linxi@moe.edu.sg</p>
+<br>linxi_yang@moe.edu.sg</p>
 <p>Mr Yeo Jun Song
 <br>yeo_jun_song@moe.edu.sg</p>
