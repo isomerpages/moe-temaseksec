@@ -57,30 +57,40 @@ solutions
 <br>tay_hwee_ping@moe.edu.sg</p>
 <p>Mdm Fadilah Abdul Rahman (SH/ Mathematics)
 <br>fadilah_abdul_rahman@moe.edu.sg</p>
+<p>Mr Roger Lim (ST/ Mathematics)
+<br>lim_pang_kiat@moe.edu.sg</p>
+<p>Mr Vendasalam Chandramohan (Year Head/Lower Sec)
+<br>vendasalam_chandramohan@moe.edu.sg</p>
 <p>Mr Lim Wei Ming (Asst. Year Head/ Lower Sec)
 <br>lim_wei_ming@moe.edu.sg</p>
-<p>Mr Bennett Lim
-<br>bennett_lim_chee_theng@moe.edu.sg</p>
+<p>Mr Elliot Ong (SH/ Student Leadership covering)
+<br>ong_yan_pei_elliot@moe.edu.sg</p>
 <p>Mdm Chan Choy Wei
 <br>chan_choy_wei@moe.edu.sg</p>
 <p>Mr Chia Chun Keong
 <br>chia_chun_keong@moe.edu.sg</p>
 <p>Mr Chua Kok Thye
 <br>chua_kok_thye@moe.edu.sg</p>
-<p>Mr Elliot Ong
-<br>ong_yan_pei_elliot@moe.edu.sg</p>
 <p>Mr Elvis Low
 <br>low_yi_wee@moe.edu.sg</p>
+<p>Mrs Janice Chao
+<br>janice_chao@moe.edu.sg</p>
 <p>Mrs Lim Chue May
 <br>chia_chue_may@moe.edu.sg</p>
-<p>Mrs Lim Swu Yun
-<br>loo_swu_yun@moe.edu.sg</p>
 <p>Ms Lydia Chew
 <br>chew_li_shan_lydia@moe.edu.sg</p>
 <p>Ms Ooi Liu Qi
 <br>ooi_liu_qi@moe.edu.sg</p>
-<p>Mr Roger Lim
-<br>lim_pang_kiat@moe.edu.sg</p>
+<p>Ms Shannon Chen
+<br>chen_si_shann_shannon@moe.edu.sg</p>
 <p>Ms Tan Hui Xin
 <br>tan_hui_xin@moe.edu.sg</p>
-<p></p>
+<p>Mrs Tan-Tay Ngee Mui
+<br>
+<br>Mrs Toh Ai Kit
+<br>toh_ai_kit@moe.edu.sg
+<br>
+<br>
+<br>
+<br>
+</p>
