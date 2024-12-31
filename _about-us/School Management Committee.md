@@ -55,17 +55,6 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Dr Yap Ann Teck (HOD/ Science)</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>yap_ann_teck@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mrs Audrey Ho (Year Head/ Upper Sec)</strong>
 </p>
@@ -155,6 +144,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mr Phuah Kia Liang (HOD/ Student Well-being)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>phuah_kia_liang@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mr Reuben Ong (HOD/ Humanities)</strong>
 </p>
 </td>
@@ -173,17 +173,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>sahriana_rani@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Phuah Kia Liang (HOD/ Student Well-being)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>phuah_kia_liang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -208,6 +197,17 @@ variant: tiptap
 <p>vendasalam_chandramohan@moe.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Yap Ann Teck/ (HOD Science)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>yap_ann_teck@moe.edu.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>SUBJECT &amp; LEVEL HEADS</h3>
@@ -218,7 +218,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Mr Boo Yongfeng(SH/ Discipline)</p>
+<p>Mr Boo Yongfeng (SH/ Discipline)</p>
 </th>
 </tr>
 <tr>
@@ -345,6 +345,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>tay_yu_xin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Yang Linxi (SH/ 21CC)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>linxi_yang@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
