@@ -7,8 +7,9 @@ variant: tiptap
 <h3>2025 Principal's Message</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MR_TAN_SHUN_LOONG.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For_School_Website_P_Message_v2.jpg">
 </div>
+<p></p>
 <p><strong>Our Temasek Story</strong>
 </p>
 <p>The crest of Temasek Secondary School (TMS), which greets every visitor
