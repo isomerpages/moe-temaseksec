@@ -99,20 +99,20 @@ to peers</p>
 <br>lim_chek_quay@moe.edu.sg</p>
 <p>Mr Ali Jaafar
 <br>ali_jaafar@moe.edu.sg</p>
+<p>Ms Aminah Bte Mohd Nagieb aminah_mohd_nagieb@moe.edu.sg</p>
+<p>Mr Eddie Pang
+<br>pang_kar_loon_eddie@moe.edu.sg</p>
 <p>Mdm Ivy Tay
 <br>tay_lay_peng@moe.edu.sg</p>
-<p>Ms Aminah Bte Mohd Nagieb aminah_mohd_nagieb@moe.edu.sg</p>
+<p>Mr Lee Chin Chew
+<br>lee_chin_chew@moe.edu.sg</p>
 <p>Mr Mohamed Anwaar
 <br>mohamed_al_anwaarulhaq_asaad@moe.edu.sg</p>
 <p>Mdm Nur Azlilah Abdul Aziz
 <br>nur_azlilah_abdul_aziz@moe.edu.sg</p>
-<p>Mrs Rebecca Loke</p>
-<p>rebecca_loke@moe.edu.sg</p>
-<p>Mr Salleh Kassim
-<br>salleh_kassim@moe.edu.sg</p>
+<p>Mrs Rebecca Loke
+<br>rebecca_loke@moe.edu.sg</p>
 <p>Mr Sulaiman Hussin
 <br>sulaiman_hussin@moe.edu.sg</p>
-<p>Mr Tan Bok Sim
-<br>tan_bok_sim@moe.edu.sg</p>
 <p>Mdm Tham Wai Leng
 <br>tham_wai_leng@moe.edu.sg</p>
