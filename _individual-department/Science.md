@@ -75,6 +75,8 @@ and use of microcontrollers.</p>
 <p>Mr Jared Oh (HOD/Student Leadership &amp; Aesthetics)
 <br>jared_oh@moe.edu.sg</p>
 <p>Mdm Nur 'Adilah Suhaimi Salleh (SH/ Pupil Well-Being) nur_adilah_suhaimi_salleh@moe.edu.sg</p>
+<p>Ms Yang Linxi (SH/ 21CC)
+<br>linxi_yang@moe.edu.sg</p>
 <p>Mdm Karima Syahirah&nbsp;Abdul Karim
 <br>karima_syahirah_abdul_ka@moe.edu.sg</p>
 <p>Mr Kuah Chin Yong
@@ -85,7 +87,5 @@ and use of microcontrollers.</p>
 <br>tay_nian_zi@moe.edu.sg</p>
 <p>Mdm Tham Wai Leng
 <br>tham_wai_leng@moe.edu.sg</p>
-<p>Ms Yang Linxi
-<br>linxi_yang@moe.edu.sg</p>
 <p>Mr Yeo Jun Song
 <br>yeo_jun_song@moe.edu.sg</p>
