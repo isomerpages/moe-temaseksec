@@ -36,7 +36,7 @@ including signature programmes in student leadership development (LEAD@TMS),
 cross-cultural awareness (C2A) and talent development (Temasek Ignis Programme),
 which equip Temasekians with not just knowledge but also competencies that
 will put them in good stead beyond secondary school.&nbsp;</p>
-<p><strong><em><font color="800000">Red: Stands for brotherhood and team spirit that we hope Temasekians will embody</font></em></strong>
+<p><strong><em><font color="#FF0000">Red: Stands for brotherhood and team spirit that we hope Temasekians will embody</font></em></strong>
 </p>
 <p>Imparting knowledge and development of competencies cannot take place
 in silos, however.&nbsp; An environment that is steeped in values, supports
