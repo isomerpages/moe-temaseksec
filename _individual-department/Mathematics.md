@@ -59,7 +59,7 @@ solutions
 <br>fadilah_abdul_rahman@moe.edu.sg</p>
 <p>Mr Roger Lim (ST/ Mathematics)
 <br>lim_pang_kiat@moe.edu.sg</p>
-<p>Mr Vendasalam Chandramohan (Year Head/Lower Sec)
+<p>Mr Vendasalam Chandramohan (Year Head/ Lower Sec)
 <br>vendasalam_chandramohan@moe.edu.sg</p>
 <p>Mr Lim Wei Ming (Asst. Year Head/ Lower Sec)
 <br>lim_wei_ming@moe.edu.sg</p>
