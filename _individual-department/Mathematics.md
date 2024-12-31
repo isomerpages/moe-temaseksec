@@ -63,7 +63,7 @@ solutions
 <br>vendasalam_chandramohan@moe.edu.sg</p>
 <p>Mr Lim Wei Ming (Asst. Year Head/ Lower Sec)
 <br>lim_wei_ming@moe.edu.sg</p>
-<p>Mr Elliot Ong (SH/ Student Leadership covering)
+<p>Mr Elliot Ong (SH/ Student Leadership)
 <br>ong_yan_pei_elliot@moe.edu.sg</p>
 <p>Mdm Chan Choy Wei
 <br>chan_choy_wei@moe.edu.sg</p>
