@@ -64,10 +64,7 @@ Mr Lim Wei Ming (Asst. Year Head/ Lower Sec) 
 lim_wei_ming@moe.edu.sg
 
 Mrs Ruth Leong  (SH/ Humanities)   
-wong_su_ann_ruth@moe.edu.sg  
-
-Mr Bennett Lim  
-bennett_lim_chee_theng@moe.edu.sg  
+wong_su_ann_ruth@moe.edu.sg 
 
 Ms Chua Wan Yu  
 chua_wan_yu@moe.edu.sg
@@ -75,11 +72,11 @@ chua_wan_yu@moe.edu.sg
 Mr Gabriel Sim Qin Jie   
 gabriel_sim_qin_jie@moe.edu.sg
 
-Mrs Janki Verma  
-janki_devi@moe.edu.sg
+Mrs Gloria Tan
 
-Mrs Joy Lim  
-joy_seng_en-yi@moe.edu.sg
+
+Mrs Joann Mitchell
+
 
 Mrs Mirnigar Maesten  
 mirnigar_begum_khan@moe.edu.sg  
@@ -92,6 +89,3 @@ nur_azlilah_abdul_aziz@moe.edu.sg
 
 Mdm Nurhidayah Mohamed Ali  
 nurhidayah_mohamed_ali@moe.edu.sg  
-
-Mdm Yeo Soh Hong  
-yeo_soh_hong@moe.edu.sg
