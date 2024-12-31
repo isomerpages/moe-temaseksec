@@ -86,8 +86,8 @@ solutions
 <p>Ms Tan Hui Xin
 <br>tan_hui_xin@moe.edu.sg</p>
 <p>Mrs Tan-Tay Ngee Mui
-<br>
-<br>Mrs Toh Ai Kit
+<br>tay_ngee_mui@moe.edu.sg</p>
+<p>Mrs Toh Ai Kit
 <br>toh_ai_kit@moe.edu.sg
 <br>
 <br>
