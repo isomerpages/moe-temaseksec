@@ -50,8 +50,9 @@ students, staff, parents and stakeholders, drives our efforts to enhance
 holistic student well-being, and is also exhibited by our School Advisory
 Committee, Parent Support Group and alumni, whose strong partnership we
 cherish.</p>
-<p><strong><em>Pair of lions in gold: Represents prosperity and progress that we wish for Singapore and the school</em></strong>
-</p>
+<font color="0000FF">
+<p><strong><em> Pair of lions in gold: Represents prosperity and progress that we wish for Singapore and the school</em></strong>
+</p></font>
 <p>Visitors to TMS will notice that the entrance to our heritage gallery
 is flanked by a wall that proudly displays photos of some of our graduates
 and alumni.&nbsp; These individuals represent a fraction of generations
