@@ -250,17 +250,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Muhammad Hilmy B Zohry (SH/ English)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>muhammad_hilmy_zohry@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mdm Jarina Banu D/O Jagaffar (SH/Lower Sec Science)</strong>
 </p>
 </td>
@@ -268,6 +257,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>jarina_banu_jagaffar@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Muhammad Hilmy B Zohry (SH/ English)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>muhammad_hilmy_zohry@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
