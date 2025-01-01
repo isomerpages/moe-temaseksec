@@ -68,7 +68,7 @@ students will acquire basic programming skills and coding concepts and
 apply them creatively in real life contexts through the creation of prototypes
 and use of microcontrollers.</p>
 <h2>DEPARTMENT CONTACT LIST</h2>
-<p>Mr Yap Ann Teck (HOD/ Science)
+<p>Dr Yap Ann Teck (HOD/ Science)
 <br>yap_ann_teck@moe.edu.sg</p>
 <p>Jarina Banu D/O Jagaffar
 <br>jarina_banu_jagaffar@moe.edu.sg</p>
