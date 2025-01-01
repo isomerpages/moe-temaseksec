@@ -394,18 +394,18 @@ variant: tiptap
 <p>3K</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Sulaiman Hussin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>sulaiman_hussin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Sharon Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>koh_hui_hoon_sharon@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
