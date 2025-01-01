@@ -432,10 +432,10 @@ variant: tiptap
 <p>3O</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lim Chek Quay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lim_chek_quay@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -451,18 +451,18 @@ variant: tiptap
 <p>3R</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Jeanette Neo-Wee Yue Lynn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>wee_yue_lynn_jeanette@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Jarina Banu Jagaffar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>jarina_banu_jagaffar@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
