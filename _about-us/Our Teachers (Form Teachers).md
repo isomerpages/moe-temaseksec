@@ -337,18 +337,18 @@ variant: tiptap
 <p>3D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Santhi d/o H.P. Manis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>santhi_h_p_manis@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Elvis Low Yi Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>low_yi_wee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -356,18 +356,18 @@ variant: tiptap
 <p>3E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Farah Ashikin Bte Md Ridzwan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>farah_ashikin_mohamed_ridzwan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Lee Sze Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lee_sze_meng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -375,18 +375,18 @@ variant: tiptap
 <p>3F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Muhammad Shafiq Bin Mohamed Rafi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>shafiq_rafi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Chua Wan Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chua_wan_yu@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
