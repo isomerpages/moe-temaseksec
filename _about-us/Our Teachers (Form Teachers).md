@@ -447,7 +447,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3R</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -463,6 +463,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>jarina_banu_jagaffar@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>?? Han JB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
