@@ -198,18 +198,18 @@ variant: tiptap
 <p>2E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Chen Si Shann Shannon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chen_si_shann_shannon@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Nurhidayah Bte Mohd Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nurhidayah_mohamed_ali@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -217,18 +217,18 @@ variant: tiptap
 <p>2F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Lim-Chia Chue May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chia_chue_may@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tia Kai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tia_kai_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -236,18 +236,18 @@ variant: tiptap
 <p>2K</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Deborah Huang-Chua Lihui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>deborah_chua_lihui@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Norashikin Mahat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>norashikin_mahat@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -255,18 +255,18 @@ variant: tiptap
 <p>2M</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Gabriel Sim Qin Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>gabriel_sim_qin_jie@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Nur Azlilah bte Abdul Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nur_azlilah_abdul_aziz@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -274,18 +274,18 @@ variant: tiptap
 <p>2O</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Roger Lim Pang Kiat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lim_pang_kiat@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Mazna Bte Mohd Hussain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>mazna_mohd_hussain@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -293,29 +293,18 @@ variant: tiptap
 <p>2R</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Nur' Adilah Bte Suhaimi Salleh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>nur_adilah_suhaimi_salleh@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Naseema Begum D/O Sarfudin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>naseema_begum@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
