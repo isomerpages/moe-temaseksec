@@ -40,7 +40,7 @@ variant: tiptap
 <p>Ms Toh Ai Kit</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>toh_ai_kit@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
