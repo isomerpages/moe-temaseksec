@@ -32,7 +32,7 @@ variant: tiptap
 <p>Mr Chia Chun Keong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chia_chun_keong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -390,7 +390,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3K</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -409,30 +409,22 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="2" colspan="1">
 <p>3M</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Asnia Adas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>asnia_adas@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Alex Chua Ghee Soon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chua_ghee_soon@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -448,10 +440,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Mirnigar Maesten</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>mirnigar_begum_khan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
