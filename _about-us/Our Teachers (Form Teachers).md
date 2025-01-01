@@ -64,7 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>?? G Tan</p>
+<p>Ms Gloria Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -102,7 +102,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>?? E Pang</p>
+<p>Mr Eddie Pang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -175,22 +175,30 @@ variant: tiptap
 </tr>
 <tr></tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Santhi d/o H.P. Manis</p>
+<p>Ms Robyn Yang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>santhi_h_p_manis@moe.edu.sg</p>
+<p>yang_liling_robyn@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Elvis Low Yi Wee</p>
+<p>Mdm Liu Liping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>low_yi_wee@moe.edu.sg</p>
+<p>liu_liping@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Wei Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_wei_ming@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
