@@ -199,7 +199,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Yap Ann Teck/ (HOD Science)</strong>
+<p><strong>Dr Yap Ann Teck/ (HOD Science)</strong>
 </p>
 </td>
 </tr>
