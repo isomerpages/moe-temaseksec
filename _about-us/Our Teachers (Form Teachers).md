@@ -162,25 +162,18 @@ variant: tiptap
 <p>Mrs Chan Choy Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chan_choy_wei@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="2" colspan="1">
+<p>Mr Wong Ching Siong</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="2" colspan="1">
+<p>wong_ching_siong@moe.edu.sg</p>
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p>2D</p>
