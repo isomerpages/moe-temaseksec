@@ -105,7 +105,7 @@ variant: tiptap
 <p>Mr Eddie Pang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>pang_kar_loon_eddie@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -159,7 +159,7 @@ variant: tiptap
 <p>1R</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chan Choy Wei</p>
+<p>Mdm Chan Choy Wei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chan_choy_wei@moe.edu.sg</p>
@@ -313,6 +313,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>naseema_begum@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
