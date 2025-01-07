@@ -6,8 +6,9 @@ third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
 <h2>Band</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="banner-wind-ensemble.jpg" src="/images/temasek%20wind%20ensemble.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TAP_BAC_01.jpg">
 </div>
 <p><strong>Teachers-in-charge</strong>
 </p>
@@ -24,16 +25,14 @@ variant: tiptap
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZnhE7PljuuQ"></iframe>
 </div>
 <h2>HISTORY</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="b1.jpg" src="/images/band1.jpg">
-</div>
 <p>The Temasek Wind Ensemble (TWE) is one of the school’s long standing CCAs.
 Under the direction of the Band Director, Mr Ong Yeow Tong, an alumnus
 of TMS, the school band has played to full house concerts. Currently, the
 Temasek Wind Ensemble is close to 80 members strong.</p>
 <h2>MISSION</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="b4.jpg" src="/images/band4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TAP_BAC_04.jpg">
 </div>
 <p>To strive for members to uphold a common goal of mastering a musical instrument
 and demonstrate artistry through music.</p>
@@ -49,9 +48,7 @@ and play effectively as an ensemble. Members who exhibit strong musicianship
 will also get to lead their own sections or take on the role of student
 conductor.&nbsp;</p>
 <h2>OPPORTUNITIES</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="b3.jpg" src="/images/band3.jpg">
-</div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Perform in outdoor public concerts, and school productions such as Three
