@@ -16,7 +16,7 @@ variant: tiptap
 <p>Ms Chua An Ting (I/C)</p>
 </li>
 <li>
-<p>Mr Chia Chun Keong</p>
+<p>Mr Chia Chun Keong (2I/C)</p>
 </li>
 <li>
 <p>Mr Pang Kar Loon Eddie</p>
