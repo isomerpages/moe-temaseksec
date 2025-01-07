@@ -16,13 +16,8 @@ variant: tiptap
 <p>Mr Muhammad Shafiq Bin Mohamed Rafi (I/C)</p>
 </li>
 <li>
-<p>Mr Ian Alexander Ng&nbsp;(2I/C)</p>
-</li>
-<li>
-<p>Ms Sabrina Tay Nian Zi</p>
-</li>
-<li>
-<p>Ms Naseema Begum D/O Sarfudin</p>
+<p>Mr Roger Lim Pang Kiat</p>
+<p></p>
 </li>
 </ul>
 <div class="iframe-wrapper">
