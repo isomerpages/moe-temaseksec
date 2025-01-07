@@ -64,7 +64,7 @@ variant: tiptap
 <p>PR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$680*</p>
+<p>$620*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$20*</p>
@@ -73,7 +73,7 @@ variant: tiptap
 <p>$3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$703*</p>
+<p>$643*</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +81,7 @@ variant: tiptap
 <p>IS (ASEAN)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1090</p>
+<p>$1030</p>
 <p></p>
 <p></p>
 </td>
@@ -93,7 +93,7 @@ variant: tiptap
 <p>$3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1114.80</p>
+<p>$1054.80</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +101,7 @@ variant: tiptap
 <p>IS (NON-ASEAN)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2190</p>
+<p>$2050</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -112,7 +112,7 @@ variant: tiptap
 <p>$3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2214.80</p>
+<p>$2074.80</p>
 </td>
 </tr>
 <tr>
