@@ -16,7 +16,7 @@ variant: tiptap
 <p>Mr Chua Kok Thye (I/C)</p>
 </li>
 <li>
-<p>Mr Niu Jinguan (2I/C)</p>
+<p>Mr Niu Jingquan (2I/C)</p>
 </li>
 <li>
 <p>Mdm Santhi d/o H P Manis</p>
