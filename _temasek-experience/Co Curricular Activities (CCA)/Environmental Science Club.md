@@ -20,10 +20,8 @@ variant: tiptap
 </li>
 <li>
 <p>Mr Low Yi Wee Elvis (2I/C)</p>
-<p></p>
 </li>
 </ul>
-<p></p>
 <h2>HISTORY</h2>
 <p>The Environmental Science Club was first established in 2016, formerly
 known as The Green Club. Our CCA brings together like-minded students who

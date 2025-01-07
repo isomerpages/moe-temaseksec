@@ -16,13 +16,10 @@ variant: tiptap
 <p>Ms Chua An Ting (I/C)</p>
 </li>
 <li>
-<p>Mr Tan Bok Sim (2I/C)</p>
+<p>Mr Chia Chun Keong (2I/C)</p>
 </li>
 <li>
-<p>Mr Chia Chun Keong</p>
-</li>
-<li>
-<p>Mr Chua Kok Thye</p>
+<p>Mr Pang Kar Loon Eddie</p>
 </li>
 </ul>
 <p></p>

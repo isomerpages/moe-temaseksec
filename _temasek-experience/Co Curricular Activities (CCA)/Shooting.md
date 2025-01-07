@@ -13,13 +13,13 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Jonathan Soh (I/C)</p>
+<p>Mr Chua Kok Thye (I/C)</p>
 </li>
 <li>
-<p>Mr Poon Han Yaw (2I/C)</p>
+<p>Mr Niu Jingquan (2I/C)</p>
 </li>
 <li>
-<p>Ms Ooi Liu Qi</p>
+<p>Mdm Santhi d/o H P Manis</p>
 </li>
 </ul>
 <h2>HISTORY</h2>
