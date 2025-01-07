@@ -28,9 +28,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="b1.jpg" src="/images/band1.jpg">
 </div>
 <p>The Temasek Wind Ensemble (TWE) is one of the school’s long standing CCAs.
-Under the direction of the Band Director, Mr Zat, an alumnus of TMS, the
-school band has played to full house concerts. Currently, the Temasek Wind
-Ensemble is close to 80 members strong.</p>
+Under the direction of the Band Director, Mr Ong Yeow Tong, an alumnus
+of TMS, the school band has played to full house concerts. Currently, the
+Temasek Wind Ensemble is close to 80 members strong.</p>
 <h2>MISSION</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="b4.jpg" src="/images/band4.jpg">
