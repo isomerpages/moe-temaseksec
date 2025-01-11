@@ -54,3 +54,27 @@ students had an amazing Sec 1 Orientation!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_TMS_Sec_1_Orientation_10.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_TMS_Sec_1_Orientation_11.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_TMS_Sec_1_Orientation_12.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_TMS_Sec_1_Orientation_13.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_TMS_Sec_1_Orientation_14.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_TMS_Sec_1_Orientation_15.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_TMS_Sec_1_Orientation_16.png">
+</div>
+<p></p>
