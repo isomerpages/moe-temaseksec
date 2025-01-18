@@ -3,6 +3,7 @@ title: AI VS Covid–19 Ideation Challenge 2020
 permalink: /events/gallery-of-events/ai-vs-covid-19-ideation-challenge-2020/
 description: ""
 third_nav_title: Gallery of Events
+variant: markdown
 ---
 ![](/images/ai-vs-covid-19-webpage-v1-1536x630.png)
 
@@ -13,4 +14,4 @@ AI has the potential to transform our economy and improve lives. Given this unpr
 
   
 
-Temasek Secondary is proud to share the work of Ang Jyan Yue, who took part in the challenge with his elder brother. You may read about their proposal [here](https://mk0aisg3uiypjh6e3mt.kinstacdn.com/wp-content/uploads/2020/08/Winners.pdf).
+Temasek Secondary is proud to share the work of Ang Jyan Yue, who took part in the challenge with his elder brother.(https://mk0aisg3uiypjh6e3mt.kinstacdn.com/wp-content/uploads/2020/08/Winners.pdf).
