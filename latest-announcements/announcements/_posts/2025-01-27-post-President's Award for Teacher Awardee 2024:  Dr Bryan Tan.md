@@ -7,6 +7,9 @@ description: ""
 image: /images/2024_PAT_Awardee___Dr_Bryan_Tan.png
 variant: tiptap
 ---
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fr53WvrjyBM?si=IBGey8DyK3rvDRtJ"></iframe>
+</div>
 <p>With a PhD in Organic Chemistry, Dr Bryan Tan could have gone on to teach
 in a university. Instead, he chose to give back to his alma mater, Temasek
 Secondary School. He had been inspired by his own teachers, who had helped
