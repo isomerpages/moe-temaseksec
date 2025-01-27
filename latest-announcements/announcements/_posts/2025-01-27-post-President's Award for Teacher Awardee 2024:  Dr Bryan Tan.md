@@ -17,6 +17,11 @@ him out of a rocky start in life.</p>
 <p>At school, Dr Tan puts on two distinct hats – one that nurtures the professional
 development of his colleagues, and another that sparks his students’ interest
 in science.</p>
+<p>As School Staff Developer, Dr Bryan Tan exemplifies the motto of Temasek
+Secondary School, “We care” - care for students and care for staff. Our
+heartiest congratulations to Dr Bryan Tan!</p>
+<p>Information on the President’s Award for Teachers can be found <a href="https://www.moe.gov.sg/news/press-releases/20240829-eight-teachers-receive-top-honours-for-dedication-and-excellence-in-education" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_PAT_Dr_Bryan_Tan_Yong_Hao_full_length.jpg">
 </div>
