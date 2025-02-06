@@ -75,9 +75,8 @@ and also facilitate rendering something back to the community at large.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Racial Harmony Day Celebration" src="/images/Racial_Harmony_Day_Photo_Collage.jpg">
 </div>
 <h2>JOIN THE TMS PSG FAMILY!</h2>
-<p>We welcome all parents of Temasek Secondary School to join us by filling
-in this&nbsp;<a href="https://docs.google.com/forms/d/1UcOR_3EgK54d5is_L2MraAYrAUkQt75Cd6gifMYF6bw/edit" rel="noopener noreferrer nofollow" target="_blank">form</a>.
-You can also contact us at&nbsp;<a href="mailto:psg.temaseksecondary@gmail.com" rel="noopener noreferrer nofollow" target="_blank">psg.temaseksecondary@gmail.com</a>&nbsp;or
+<p>We welcome all parents of Temasek Secondary School to join us. You can
+contact us at&nbsp;<a href="mailto:psg.temaseksecondary@gmail.com" rel="noopener noreferrer nofollow" target="_blank">psg.temaseksecondary@gmail.com</a>&nbsp;or
 visit us on our Facebook page&nbsp;<a href="https://www.facebook.com/temaseksecpsg" rel="noopener noreferrer nofollow" target="_blank">@temaseksecpsg</a>&nbsp;or
 Instagram&nbsp;<a href="https://www.instagram.com/wealsocare/?igshid=1uuz5z7j1mfrk" rel="noopener noreferrer nofollow" target="_blank">@wealsocare</a>&nbsp;to
 know more about how you can contribute.</p>
