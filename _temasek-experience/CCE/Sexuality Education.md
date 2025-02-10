@@ -76,13 +76,12 @@ external providers.</p>
 <p>The curriculum for the programme is as attached <a href="/files/2025_Info_on_SEd_for_schs_website.pdf" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 <p>Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an <a href="go.gov.sg/tms-sed2025" rel="noopener nofollow" target="_blank">opt-out form</a>.
+lessons need to complete an <a href="https://go.gov.sg/tms-sed2025" rel="noopener nofollow" target="_blank">opt-out form</a>.
 This form will be distributed to parents via Parents Gateway. The completed
-form is to be submitted by 28 Feb 2025.</p>
+form is to be submitted by 21 Feb 2025.</p>
 <p>Parents who wish to opt their children out of the Sec 3 <strong><em>eTeens</em> programme</strong> need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="https://go.gov.sg/tms-eteens2025" rel="noopener noreferrer nofollow" target="_blank">here.</a> The completed form is
-to be submitted by 28 Feb 2025.</p>
+to complete an opt-out form. The completed form is to be submitted by 21
+Feb 2025.</p>
 <p></p>
 <p>Parents can contact the school at 64495020 for discussion or to seek clarification
 about the school’s sexuality education programme.</p>
