@@ -80,8 +80,8 @@ lessons need to complete an <a href="https://go.gov.sg/tms-sed2025" rel="noopene
 This form will be distributed to parents via Parents Gateway. The completed
 form is to be submitted by 21 Feb 2025.</p>
 <p>Parents who wish to opt their children out of the Sec 3 <strong><em>eTeens</em> programme</strong> need
-to complete an opt-out form. The completed form is to be submitted by 21
-Feb 2025.</p>
+to complete an <a href="https://go.gov.sg/tms-eteens2025" rel="noopener nofollow" target="_blank">opt-out form</a>.
+The completed form is to be submitted by 21 Feb 2025.</p>
 <p></p>
 <p>Parents can contact the school at 64495020 for discussion or to seek clarification
 about the school’s sexuality education programme.</p>
