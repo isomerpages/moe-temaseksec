@@ -9,8 +9,7 @@ variant: markdown
 
 | Type of Stall | Closing date | <br>
 | -------- | -------- |-------|
-| Halal Japanese/Korean Food | 15 April 2024 |
-
+There are no vacancies at the moment. 
 
 **Application Procedure**
 
