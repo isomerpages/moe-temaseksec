@@ -13,13 +13,10 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Tham Wai Leng (I/C)</p>
+<p>Mrs Soo-Tay Yu Xin (I/C)</p>
 </li>
 <li>
-<p>Mr Gabriel Sim Qin Jie (2I/C)</p>
-</li>
-<li>
-<p>Ms Aminah Bte Mohd Nagieb</p>
+<p>Mdm Tham Wai Leng (2I/C)</p>
 </li>
 <li>
 <p>Mr Mohammed Iqbal Bin Arshad</p>
