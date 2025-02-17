@@ -199,13 +199,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dr Yap Ann Teck/ (HOD Science)</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>yap_ann_teck@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 </tbody>
