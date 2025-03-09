@@ -9,6 +9,8 @@ third_nav_title: Gallery of Events
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kqSGjuAFW08?si=3bBMUipKm37VvCVc"></iframe>
 </div>
 <p>The Student Leaders Convention has returned!</p>
+<p>Student leaders from all leadership groups came together to learn about
+leadership on 7 March 2025!</p>
 <p>Mr. Keith Yap, founder and creator of The Frontrow Podcast, graced the
 event as keynote speaker and shared his thoughts on how youth can be effective
 as leaders!</p>
