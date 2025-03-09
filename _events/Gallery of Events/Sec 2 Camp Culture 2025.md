@@ -1,5 +1,5 @@
 ---
-title: Sec 2 Cross Cultural Awareness Camp 2025
+title: Sec 2 Camp Culture 2025
 permalink: /sec-2-cross-cultural-awareness-camp/
 variant: tiptap
 description: ""
