@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Gallery of Events
 ---
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jFtmqUtNKUI?si=ZRjqnAoBx4PYPOJ0"></iframe>
+</div>
+<p></p>
 <p>Our Secondary One students embarked on an adventurous Outdoor Adventure
 Learning (OAL) Camp from 22 to 24 January 2025.</p>
 <p>Despite the cloudy and rainy weather, they showed resilience and enthusiasm
