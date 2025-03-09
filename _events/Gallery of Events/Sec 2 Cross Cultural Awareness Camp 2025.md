@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Gallery of Events
 ---
+<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kPXVEzObp3k?si=TaKIAaeHG_V9nHjn"></iframe>
+</div>
 <p>The Secondary 2 students embarked on the exciting c2A Camp between 20
 to 24 January 2025 across multiple venues. The students took them to Tiong
 Bahru, where they explored charming cafes and vibrant markets. Their journey
