@@ -37,8 +37,7 @@ lasting memories with their classmates.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_TMS_Sec_2_C2A_Camp_01.png">
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_TMS_Sec_2_C2A_Camp.jpg">
+</div>
 <p></p>
