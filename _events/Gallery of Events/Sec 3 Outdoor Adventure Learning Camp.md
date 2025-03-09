@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Gallery of Events
 ---
+<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XgbTRNfaXVs?si=KKHDD-xp5BpzvOYQ"></iframe>
+</div>
 <p>
 <br>The Sec 3 Outdoor Adventure Learning Camp was an unforgettable experience
 for all participants!</p>
