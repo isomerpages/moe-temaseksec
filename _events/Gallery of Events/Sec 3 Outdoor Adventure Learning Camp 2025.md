@@ -12,8 +12,9 @@ third_nav_title: Gallery of Events
 <p>
 <br>The Sec 3 Outdoor Adventure Learning Camp was an unforgettable experience
 for all participants!</p>
+<p>Held from 22 to 24 January 2025, the camp was run across multiple venues!</p>
 <p>The Sec 3s made the most of the three days and had a fantastic time. They
-engaged in activities like orienteering, outdoor cooking, rafting at Siloso
+engaged in activities like rock-climbing, outdoor cooking, rafting at Siloso
 Beach, and paddling in sit-on-top kayaks. Not only did they leave with
 newfound strength and resilience, but they also deepened their friendships
 throughout the camp.</p>
