@@ -5,15 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: Gallery of Events
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_TMS_Sec_3_Camp_02.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_TMS_Sec_3_Camp_04.png">
-</div>
-<p></p>
+<p>
+<br>The Sec 3 Outdoor Adventure Learning Camp was an unforgettable experience
+for all participants!</p>
+<p>The Sec 3s made the most of the three days and had a fantastic time. They
+engaged in activities like orienteering, outdoor cooking, rafting at Siloso
+Beach, and paddling in sit-on-top kayaks. Not only did they leave with
+newfound strength and resilience, but they also deepened their friendships
+throughout the camp.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_TMS_Sec_3_Camp_03.png">
 </div>
