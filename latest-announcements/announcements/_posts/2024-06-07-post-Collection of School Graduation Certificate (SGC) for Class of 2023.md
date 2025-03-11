@@ -7,9 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Dear Class of 2024 Express &amp; NT&nbsp;students, You may collect your
-SGC folders from 12 March&nbsp;2025 to&nbsp;7&nbsp;June 2025,&nbsp;on&nbsp;Mondays
-to Fridays (except PH), between 9 am to 4pm from the General Office.</p>
+<p>Dear Class of 2024 Express &amp; NT&nbsp;students,</p>
+<p>You may collect your SGC folders from 12 March&nbsp;2025 to&nbsp;7&nbsp;June
+2025,&nbsp;on&nbsp;Mondays to Fridays (except PH), between 9 am to 4pm
+from the General Office.</p>
 <p>Please be reminded to do your registration at the Security Guard house
 before entering the school compound. Please bring along your identification
 card/Student Pass for identity verification.</p>
