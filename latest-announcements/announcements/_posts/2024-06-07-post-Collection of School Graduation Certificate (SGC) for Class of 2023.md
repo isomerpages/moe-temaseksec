@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Dear Class of 2023 students,</p>
+<p>Dear Class of 2024 students,</p>
 <p>You may collect your SGC folders from 10 June 2024 to 23 August 2024,
 Mondays to Fridays (except PH), between 9 am to 4pm from the General Office.</p>
 <p>Please be reminded to do your registration at the Security Guard house
