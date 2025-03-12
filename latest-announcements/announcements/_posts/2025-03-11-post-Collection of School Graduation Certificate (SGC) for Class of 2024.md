@@ -18,7 +18,7 @@ card/Student Pass for identity verification.</p>
 	a) Candidate's Original identity card (IC)/Student Pass<br>
 	b) Proxy's Original Identity card<br>
   c) An authorization letter from the Candidate furnished with the following information:<br>
--Year of Exam -Exam Level (e.g 'O' Level)<br>
--Types of certificates (e.g School Graduation Cert)<br>
--Name and Identity Number of Candidate -Name and Identity Number of Proxy<br>
+* Year of Exam -Exam Level (e.g 'O' Level)<br>
+* Types of certificates (e.g School Graduation Cert)<br>
+* Name and Identity Number of Candidate -Name and Identity Number of Proxy<br>
 </p><p>For NA students, we will update when your&nbsp;SGC is ready for collection.</p>
