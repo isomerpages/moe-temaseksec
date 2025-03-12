@@ -14,12 +14,11 @@ from the General Office.</p>
 <p>Please be reminded to do your registration at the Security Guard house
 before entering the school compound. Please bring along your identification
 card/Student Pass for identity verification.</p>
-<p>For collection by proxy, please bring along the following documents,</p>
-<p>a) Candidate's Original identity card (IC)/Student Pass</p>
-<p>b) Proxy's Original Identity card</p>
-<p>c) An authorization letter from the Candidate furnished with the following
-information:</p>
-<p>-Year of Exam -Exam Level (e.g 'O' Level)</p>
-<p>-Types of certificates (e.g School Graduation Cert)</p>
-<p>-Name and Identity Number of Candidate -Name and Identity Number of Proxy</p>
-<p>For NA students, we will update when your&nbsp;SGC is ready for collection.</p>
+<p>For collection by proxy, please bring along the following documents,<br>
+	a) Candidate's Original identity card (IC)/Student Pass<br>
+	b) Proxy's Original Identity card<br>
+  c) An authorization letter from the Candidate furnished with the following information:<br>
+-Year of Exam -Exam Level (e.g 'O' Level)<br>
+-Types of certificates (e.g School Graduation Cert)<br>
+-Name and Identity Number of Candidate -Name and Identity Number of Proxy<br>
+</p><p>For NA students, we will update when your&nbsp;SGC is ready for collection.</p>
