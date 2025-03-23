@@ -26,9 +26,14 @@ scan this QR code to make a donation to PC!</p>
 <p>And to thank you for making a difference, every $5 donation will entitle
 you to ONE ticket for InTAGration! an acappella concert by the Temasek
 Acappella Group!</p>
-<p></p>
-<p>Tickets can be collected at the door on 30 April 2025 (Wed) at Our Tampines
-Hub Festive Theatre! Just show the email at the door!</p>
+<p>Details of the concert are:
+<br>Date: 30 April 2025 (Wednesday)
+<br>Time: 7.00-9.00pm
+<br>Venue: Festive Theatre @ Our Tampines Hub
+<br>
+</p>
+<p>Tickets can be collected at the door on 30 April 2025 (Wed) at Festive
+Theatre @ Our Tampines Hub! Just show the email at the door!</p>
 <p>However, if you have a child in the school and wish for the ticket to
 be collected by the child, please indicate the name and the class in the
 form before making your donation!
