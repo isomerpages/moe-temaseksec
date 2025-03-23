@@ -11,8 +11,8 @@ sections:
         - title: Latest News
           description: School Calendar 2025
           url: /events/school-calendar/
-        - title: Sec 1 Admissions 2025
-          description: 19 December 2024 (Thu)
+        - title: "TAG: President's Challenge Thank You Concert"
+          description: 30 April 2025 (Fri)
           url: https://www.temaseksec.moe.edu.sg/prospective-students/sec-1-admissions-2025/
       background: /images/2023schoolbanner.png
   - resources:
