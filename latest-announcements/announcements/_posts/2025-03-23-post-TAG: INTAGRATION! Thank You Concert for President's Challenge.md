@@ -11,11 +11,11 @@ variant: tiptap
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Poster__Square_.png">
 </div>
 <p>It is Temasek's 45th Anniversary! And in true Temasek tradition, we care
-and will raising funds for President's Challenge (PC), our partner in supporting
-the community since 2006! The school and President's Challenge have raised
-more than $500 thousand to support various charities supported by PC over
-the years and hope that you will make a difference too! Find out more about
-PC <a href="https://www.presidentschallenge.gov.sg/" rel="noopener nofollow" target="_blank">here.</a>
+and will be raising funds for President's Challenge (PC), our partner in
+supporting the community since 2006! The school and President's Challenge
+have raised more than $500 thousand to support various charities supported
+by PC over the years and hope that you will make a difference too! Find
+out more about PC <a href="https://www.presidentschallenge.gov.sg/" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 <p></p>
 <p>The first donation drive is from now till 30th April!
@@ -40,33 +40,34 @@ ticket will be given to the child and cannot be collected at the door on
 <ol data-tight="true" class="tight">
 <li>
 <p><strong><u>Location Code</u></strong>
-<br>No action needed</p>
+<br>No action needed.</p>
 </li>
 <li>
 <p><strong><u>School Name</u></strong>
-<br>Select “Temasek Secondary School”</p>
+<br>Select “Temasek Secondary School”.</p>
 </li>
 <li>
 <p><strong><u>Type of Payments</u></strong>
-<br>Select “Sale of Items”</p>
+<br>Select “Sale of Items”.</p>
 </li>
 <li>
 <p><strong><u>Full Name of Payer</u></strong>
-<br>Input your name</p>
+<br>Input your name.</p>
 </li>
 <li>
 <p><strong><u>Student’s Name</u></strong>
-<br>Input "NA" if you do not need a ticket.
-<br>Input "Collect" if you wish to redeem ticket(s) at the door on 30 April
+<br>- Input "NA" if you do not need a ticket.
+<br>- Input "Collect" if you wish to redeem ticket(s) at the door on 30 April
 2025 (Wed).
-<br>Input your child’s name if he/she is studying in Temasek Sec (and if you
-wish for your child to collect the ticket on your behalf)</p>
+<br>- Input your child’s name if he/she is studying in Temasek Sec (and if
+you wish for your child to collect the ticket on your behalf)</p>
 </li>
 <li>
-<p><strong>Student’s Class<br></strong>Input "NA" if you do not need a ticket.
-<br>Input "Collect" if you wish to redeem ticket(s) at the door on 30 April
+<p><strong>Student’s Class<br>- </strong>Input "NA" if you do not need a
+ticket.
+<br>- Input "Collect" if you wish to redeem ticket(s) at the door on 30 April
 2025 (Wed).
-<br>Input your child’s class if he/she is studying in Temasek Sec (and if
+<br>- Input your child’s class if he/she is studying in Temasek Sec (and if
 you wish for your child to collect the ticket on your behalf)</p>
 </li>
 <li>
@@ -75,7 +76,11 @@ you wish for your child to collect the ticket on your behalf)</p>
 </li>
 <li>
 <p><strong><u>Email address</u></strong>
-<br>Type in your e-mail address</p>
+<br>Type in your e-mail address.</p>
+</li>
+<li>
+<p><strong><u>Remarks</u></strong>
+<br>No action needed.</p>
 </li>
 </ol>
 <p></p>
