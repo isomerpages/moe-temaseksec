@@ -32,9 +32,9 @@ Acappella Group!</p>
 Hub Festive Theatre! Just show the email at the door!</p>
 <p>However, if you have a child in the school and wish for the ticket to
 be collected by the child, please indicate the name and the class in the
-form before making your donation! Do note that if you choose this, the
-ticket will be given to the child and cannot be collected at the door on
-30 April 2025 (Wed).</p>
+form before making your donation!
+<br>Do note that if you choose this, the ticket will be given to the child
+and cannot be collected at the door on 30 April 2025 (Wed).</p>
 <p></p>
 <p>Please note the following steps when making the donation:</p>
 <ol data-tight="true" class="tight">
