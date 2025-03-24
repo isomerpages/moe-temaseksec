@@ -75,16 +75,16 @@ ticket.
 you wish for your child to collect the ticket on your behalf)</p>
 </li>
 <li>
+<p><strong><u>Remarks</u></strong>
+<br>No action needed.</p>
+</li>
+<li>
 <p><strong><u>Amount<br></u></strong>Type in amount that you want to donate.
 <br>For every $5 donation, ONE ticket will be given to you!</p>
 </li>
 <li>
 <p><strong><u>Email address</u></strong>
 <br>Type in your e-mail address.</p>
-</li>
-<li>
-<p><strong><u>Remarks</u></strong>
-<br>No action needed.</p>
 </li>
 </ol>
 <p></p>
