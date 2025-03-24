@@ -29,7 +29,7 @@ you to ONE ticket for InTAGration! an acappella concert by the Temasek
 Acappella Group!</p>
 <p>Details of the concert are:
 <br>Date: 30 April 2025 (Wednesday)
-<br>Time: 7.00-9.00pm
+<br>Time: 7.00-9.00pm (Doors Open @ 6.30pm)
 <br>Venue: Festive Theatre @ Our Tampines Hub</p>
 <p>Tickets can be collected at the door on 30 April 2025 (Wed) at Festive
 Theatre @ Our Tampines Hub! Just show the email at the door!</p>
