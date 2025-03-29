@@ -12,7 +12,7 @@ sections:
           description: School Calendar 2025
           url: /events/school-calendar/
         - title: "TAG: InTAGration! President's Challenge Thank You Concert"
-          description: 30 April 2025 (Fri)
+          description: 30 April 2025 (Wed)
           url: https://www.temaseksec.moe.edu.sg/prospective-students/sec-1-admissions-2025/
       background: /images/2023schoolbanner.png
   - resources:
