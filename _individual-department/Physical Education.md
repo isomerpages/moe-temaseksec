@@ -4,7 +4,7 @@ permalink: /individual-department/physical-education/
 description: ""
 variant: markdown
 ---
-![](/images/2023%20dept%20pe.jpg)
+![](/images/PE.jpg)
 
 The Physical Education Department aims to provide quality physical education programmes to equip Temasekians with knowledge of sports, outdoor education, health and fitness to pursue and sustain an active and healthy lifestyle. Working in synergy with various student programmes, the PE department develops students holistically through our comprehensive syllabus which aims to complement their physical development with socio-emotional competencies and inter-personal skills.
 
