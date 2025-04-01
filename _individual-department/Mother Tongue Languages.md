@@ -72,8 +72,6 @@ and singing competitions</p>
 <br>farah_ashikin_mohamed_ridzwan@moe.edu.sg</p>
 <p>Mdm Norashikin Mahat
 <br>norashikin_mahat@moe.edu.sg</p>
-<p>Mdm Rozmaini Abu Bakar
-<br>rozmaini_abu_bakar@moe.edu.sg</p>
 <p>Mdm Siti Farhana Mohamed Shariff
 <br>siti_farhana_mohamed_shariff@moe.edu.sg</p>
 <h5>Chinese Language Unit</h5>
