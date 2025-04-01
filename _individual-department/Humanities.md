@@ -4,7 +4,6 @@ permalink: /individual-department/humanities/
 description: ""
 variant: markdown
 ---
-
 ![](/images/Humanities.jpg)
 ### DEPARTMENT PROGRAMMES
 
@@ -58,10 +57,7 @@ Mr Eugin Wong (HOD/ CCA & Safety)
 eugin_wong@moe.edu.sg
 
 Ms Jocelyn Woo (HOD/ Character & Citizenship Education)   
-woo_mei_xian_jocelyn@moe.edu.sg  
-
-Mr Lim Wei Ming (Asst. Year Head/ Lower Sec)   
-lim_wei_ming@moe.edu.sg
+woo_mei_xian_jocelyn@moe.edu.sg 
 
 Mrs Ruth Leong  (SH/ Humanities)   
 wong_su_ann_ruth@moe.edu.sg 
@@ -69,14 +65,15 @@ wong_su_ann_ruth@moe.edu.sg
 Ms Chua Wan Yu  
 chua_wan_yu@moe.edu.sg
 
+Mr David Lim Chee Chuan
+david_lim_chee_chuan@moe.edu.sg
+
 Mr Gabriel Sim Qin Jie   
 gabriel_sim_qin_jie@moe.edu.sg
 
 Mrs Gloria Tan
 
-
 Mrs Joann Mitchell
-
 
 Mrs Mirnigar Maesten  
 mirnigar_begum_khan@moe.edu.sg  

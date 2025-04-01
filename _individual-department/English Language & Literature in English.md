@@ -2,7 +2,7 @@
 title: English Language & Literature in English
 permalink: /individual-department/english-n-literature/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <p></p>
 <div class="isomer-image-wrapper">
@@ -94,12 +94,8 @@ nurulhuda_said@moe.edu.sg</p>
 <br>deborah_chua_lihui@moe.edu.sg</p>
 <p>Mr Gabriel Sim Qin Jie
 <br>gabriel_sim_qin_jie@moe.edu.sg</p>
-<p>Mr Ian Alexander Ng
-<br>ian_alexander_ng@moe.edu.sg</p>
 <p>Ms Idriaty Sabari
 <br>idriaty_sabari@moe.edu.sg</p>
-<p>Mdm Low Hwee Lin Clare
-<br>low_hwee_lin@moe.edu.sg</p>
 <p>Ms Martina Ann Mei Qiang
 <br>martina_ann_mei_qiang@moe.edu.sg</p>
 <p>Ms Mazna Mohd Hussain
@@ -112,9 +108,9 @@ nurulhuda_said@moe.edu.sg</p>
 <br>shafiq_rafi@moe.edu.sg</p>
 <p>Ms Sharon Koh
 <br>koh_hui_hoon_sharon@moe.edu.sg</p>
-<p>Ms Tan Hui Xin
+<p>Mdm Sharifah Thalha
+<br>sharifah_thalha_syed_osman@moe.edu.sg
+</p><p>Ms Tan Hui Xin
 <br>tan_hui_xin@moe.edu.sg</p>
 <p>Ms Tia Kai Ling
 <br>tia_kai_ling@moe.edu.sg</p>
-<p>Mrs Doris Lee
-<br>teo_hwee_hua_a@moe.edu.sg</p>

@@ -49,12 +49,9 @@ tay_yu_xin@moe.edu.sg
 
 Mohammed Iqbal Bin Arshad (ICT Manager)
 mohammed_iqbal_arshad@moe.edu.sg
-  
-Mr Chua Kok Thye  
-chua_kok_thye@moe.edu.sg
 
-Ms Lydia Chew  
-chew_li_shan_lydia@moe.edu.sg
+Mr Chia Chun Keong  
+chia_chun_keong@moe.edu.sg
 
 Mdm Tham Wai Leng  
 tham_wai_leng@moe.edu.sg

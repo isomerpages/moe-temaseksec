@@ -62,8 +62,5 @@ chua_ghee_soon@moe.edu.sg
 Mrs Jeanette Neo  
 wee_yue_lynn_jeanette@moe.edu.sg  
 
-Mr Jonathan Soh  
-soh_cher_boon@moe.edu.sg  
-
 Mr Viswanath Singgaravello  
 viswanath_singgaravello@moe.edu.sg
