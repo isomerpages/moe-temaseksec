@@ -86,8 +86,6 @@ and use of microcontrollers.</p>
 <br>kuah_chin_yong@moe.edu.sg</p>
 <p>Mr Lee Sze Meng
 <br>lee_sze_meng@moe.edu.sg</p>
-<p>Ms Sabrina Tay
-<br>tay_nian_zi@moe.edu.sg</p>
 <p>Mdm Tham Wai Leng
 <br>tham_wai_leng@moe.edu.sg</p>
 <p>Mr Yeo Jun Song
