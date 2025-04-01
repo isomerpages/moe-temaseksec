@@ -110,8 +110,7 @@ nurulhuda_said@moe.edu.sg</p>
 <br>koh_hui_hoon_sharon@moe.edu.sg</p>
 <p>Mdm Sharifah Thalha
 <br>sharifah_thalha_syed_osman@moe.edu.sg
-<br>koh_hui_hoon_sharon@moe.edu.sg</p>
-<p>Ms Tan Hui Xin
+</p><p>Ms Tan Hui Xin
 <br>tan_hui_xin@moe.edu.sg</p>
 <p>Ms Tia Kai Ling
 <br>tia_kai_ling@moe.edu.sg</p>
