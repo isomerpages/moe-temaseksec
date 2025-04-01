@@ -4,8 +4,9 @@ permalink: /individual-department/english-n-literature/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20dept%20el.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English.jpg">
 </div>
 <p><strong>Too often we teach our students what to think, not how to think.</strong> 
 <br>The Organisation for Economic Cooperation and Development (OECD)</p>

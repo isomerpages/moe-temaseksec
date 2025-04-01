@@ -4,7 +4,7 @@ permalink: /individual-department/ict/
 description: ""
 variant: markdown
 ---
-![2022.03.23 Temasek Sec Department Photographs 8734.jpg](/images/20220323%20Temasek%20Sec%20Department%20Photographs%208734.jpg)  
+![](/images/ICT.jpg)
 
 The Information Communications Technology (ICT) Department provides support to all departments in the implementation of the school instructional programme and the use of ICT for teaching and learning in and out of the classrooms.  
 
