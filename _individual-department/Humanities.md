@@ -4,8 +4,8 @@ permalink: /individual-department/humanities/
 description: ""
 variant: markdown
 ---
-![](/images/2023%20dept%20humanities.jpg)
 
+![](/images/Humanities.jpg)
 ### DEPARTMENT PROGRAMMES
 
 
