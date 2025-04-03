@@ -105,7 +105,7 @@ nurulhuda_said@moe.edu.sg</p>
 <p>Mr Shafiq Rafi
 <br>shafiq_rafi@moe.edu.sg</p>
 <p>Ms Sharon Koh</p>
-<p></p>
+<p>koh_hui_hoon_sharon@moe.edu.sg</p>
 <p>Mdm Sharifah Thalha
 <br>sharifah_thalha_syed_osman@moe.edu.sg</p>
 <p>Ms Tan Hui Xin
