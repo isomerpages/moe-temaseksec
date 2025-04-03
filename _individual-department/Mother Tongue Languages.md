@@ -83,8 +83,6 @@ and singing competitions</p>
 <br>liang_yan@moe.edu.sg</p>
 <p>Mr Niu Jing Quan
 <br>niu_jingquan@moe.edu.sg</p>
-<p>Mr Poon Han Yaw
-<br>poon_han_yaw@moe.edu.sg</p>
 <p>Mrs Soo-Tay Yu Xin
 <br>tay_yu_xin@moe.edu.sg</p>
 <p>Mr Wong Ching Siong

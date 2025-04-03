@@ -87,16 +87,6 @@ that will prepare them for the future.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Wei Ming (Asst. Year Head/ Lower Sec)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>lim_wei_ming@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Nurul Huda Mohd Kamarulzaman (Asst. Year Head/ Upper Sec)</p>
 </td>
 </tr>
