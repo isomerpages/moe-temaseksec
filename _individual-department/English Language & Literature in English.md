@@ -84,33 +84,31 @@ used in an impactful and purposeful manner through different artistic forms.</p>
 <p>•&nbsp;&nbsp;Learn more about the craft of writing through learning experiences
 that involve engagement with practitioners in the field</p>
 <h2>DEPARTMENT CONTACT LIST&nbsp;</h2>
-<p>Ms Nurulhuda Borhan Said (HOD/English Language &amp; English Literature)
-nurulhuda_said@moe.edu.sg</p>
-<p>Mr Muhammad Hilmy Zohry (SH/ English Language)
-<br>muhammad_hilmy_zohry@moe.edu.sg</p>
-<p>Mdm Harpreet Kaur (ST/ English Literature)
-<br>harpreet_kaur_a@moe.edu.sg</p>
-<p>Mrs Deborah Huang
-<br>deborah_chua_lihui@moe.edu.sg</p>
-<p>Mr Gabriel Sim Qin Jie
-<br>gabriel_sim_qin_jie@moe.edu.sg</p>
-<p>Ms Idriaty Sabari
-<br>idriaty_sabari@moe.edu.sg</p>
-<p>Ms Martina Ann Mei Qiang
-<br>martina_ann_mei_qiang@moe.edu.sg</p>
-<p>Ms Mazna Mohd Hussain
-<br>mazna_mohd_hussain@moe.edu.sg</p>
-<p>Mrs Millicent Tee
-<br>millicent_yap_yan_ying@moe.edu.sg</p>
-<p>Ms Robyn Yang
-<br>yang_liling_robyn@moe.edu.sg</p>
-<p>Mr Shafiq Rafi
-<br>shafiq_rafi@moe.edu.sg</p>
-<p>Ms Sharon Koh
-<br>koh_hui_hoon_sharon@moe.edu.sg</p>
-<p>Mdm Sharifah Thalha
-<br>sharifah_thalha_syed_osman@moe.edu.sg
-</p><p>Ms Tan Hui Xin
-<br>tan_hui_xin@moe.edu.sg</p>
-<p>Ms Tia Kai Ling
-<br>tia_kai_ling@moe.edu.sg</p>
+<br>Ms Nurulhuda Borhan Said (HOD/English Language &amp; English Literature)<br>
+nurulhuda_said@moe.edu.sg<br>
+<br>Mr Muhammad Hilmy Zohry (SH/ English Language)
+<br>muhammad_hilmy_zohry@moe.edu.sg<br>
+<br>Mdm Harpreet Kaur (ST/ English Literature)
+<br>harpreet_kaur_a@moe.edu.sg<br>
+<br>Mrs Deborah Huang<br>
+deborah_chua_lihui@moe.edu.sg<br>
+<br>Ms Idriaty Sabari<br>
+idriaty_sabari@moe.edu.sg<br>
+<br>Ms Martina Ann Mei Qiang
+<br>martina_ann_mei_qiang@moe.edu.sg<br>
+<br> Ms Mazna Mohd Hussain<br>
+mazna_mohd_hussain@moe.edu.sg<br>
+<br>Mrs Millicent Tee
+<br>millicent_yap_yan_ying@moe.edu.sg<br>
+<br>Ms Robyn Yang
+<br>yang_liling_robyn@moe.edu.sg<br>
+<br>Mr Shafiq Rafi
+<br>shafiq_rafi@moe.edu.sg<br>
+<br>Ms Sharon Koh
+<br>koh_hui_hoon_sharon@moe.edu.sg<br>
+<br>Mdm Sharifah Thalha
+<br>sharifah_thalha_syed_osman@moe.edu.sg<br>
+<br>Ms Tan Hui Xin
+<br>tan_hui_xin@moe.edu.sg<br>
+<br>Ms Tia Kai Ling
+<br>tia_kai_ling@moe.edu.sg<br>
