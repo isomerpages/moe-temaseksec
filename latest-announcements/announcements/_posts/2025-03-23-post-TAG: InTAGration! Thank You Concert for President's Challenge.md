@@ -28,6 +28,7 @@ scan this QR code to make a donation to PC!</p>
 <p>And to thank you for making a difference, every $5 donation will entitle
 you to ONE ticket for InTAGration! an acappella concert by the Temasek
 Acappella Group!</p>
+<h4><strong>PLEASE NOTE THAT AS OF 6 APRIL 2025, ALL TICKETS HAVE BEEN REDEEMED!</strong><br><strong>WE THANK YOU FOR YOUR SUPPORT FOR PRESIDENT'S CHALLENGE!</strong></h4>
 <p>Details of the concert are:
 <br>Date: 30 April 2025 (Wednesday)
 <br>Time: 7.00-9.00pm (Doors Open @ 6.30pm)
@@ -61,18 +62,14 @@ and cannot be collected at the door on 30 April 2025 (Wed).</p>
 <li>
 <p><strong><u>Student’s Name</u></strong>
 <br>- Input "NA" if you do not need a ticket.
-<br>- Input "Collect" if you wish to redeem ticket(s) at the door on 30 April
-2025 (Wed).
-<br>- Input your child’s name if he/she is studying in Temasek Sec (and if
-you wish for your child to collect the ticket on your behalf)</p>
+<br><s>- Input "Collect" if you wish to redeem ticket(s) at the door on 30 April 2025 (Wed). <br>- Input your child’s name if he/she is studying in Temasek Sec (and if you wish for your child to collect the ticket on your behalf)</s>
+</p>
 </li>
 <li>
 <p><strong>Student’s Class<br>- </strong>Input "NA" if you do not need a
 ticket.
-<br>- Input "Collect" if you wish to redeem ticket(s) at the door on 30 April
-2025 (Wed).
-<br>- Input your child’s class if he/she is studying in Temasek Sec (and if
-you wish for your child to collect the ticket on your behalf)</p>
+<br><s>- Input "Collect" if you wish to redeem ticket(s) at the door on 30 April 2025 (Wed). <br>- Input your child’s class if he/she is studying in Temasek Sec (and if you wish for your child to collect the ticket on your behalf)</s>
+</p>
 </li>
 <li>
 <p><strong><u>Remarks</u></strong>
@@ -80,7 +77,8 @@ you wish for your child to collect the ticket on your behalf)</p>
 </li>
 <li>
 <p><strong><u>Amount<br></u></strong>Type in amount that you want to donate.
-<br>For every $5 donation, ONE ticket will be given to you!</p>
+<br><s>For every $5 donation, ONE ticket will be given to you!</s>
+</p>
 </li>
 <li>
 <p><strong><u>Email address</u></strong>
