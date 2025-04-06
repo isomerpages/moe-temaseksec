@@ -7,8 +7,9 @@ description: ""
 image: /images/Poster__Square_.png
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Poster__Square_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_TAG_InTAGration_Fully_Reddeemed.png">
 </div>
 <p>It is Temasek's 45th Anniversary! And in true Temasek tradition, we care
 and will be raising funds for President's Challenge (PC), our partner in
