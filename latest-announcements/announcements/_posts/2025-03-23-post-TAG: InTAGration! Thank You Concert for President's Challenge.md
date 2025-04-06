@@ -33,13 +33,6 @@ Acappella Group!</p>
 <br>Date: 30 April 2025 (Wednesday)
 <br>Time: 7.00-9.00pm (Doors Open @ 6.30pm)
 <br>Venue: Festive Theatre @ Our Tampines Hub</p>
-<p>Tickets can be collected at the door on 30 April 2025 (Wed) at Festive
-Theatre @ Our Tampines Hub! Just show the email at the door!</p>
-<p>However, if you have a child in the school and wish for the ticket to
-be collected by the child, please indicate the name and the class in the
-form before making your donation!
-<br>Do note that if you choose this, the ticket will be given to the child
-and cannot be collected at the door on 30 April 2025 (Wed).</p>
 <p></p>
 <p>Please note the following steps when making the donation:</p>
 <ol data-tight="true" class="tight">
@@ -61,24 +54,18 @@ and cannot be collected at the door on 30 April 2025 (Wed).</p>
 </li>
 <li>
 <p><strong><u>Student’s Name</u></strong>
-<br>- Input "NA" if you do not need a ticket.
-<br><s>- Input "Collect" if you wish to redeem ticket(s) at the door on 30 April 2025 (Wed). <br>- Input your child’s name if he/she is studying in Temasek Sec (and if you wish for your child to collect the ticket on your behalf)</s>
-</p>
+<br>Input "NA" as all tickets have been fully redeemed.</p>
 </li>
 <li>
-<p><strong>Student’s Class<br>- </strong>Input "NA" if you do not need a
-ticket.
-<br><s>- Input "Collect" if you wish to redeem ticket(s) at the door on 30 April 2025 (Wed). <br>- Input your child’s class if he/she is studying in Temasek Sec (and if you wish for your child to collect the ticket on your behalf)</s>
-</p>
+<p><strong>Student’s Class<br></strong>Input "NA" as all tickets have been
+fully redeemed.</p>
 </li>
 <li>
 <p><strong><u>Remarks</u></strong>
 <br>No action needed.</p>
 </li>
 <li>
-<p><strong><u>Amount<br></u></strong>Type in amount that you want to donate.
-<br><s>For every $5 donation, ONE ticket will be given to you!</s>
-</p>
+<p><strong><u>Amount<br></u></strong>Type in amount that you want to donate.</p>
 </li>
 <li>
 <p><strong><u>Email address</u></strong>
