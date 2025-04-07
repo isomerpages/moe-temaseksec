@@ -13,7 +13,7 @@ sections:
           url: /events/school-calendar/
         - title: "TAG: InTAGration! President's Challenge Thank You Concert"
           description: 30 April 2025 (Wed)
-          url: https://www.temaseksec.moe.edu.sg/prospective-students/sec-1-admissions-2025/
+          url: https://www.temaseksec.moe.edu.sg/tag-intagration-thank-you-concert-for-president-s-challenge/
       background: /images/2023schoolbanner.png
   - resources:
       title: Latest Announcements
