@@ -47,11 +47,9 @@ email as follows:</p>
 <br>Mr Viswanath Singgaravello
 <br><a href="mailto:viswanath_singgaravello@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">viswanath_singgaravello@moe.edu.sg</a>
 </p>
+<p></p>
+<p></p>
 </li>
-</ul>
-<p></p>
-<p></p>
-<ul data-tight="true" class="tight">
 <li>
 <p>The Young Peer Support Leader
 <br>Mdm Nur Adilah Suhaimi <a href="mailto:nur_adilah_suhaimi_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_adilah_suhaimi_salleh@moe.edu.sg</a>
@@ -70,7 +68,7 @@ email as follows:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Engage &amp; Educate
+<p>Engage &amp; Educate Workshop
 <br>Ms Robyn Yang
 <br><a href="mailto:yang_liling_robyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_liling_robyn@moe.edu.sg</a>
 </p>
