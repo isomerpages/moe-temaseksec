@@ -207,6 +207,28 @@ as well as in competitions like the Super 24 Dance showcase.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siglap CC National Day Dinner</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siglap CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>World Nurses Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marriot Hotel</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
