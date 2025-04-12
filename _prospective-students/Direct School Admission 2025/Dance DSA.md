@@ -33,6 +33,17 @@ as well as in competitions like the Super 24 Dance showcase.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Super 24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Runner-Up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -143,6 +154,17 @@ as well as in competitions like the Super 24 Dance showcase.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2013</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -181,6 +203,28 @@ as well as in competitions like the Super 24 Dance showcase.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Victoria Theatre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siglap CC National Day Dinner</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siglap CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>World Nurses Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marriot Hotel</p>
 </td>
 </tr>
 <tr>
