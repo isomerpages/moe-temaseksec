@@ -31,7 +31,7 @@ Besides training twice a week, the members also get together for drama appreciat
 | -------- | -------- | -------- |
 | 2024    | TAP:DAT! | Victoria Theatre |
 | 2022    | This Is Us | SOTA |
-| 2028    | Once Upon A Time | Festival Arts Theatre |
+| 2018    | Once Upon A Time | Festival Arts Theatre |
 | 2017    | Aestrella | TMS |
 | 2016    | Aestrella | TMS |
 
