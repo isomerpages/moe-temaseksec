@@ -195,7 +195,7 @@ be in a CCA/leadership group!</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.temaseksec.moe.edu.sg/co-curriculum/student-leadership-lead-tms/" rel="noopener noreferrer nofollow" target="_blank">Student Leadership LEAD@TMS</a>
+<p><a href="https://www.temaseksec.moe.edu.sg/student-leadership-lead-tms/" rel="noopener noreferrer nofollow" target="_blank">Student Leadership LEAD@TMS</a>
 </p>
 </li>
 </ul>
