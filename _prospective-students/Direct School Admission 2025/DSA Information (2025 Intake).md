@@ -67,7 +67,11 @@ January 2025.
 </p>
 <p>Students will be assessed on their ability in the talent and leadership
 areas so that they are well positioned to benefit from the curriculum offered
-at Temasek Secondary School. Generally, students should possess:</p>
+at Temasek Secondary School.</p>
+<p>Applicants who do not have prior experience may also apply. The school
+will assess applicants based on the selection criteria, which may include
+assessing the potential of the applicants.</p>
+<p>Generally, students should possess:</p>
 <ul>
 <li>
 <p>Good character to positively impact others</p>
