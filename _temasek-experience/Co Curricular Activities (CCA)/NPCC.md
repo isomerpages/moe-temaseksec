@@ -6,8 +6,9 @@ third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
 <h2>National Police Cadet Corps</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="banner-npcc.jpg" src="/images/national%20police%20cadet%20corps.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_CCA_NPCC.jpg">
 </div>
 <p><strong>Teachers-in-charge</strong>
 </p>
