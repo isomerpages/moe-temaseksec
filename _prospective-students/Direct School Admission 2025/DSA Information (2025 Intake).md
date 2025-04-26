@@ -19,9 +19,9 @@ our school through the Direct Schools Admission (DSA) exercise held once
 each year.</p>
 <p>Primary 6 students are welcome to participate in the DSA-Sec Exercise
 and successful applicants will join Temasek Secondary School in January
-2025.&nbsp;&nbsp;</p>
+2026.&nbsp;&nbsp;</p>
 <p>For more information on this year’s DSA-Sec Exercise for Sec 1 admission
-for 2025, please refer to MOE’s DSA centralised application portal. <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+for 2026, please refer to MOE’s DSA centralised application portal. <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
 <p><strong>DSA-Sec to Temasek Secondary School: Domains and Criteria</strong>&nbsp;
 <br>In line with the school’s focus on holistic development to nurture leaders
@@ -62,7 +62,7 @@ who demonstrate talent and interest in the following:
 </tbody>
 </table>
 <p>Successful applicants will be enrolled in Temasek Secondary School in
-January 2025.
+January 2026.
 <br>
 </p>
 <p>Students will be assessed on their ability in the talent and leadership
@@ -117,10 +117,10 @@ the area of talent.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 May 2024</p>
+<p>7 May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 Jun 2024</p>
+<p>3 June 2025 (3pm)</p>
 </td>
 </tr>
 <tr>
@@ -129,10 +129,39 @@ the area of talent.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24 Jun 2024</p>
+<p>20 June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9 September 2024</p>
+<p>4 September 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Selection Outcome</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25 August 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 September 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School Preference Submission</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>End October</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>DSA Allocation</strong> Outcome</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>End Nov</p>
 </td>
 </tr>
 </tbody>
@@ -142,19 +171,20 @@ time to attend the audition/trial/selection test via email.</p>
 <p>Shortlisted candidates for the auditions/trials will be informed via email <strong>by 31 July 2024.</strong>
 </p>
 <h2>Information and Application</h2>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;<a href="/files/Application_Process__for__DSA_Sec_1_Admission_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Process for DSA Sec 1 Admission 2025</a>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;<a href="/files/Application_Process__for__DSA_Sec_1_Admission_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Process for DSA Sec 1 Admi</a>
+<a href="/files/Application_Process_for_DSA_Sec_1_Admission_2026.pdf" rel="noopener nofollow" target="_blank">s</a><a href="/files/Application_Process__for__DSA_Sec_1_Admission_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">sion 2026</a>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;<a href="/files/FAQ_for_2024_Direct_School_Admission.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Question (FAQ)</a>
 </p>
 <p>For further enquiries, please contact Ms Kamilah at 6449 5020 (General
 Office) or email to&nbsp;<strong><a href="mailto:temasek_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">temasek_ss@moe.edu.sg</a></strong>.&nbsp;Kindly
-indicate “DSA 2025 Application Enquiry” in your email subject.</p>
+indicate “DSA 2026 Application Enquiry” in your email subject.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TMS_DSA_Outreach.png">
 </div>
 <p>Find out more about Temasek Secondary School's DSA opportunities in during
-our DSA Online Outreach <a href="https://www.temaseksec.moe.edu.sg/events/upcoming-events/dsa-online-outreach-2024/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+our DSA Online Outreach <a href="https://www.temaseksec.moe.edu.sg/dsa-online-outreach-2025/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>You can also find out more about our DSA Offerings here:</p>
 <ul data-tight="true" class="tight">
 <li>
