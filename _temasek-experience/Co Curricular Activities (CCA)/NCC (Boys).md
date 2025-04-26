@@ -6,8 +6,9 @@ third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
 <h2>NATIONAL CADET CORPS (BOYS ONLY)</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/national%20cadet%20corps%20land.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_CCA_NCC.jpg">
 </div>
 <p><strong>Teachers-in-charge</strong>
 </p>
