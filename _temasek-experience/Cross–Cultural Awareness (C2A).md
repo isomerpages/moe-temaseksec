@@ -63,6 +63,9 @@ and heritage through a customised learning experience.
 <br>
 <br>This experience helps students to develop the knowledge, skills and motivation
 to adapt effectively in cross-cultural environments.</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kPXVEzObp3k?si=OstYvTKsGLGIGamb"></iframe>
+</div>
 </td>
 </tr>
 <tr>
@@ -74,9 +77,8 @@ overseas schools.</p>
 <p>With school trips to Thailand, Malaysia and other ASEAN countries, these
 overseas trips give students a first-hand experience of interacting with
 students from other cultures.</p>
-<p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vPWxIkmD--Y?si=22Ia87TOVrohm6iG"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vPWxIkmD--Y?si=0H-JGGaMgvPE9oD1"></iframe>
 </div>
 </td>
 </tr>
