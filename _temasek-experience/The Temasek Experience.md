@@ -20,7 +20,7 @@ grow with each opportunity, a passage where dreams become reality.</p>
 During this programme, Secondary 1 students are introduced to what it means
 to be a Temasekian.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XO3tvm_aUtY?si=H44xdFczL3Q09l5e"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Zwclv95AnIg?si=4w82B8J9AJBU9xky"></iframe>
 </div>
 <p>Temasek Secondary School is a vibrant school. There are numerous opportunities
 for Temasekians to have many amazing experiences!</p>
@@ -29,7 +29,7 @@ for Temasekians to have many amazing experiences!</p>
 <p></p>
 <p>The Inter-House e-Games!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IJZSBZL4GjY?si=tYYajtMDIEx-A9HC"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ag2uWbcTQPU?si=n2e8pIr82qkozGWY"></iframe>
 </div>
 <p>Youth Day Celebrations!</p>
 <div class="iframe-wrapper">
