@@ -6,8 +6,9 @@ third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
 <h2>Drama</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="banner-drama.jpg" src="/images/drama%20.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_CCA_Drama.jpg">
 </div>
 <p><strong>Teachers-in-charge</strong>
 </p>
