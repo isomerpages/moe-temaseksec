@@ -6,8 +6,9 @@ third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
 <h2>Basketball (Boys)</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="banner-basketball.jpg" src="/images/basketball.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_CCA_Basketball.jpg">
 </div>
 <p><strong>Teachers-in-charge</strong>
 </p>
