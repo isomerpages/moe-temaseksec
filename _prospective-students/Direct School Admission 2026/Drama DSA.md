@@ -2,7 +2,7 @@
 title: Drama DSA
 permalink: /prospective-students/direct-school-admission/drama-dsa/
 description: ""
-third_nav_title: Direct School Admission 2025
+third_nav_title: Direct School Admission 2026
 variant: markdown
 ---
 Serious Play started as an interest group and was soon established as a core CCA in 2010. It has now grown from a group of eight members to nearly 50 members taking on roles such as directors, actors, costume, makeup artists and prop masters.

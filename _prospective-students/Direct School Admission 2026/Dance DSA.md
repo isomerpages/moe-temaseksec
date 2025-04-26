@@ -2,7 +2,7 @@
 title: Dance DSA
 permalink: /prospective-students/direct-school-admission/dance-dsa/
 description: ""
-third_nav_title: Direct School Admission 2025
+third_nav_title: Direct School Admission 2026
 variant: tiptap
 ---
 <p>Beginning as part of the Music and Dance Club in 1990 and having performed

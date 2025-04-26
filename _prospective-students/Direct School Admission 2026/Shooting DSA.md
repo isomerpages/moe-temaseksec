@@ -2,7 +2,7 @@
 title: Shooting DSA
 permalink: /prospective-students/direct-school-admission/shooting-dsa/
 description: ""
-third_nav_title: Direct School Admission 2025
+third_nav_title: Direct School Admission 2026
 variant: markdown
 ---
 Shooting at TMS has been one of the school’s key CCA program. Training sessions are conducted at the school’s own air-conditioned automated shooting range.&nbsp;
