@@ -6,11 +6,12 @@ third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
 <h2>Environmental Science Club</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Green Club Icon.jpg" src="/images/environmental%20science%20club.jpg">
-</div>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5DBVqQ7HTwM"></iframe>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_CCA_Environmental_Science_Club.jpg">
 </div>
 <p><strong>Teachers-in-charge</strong>
 </p>
