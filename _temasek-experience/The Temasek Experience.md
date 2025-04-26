@@ -26,7 +26,10 @@ to be a Temasekian.</p>
 for Temasekians to have many amazing experiences!</p>
 <p></p>
 <p>This is an example of some events that take place in Temasek!</p>
-<p></p>
+<p>The Sec 1 Outdoor Adventure Camp!</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jFtmqUtNKUI?si=rBj5sBOe5jq9yek-"></iframe>
+</div>
 <p>The Inter-House e-Games!</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ag2uWbcTQPU?si=n2e8pIr82qkozGWY"></iframe>
