@@ -171,10 +171,9 @@ time to attend the audition/trial/selection test via email.</p>
 <p>Shortlisted candidates for the auditions/trials will be informed via email <strong>by 1 August 2025.</strong>
 </p>
 <h2>Information and Application</h2>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;<a href="/files/Application_Process_for_DSA_Sec_1_Admission_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Process for DSA Sec 1 Admi</a>
-<a href="/files/Application_Process_for_DSA_Sec_1_Admission_2026.pdf" rel="noopener nofollow" target="_blank">s</a><a href="/files/Application_Process_for_DSA_Sec_1_Admission_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">sion 2026</a>
+<p>·&nbsp;&nbsp;<a href="/files/Application_Process_for_DSA_Sec_1_Admission_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Process for DSA Sec 1 Admission 2026</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;<a href="/files/FAQ_for_2025_Direct_School_Admission.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Question (FAQ)</a>
+<p>·&nbsp;&nbsp;<a href="/files/FAQ_for_2025_Direct_School_Admission.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Question (FAQ)</a>
 </p>
 <p>For further enquiries, please contact Ms Kamilah at 6449 5020 (General
 Office) or email to&nbsp;<strong><a href="mailto:temasek_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">temasek_ss@moe.edu.sg</a></strong>.&nbsp;Kindly
