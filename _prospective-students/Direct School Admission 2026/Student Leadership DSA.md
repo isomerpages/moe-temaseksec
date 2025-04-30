@@ -15,7 +15,7 @@ leadership opportunities for student leaders to apply the leadership skills
 learnt, LEAD@TMS seeks to develop leaders of character and intellect.</p>
 <p>Find out more about the school's leadership programme&nbsp;<a href="https://temaseksec.moe.edu.sg/co-curriculum/student-leadership-lead-tms" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h3>DSA Interview details:</h3>
-<p><strong>Interview period:</strong>&nbsp;24 June 2024 to 9 September 2024</p>
+<p><strong>Interview period:</strong>&nbsp;Between 30 Jun 2025 to 4 Sep 2025</p>
 <p><strong>Venue:</strong>&nbsp;Temasek Secondary School</p>
 <table style="minWidth: 75px">
 <colgroup>
