@@ -288,8 +288,8 @@ as well as in competitions like the Super 24 Dance showcase.</p>
 <br>
 </p>
 <h3>DSA Audition details:</h3>
-<p>&nbsp;<strong>Audition period:</strong>&nbsp;24 June 2024 to 9 September
-2024</p>
+<p>&nbsp;<strong>Audition period:</strong>&nbsp;Between 30 Jun 2025 to 4
+Sep 2025</p>
 <p><strong>Venue:</strong>&nbsp;Temasek Secondary School</p>
 <table style="minWidth: 75px">
 <colgroup>
