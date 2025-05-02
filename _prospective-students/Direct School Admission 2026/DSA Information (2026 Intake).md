@@ -180,7 +180,7 @@ Office) or email to&nbsp;<strong><a href="mailto:temasek_ss@moe.edu.sg" rel="noo
 indicate “DSA 2026 Application Enquiry” in your email subject.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TMS_DSA_Outreach.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_DSA_Outreach_Poster.png">
 </div>
 <p>Find out more about Temasek Secondary School's DSA opportunities in during
 our DSA Online Outreach <a href="https://www.temaseksec.moe.edu.sg/dsa-online-outreach-2025/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
