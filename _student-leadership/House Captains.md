@@ -21,6 +21,9 @@ Cup.</p>
 in the house to strengthen their bonds.</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_House_Captain.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_House_Captains.jpg">
 </div>
 <p></p>
