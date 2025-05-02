@@ -64,7 +64,8 @@ skills.</p>
 <br>
 </p>
 <p>• preferably have a track record of Student Leadership experience in their
-Primary School. Not a pre-requisite.</p>
+Primary School. However, <strong>it is NOT a pre-requisite.</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicants should:&nbsp;</p>
