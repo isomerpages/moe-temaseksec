@@ -14,7 +14,7 @@ that will help the win the House Cup.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Houses.png">
 </div>
 <p>These houses are run by the House Committees consisting of student leaders
-of the Sec 3/4 cohort and are led by a dedicated team of 14 House Captains
+of the Sec 3/4 cohort and are led by a dedicated team of 21 House Captains
 who will lead their houses through sun and rain for the glory of the House
 Cup.</p>
 <p>House meetings are conducted once a term to help students across all levels
