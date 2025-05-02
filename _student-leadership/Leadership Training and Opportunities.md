@@ -144,10 +144,13 @@ include positions such as officers, executive committee members and sectional
 leaders. Their key role is to manage administrative duties of the CCA,
 build camaraderie amongst their members, and motivate them to performance
 excellence.</p>
-<p>The five Leadership Groups provide more than 45% of the student population
+<p>The five Leadership Groups provide more than 50% of the student population
 with positional leadership opportunities to serve the school and the wider
 community. Each leadership group is unique and has a tremendous impact
 on how students contribute to their peers and the community.</p>
+<p>The&nbsp;<strong>House Captains</strong>&nbsp;consists of elected students
+by the student body to lead the 7 houses through all the events that occur
+in the year.</p>
 <p>The&nbsp;<strong>Executive Committee</strong>&nbsp;consists of the exco
 members of the five leadership groups. They have higher levels of responsibilities
 and are in charge of key events and activities in the school.</p>
