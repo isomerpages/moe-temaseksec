@@ -242,7 +242,7 @@ achieved Distinction at the Singapore Youth Festival Arts Presentation.</p>
 </tbody>
 </table>
 <h3>DSA Audition details:</h3>
-<p><strong>Audition period:</strong> 24 June 2024 to 9 September 2024</p>
+<p><strong>Audition period:</strong> Between 30 Jun 2025 to 4 Sep 2025</p>
 <p><strong>Venue:</strong> Temasek Secondary School</p>
 <table style="minWidth: 75px">
 <colgroup>

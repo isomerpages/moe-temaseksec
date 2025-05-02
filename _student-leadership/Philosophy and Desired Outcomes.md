@@ -2,6 +2,7 @@
 title: Philosophy and Desired Outcomes
 permalink: /student-leadership/philosophy-and-desired-outcomes/
 description: ""
+variant: markdown
 ---
 The philosophy of LEAD@TMS is founded on the belief that the secondary school years are invaluable to developing character and values in students. To do so, student leadership development is a purposeful platform to harness youth potential as secondary school students are able to explore and grasp more complex concepts and issues related to school and community.
 
