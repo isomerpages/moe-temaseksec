@@ -36,7 +36,7 @@ be in a DSA CCA/leadership group!</p>
 </p>
 <p>Zoom QR Code:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/https___for_edu_sg_2025temasek_dsa_outreach.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/https___for_edu_sg_2025temasek_dsa_outreach.png">
 </div>
 <p></p>
 <p>Find out more about DSA <a href="https://www.temaseksec.moe.edu.sg/prospective-students/direct-school-admission/information/" rel="noopener nofollow" target="_blank">here!</a>
