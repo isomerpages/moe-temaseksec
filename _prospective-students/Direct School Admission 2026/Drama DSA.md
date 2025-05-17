@@ -46,7 +46,7 @@ appreciation excursions.</p>
 <p>Singapore Youth Festival Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>Distinction</p>
 </td>
 </tr>
 <tr>
