@@ -16,17 +16,16 @@ variant: tiptap
 <br>TARUN SACHIN RAMESH KUMAR
 <br>
 <br><strong>Vice-President</strong>
-<br>MILLA WIRYA SUWARDY</p>
-<p>SERAPHINA KOH RUI EN</p>
+<br>MILLA WIRYA SUWARDY
+<br>SERAPHINA KOH RUI EN</p>
 <p><strong>Executive Committee</strong>
 <br>HEMASHREE D/O THANARAJ
-<br>
-<br>PALANI NIDHISH</p>
-<p>GWENIVERE SOH PIN RUI</p>
-<p>JAYLENE LEE MING HUEY</p>
-<p>LUVINA ONG SHI MIN</p>
-<p>ASYFA BATRISYIA BINTE MOHD FAHMI</p>
-<p>ISHA HARSHANG PANDYA</p>
+<br>PALANI NIDHISH
+<br>GWENIVERE SOH PIN RUI
+<br>JAYLENE LEE MING HUEY
+<br>LUVINA ONG SHI MIN
+<br>ASYFA BATRISYIA BINTE MOHD FAHMI
+<br>ISHA HARSHANG PANDYA</p>
 <h3>Mission</h3>
 <p>To strengthen school identity and affiliation</p>
 <h3>About</h3>
