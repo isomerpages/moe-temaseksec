@@ -27,7 +27,6 @@ joyful and meaningful!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_TMS_Movie_Night_04.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_TMS_Movie_Night_03.jpg">
 </div>
