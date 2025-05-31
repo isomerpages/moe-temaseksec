@@ -20,7 +20,7 @@ to learn more about leadership.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2025_YLP_Logos.png">
 </div>
-<p>The&nbsp; Young Leaders Camp is on 4-5 June 2025 (Tue-Wed) while the Young
+<p>The&nbsp; Young Leaders Camp is on 4-5 June 2025 (Wed-Thu) while the Young
 Sports Leader Workshop, the Facilitate the Facilitator, Your Next Leadership
 Journey and Engage &amp; Educate Workshop is on 12, 14 Nov 2025 (Wed, Fri).</p>
 <p><strong><a href="https://drive.google.com/file/d/1sBtGdCPApoQGOKXd3lfWyv5hx_F0NDO4/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Young Leaders Programme Information Brochure</a></strong>
