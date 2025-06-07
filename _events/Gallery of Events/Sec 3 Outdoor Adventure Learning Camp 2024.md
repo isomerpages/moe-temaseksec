@@ -7,7 +7,7 @@ third_nav_title: Gallery of Events
 ---
 <p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WrIZShK_U0U?si=R3-DNP0GcZbQhsJt"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2WEW6VbkZrs?si=LYdU7iy2glaakJOp"></iframe>
 </div>
 <p>The Sec 3s Outdoor Adventure Learning Camp was an incredible experience
 for everyone! Although sudden rain came and went, (with thankfully no lightning!),
