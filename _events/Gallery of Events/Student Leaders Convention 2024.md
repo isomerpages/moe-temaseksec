@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Gallery of Events
 ---
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_72gTEfZTaI?si=HHqWLQHzn4P1Jivb"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_72gTEfZTaI?si=4j7wBCRaOLaqMLqQ"></iframe>
 </div>
 <p></p>
 <p>The Student Leaders Convention is back again!</p>

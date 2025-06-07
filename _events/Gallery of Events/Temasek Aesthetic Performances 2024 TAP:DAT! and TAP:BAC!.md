@@ -6,11 +6,11 @@ description: ""
 third_nav_title: Gallery of Events
 ---
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QsxjbxwutXo?si=9Y_gWi9I56XXfrFS"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/luk7DEenZNE?si=T_3ZnH1-YdDJk2n6"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1bZLDWHjJCc?si=ogo-Xbw4dDvdrBFw"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/me9m1Qiqo2I?si=b8GcXlQOone_abnV"></iframe>
 </div>
 <p>Our talented Aesthetic CCAs put up combined concerts TAP (Temasek Aesthetic
 Performances) to celebrate the beauty and inspiration from the performing
