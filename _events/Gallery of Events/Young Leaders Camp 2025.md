@@ -14,6 +14,6 @@ dedicated Peer Support Leaders with strong support from Temasek’s student
 leaders — welcomed <strong>over 320 young leaders</strong> from <strong>more than 16 primary schools</strong>!</p>
 <p>Through a series of fun, hands-on activities, participants explored key <strong>leadership skills and values</strong> in
 an engaging, meaningful way.</p>
-<p>This year’s <strong>space-themed</strong> camp launched young minds into
-a world of learning and adventure — and judging by the energy and enthusiasm,
+<p>This year’s <strong>sea-themed</strong> camp launched young minds into a
+world of learning and adventure — and judging by the energy and enthusiasm,
 it was an unforgettable experience for all involved!</p>
