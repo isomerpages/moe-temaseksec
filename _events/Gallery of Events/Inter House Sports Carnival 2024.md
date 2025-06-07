@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Gallery of Events
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-iyay7_iY9Q?si=0b18W_uLzT1TBtb0"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JvMGxMEmpUc?si=PjiJrCVgRb7bPUD0"></iframe>
 </div>
 <p>Our inaugural Inter House Sports Carnival was successfully completed on
 Friday 17 May 2024.</p>
