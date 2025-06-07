@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Gallery of Events
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XgbTRNfaXVs?si=ZqdGk9f2VWO50XH0"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IJZSBZL4GjY?si=zEN9q8w0p9U7ZvOq"></iframe>
 </div>
 <p>On 21 February 2025, Temasek Secondary School successfully organized an
 exciting e-games, featuring popular games like Brawl Stars, Mobile Legends,
