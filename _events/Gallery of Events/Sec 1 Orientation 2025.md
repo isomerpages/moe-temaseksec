@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Gallery of Events
 ---
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Zwclv95AnIg?si=ADC7eHpM8z2eY4vb"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Zwclv95AnIg?si=FEK30GjUTPiYdLCp"></iframe>
 </div>
 <p>Our newly youngest Temasekians have had an incredible 7 days! From getting
 to know their teachers, having fun and games with the student leaders and

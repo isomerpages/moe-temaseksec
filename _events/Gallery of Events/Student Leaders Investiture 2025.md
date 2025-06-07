@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Gallery of Events
 ---
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/54y4wJd8AM4?si=b54i12Rj26IS0_D5"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/54y4wJd8AM4?si=iiKR2oa7LSXZRoML"></iframe>
 </div>
 <p>It is Temasek's 24th Student Leaders Investiture!</p>
 <p>We are thrilled to celebrate the appointment of the Secondary 2 and 3

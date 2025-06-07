@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Gallery of Events
 ---
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jFtmqUtNKUI?si=ZRjqnAoBx4PYPOJ0"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jFtmqUtNKUI?si=-04v2GtA3Tn662dE"></iframe>
 </div>
 <p></p>
 <p>Our Secondary One students embarked on an adventurous Outdoor Adventure

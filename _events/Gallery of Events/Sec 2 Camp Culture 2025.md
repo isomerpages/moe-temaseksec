@@ -7,7 +7,7 @@ third_nav_title: Gallery of Events
 ---
 <p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kPXVEzObp3k?si=TaKIAaeHG_V9nHjn"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kPXVEzObp3k?si=c_Uewrq42QyHpheS"></iframe>
 </div>
 <p>The Secondary 2 students embarked on the exciting c2A Camp between 20
 to 24 January 2025 across multiple venues. The students took them to Tiong
