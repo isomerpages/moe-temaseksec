@@ -9,6 +9,10 @@ third_nav_title: Upcoming Events
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lraxPWuH588?si=bOnnpIMWtQ_SQPce"></iframe>
 </div>
 <p>Temasek Together MagicLand is going to be here!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_07_18_at_10_31_46_PM.png">
+</div>
 <p>In celebration of Temasek Primary and Secondary's 45th Anniversary, the
 two schools will be joining hands and celebrate with MagicLand!, a carnival
 like no other!!</p>
