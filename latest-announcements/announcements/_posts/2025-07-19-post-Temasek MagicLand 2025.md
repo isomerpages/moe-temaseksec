@@ -1,5 +1,5 @@
 ---
-title: Temasek Together MagicLand
+title: Temasek MagicLand 2025
 permalink: /temasek-together-magicland/
 date: 2025-07-19
 layout: post
@@ -10,7 +10,7 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lraxPWuH588?si=bOnnpIMWtQ_SQPce"></iframe>
 </div>
-<p>Temasek Together MagicLand is going to be here!</p>
+<p>Temasek MagicLand is going to be here!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_07_18_at_10_31_46_PM.png">
