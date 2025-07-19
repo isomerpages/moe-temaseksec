@@ -7,7 +7,7 @@ third_nav_title: Upcoming Events
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_07_18_at_10_31_46_PM.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_07_18_at_10_31_46_PM.png">
 </div>
 <p>Temasek MagicLand is going to be here!</p>
 <p>In celebration of Temasek Primary and Secondary's 45th Anniversary, the
