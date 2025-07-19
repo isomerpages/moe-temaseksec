@@ -1,6 +1,6 @@
 ---
 title: Temasek MagicLand 2025
-permalink: /temasek-together-magicland/
+permalink: /temasek-magicland-2025/
 date: 2025-07-19
 layout: post
 description: ""
