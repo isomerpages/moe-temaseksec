@@ -98,7 +98,7 @@ variant: tiptap
 <br><strong>Literary Odyssey</strong>
 </p>
 <p>29 May (Thu)
-<br><strong>Sports Carnival</strong>
+<br><strong>Inter-House Sports Carnival</strong>
 </p>
 <p>29-30 May (Thu-Fri)
 <br><strong>Secondary 1, 3 &amp; 4 Teacher Meet Parents</strong>
@@ -150,7 +150,7 @@ variant: tiptap
 <h2>AUGUST</h2>
 <p>8 August (Fri)
 <br><strong>National Day Commemoration</strong> 
-<br><strong>45th Anniversary Carnival</strong>
+<br><strong>45th Anniversary Carnival: Temasek MagicLand</strong>
 </p>
 <p>9 August (Sat)
 <br><strong>National Day</strong>
@@ -190,7 +190,11 @@ variant: tiptap
 <p>14-24 October (Tue-Fri)
 <br><strong>End Of Semester Activities</strong>
 </p>
+<p>16 October (Thu)
+<br><strong>Inter-House Games Day</strong>
+</p>
 <p>17 October (Fri)
+<br><strong>Promotion Day</strong>
 <br><strong>Young Leaders Sharing</strong>
 </p>
 <p>20 October (Mon)
