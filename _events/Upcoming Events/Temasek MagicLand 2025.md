@@ -20,3 +20,8 @@ like no other!!</p>
 a fund that supports over 50 charities!</p>
 <p>For every $10 donation, $10 worth of coupons will be given as a token
 of appreciation!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2025_TMS_MagicLand_QR_Code.png">
+</div>
+<p></p>
