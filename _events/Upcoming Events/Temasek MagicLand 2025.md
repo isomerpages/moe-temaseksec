@@ -24,4 +24,5 @@ of appreciation!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2025_TMS_MagicLand_QR_Code.png">
 </div>
-<p></p>
+<p><a href="https://go.gov.sg/2025tms-magicland" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025tms-magicland</a>
+</p>
