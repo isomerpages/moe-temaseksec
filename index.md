@@ -11,9 +11,9 @@ sections:
         - title: Latest News
           description: School Calendar 2025
           url: /events/school-calendar/
-        - title: "TAG: InTAGration! President's Challenge Thank You Concert"
-          description: 30 April 2025 (Wed)
-          url: https://www.temaseksec.moe.edu.sg/tag-intagration-thank-you-concert-for-president-s-challenge/
+        - title: "Temasek Together: MagicLand 2025"
+          description: 8 August 2025 (Fri)
+          url: https://www.temaseksec.moe.edu.sg/temasek-magicland-2025
       background: /images/2023schoolbanner.png
   - resources:
       title: Latest Announcements
