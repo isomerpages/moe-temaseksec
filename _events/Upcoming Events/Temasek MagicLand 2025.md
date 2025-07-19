@@ -20,12 +20,54 @@ like no other!!</p>
 a fund that supports over 50 charities!</p>
 <p>For every $10 donation, $10 worth of coupons will be given as a token
 of appreciation!</p>
-<p></p>
+<p>If your child/you are a current Temasekian, coupons will be distributed
+to you by 1 August (Fri) via your class.</p>
+<p>If you are Alumni or a friend, please collect the coupons at the counter
+at the Foyer.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2025_TMS_MagicLand_QR_Code.png">
 </div>
 <p><a href="https://go.gov.sg/2025tms-magicland" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025tms-magicland</a>
 </p>
+<p></p>
+<p>In the form…</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Location Code</strong>
+<br>No action needed</p>
+</li>
+<li>
+<p><strong>School Name</strong>
+<br>Select “Temasek Secondary School”</p>
+</li>
+<li>
+<p><strong>Type of Payments</strong>
+<br>Select “Sale of Items”</p>
+</li>
+<li>
+<p><strong>Full Name of Payer</strong>
+<br>Input your name</p>
+</li>
+<li>
+<p><strong>Student’s Name</strong>
+<br>If you are a parent/student, input student’s name.
+<br>If you are alumni or friend, input “NA”</p>
+</li>
+<li>
+<p><strong>Student’s Class</strong>
+<br>If you are a parent/student, input student’s class.
+<br>If you are alumni or friend, input “NA”</p>
+</li>
+<li>
+<p><strong>Amount</strong>
+<br>Type in amount that you want to donate.
+<br>For every $10 donation, $10 worth of coupons will be given to you!</p>
+</li>
+<li>
+<p><strong>Email address</strong>
+<br>Type in your e-mail address</p>
+</li>
+</ol>
 <p></p>
 <p></p>
 <p></p>
