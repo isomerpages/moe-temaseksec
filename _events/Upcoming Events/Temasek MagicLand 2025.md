@@ -5,3 +5,18 @@ variant: tiptap
 description: ""
 third_nav_title: Upcoming Events
 ---
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lraxPWuH588?si=bOnnpIMWtQ_SQPce"></iframe>
+</div>
+<p>Temasek Together MagicLand is going to be here!</p>
+<p>In celebration of Temasek Primary and Secondary's 45th Anniversary, the
+two schools will be joining hands and celebrate with MagicLand!, a carnival
+like no other!!</p>
+<p>Details are as follows:</p>
+<p>Date: 8 August 2025 (Fri)
+<br>Time: 1100-1500h
+<br>Venue: Temasek Secondary School</p>
+<p>Everyone is invited to make a difference to the President's Challenge,
+a fund that supports over 50 charities!</p>
+<p>For every $10 donation, $10 worth of coupons will be given as a token
+of appreciation!</p>
