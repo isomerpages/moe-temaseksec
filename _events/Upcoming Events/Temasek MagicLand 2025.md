@@ -10,11 +10,11 @@ third_nav_title: Upcoming Events
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8eG4J5ytOlc?si=tEdCTuqDQxsrZYem"></iframe>
 </div>
 <p>THANK YOU FOR SUPPORTING TEMASEK MAGICLAND!</p>
-<p>Temasek MagicLand was an incredible success and both Temasek Primary and
-Temasek Secondary School!</p>
+<p>Temasek MagicLand was an incredible success!</p>
 <p>With your donations, we have supported President's Challenge and supported
 more than 50 charities!</p>
 <p>Temasekians came together to plan and organise numerous carnival games
 and activities as well as giving visitors incredible snack and food offerings!</p>
-<p>THANK YOU FOR YOUR SUPPORT FOR PRESIDENT'S CHALLENGE!</p>
+<p>Temasek Primary School and Temasek Secondary School THANK YOU FOR YOUR
+SUPPORT FOR PRESIDENT'S CHALLENGE!</p>
 <p></p>
