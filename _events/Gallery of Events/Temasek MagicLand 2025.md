@@ -3,7 +3,7 @@ title: Temasek MagicLand 2025
 permalink: /temasek-magicland-2025/
 variant: tiptap
 description: ""
-third_nav_title: Upcoming Events
+third_nav_title: Gallery of Events
 ---
 <p></p>
 <div class="iframe-wrapper">
@@ -11,7 +11,9 @@ third_nav_title: Upcoming Events
 </div>
 <p>THANK YOU FOR SUPPORTING TEMASEK MAGICLAND!</p>
 <p>Temasek MagicLand was an incredible success!</p>
-<p>With your donations, we have supported President's Challenge and supported
+<p>This carnival is a celebration of Temasek Primary School and Temasek Secondary
+School's 45th anniversary!</p>
+<p>With your donations, we have supported President's Challenge that helps
 more than 50 charities!</p>
 <p>Temasekians came together to plan and organise numerous carnival games
 and activities as well as giving visitors incredible snack and food offerings!</p>
