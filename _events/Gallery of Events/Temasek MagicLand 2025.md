@@ -11,6 +11,8 @@ third_nav_title: Gallery of Events
 </div>
 <p>THANK YOU FOR SUPPORTING TEMASEK MAGICLAND!</p>
 <p>Temasek MagicLand was an incredible success!</p>
+<p>This carnival is a celebration of Temasek Primary School and Temasek Secondary
+School's 45th anniversary!</p>
 <p>With your donations, we have supported President's Challenge and supported
 more than 50 charities!</p>
 <p>Temasekians came together to plan and organise numerous carnival games
