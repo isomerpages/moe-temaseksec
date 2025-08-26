@@ -3,36 +3,94 @@ title: Principal's Welcome
 permalink: /prospective-students/open-house-2024/welcome/
 description: ""
 third_nav_title: Open House 2024
-variant: markdown
+variant: tiptap
 ---
-<img src="/images/TMS Dept Photoshoot 2021-2.jpg" style="width:400px">
-<br>
-A very warm welcome to Temasek Secondary School (TMS)!
-
-We are an established autonomous school located in a vibrant neighbourhood – one that is going to become even more connected and packed with amenities in the near future as the entire Bayshore area develops.
-
-I would like to share with you three qualities of Temasek that distinguish our school and have helped us to carve out a unique identity in the past over 40 years of the school’s history.&nbsp;
-
-The first distinguishing quality of TMS is expressed simply and powerfully in our school Motto – “We Care”, which has remained the same for many years. Care is a spirit and commitment we undertake as a school community, be it caring for the school, for our staff and schoolmates, and for the broader community. We truly believe that all of us can be stronger together and that it is more blessed to give than to receive.&nbsp;&nbsp;
-
-As a school, we want to create a caring environment that enhances every student’s well-being and equips them with the skills to lead a flourishing life. This emphasis is even more critical against a backdrop of an increasingly stressful and competitive world, the challenges posed by technology such as social media on the mental well-being of our young people, the polarisation and lack of trust that has grown in many societies worldwide, and global challenges we have to face together such as climate change and pandemics. This is why we have recently embarked on the journey of Positive Education in TMS. Rooted in the scientific field of Positive Psychology, this upstream and holistic approach to enhance student well-being focuses on the six important elements that lead to a flourishing life, as follows: Positive Emotions, Engagement, Relationships, Meaning, Accomplishment and Health (PERMAH, for short). In TMS, these 6 elements are encapsulated the acronym W.E. C.A.R.E., with Wellness mapping to Health, and Contribution to the greater good mapping to Meaning, which is about finding purpose in something beyond oneself. This framework has been used to guide the school in both the academic and non-academic curriculum, so that students develop the awareness and the skills to manage their own well-being, and to lead a thriving, engaged and meaningful life.&nbsp;&nbsp;
-
-![](/images/WE_CARE.png)
-
-The second distinguishing aspect of TMS is joyful learning. We believe that it is critical for our students to know how to learn and to love the process of learning. This will help them to remain relevant and to secure good livelihoods in the future. Students fall in love with learning when they are empowered in the learning process and experience joy in discovering new things with their classmates and teachers. A key part of strengthening joy of learning and lifelong learning would be TMS’ focus on Learning Dispositions (summarised as “GROWTH”).&nbsp;
-
-![](/images/GROWTH.png)
-
-These aim to nurture in our students the skills to work well with others, metacognition (reflective learning), grit and resilience when faced with setbacks, a work ethic of excellence, proactiveness and a passion for learning. In TMS, each student will be paired up with a learning coach (one of our teachers), who will mentor him/her on this journey of acquiring these positive learning dispositions. As PM Lee has said: “Let us prepare our children for the test of life, not a life of tests.”
-
-The last key feature of TMS is “strength in diversity”.
-
-As an autonomous school that admits students studying subjects across the G1, G2 and G3 range, we are proud that we have been a national pilot school in the mixing of Form Classes across the three secondary posting groups. Our programmes have been able to cater to a wide range of student readiness and interests. Our students and staff live out daily the deep conviction that our schools should be a vibrant microcosm of wider society. This diverse environment helps our students to build a cohesive national identity, grow more holistically and be better prepared to be leaders in their future external environment.
-
-With that, I welcome you to find out more, join us, and be part of the Temasek family!
-
-**
-
-  ![](/images/2024_TMS_Postcard_Landscapre.png)
-
-#### No pre-registration needed to attend the Open House!
+<div class="isomer-image-wrapper">
+<img style="width:400px" height="auto" width="100%" src="/images/TMS Dept Photoshoot 2021-2.jpg">
+</div>
+<p>
+<br>Welcome to Temasek Secondary School (TMS)!</p>
+<p><strong>Congratulations!</strong>If your child is in Primary 6 this year,
+congratulations!&nbsp; Many of us might recall how our children had to
+adjust throughout most of their lower primary years due to COVID-19 – wearing
+masks, observing safe-distancing, and attending home-based learning.&nbsp;
+It is a testament to the determined and consistent efforts of educators
+in primary schools, your strong partnership with your child’s primary school,
+and your child’s resilience that s/he adapted to those changes and will
+soon complete the PSLE.</p>
+<p>While we have stepped out of the shadows of COVID-19, clouds of uncertainty
+loom ahead.&nbsp; &nbsp;&nbsp;New power dynamics within and between large
+nations have started to rock the rules-based order which upholds free trade
+and multilateralism.&nbsp; Technologies such as generative artificial intelligence
+promise greater productivity at work but also threaten to displace jobs
+across sectors, including entry and middle-level jobs in professions.</p>
+<p><strong>What we offer</strong>In the face of such uncertainty, we at TMS
+seek to provide a stable and caring environment that enables your child
+to be a joyful learner and exemplary leader.</p>
+<p><strong>“We care”</strong>, a motto that has become a signature phrase
+among our students, parents and alumni, guides what we do as a school.&nbsp;
+We believe in nurturing the whole child and in working closely with parents
+and stakeholders to achieve this.&nbsp; Our efforts are guided by the <strong>WE CARE</strong> framework
+(see image below), which we develop with reference to MOE initiatives (e.g.
+Character and Citizenship Education 2021) and findings from positive psychology
+(particularly the six elements of PERMAH, namely Positive emotions, Engagement,
+Relationships, Meaning, Accomplishment and Health).&nbsp; For instance,
+in line with Wellness, we start school at 8am daily, to allow Temasekians
+to have sufficient sleep and time to have breakfast before coming to school.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/We_Care___LD.png">
+</div>
+<p>The culture of care in TMS forms the foundation for our students to learn
+and grow in character. &nbsp;We seek to develop six <strong>GROWTH</strong> learning
+dispositions (see image above), which we view as essential for your child
+to thrive in post-secondary education and the workplace.&nbsp; To develop
+these learning dispositions, we provide a variety of platforms for our
+students to grow, stretch themselves and lead others.&nbsp; Allow me to
+share two examples.&nbsp; &nbsp;&nbsp;</p>
+<p><em><u>Stretching themselves</u></em>
+</p>
+<p>Students who wish to delve deeper in certain subjects/ areas can be part
+of the <a href="https://www.temaseksec.moe.edu.sg/distinctive-programme/temasek-ignis-programme-tip/" rel="noopener noreferrer nofollow" target="_blank">Temasek Ignis Programme</a> (TIP).&nbsp;
+Besides approaching specific topics with greater rigour, students in TIP
+will have the opportunity to tackle issues from multiple perspectives and
+communicate confidently in contexts beyond the classroom.&nbsp;</p>
+<p><em><u>Leading others&nbsp; &nbsp;&nbsp;&nbsp;</u></em>
+</p>
+<p>We do not believe in self-aggrandising leadership that seeks to pursue
+ends at all costs, which unfortunately has reared its head in a world that
+has become more isolationist.&nbsp; Instead, we believe that leaders of
+Singapore need to care for others, build positive relationships, make responsible
+decisions and contribute positively to society.&nbsp; &nbsp;&nbsp;</p>
+<p><a href="https://www.temaseksec.moe.edu.sg/student-leadership-lead-tms/" rel="noopener noreferrer nofollow" target="_blank">LEAD@TMS</a>,
+our student leadership programme, is anchored on our school values of T-EPIC
+(Teamwork, Performance Excellence, Integrity, Care).&nbsp; It provides
+multiple avenues for students to develop leadership competencies while
+contributing to the school community.&nbsp; Whether it’s Class Managers
+planning bonding activities for the class, Peer Support Leaders equipping
+Temasekians to look out for their peers, House Captains leading Physical
+Education Lessons, Young Ambassadors running events that promote active
+citizenry, or Student Councillors leading key school events including Sec
+1 Investiture – there is something for your child to grow in leadership
+perspectives and skills if s/he is keen.&nbsp;</p>
+<p><strong>It's all about the people</strong>
+</p>
+<p>As a school that turns 45 this year, TMS takes pride in being an autonomous
+school that provides a caring and positive learning environment for students
+regardless of course or posting group.&nbsp; The fond memories shared by
+alumni, many of whom continue to visit or serve the school (e.g. as staff
+or School Advisory Committee members), testify to the lives that have flourished
+during their time here.&nbsp;</p>
+<p>We wish you and your child all the best as you search for a secondary
+school that best fits your child’s strengths, interests and aspirations.&nbsp;
+And if TMS is one of his/her choices, we look forward to him/her being
+part of the <a href="https://www.youtube.com/watch?v=1WV1fLMyG4M&amp;t=1s" rel="noopener noreferrer nofollow" target="_blank">Temasek Story</a> come
+2026.</p>
+<p>Warmest regards</p>
+<p>Mr. Tan Shun Loong</p>
+<p>Principal</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TMS_Postcard_Landscapre.png">
+</div>
+<h4>No pre-registration needed to attend the Open House!</h4>
+<p></p>
