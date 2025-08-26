@@ -41,48 +41,5 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TVFVS6by4KM?si=_TGbwx10fbQx6V7p"></iframe>
 </div>
-<h2>Graduation 2023</h2>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LHzW7wIZLUI?si=fDvm8hqkKLSS_a5b"></iframe>
-</div>
-<h2>Teachers Day Celebrations 2023</h2>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EeP85xo7iHY?si=F4iVsmkMUc4MzWhs"></iframe>
-</div>
-<h2>Youth Day Celebrations 2023</h2>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/B2GRw0JfkS4"></iframe>
-</div>
-<h2>Record-Making 2023</h2>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_0ZruEg7ibE?si=m2p0XkyD5VrUvh0c"></iframe>
-</div>
-<h2>NE Learning Journey 2023</h2>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fc0fE341TY0"></iframe>
-</div>
-<h2>TMS Sec 1 Orientation 2023</h2>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aYtlBlSJBBM"></iframe>
-</div>
-<h2>Graduation 2022</h2>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WtlTgktbX_c"></iframe>
-</div>
-<h2>TMS Record Making 2022</h2>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lZTmYVISCfI"></iframe>
-</div>
-<h2>Movie Nite 2022</h2>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/uihjdh6GBvk"></iframe>
-</div>
-<h2>Temasek Record Making 2021</h2>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TtBDbmGxBfQ"></iframe>
-</div>
-<h2>TMS Sec 1 Orientation 2021</h2>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/o2Zm4hpdSO0"></iframe>
-</div>
+<h2></h2>
 <p></p>
