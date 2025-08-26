@@ -59,10 +59,10 @@ third_nav_title: Open House 2025
 <p>0925h</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pop Acappella</p>
+<p>Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hall</p>
+<p>Foyer</p>
 </td>
 </tr>
 <tr>
@@ -139,10 +139,10 @@ third_nav_title: Open House 2025
 <p>1130h</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Band</p>
+<p>Pop Acappella</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Canteen</p>
+<p>Hall</p>
 </td>
 </tr>
 <tr>
