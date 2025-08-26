@@ -29,17 +29,17 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/uqDiF0Bp7-M?si=CDVh4C_j2og3KYgf"></iframe>
 </div>
-<h2>e-Games 2024</h2>
+<h2>e-Games 2025</h2>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IJZSBZL4GjY?si=tYYajtMDIEx-A9HC"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ag2uWbcTQPU?si=8qsBXWX3faCmj-IZ"></iframe>
 </div>
-<h2>Movie Night 2024</h2>
+<h2>Movie Night 2025</h2>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kkIEuh3Jq9U?si=aCMWFZ_UPQVrK8WZ"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MMbWbu7Ccz0?si=NfMbN5gJ6VWNpS8x"></iframe>
 </div>
-<h2>LEAD@Thailand 2024</h2>
+<h2>LEAD@Thailand 2025</h2>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vPWxIkmD--Y?si=ObuXyYg93eBSa7lD"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TVFVS6by4KM?si=_TGbwx10fbQx6V7p"></iframe>
 </div>
 <h2>Graduation 2023</h2>
 <div class="iframe-wrapper">
