@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Open House 2025
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width:400px" height="auto" width="100%" src="/images/TMS Dept Photoshoot 2021-2.jpg">
-</div>
 <p>
 <br>Welcome to Temasek Secondary School (TMS)!</p>
 <p><strong>Congratulations!</strong>If your child is in Primary 6 this year,
