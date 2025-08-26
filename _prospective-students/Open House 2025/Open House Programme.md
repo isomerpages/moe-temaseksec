@@ -6,10 +6,10 @@ description: ""
 third_nav_title: Open House 2025
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TMS_Postcard_Landscapre.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Open_House_Poster.png">
+</div>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kF9C3J4ps0w?si=7mF1Xvm8dF6-FR6N"></iframe>
 </div>
