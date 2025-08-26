@@ -13,13 +13,13 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Jejlkym0IhU"></iframe>
 </div>
-<h2>Sec 1 Adventure Camp 2024</h2>
+<h2>Sec 1 Adventure Camp 2025</h2>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qbzLoU4Zty4?si=tEEcBMV9HAUEclht"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jFtmqUtNKUI?si=CG1sDMkZVlxqJiM4"></iframe>
 </div>
-<h2>Sec 1 Orientation 2024</h2>
+<h2>Sec 1 Orientation 2025</h2>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XO3tvm_aUtY?si=C3hDO_mgUJ-0d-p2"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Zwclv95AnIg?si=RGRUeuNs1qy4abEK"></iframe>
 </div>
 <h2>Graduation 2024</h2>
 <div class="iframe-wrapper">
