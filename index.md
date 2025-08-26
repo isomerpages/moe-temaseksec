@@ -11,9 +11,9 @@ sections:
         - title: Latest News
           description: School Calendar 2025
           url: /events/school-calendar/
-        - title: Temasek MagicLand 2025
-          description: 8 August 2025 (Fri)
-          url: https://www.temaseksec.moe.edu.sg/temasek-magicland-2025
+        - title: Open House 2025
+          description: 22 Nov 2025 (Sat)
+          url: https://www.temaseksec.moe.edu.sg/open-house-programme/
       background: /images/2023schoolbanner.png
   - resources:
       title: Latest Announcements
