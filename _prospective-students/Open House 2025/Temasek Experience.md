@@ -39,7 +39,7 @@ variant: tiptap
 </div>
 <h2>LEAD@Thailand 2025</h2>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TVFVS6by4KM?si=_TGbwx10fbQx6V7p"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TVFVS6by4KM?si=_TGbwx10fbQx6V7p"></iframe>
 </div>
 <h2>Graduation 2023</h2>
 <div class="iframe-wrapper">
