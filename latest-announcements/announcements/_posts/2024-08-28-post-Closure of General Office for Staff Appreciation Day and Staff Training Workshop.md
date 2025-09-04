@@ -8,10 +8,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>The General Office will be closed <strong>from 11.15am onwards on Thursday, 29 August 2024 </strong>for
-our Staff Appreciation Day.</p>
-<p>On <strong>Friday, 30 August 2024</strong>, we will be having our Staff
-Training Workshop. We will be opened again at 1pm.</p>
-<p>During the September School Holidays, the school operating hours will
-be from 8am to 5pm.</p>
-<p>Thank you.</p>
+<p>The school will be closed at 11am on 4 September 2025 due to All Staff
+Day/Teacher's Day celebrations.</p>
+<p>We will resume operations on Friday, 5 September 2025, operating from
+8am to 4.30 pm.</p>
+<p>Please also note that during the school holidays, the General Office operating
+hours will be from 8am to 4.30pm.</p>
+<p>Thank you</p>
