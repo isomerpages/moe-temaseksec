@@ -24,7 +24,7 @@ and the Student Council President. Moving video montages captured treasured
 memories, while a celebratory buffet lunch symbolised the support and camaraderie
 that have defined their time here.</p>
 <p>Reaching this milestone reflects their dedication and resilience, and
-we could not be prouder of every one of them.</p>
+we could not be prouder of every one of them!</p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YT4bfYcdpRU?si=fr2nIzGz_ve5bUQE"></iframe>
