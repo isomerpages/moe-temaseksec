@@ -18,7 +18,7 @@ or disadvantaged.</p>
 <p>Students&nbsp;should also&nbsp;recognise&nbsp;that&nbsp;every piece of
 work counts&nbsp;towards their learning&nbsp;as&nbsp;they work towards
 preparing for any&nbsp;WA.</p>
-<h3>BREAKDOWN OF WEIGHTED ASSESSMENTS&nbsp;(INCLUDES END OF YEAR EXAMS)</h3>
+<h3>BREAKDOWN OF WEIGHTED ASSESSMENTS&nbsp;(INCLUDES END-OF-YEAR EXAMS)</h3>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -112,7 +112,7 @@ preparing for any&nbsp;WA.</p>
 </tr>
 </tbody>
 </table>
-<h3>END-OF-YEAR (EOY) EXAMINATIONS</h3>
+<h3>END-OF-YEAR (EOY) EXAMS</h3>
 <p>End-Of-Year&nbsp;Examinations are conducted at&nbsp;the end of the year
 to evaluate students’ mastery of content and skills as well as for promotional
 purposes. All dates for examinations are indicated in the students’ handbook
