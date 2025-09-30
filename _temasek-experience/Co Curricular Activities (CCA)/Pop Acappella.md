@@ -67,10 +67,10 @@ TAG Concert.</p>
 and B’Dazzled.</p>
 </li>
 <li>
-<p>Perform for major events such as the Singapore Youth Olympics, the SYF
-Opening Ceremonies and various ministry events including the HDB Awards
-Ceremony, Ministry of Transport Award Ceremony, as well as&nbsp; the Supreme
-Court National Day Observance Ceremony.</p>
+<p>Perform for major events such as the SYF Opening Ceremonies and various
+ministry events including the HDB Awards Ceremony, Ministry of Transport
+Award Ceremony, as well as&nbsp; the Supreme Court National Day Observance
+Ceremony.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
