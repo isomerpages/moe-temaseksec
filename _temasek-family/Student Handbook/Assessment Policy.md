@@ -18,7 +18,7 @@ or disadvantaged.</p>
 <p>Students&nbsp;should also&nbsp;recognise&nbsp;that&nbsp;every piece of
 work counts&nbsp;towards their learning&nbsp;as&nbsp;they work towards
 preparing for any&nbsp;WA.</p>
-<h3>BREAKDOWN OF WEIGHTED ASSESSMENTS&nbsp;(INCLUDES SEMESTRAL ASSESSMENTS)</h3>
+<h3>BREAKDOWN OF WEIGHTED ASSESSMENTS&nbsp;(INCLUDES END-OF-YEAR EXAMS)</h3>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -38,7 +38,7 @@ preparing for any&nbsp;WA.</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Term 2 WA/MYE (%)</strong>
+<p><strong>Term 2 WA (%)</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -46,7 +46,7 @@ preparing for any&nbsp;WA.</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Term 4 FTE (%)</strong>
+<p><strong>Term 4 EOY Exams (%)</strong>
 </p>
 </th>
 </tr>
@@ -55,16 +55,16 @@ preparing for any&nbsp;WA.</p>
 <p>Sec 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WA: 15</p>
+<p>15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WA: 15</p>
+<p>15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WA: 15</p>
+<p>15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FTE: 55</p>
+<p>55</p>
 </td>
 </tr>
 <tr>
@@ -72,16 +72,16 @@ preparing for any&nbsp;WA.</p>
 <p>Sec 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WA: 15</p>
+<p>15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MYE: 15</p>
+<p>15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WA: 15</p>
+<p>15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FTE 55</p>
+<p>55</p>
 </td>
 </tr>
 <tr>
@@ -89,16 +89,16 @@ preparing for any&nbsp;WA.</p>
 <p>Sec 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WA: 15</p>
+<p>15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WA: 15</p>
+<p>15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WA: 15</p>
+<p>15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FTE: 55</p>
+<p>55</p>
 </td>
 </tr>
 <tr>
@@ -106,19 +106,17 @@ preparing for any&nbsp;WA.</p>
 <p>Sec 4 &amp; 5</p>
 </td>
 <td rowspan="1" colspan="4">
-<p>One WA per subject in Term 1
-<br>Mid-year examination in Term 2
+<p>One WA per subject in Term 1 &amp; Term 2
 <br>Preliminary examination in Term 3 and/or Term 4</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h3>SEMESTRAL&nbsp;ASSESSMENT (SA)</h3>
-<p>Semestral&nbsp;Examinations (SA) are conducted at&nbsp;mid-year&nbsp;(for
-Sec 2 and&nbsp;4/5 only)&nbsp;and end of the year to evaluate students’
-mastery of content and skills as well as for promotional purposes. All
-dates for examinations are indicated in the students’ handbook given out
-at the start of the year.</p>
+<h3>END-OF-YEAR (EOY) EXAMS</h3>
+<p>End-Of-Year&nbsp;Examinations are conducted at&nbsp;the end of the year
+to evaluate students’ mastery of content and skills as well as for promotional
+purposes. All dates for examinations are indicated in the students’ handbook
+given out at the start of the term.</p>
 <h3>ABSENCE FROM WEIGHTED ASSESSMENTS (TESTS)</h3>
 <p>Any student who is absent from any paper should produce a MEDICAL CERTIFICATE
 with the doctor certifying that the student is unfit to take the examination.
@@ -195,8 +193,8 @@ the WA.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For the purpose of promotion to Sec 4, if a student is absent from English,
-Math or Combined Science WA, it is compulsory for them to complete a make-up
-test within 5 working days.&nbsp;&nbsp;</p>
+Math or Science WA, it is compulsory for them to complete a make-up test
+within 5 working days.&nbsp;&nbsp;</p>
 <p>For all other subjects, student will be given a VR if they have missed
 the WA.</p>
 </td>
