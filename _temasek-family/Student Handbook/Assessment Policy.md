@@ -193,8 +193,8 @@ the WA.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For the purpose of promotion to Sec 4, if a student is absent from English,
-Math or Combined Science WA, it is compulsory for them to complete a make-up
-test within 5 working days.&nbsp;&nbsp;</p>
+Math or Science WA, it is compulsory for them to complete a make-up test
+within 5 working days.&nbsp;&nbsp;</p>
 <p>For all other subjects, student will be given a VR if they have missed
 the WA.</p>
 </td>
