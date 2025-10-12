@@ -28,7 +28,8 @@ variant: tiptap
 <p>AMELIA MOHAMED FAIZAL
 <br>YANG YU FEI, CLAIRE
 <br>TAN JIN HENG BRYCEN</p>
-<p></p>
+<h3>Mission</h3>
+<p>To be the voice of the school</p>
 <h3>About</h3>
 <p>The Student Rep Committee consists of the Chairpersons and Vice-Chairpersons
 of the five leadership groups. Together, they serve the school by representing
@@ -39,7 +40,8 @@ leadership groups.</p>
 <h3>Key School-Wide Events</h3>
 <p>Student Dialogue sessions</p>
 <p>Youth Day Celebrations</p>
-<p>Youth Day</p>
+<p>e-Games</p>
+<p>Games Day</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2019%20Dialogue%20Session.png">
 </div>
