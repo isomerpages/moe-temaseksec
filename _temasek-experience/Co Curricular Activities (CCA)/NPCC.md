@@ -26,9 +26,6 @@ variant: tiptap
 </li>
 </ul>
 <p>NPCC will not be accepting new members from 2025.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QEGvXtdqnsI"></iframe>
-</div>
 <h2>HISTORY</h2>
 <p>Since its inception, the Temasek Secondary National Police Cadet Corps
 (NPCC) unit has been developing our cadets to be young men and women who
