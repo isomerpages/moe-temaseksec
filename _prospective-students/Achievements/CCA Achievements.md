@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Achievements
 variant: tiptap
 ---
-<h3>CCA LEAPS 2022 Results</h3>
+<h3>CCA LEAPS 2025 Results</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -79,6 +79,14 @@ variant: tiptap
 <br>Cadet Corps (NCC)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>2024 Unit Recognition Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023 Unit Recognition Award</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,14 +96,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>2022 Unit Recognition Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021 Unit Recognition Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
@@ -107,6 +107,14 @@ variant: tiptap
 <br>Cadet Corps (NCDCC)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>2024 Unit Recognition Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023 Unit Recognition Award</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -119,14 +127,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021 Unit Recognition Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold</p>
 </td>
 </tr>
 <tr>
