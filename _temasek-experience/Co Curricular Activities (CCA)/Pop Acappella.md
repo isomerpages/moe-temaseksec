@@ -51,8 +51,9 @@ and aim to achieve excellence in singing and performance.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="a2.png" src="/images/popa2.png">
 </div>
-<p>Training is held once a week in school. Members learn vocal skills, choreography
-and stage presence.</p>
+<p>Training is held twice a week in school. Unlike other CCAs, the training
+is held on Tuesday and Wednesday afternoons. Members learn vocal skills,
+choreography and stage presence.</p>
 <h2>OPPORTUNITIES</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="a4.png" src="/images/popa4.png">
