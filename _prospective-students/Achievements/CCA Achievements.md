@@ -165,7 +165,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Temasek Wind Ensemble
 <br>(Band)</p>
 </td>
@@ -174,6 +174,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
 </td>
 </tr>
 <tr>
@@ -193,10 +201,18 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Temasek Chorale
 <br>(Choir)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>2025 SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>2023 SYF Arts Presentation</p>
 </td>
@@ -221,9 +237,17 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="7" colspan="1">
+<td rowspan="9" colspan="1">
 <p>Temasek Freestylers (Dance)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>2025 Super 24 Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>2024 Super 24 Competition</p>
 </td>
@@ -233,7 +257,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 SYF Arts Presentation</p>
+<p>2025 SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 SYF Arts</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
@@ -280,10 +312,18 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="7" colspan="1">
 <p>Temasek Acappella Group
 <br>(Pop Acappella)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>2025 S’pore A Cappella Championships (High Sch)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>2024 S’pore A Cappella Championships (High Sch)</p>
 </td>
@@ -332,10 +372,18 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Serious Play
 <br>(Drama)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>2025 SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>2023 SYF Arts Presentation</p>
 </td>
@@ -395,9 +443,84 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Bowling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024 National School Games - C Div Singles</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="10" colspan="1">
 <p>Canoeing</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>2025 National School Games - B Div Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 National School Games - C Div Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 National School Games - C Div Girls JK2 500m</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 National School Games - C Div Girls K4 500m</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 National School Games - B Div Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 National School Games - B Div Boys C2 500m</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 National School Games - B Div Boys C2 1000m</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 National School Games - B Div Boys C1 500m</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>2024 National School Games - C Div Girls</p>
 </td>
@@ -414,41 +537,97 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>2023 National School Games - B Div Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5th</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2023 National School Games - B Div Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5th</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2023 National School Games - C Div Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5th</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022 National School Games - B Div Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4th</p>
-</td>
-</tr>
-<tr>
-<td rowspan="15" colspan="1">
+<td rowspan="26" colspan="1">
 <p>Shooting</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>2024 National School Games - C Div Girls</p>
 </td>
