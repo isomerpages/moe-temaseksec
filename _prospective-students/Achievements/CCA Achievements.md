@@ -537,94 +537,125 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="2" colspan="1">
+<p>Netball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 National School Games - B Div&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 National School Games - C Div League 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="26" colspan="1">
 <p>Shooting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2025 National School Games - B Div Air Rifle Girls Individual</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>6<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2025 National School Games - B Div Girls Team (Pistol &amp; Rifle)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2025 National School Games - B Div Boys Team (Pistol &amp; Rifle)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>8<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2025 NTU Invitational Shoot - B Div Air Rifle Girls Individual</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>2<sup>nd</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2025 NTU Invitational Shoot - B Div Air Rifle Girls Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>2<sup>nd</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2025 NTU Invitational Shoot - B Div Air Pistol Girls Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3<sup>rd</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 NTU Invitational Shoot - B Div Air Rifle Boys Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 NTU Invitational Shoot - C Div Air Rifle Girls Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 National School Games - C Div Air Rifle Girls Individual&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 National School Games - C Div Girls Team (Pistol &amp; Rifle)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 National School Games - C Div Boys Team (Pistol &amp; Rifle)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -730,11 +761,40 @@ variant: tiptap
 <tr></tr>
 <tr></tr>
 <tr>
-<td rowspan="8" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Softball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 National School Games - C Div League 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="10" colspan="1">
 <p>Track &amp; Field</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024 National School Games - 1500m (B Div Boys)</p>
+<p>2025 National School Games - B Div Boys 800m&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 National School Games - B Div Boys 4x400m</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 National School Games - B Div Boys 1500m</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9th</p>
@@ -742,7 +802,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 National School Games - 800m (B Div Boys)</p>
+<p>2023 National School Games - B Div Boys 800m</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gold</p>
@@ -750,7 +810,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 National School Games - 1500m (B Div Boys)</p>
+<p>2023 National School Games - B Div Boys 1500m</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bronze</p>
@@ -758,7 +818,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 National School Games - Long Jump (B Div Boys)</p>
+<p>2023 National School Games - B Div Boys Long Jump</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6th</p>
@@ -766,7 +826,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 National School Games - 4x100m (C Div Boys)</p>
+<p>2023 National School Games - C Div Boys 4x100m</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5th</p>
@@ -774,7 +834,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 National School Games - 200m (C Div Boys)</p>
+<p>2023 National School Games - C Div Boys 200m</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8th</p>
@@ -782,7 +842,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2019 National School Games - 4×100m Relay (B Div Boys)</p>
+<p>2019 National School Games - B Div Boys 4×100m Relay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Top 8</p>
@@ -790,7 +850,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2019 National School Games - 400m (C Div Girls)</p>
+<p>2019 National School Games - C Div Girls 400m</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Top 8</p>
@@ -832,9 +892,49 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="10" colspan="1">
 <p>Environmental Science Club</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>2025 Singapore Green Guardians Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 5 (School)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 Singapore Green Guardians Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 30 (Individual)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Bulky Waste to Wonder Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit Prize</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Green School @ South East</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Excellence Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 School Green Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yellow Flame Award&nbsp;</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>2023 Green School @ South East</p>
 </td>
@@ -875,19 +975,99 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="7" colspan="1">
-<p>Robotics Club</p>
+<td rowspan="2" colspan="1">
+<p>Infocomm</p>
 </td>
-<td rowspan="4" colspan="1">
-<p>2024 World Robot Olympiad</p>
+<td rowspan="1" colspan="1">
+<p>2025 Objectifs Student Visual Storytelling</p>
 </td>
-<td rowspan="4" colspan="1">
-<p>9th, Best School Spirit</p>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention</p>
 </td>
 </tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022 IMDA Serve Social Media Contest</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="12" colspan="1">
+<p>Robotics Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 WRO Season Quests 3 &amp; 4 (Senior)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 WRO Individual Design (Senior)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Engineering Design Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 WRO Robomission (Junior)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5<sup>th</sup> &amp; 9<sup>th</sup> Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 WRO Judges Award&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best School Spirit Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 WRO Future Innovators (Senior)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion &amp; 2<sup>nd</sup> Runner Up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 WRO Season Quests 3 &amp; 4 (Senior)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 WRO Individual Design (Senior)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Engineering Design Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 WRO Robomission (Junior)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5<sup>th</sup> &amp; 9<sup>th</sup> Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 World Robo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024 World Robo</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2023 World Robot Olympiad</p>
@@ -913,17 +1093,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Core-Values-Inspiration Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Infocomm Media Club</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022 IMDA Serve Social Media Contest</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 5</p>
 </td>
 </tr>
 <tr>
