@@ -10,7 +10,7 @@ variant: tiptap
 <h4>Application for Transfer to Temasek Secondary School (Admission for Academic Year 2026 )</h4>
 <p>
 <br><strong>Application Period</strong>
-<br>21 October 2025, 9:00 a.m. – 31 October 2025, 12:00 p.m.
+<br>21 October 2025, 9:00 a.m. to 31 October 2025, 12:00 p.m.
 <br>
 </p>
 <p><strong>Availability of Vacancies</strong>
@@ -25,7 +25,8 @@ variant: tiptap
 and email to attend an interview held at the school. A placement test may
 also be conducted, where applicable.
 <br>
-<br><strong>Tentative interview date:</strong> 7 November 2025</p>
+<br><strong>Tentative interview date &amp; time:</strong> 7 November 2025,
+2.00pm to 5.00pm</p>
 <p></p>
 <p>Please click the link below to access the form:
 <br><a href="https://form.gov.sg/68e3251a68d22a21a3b56a7f" rel="noopener noreferrer nofollow" target="_blank">Application for School Transfer to Temasek Secondary School for 2026</a>
