@@ -7,16 +7,11 @@ description: ""
 image: ""
 variant: markdown
 ---
-<p><strong>Application for Transfer to Temasek Secondary School (Admission for academic year 2026 )</strong>
-</p>
-<p></p>
-<p><strong>Instructions for Transfer Applicants</strong>
-</p>
-<p>Students who wish to transfer to Temasek Secondary School are to use this
-form to submit their application of interest.</p>
-<p>Please note that all transfers are subject to available vacancies and
-the school’s admission criteria.</p>
-<p>&nbsp;</p>
+#### Application for Transfer to Temasek Secondary School (Admission for Academic Year 2026 )
+
+<br>**`Instructions for Transfer Applicants`**<br>
+ Students who wish to transfer to Temasek Secondary School are to use this form to submit their application of interest. <br>
+Please note that all transfers are subject to available vacancies and the school’s admission criteria. <br>
 <p><strong>Application Period</strong>
 </p>
 <p>20 October 2025, 9:00 a.m. – 31 October 2025, 12:00 p.m.</p>
