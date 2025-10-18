@@ -14,13 +14,13 @@ that is challenging, nurturing, and caring.</p>
 <p>This is the Temasek School Experience - a journey where students explore,
 grow with each opportunity, a passage where dreams become reality.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1WV1fLMyG4M"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1WV1fLMyG4M?si=Z7D7LOxJ3X26cSLM"></iframe>
 </div>
 <p>One of the defining moments for every Temasekian is the Sec 1 Orientation.
 During this programme, Secondary 1 students are introduced to what it means
 to be a Temasekian.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Zwclv95AnIg?si=BwRcuBDUhR__EGUL"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Zwclv95AnIg?si=OkpV09B81N2dCsrM"></iframe>
 </div>
 <p>Temasek Secondary School is a vibrant school. There are numerous opportunities
 for Temasekians to have many amazing experiences!</p>
@@ -28,7 +28,7 @@ for Temasekians to have many amazing experiences!</p>
 <p>This is an example of some events that take place in Temasek!</p>
 <p>The Sec 1 Outdoor Adventure Camp!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jFtmqUtNKUI?si=G_NIhee4hVP7GqKR"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jFtmqUtNKUI?si=QqyKngnPCXNNcOfg"></iframe>
 </div>
 <p>The Inter-House e-Games!</p>
 <div class="iframe-wrapper">
@@ -53,6 +53,10 @@ for Temasekians to have many amazing experiences!</p>
 <p>LEAD@Thailand!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TVFVS6by4KM?si=NOiV0adEuE4eHpg2"></iframe>
+</div>
+<p>Games Day</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NiScYxPXErw?si=N_GeRrtiniMw1Hbg"></iframe>
 </div>
 <p>Student Leaders Convention!</p>
 <div class="iframe-wrapper">
