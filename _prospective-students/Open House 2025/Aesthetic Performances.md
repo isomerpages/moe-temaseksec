@@ -3,46 +3,59 @@ title: Aesthetic Performances
 permalink: /prospective-students/open-house-2022/aesthetic-performances/
 description: ""
 third_nav_title: Open House 2025
-variant: markdown
+variant: tiptap
 ---
-## Dance - Hikari
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1-gobLTtBOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-## Dance - I'm Only Human
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_WObfK6A7kc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-## Dance - Gunjou
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Of7qYBgmVfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-## TAG - Not Alone
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jierIdGCNDM?si=poRu9h_Rp6Ta8Azz" height="315" width="560"></iframe>
-
-## TAG - Taylor Swift's Red Medley
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yPQJrTUBJVY?si=ahJ4RmRG0YXSVaoV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-## TAG - Taylor Swift's 1989 Medley
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/TJ0spdsKlW0?si=wv-LcEdcItM_nv1V" height="315" width="560"></iframe>
-
-## Drama Dis-connection
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T_ScKI62uw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-##  Drama - One Day I  Will Be KO
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1_lO7gYbvXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-## Choir - Kenna Yo Morena
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kHABOKVp_GE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-##  Choir - Go The Distance
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n1L3rZkyYpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-## Band - Our Kingsland Spring
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gRKXttAS8q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<h2>Dance - Hikari</h2>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1-gobLTtBOA"></iframe>
+</div>
+<h2>Dance - I'm Only Human</h2>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_WObfK6A7kc"></iframe>
+</div>
+<h2>Dance - Gunjou</h2>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Of7qYBgmVfw"></iframe>
+</div>
+<h2>TAG - Not Alone</h2>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/31dB3hSbjHo?si=kRyocRLzZGy4_fnZ"></iframe>
+</div>
+<h2>TAG - Taylor Swift's Red Medley</h2>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Csq_v7JBMbE?si=HMWpdHQqlCR9M4Df"></iframe>
+</div>
+<h2>TAG - Taylor Swift's 1989 Medley</h2>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TJ0spdsKlW0?si=wv-LcEdcItM_nv1V"></iframe>
+</div>
+<h2>Drama - One Day I Will Be OK</h2>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/T_ScKI62uw4"></iframe>
+</div>
+<h2>Drama - Dis-Connection</h2>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1_lO7gYbvXY"></iframe>
+</div>
+<h2>Drama - SYF 2025</h2>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8eO_X9VV_JA?si=GhEkth7EE60_qKu5"></iframe>
+</div>
+<h2>Choir - Kenna Yo Morena</h2>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kHABOKVp_GE"></iframe>
+</div>
+<h2>Choir - Go The Distance</h2>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/n1L3rZkyYpc"></iframe>
+</div>
+<h2>Choir - SYF 2025</h2>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1ogt9rc9k04?si=lCAJ_ggqBWqBmxzb"></iframe>
+</div>
+<p></p>
+<h2>Band - SYF 2025</h2>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/T-gdZ-ewiLI?si=1INQOotMLLOQd_uJ"></iframe>
+</div>
+<p></p>

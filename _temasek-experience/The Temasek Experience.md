@@ -14,13 +14,13 @@ that is challenging, nurturing, and caring.</p>
 <p>This is the Temasek School Experience - a journey where students explore,
 grow with each opportunity, a passage where dreams become reality.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1WV1fLMyG4M"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1WV1fLMyG4M?si=Z7D7LOxJ3X26cSLM"></iframe>
 </div>
 <p>One of the defining moments for every Temasekian is the Sec 1 Orientation.
 During this programme, Secondary 1 students are introduced to what it means
 to be a Temasekian.</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Zwclv95AnIg?si=4w82B8J9AJBU9xky"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Zwclv95AnIg?si=OkpV09B81N2dCsrM"></iframe>
 </div>
 <p>Temasek Secondary School is a vibrant school. There are numerous opportunities
 for Temasekians to have many amazing experiences!</p>
@@ -28,42 +28,46 @@ for Temasekians to have many amazing experiences!</p>
 <p>This is an example of some events that take place in Temasek!</p>
 <p>The Sec 1 Outdoor Adventure Camp!</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jFtmqUtNKUI?si=rBj5sBOe5jq9yek-"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jFtmqUtNKUI?si=QqyKngnPCXNNcOfg"></iframe>
 </div>
 <p>The Inter-House e-Games!</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ag2uWbcTQPU?si=n2e8pIr82qkozGWY"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ag2uWbcTQPU?si=IwPobmJHMD38qL4t"></iframe>
 </div>
 <p>Youth Day Celebrations!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6KVIyZ3AVEs?si=PYCLTI7vHEa_qM_T"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/uqDiF0Bp7-M?si=55odrueiY1sMU5xI"></iframe>
 </div>
 <p>All Staff Day Celebrations!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9N-SQKCVvUw?si=JG3WAN_-b80nJziN"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Q1Gj3hMEjno?si=DuTfCnFxG-3tI16Q"></iframe>
 </div>
 <p>Movie Night!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kkIEuh3Jq9U?si=aCMWFZ_UPQVrK8WZ"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MMbWbu7Ccz0?si=qNmZX2jUmPxZw01q"></iframe>
 </div>
 <p>End Of Semester Activities!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nQ0ZWk9Up3s?si=Ziow4ScM9dDqe9i2"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tz5w-XrGCjU?si=JdiWTQ87zE-hlyGL"></iframe>
 </div>
 <p>LEAD@Thailand!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vPWxIkmD--Y?si=ObuXyYg93eBSa7lD"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TVFVS6by4KM?si=NOiV0adEuE4eHpg2"></iframe>
+</div>
+<p>Games Day</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NiScYxPXErw?si=N_GeRrtiniMw1Hbg"></iframe>
 </div>
 <p>Student Leaders Convention!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_72gTEfZTaI?si=EQ0-B8pFlKewiXGN"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kqSGjuAFW08?si=C2uwy3cZ4wveRQHG"></iframe>
 </div>
 <p>Literary Oydessy!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vmXVJqFjjO4?si=igs-Q6QWJn5zR8Ov"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2qlsnHWfviw?si=rEkRVEhIGEGSIUCy"></iframe>
 </div>
-<p>Farewell ASsembly!</p>
+<p>Farewell Assembly!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jNLbeCPQlMM?si=QC2lfXBm6NI1-a7b"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_eN7I_5d4vc?si=-TZKfKEvgQLQP9r7"></iframe>
 </div>
 <p></p>
