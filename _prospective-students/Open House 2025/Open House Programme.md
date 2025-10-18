@@ -11,7 +11,7 @@ third_nav_title: Open House 2025
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Open_House_Poster.png">
 </div>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kF9C3J4ps0w?si=bkMhktOauZnKFGHB"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kF9C3J4ps0w?si=IfKGqJXq0QmP2NwS"></iframe>
 </div>
 <p></p>
 <table style="minWidth: 75px">
@@ -45,6 +45,17 @@ third_nav_title: Open House 2025
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>0915h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Foyer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>0930-1030h</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -52,17 +63,6 @@ third_nav_title: Open House 2025
 </td>
 <td rowspan="1" colspan="1">
 <p>Biology Lab</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>0925h</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Band</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Foyer</p>
 </td>
 </tr>
 <tr>
@@ -81,21 +81,10 @@ third_nav_title: Open House 2025
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>0945h</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Choir</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Foyer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>1015h</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wushu</p>
+<p>Drama</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hall</p>
@@ -106,10 +95,21 @@ third_nav_title: Open House 2025
 <p>1030h</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Foyer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1045h</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Uniformed Group</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hall</p>
+<p>Parade Square</p>
 </td>
 </tr>
 <tr>
@@ -128,7 +128,7 @@ third_nav_title: Open House 2025
 <p>1115h</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Drama</p>
+<p>Wushu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hall</p>
@@ -147,6 +147,17 @@ third_nav_title: Open House 2025
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>1140-1240h</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science Lesson Demo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Biology Lab</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>1145-1230h</strong>
 </p>
 </td>
@@ -157,17 +168,6 @@ third_nav_title: Open House 2025
 <td rowspan="1" colspan="1">
 <p><strong>Temasek Room/Theatrette</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1140-1240h</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science Lesson Demo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Biology Lab</p>
 </td>
 </tr>
 <tr>
