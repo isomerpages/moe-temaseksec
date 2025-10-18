@@ -23,7 +23,7 @@ variant: tiptap
 </div>
 <h2>TAG - Taylor Swift's Red Medley</h2>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yPQJrTUBJVY?si=ahJ4RmRG0YXSVaoV"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Csq_v7JBMbE?si=HMWpdHQqlCR9M4Df"></iframe>
 </div>
 <h2>TAG - Taylor Swift's 1989 Medley</h2>
 <div class="iframe-wrapper">
