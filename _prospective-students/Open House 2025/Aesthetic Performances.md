@@ -49,6 +49,11 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/n1L3rZkyYpc"></iframe>
 </div>
+<h2>Choir - SYF 2025</h2>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1ogt9rc9k04?si=lCAJ_ggqBWqBmxzb"></iframe>
+</div>
+<p></p>
 <h2>Band - SYF 2025</h2>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/T-gdZ-ewiLI?si=1INQOotMLLOQd_uJ"></iframe>
