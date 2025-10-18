@@ -29,11 +29,11 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TJ0spdsKlW0?si=wv-LcEdcItM_nv1V"></iframe>
 </div>
-<h2>Drama Dis-connection</h2>
+<h2>Drama - One Day I Will Be OK</h2>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/T_ScKI62uw4"></iframe>
 </div>
-<h2>Drama - One Day I Will Be KO</h2>
+<h2>Drama - Dis-Connection</h2>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1_lO7gYbvXY"></iframe>
 </div>
