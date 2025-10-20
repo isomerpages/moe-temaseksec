@@ -104,7 +104,7 @@ as individuals and team players.</p>
 </p>
 </li>
 <li>
-<p><a href="/curriculum/co-curricular-activities/pop-acappella/" rel="noopener noreferrer nofollow" target="_blank">Pop Acappella**</a>
+<p><a href="/curriculum/co-curricular-activities/pop-acappella/" rel="noopener noreferrer nofollow" target="_blank">Pop Acappella*</a>
 </p>
 </li>
 </ol>
@@ -133,4 +133,6 @@ their commitments to the CCA.</p>
 allotted CCA of their first choice in cases where the CCA is oversubscribed
 and they may be allotted choices other than their 1st choice.</p>
 <p><sup>+</sup>Shooting, Choir, Drama, Modern Dance are CCAs that offer DSA.
-<br>**Pop Acappella is not a core CCA.</p>
+<br>**Pop Acappella is both a core CCA and an interest group.</p>
+<p></p>
+<p></p>
