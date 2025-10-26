@@ -14,7 +14,7 @@ sections:
         - title: Open House 2025
           description: 22 Nov 2025 (Sat)
           url: https://www.temaseksec.moe.edu.sg/open-house-programme/
-      background: /images/2023schoolbanner.png
+      background: /images/2025_Banner.png
   - resources:
       title: Latest Announcements
 ---
