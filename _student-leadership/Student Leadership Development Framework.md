@@ -2,8 +2,9 @@
 title: Student Leadership Development Framework
 permalink: /student-leadership/student-leadership-development-framework/
 description: ""
+variant: markdown
 ---
-LEAD@TMS is guided by the Student Leadership Development Framework that helps the Student Leadership Committee to bear in mind key pillars that would shape the way we plan and enable student leadership development.
+![](/images/2025_Student_Leaders_2.jpg)LEAD@TMS is guided by the Student Leadership Development Framework that helps the Student Leadership Committee to bear in mind key pillars that would shape the way we plan and enable student leadership development.
 
 <img style="width:60%" src="/images/sliFramework.png">
 
