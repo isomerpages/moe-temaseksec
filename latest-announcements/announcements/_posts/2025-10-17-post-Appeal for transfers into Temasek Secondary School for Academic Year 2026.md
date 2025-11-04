@@ -10,7 +10,8 @@ variant: tiptap
 <h4>Application for Transfer to Temasek Secondary School (Admission for Academic Year 2026 )</h4>
 <p>
 <br><strong>Application Period</strong>
-<br>21 October 2025, 9:00 a.m. to 31 October 2025, 12:00 p.m.
+<br>21 October 2025, 9:00 a.m. to 31 October 2025, 12:00 p.m.</p>
+<p><strong>The appeal window has now closed and all successful applicants have been notified of the outcome. We would like to thank everyone who submitted an appeal for transfer to Sec 2 2026.</strong>
 <br>
 </p>
 <p><strong>Availability of Vacancies</strong>
@@ -30,8 +31,6 @@ also be conducted, where applicable.
 <p></p>
 <p>Please click the link below to access the form:
 <br><a href="https://form.gov.sg/68e3251a68d22a21a3b56a7f" rel="noopener noreferrer nofollow" target="_blank">Application for School Transfer to Temasek Secondary School for 2026</a>
-</p>
-<p><strong>The appeal window has now closed and all successful applicants have been notified of the outcome. We would like to thank everyone who submitted an appeal for transfer to Sec 2 2026.</strong>
 </p>
 <p></p>
 <p>Notes:
