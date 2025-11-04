@@ -31,6 +31,8 @@ also be conducted, where applicable.
 <p>Please click the link below to access the form:
 <br><a href="https://form.gov.sg/68e3251a68d22a21a3b56a7f" rel="noopener noreferrer nofollow" target="_blank">Application for School Transfer to Temasek Secondary School for 2026</a>
 </p>
+<p><strong>The appeal window has now closed and all successful applicants have been notified of the outcome. We would like to thank everyone who submitted an appeal for transfer to Sec 2 2026.</strong>
+</p>
 <p></p>
 <p>Notes:
 <br>
