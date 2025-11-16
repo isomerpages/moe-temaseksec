@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Maths_Dept.png">
 </div>
 <p>The Mathematics Department aims to develop students who are confident
 and self-directed problem solvers. Our curriculum seeks to engage students
