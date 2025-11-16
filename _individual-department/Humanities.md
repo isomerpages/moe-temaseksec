@@ -4,8 +4,9 @@ permalink: /individual-department/humanities/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Hum_Dept.png">
 </div>
 <h3>DEPARTMENT PROGRAMMES</h3>
 <p>The Humanities Department aims to develop students with empathy for the
