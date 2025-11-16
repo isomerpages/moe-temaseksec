@@ -20,7 +20,7 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="3">
 <p>Year Head: Mr Chandramohan
-<br>Asst. Year Head: Mr Lim Wei Ming</p>
+<br>Asst. Year Head: Mdm Siti Farhana</p>
 </td>
 </tr>
 <tr></tr>
@@ -175,7 +175,7 @@ variant: tiptap
 </tr>
 <tr></tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2D</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -191,14 +191,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>liu_liping@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Wei Ming</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_wei_ming@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -263,10 +255,10 @@ variant: tiptap
 <p>2M</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Gabriel Sim Qin Jie</p>
+<p>Mr David Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>gabriel_sim_qin_jie@moe.edu.sg</p>
+<p>david_lim_chee_chuan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -447,7 +439,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3O</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -455,6 +447,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_chek_quay@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Ruth Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wong_su_ann_ruth@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -635,21 +635,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee</p>
+<p>Ms Lee Pei Sen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5D</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Edward Leow</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>leow_mun_tat@moe.edu.sg</p>
+<p>lee_pei_sen_1@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
