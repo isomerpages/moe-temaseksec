@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/smc.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_SMC.png">
 </div>
 <h3>SCHOOL LEADERS</h3>
 <table style="minWidth: 25px">
@@ -239,13 +239,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Edward Leow (SH/ Design &amp; Technology)</strong>
+<p><strong>Mr Andrew Kng (SH/ Design &amp; Technology)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>leow_mun_tat@moe.edu.sg</p>
+<p>andrew_kng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -272,13 +272,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Lim Wei Ming (Asst. Year Head/ Lower Sec)</strong>
+<p><strong>Mdm Siti Farhana</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>lim_wei_ming@moe.edu.sg</p>
+<p>siti_farhana_mohamed_shariff@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -323,17 +323,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>ong_yan_pei_elliot@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Ruth Leong (SH/ Humanities)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>wong_su_ann_ruth@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
