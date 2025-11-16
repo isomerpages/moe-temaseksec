@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SDT.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_SDT.png">
 </div>
 <p>The Student Development Team (SDT) oversees the design and delivery of
 a holistic student development experience. With a focus on character education
