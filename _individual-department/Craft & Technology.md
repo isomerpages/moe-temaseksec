@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/C_T.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_C_T.png">
 </div>
 <p>The Craft &amp; Technology Department's aim is to develop an environment
 and curriculum that nurture students to think creatively, innovate and
