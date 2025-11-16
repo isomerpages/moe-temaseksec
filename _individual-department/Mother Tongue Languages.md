@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother_Tongue.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_MTL_Dept.png">
 </div>
 <p>The Mother Tongue Department's (Chinese Language, Malay Language and Tamil
 Language) focus is to inspire students to develop a love for the various
