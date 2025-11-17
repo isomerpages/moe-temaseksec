@@ -4,7 +4,7 @@ permalink: /prospective-students/financial-information/
 description: ""
 variant: tiptap
 ---
-<h3>School Fees</h3>
+<h3>School </h3>
 <p>
 <br>To find out the school fees payable, kindly use MOE’s online school fees
 checker <a href="https://www.moe.gov.sg/financial-matters/fees" rel="noopener noreferrer nofollow" target="_blank">here</a>.
