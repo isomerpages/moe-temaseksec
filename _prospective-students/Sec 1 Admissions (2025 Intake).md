@@ -53,7 +53,7 @@ on 19 December 2024, 9.00am.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.temaseksec.moe.edu.sg/prospective-students/financial-information/" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application</a>
+<p><a href="https://www.temaseksec.moe.edu.sg/tms-family/student-matters/financial-information/" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application</a>
 </p>
 <p>&nbsp;</p>
 </td>
