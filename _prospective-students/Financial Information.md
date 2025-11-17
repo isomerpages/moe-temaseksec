@@ -21,11 +21,10 @@ This scheme will assist students in:<br>
 ·         Waiver of school fees and miscellaneous fees<br>
 ·         Free textbooks and school attire<br>
 ·         Transport allowances<br>
-·         Meal allowance
+·         Meal allowance<br>
 
-For more information, please click&nbsp;**[here](https://www.moe.gov.sg/financial-matters/financial-assistance)**.
-
-To apply for MOEFAS, please click&nbsp;**[here](https://go.gov.sg/moe-efas)**.
+For more information, please click&nbsp;**[here](https://www.moe.gov.sg/financial-matters/financial-assistance)**.<br>
+To apply for MOEFAS, please click&nbsp;**[here](https://go.gov.sg/moe-efas)**<br>
 
 <h3>School-based Financial Assistance Scheme (School-based FAS)</h3>
 Students who miss the MOE FAS income criteria marginally may be provided
