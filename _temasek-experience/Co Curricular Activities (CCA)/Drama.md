@@ -26,8 +26,9 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/k4qjUB0n09A"></iframe>
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Drama_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Drama_2.jpg">
 </div>
 <h2>HISTORY</h2>
 <p>Serious Play started as an interest group and was soon established as
