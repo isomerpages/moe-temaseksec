@@ -8,7 +8,7 @@ variant: tiptap
 <h2>Track &amp; Field</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_CCA_Track___Field.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Track.png">
 </div>
 <p><strong>Teachers-in-charge</strong>
 </p>
