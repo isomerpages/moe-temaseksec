@@ -44,9 +44,6 @@ Training Instructor Course and the Senior Specialist Leaders Course.&nbsp;</p>
 <p>Temasek NCC aims to nurture disciplined, committed and caring leaders
 through fun, adventurous and military-related activities.</p>
 <h2>OPPORTUNITIES</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ncc5.jpg" src="/images/ncc5.jpg">
-</div>
 <p>• Learn rifle drills and performance confidence in preparation for the
 annual Precision Drill Squad (PDS) and Freestyle Drill (FSD) Competitions&nbsp;</p>
 <p>• Develop military-related skills through shooting experiences in firing
