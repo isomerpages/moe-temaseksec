@@ -17,6 +17,9 @@ variant: tiptap
 <p>Ms Chen Si Shann, Shannon (I/C)</p>
 </li>
 <li>
+<p>Mdm Norashikin Mahat (2I/C)</p>
+</li>
+<li>
 <p>Mdm Sharifah Thalha</p>
 </li>
 </ul>
