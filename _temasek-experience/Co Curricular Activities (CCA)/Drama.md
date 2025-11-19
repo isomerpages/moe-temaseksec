@@ -8,7 +8,7 @@ variant: tiptap
 <h2>Drama</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_CCA_Drama.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="p3.jpg" src="/images/dramap3.jpg">
 </div>
 <p><strong>Teachers-in-charge</strong>
 </p>
@@ -26,10 +26,10 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/k4qjUB0n09A"></iframe>
 </div>
-<h2>HISTORY</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="p3.jpg" src="/images/dramap3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Drama_1.png">
 </div>
+<h2>HISTORY</h2>
 <p>Serious Play started as an interest group and was soon established as
 a core CCA in 2010. It has grown from a group of eight members to nearly
 50 members who take on roles such as directors, actors, costume, makeup
