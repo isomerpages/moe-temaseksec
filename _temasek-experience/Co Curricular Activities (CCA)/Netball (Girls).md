@@ -8,7 +8,7 @@ variant: tiptap
 <h2>Netball (Girls)</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_CCA_Netball.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Netball.png">
 </div>
 <p><strong>Teachers-in-charge</strong>
 </p>
@@ -17,7 +17,7 @@ variant: tiptap
 <p>Ms Chen Si Shann, Shannon (I/C)</p>
 </li>
 <li>
-<p>Mr Boo Yongfeng (2I/C)</p>
+<p>Mdm Norashikin Mahat (2I/C)</p>
 </li>
 <li>
 <p>Mdm Sharifah Thalha</p>

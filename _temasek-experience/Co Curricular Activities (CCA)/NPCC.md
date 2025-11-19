@@ -8,7 +8,7 @@ variant: tiptap
 <h2>National Police Cadet Corps</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_CCA_NPCC.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_NPCC.png">
 </div>
 <p><strong>Teachers-in-charge</strong>
 </p>

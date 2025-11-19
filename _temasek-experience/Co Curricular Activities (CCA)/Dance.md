@@ -6,8 +6,9 @@ third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
 <h2>Modern Dance</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="banner-dance.jpg" src="/images/temasek%20freestylers.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Dance_1.png">
 </div>
 <p><strong>Teachers-in-charge</strong>
 </p>

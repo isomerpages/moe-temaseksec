@@ -8,7 +8,7 @@ variant: tiptap
 <h2>Basketball (Boys)</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_CCA_Basketball.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Basketball.jpg">
 </div>
 <p><strong>Teachers-in-charge</strong>
 </p>
@@ -27,8 +27,9 @@ variant: tiptap
 <p>With a rich history spanning several decades, our CCA has continued to
 develop members of character and strive for team excellence. In 2019, our
 C division boys made it to top 8 of the zonal competition.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="bb1.jpg" src="/images/bb1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Basketball_2.jpg">
 </div>
 <h2>MISSION</h2>
 <p>Basketball aspires to provide its&nbsp;players&nbsp;with the&nbsp;opportunity

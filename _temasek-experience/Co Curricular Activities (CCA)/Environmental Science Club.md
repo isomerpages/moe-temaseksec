@@ -6,12 +6,9 @@ third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
 <h2>Environmental Science Club</h2>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5DBVqQ7HTwM"></iframe>
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_CCA_Environmental_Science_Club.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Env_Sci_1.jpg">
 </div>
 <p><strong>Teachers-in-charge</strong>
 </p>
@@ -23,6 +20,9 @@ variant: tiptap
 <p>Mr Low Yi Wee Elvis (2I/C)</p>
 </li>
 </ul>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5DBVqQ7HTwM"></iframe>
+</div>
 <h2>HISTORY</h2>
 <p>The Environmental Science Club was first established in 2016, formerly
 known as The Green Club. Our CCA brings together like-minded students who
@@ -39,8 +39,9 @@ school and community. The members all uphold a common goal to develop environmen
 habits which translate into lifelong actions that seek to make our world
 a better place.&nbsp;Our CCA also aims to learn more about biodiversity
 and strives to become people truly living in harmony with nature.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="gc.jpg" src="/images/gc.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Env_Sci_2.jpg">
 </div>
 <h2>TRAINING</h2>
 <p>Training is held twice a week in school. Students engage in activities

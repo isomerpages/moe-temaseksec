@@ -8,14 +8,11 @@ variant: tiptap
 <h2>Wushu</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_CCA_Wushu.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Wushu.png">
 </div>
 <p><strong>Teachers-in-charge</strong>
 </p>
 <ul data-tight="true" class="tight">
-<li>
-<p>Mr Leow Mun Tat Edward (Advisor)</p>
-</li>
 <li>
 <p>Mrs Lim Chue May (I/C)</p>
 </li>

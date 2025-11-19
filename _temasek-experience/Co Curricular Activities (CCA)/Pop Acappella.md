@@ -6,8 +6,9 @@ third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
 <h2>Pop Acappella</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="banner-acappella-grp.jpg" src="/images/banner-acappella-grp.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_TAG_2.jpg">
 </div>
 <p><strong>Teacher-in-charge</strong>
 </p>
@@ -54,10 +55,11 @@ and aim to achieve excellence in singing and performance.</p>
 <p>Training is held twice a week in school. Unlike other CCAs, the training
 is held on Tuesday and Wednesday afternoons. Members learn vocal skills,
 choreography and stage presence.</p>
-<h2>OPPORTUNITIES</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="a4.png" src="/images/popa4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_TAG_1.png">
 </div>
+<h2>OPPORTUNITIES</h2>
 <ul data-tight="true" class="tight">
 <li>
 <p>Performance opportunities in venues such as the Esplanade and the biennial
@@ -72,6 +74,7 @@ and B’Dazzled.</p>
 ministry events including the HDB Awards Ceremony, Ministry of Transport
 Award Ceremony, as well as&nbsp; the Supreme Court National Day Observance
 Ceremony.</p>
+<p></p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
