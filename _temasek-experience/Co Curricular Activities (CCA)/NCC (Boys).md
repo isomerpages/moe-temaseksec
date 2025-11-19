@@ -8,7 +8,7 @@ variant: tiptap
 <h2>NATIONAL CADET CORPS (BOYS ONLY)</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_CCA_NCC.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_NCC_1.jpg">
 </div>
 <p><strong>Teachers-in-charge</strong>
 </p>
