@@ -14,10 +14,10 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Norashikin Binte Mahat (I/C)</p>
+<p>Mrs Millicent Tee-Yap (I/C)</p>
 </li>
 <li>
-<p>Mrs Millicent Tee-Yap (2I/C)</p>
+<p>Mdm Santhi Manis (2I/C)</p>
 </li>
 </ul>
 <p></p>
