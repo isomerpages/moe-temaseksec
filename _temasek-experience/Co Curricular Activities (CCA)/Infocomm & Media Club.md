@@ -6,9 +6,8 @@ third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
 <h2>InfoComm Media Club</h2>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_CCA_Infocomm_Media_Club.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Info_1.jpg">
 </div>
 <p><strong>Teachers-in-charge</strong>
 </p>
