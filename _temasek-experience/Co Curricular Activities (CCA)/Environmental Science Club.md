@@ -76,7 +76,4 @@ and general) to the school population and the community.</p>
 <p>Learning how to grow vegetables in urban settings.</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/environmental.jpg">
-</div>
 <p></p>
