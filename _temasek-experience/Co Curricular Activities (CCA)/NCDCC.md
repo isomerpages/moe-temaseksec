@@ -66,10 +66,11 @@ camp,&nbsp;</p>
 <li>
 <p>Participate in the Cadet Leadership workshop conducted internally. Cadet
 Lieutenants (CLTs) from HQ are invited to give talks.</p>
+<p></p>
 </li>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/cca%20ncdcc.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca ncdcc.jpg">
 </div>
 <p></p>
