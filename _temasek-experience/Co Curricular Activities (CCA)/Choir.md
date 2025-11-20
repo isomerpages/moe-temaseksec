@@ -64,7 +64,4 @@ events like Speech Day and Open House.</p>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/choir-1.jpg">
-</div>
 <p></p>
