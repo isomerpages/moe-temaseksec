@@ -6,10 +6,10 @@ third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
 <h2>NATIONAL CIVIL DEFENCE CADET CORPS</h2>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_CCA_NCDCC.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="ncdcc1.jpg" src="/images/ncdcc1.jpg">
 </div>
+<p></p>
 <p><strong>Teachers-in-charge</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -26,9 +26,6 @@ variant: tiptap
 </div>
 <p></p>
 <h2>HISTORY</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ncdcc1.jpg" src="/images/ncdcc1.jpg">
-</div>
 <p>The Temasek NCDCC unit was established in 2008 and it is a mixed unit
 of boys and girls. Its strength has steadily grown over the years. Currently,
 Temasek NCDCC is approximately 90 cadets strong and is guided by 3 Teacher
@@ -71,9 +68,7 @@ camp,&nbsp;</p>
 Lieutenants (CLTs) from HQ are invited to give talks.</p>
 </li>
 </ul>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_vOfKNNaTw8"></iframe>
-</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/cca%20ncdcc.jpg">
 </div>
