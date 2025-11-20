@@ -56,20 +56,19 @@ nation.</p>
 </li>
 </ul>
 <h3>CCE CURRICULUM</h3>
-<p>Every student is explicitly taught skills and knowledge through the (ALIVE!)
-(<strong>A</strong>ctive&nbsp;<strong>L</strong>earning&nbsp;<strong>I</strong>n&nbsp;<strong>V</strong>alues&nbsp;<strong>E</strong>ducation!)
-and FACETime (<strong>F</strong>orm teacher&nbsp;<strong>A</strong>LIVE!
-C<strong>CE</strong>) programmes.</p>
+<p>Every student is explicitly taught skills and knowledge through CCE lessons
+and FACETime (<strong>F</strong>orm te<strong>A</strong>cher C<strong>CE</strong>)
+programmes.</p>
 <p><strong>Contemporary Issues (CI)</strong>
 </p>
 <p>Since 2017, to help raise students’ awareness of local, regional and global
 issues, we started to focus on having discussions of CI (e.g. issues relating
 to race, inequality, online falsehoods etc.). Through a whole-school approach,
 students discuss these issues through role-plays, activities and simulation
-exercises during ALIVE! and also reflect on current affairs articles. These
-platforms are help students to explore multiple perspectives and in so
-doing give agency to students to become citizens who can act for the good
-of society.</p>
+exercises during CCE lessons and also reflect on current affairs articles.
+These platforms are help students to explore multiple perspectives and
+in so doing give agency to students to become citizens who can act for
+the good of society.</p>
 <h3>CYBER WELLNESS (CW) AND MENTAL HEALTH (MH)</h3>
 <p>Information and Communication Technologies (ICT) are becoming increasingly
 pervasive in our world. While creating instant connectivity and access
@@ -114,11 +113,11 @@ throughout their lives. Through ECG, students explore their strengths and
 abilities, examine their life’s purpose, and develop qualities of proactivity,
 adaptability, and resilience to prepare themselves for the 21st Century.</p>
 <p>One of the highlights of TMS’ ECG programme is the annual Career Guidance
-Day (CGD). CGD 2023 will be held on 28 April 2023, and includes sharing
-sessions by representatives from Junior Colleges, Polytechnics and ITE.
-Career professionals in a variety of fields are also invited to share their
-experiences with Secondary 4 and 5 students. To access materials for the
-various post-secondary pathway options, pls click <a href="https://padlet.com/siti_farhana_mohamed_shariff/pathway-options-for-o-level-4h8q4w7j76b3fomh" rel="noopener noreferrer nofollow" target="_blank">here</a> (for
+Day (CGD). It includes sharing sessions by representatives from Junior
+Colleges, Polytechnics and ITE. Career professionals in a variety of fields
+are also invited to share their experiences with Secondary 4 and 5 students.
+To access materials for the various post-secondary pathway options, pls
+click <a href="https://padlet.com/siti_farhana_mohamed_shariff/pathway-options-for-o-level-4h8q4w7j76b3fomh" rel="noopener noreferrer nofollow" target="_blank">here</a> (for
 4E5N) or <a href="https://padlet.com/siti_farhana_mohamed_shariff/pathway-options-for-4na-eucgbf8jcc3m88jr" rel="noopener noreferrer nofollow" target="_blank">here</a> (for
 4NA).</p>
 <h3>NATIONAL EDUCATION (NE)</h3>
