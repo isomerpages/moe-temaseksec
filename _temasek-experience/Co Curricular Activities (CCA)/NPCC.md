@@ -65,7 +65,8 @@ in preparation for Sec 2 Live Shoot and Sec 3 Classification and Marksmanship
 Shoot</p>
 <p>• Participate in inter-unit competitions such as Campcraft Competition,
 Drills Competition and .22 Revolver Shooting Competition</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/cca%20npcc%201.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca npcc 1.jpg">
 </div>
 <p></p>
