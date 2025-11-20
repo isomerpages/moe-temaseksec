@@ -33,7 +33,7 @@ CCA and School.</p>
 <td rowspan="1" colspan="1">
 <p>TRAINING PLATFORM
 <br>
-<br>- ALIVE! lessons: Everyday Leadership
+<br>- CCE lessons: Everyday Leadership
 <br>- Self-Leadership
 <br>- Planning
 <br>- Decision Making
@@ -114,10 +114,10 @@ CCA and School.</p>
 <br>
 <br>- Examples of events organized by the Leadership Groups
 <br>- All Staff Day
-<br>- Temasek Charity Challenge
+<br>- iamAWARE
 <br>- Sports Challenge
-<br>- Kindness Week
-<br>- Bedok Trail</p>
+<br>- Gratitude Week
+<br>- NE Events</p>
 </td>
 </tr>
 </tbody>
