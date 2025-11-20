@@ -56,9 +56,6 @@ nation.</p>
 </li>
 </ul>
 <h3>CCE CURRICULUM</h3>
-<p>Every student is explicitly taught skills and knowledge through CCE lessons
-and FACETime (<strong>F</strong>orm te<strong>A</strong>cher C<strong>CE</strong>)
-programmes.</p>
 <p><strong>Contemporary Issues (CI)</strong>
 </p>
 <p>Since 2017, to help raise students’ awareness of local, regional and global
