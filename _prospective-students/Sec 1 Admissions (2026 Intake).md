@@ -1,6 +1,6 @@
 ---
 title: Sec 1 Admissions (2026 Intake)
-permalink: /prospective-students/sec-1-admissions-2025/
+permalink: /prospective-students/sec-1-admissions-2026/
 description: ""
 variant: tiptap
 ---
