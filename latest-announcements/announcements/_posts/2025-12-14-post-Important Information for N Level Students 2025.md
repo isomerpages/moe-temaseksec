@@ -31,7 +31,8 @@ for assistance if they are unable to appoint a proxy. Please do so before
 <ul data-tight="true" class="tight">
 <li>
 <p>Letter of Authorisation&nbsp;(Appointment of proxy for school candidates
-who are unable to collect their results in person)</p>
+who are unable to collect their results in person) <a href="/files/Authorisation__Proxy__Letter___N_Level.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
 </li>
 <li>
 <p>Social and Emotional Learning Resources for Parents/Guardians to support
@@ -51,11 +52,7 @@ your child/ward:&nbsp;<a href="https://go.gov.sg/selresforparents" rel="noopener
 <p>For more information on the DPP and the PFP, please visit these websites:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Direct-Entry-Scheme to Polytechnic Programme (DPP) (<a href="http://www.ite.edu.sg/secondary-" rel="noopener noreferrer nofollow" target="_blank">www.ite.edu.sg/secondary-</a>
-</p>
-</li>
-<li>
-<p>school-students/admissions/entry-qualifications/gce-n-level/for-gce-n-students-jie-h/)</p>
+<p>Direct-Entry-Scheme to Polytechnic Programme (DPP) (<a href="http://www.ite.edu.sg/secondary-school-students/admissions/entry-qualifications/gce-n-level/for-gce-n-students-jie-h/" rel="noopener noreferrer nofollow" target="_blank">www.ite.edu.sg/secondary-school-students/admissions/entry-qualifications/gce-n-level/for-gce-n-students-jie-h/</a>)</p>
 </li>
 <li>
 <p>Polytechnic Foundation Programme (PFP) (<a href="http://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">pfp.polytechnic.edu.sg/PFP/index.html</a>)</p>
