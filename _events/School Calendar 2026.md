@@ -178,22 +178,24 @@ variant: tiptap
 <p>22 July (Wed)
 <br><strong>Racial Harmony Day Celebrations</strong>
 </p>
-<p>24 July - 4 August (Thu-Tue)
+<p>23 July - 4 August (Thu-Tue)
 <br><strong>N Level Prelim</strong>
 </p>
 <h2>AUGUST</h2>
-<p>8 August (Fri)
+<p>7 August (Fri)
 <br><strong>National Day Commemoration</strong> 
-<br><strong>45th Anniversary Carnival: Temasek MagicLand</strong>
 </p>
-<p>9 August (Sat)
+<p>9 August (Sun)
 <br><strong>National Day</strong>
 </p>
-<p>11 August (Mon)
+<p>10 August (Mon)
 <br><strong>National Day Holiday</strong>
 </p>
-<p>18 August - 3 Sept (Mon-Wed)
+<p>17 August - 2 Sept (Mon-Wed)
 <br><strong>O Level Prelim</strong>
+</p>
+<p>21 August (Fri)
+<br><strong>Home-Based Learning</strong>
 </p>
 <h2>SEPTEMBER</h2>
 <p>4 September (Thu)
