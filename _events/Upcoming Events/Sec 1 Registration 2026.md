@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Upcoming Events
 ---
-<h2><strong>Information for Sec 1 2026 Parents &amp; Students</strong></h2>
+<h2><strong>Information for 2026 Sec 1 Students &amp; Parents</strong></h2>
 <p></p>
 <p>Temasek Secondary School warmly welcomes all incoming 2026 Sec 1 students
 to our Temasek Family!</p>
