@@ -132,12 +132,11 @@ variant: tiptap
 <br><strong>Secondary 1, 3 &amp; 4 Teacher Meet Parents</strong>
 </p>
 <p>29 May (Fri)
-<br><strong>Home-Based Learning</strong>
+<br><strong>Home-Based Learning (Sec 1-3)</strong>
 </p>
-<p>31 May-29 June (Sat-Sun)
+<p>30 May-28 June (Sat-Sun)
 <br><strong>Term 2 Break</strong>
 </p>
-<p></p>
 <p>31 May (Sun)
 <br><strong>Vesak Day</strong>
 </p>
@@ -148,38 +147,35 @@ variant: tiptap
 <p>2 June (Tue)
 <br><strong>O Level MTL Exam</strong>
 </p>
-<p>2-3 June (Mon-Tue)
-<br><strong>SL Training Days</strong>
+<p>2 June (Mon)
+<br><strong>SL Training Day</strong>
 </p>
-<p>4-5 June (Wed-Thu)
+<p>3-4 June (Wed-Thu)
 <br><strong>Young Leaders Camp</strong>
 </p>
-<p>3-6 June (Tue-Fri)
+<p>3-5 June (Wed-Fri)
 <br><strong>Sec 4 Extended Curriculum</strong>
 </p>
-<p>7 June (Sat)
-<br><strong>Hari Raya Haji</strong>
-</p>
-<p>9 June (Mon)
-<br><strong>Hari Raya Haji Holiday</strong>
-</p>
 <h2>JULY</h2>
-<p>4 July (Fri)
+<p>3 July (Fri)
 <br><strong>Youth Day Commemoration</strong>
 </p>
-<p>6 July (Sun)
+<p>5 July (Sun)
 <br><strong>Youth Day</strong>
 </p>
-<p>7 July (Mon)
+<p>6 July (Mon)
 <br><strong>Youth Day School Holiday</strong>
 </p>
-<p>8-11 July (Tue-Fri)
-<br><strong>Mental Health Week</strong>
+<p>7-9 July (Tue-Thu)
+<br><strong>Wellness Week</strong>
 </p>
-<p>14-18 July (Mon-Fri)
+<p>13-17 July (Mon-Fri)
 <br><strong>National Oral Exams</strong>
 </p>
-<p>22 July (Tue)
+<p>14-16 July (Tue-Thu)
+<br><strong>Home-Based Learning</strong>
+</p>
+<p>22 July (Wed)
 <br><strong>Racial Harmony Day Celebrations</strong>
 </p>
 <p>24 July - 4 August (Thu-Tue)
