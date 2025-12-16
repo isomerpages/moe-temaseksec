@@ -183,7 +183,7 @@ variant: tiptap
 </p>
 <h2>AUGUST</h2>
 <p>7 August (Fri)
-<br><strong>National Day Commemoration</strong> 
+<br><strong>National Day Commemoration</strong>
 </p>
 <p>9 August (Sun)
 <br><strong>National Day</strong>
@@ -198,16 +198,16 @@ variant: tiptap
 <br><strong>Home-Based Learning</strong>
 </p>
 <h2>SEPTEMBER</h2>
-<p>4 September (Thu)
+<p>3 September (Thu)
 <br><strong>All Staff Day Celebrations</strong>
 </p>
-<p>5 September (Fri)
+<p>4 September (Fri)
 <br><strong>Teachers' Day</strong>
 </p>
-<p>6-14 September (Sat-Sun)
+<p>5-13 September (Sat-Sun)
 <br><strong>Term 3 Break</strong>
 </p>
-<p>15-25 September (Mon-Thu)
+<p>14-24 September (Mon-Thu)
 <br><strong>N Level Exam</strong>
 </p>
 <p>22 September - 6 October (Mon-Mon)
