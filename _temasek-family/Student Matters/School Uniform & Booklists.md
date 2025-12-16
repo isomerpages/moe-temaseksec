@@ -9,7 +9,7 @@ third_nav_title: Student Matters
 <p><a href="/files/Infosheet_on_Purchase_of_SchAttire_for_2026.pdf" rel="noopener nofollow" target="_blank">Information for Sale of Uniform</a>
 </p>
 <h4><strong>Booklists</strong></h4>
-<p><a href="/files/Sec_1_2026_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 1 TMS Booklist 2026</a>
+<p><a href="/files/School Uniform and Booklists/Sec_1_2026_Booklist__1_.pdf" rel="noopener nofollow" target="_blank">Sec 1 TMS Booklist 2026</a>
 </p>
 <p><a href="/files/Sec_2_2026_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 2 TMS Booklist 2026</a>
 </p>
