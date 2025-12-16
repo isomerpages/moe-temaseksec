@@ -180,11 +180,8 @@ offer letters via PG on 19 December 2025, from 5pm onwards.</p>
 <p>Parents of students in Posting Group 1 and 2 will receive an SBB offer
 letter on 19 December 2025 from 5pm onwards via Parents Gateway <u>if their child is eligible</u> to
 take one or more subjects at a more demanding level.</p>
-<p></p>
 <p>Please complete and submit the form online.</p>
-<p></p>
-<p>For more information on SBB, you may read <a href="https://www.moe.gov.sg/secondary/schools-offering-full-sbb" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p>
+<p>For more information on SBB, you may read <a href="https://www.moe.gov.sg/secondary/schools-offering-full-sbb" rel="noopener nofollow" target="_blank">here</a>.
 <br>If you have not received it, please email&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">tay_hwee_ping@moe.edu.sg</a>&nbsp;with
 your child’s full name, NRIC and posting group as soon as possible.</p>
 </td>
