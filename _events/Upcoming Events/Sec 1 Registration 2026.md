@@ -184,7 +184,6 @@ take one or more subjects at a more demanding level.</p>
 <p>Please complete and submit the form online.</p>
 <p></p>
 <p>For more information on SBB, you may read <a href="https://www.moe.gov.sg/secondary/schools-offering-full-sbb" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p></p>
 <p>
 <br>If you have not received it, please email&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">tay_hwee_ping@moe.edu.sg</a>&nbsp;with
 your child’s full name, NRIC and posting group as soon as possible.</p>
