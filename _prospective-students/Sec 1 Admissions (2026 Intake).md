@@ -31,7 +31,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/School Uniform and Booklists/Sec_1_2026_Booklist__1_.pdf" rel="noopener nofollow" target="_blank">Information on Sec 1 Booklist 2026</a>
+</p>
 </td>
 </tr>
 <tr>
