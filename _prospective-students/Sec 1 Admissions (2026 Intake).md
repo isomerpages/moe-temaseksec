@@ -33,6 +33,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="/files/School Uniform and Booklists/Sec_1_2026_Booklist__1_.pdf" rel="noopener nofollow" target="_blank">Information on Sec 1 Booklist 2026</a>
 </p>
+<p></p>
+<p>To book your appointment:</p>
+<p><a href="https://casco.as.me/tmsssec1" rel="noopener noreferrer nofollow" target="_blank">https://casco.as.me/tmsssec1</a>
+</p>
 </td>
 </tr>
 <tr>
