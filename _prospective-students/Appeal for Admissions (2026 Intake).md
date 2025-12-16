@@ -1,6 +1,6 @@
 ---
 title: Appeal for Admissions (2026 Intake)
-permalink: /prospective-students/appeal-for-sec-1-admissions-2025/
+permalink: /prospective-students/appeal-for-sec-1-admissions-2026/
 variant: tiptap
 description: ""
 ---
