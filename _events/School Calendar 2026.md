@@ -210,68 +210,74 @@ variant: tiptap
 <p>14-24 September (Mon-Thu)
 <br><strong>N Level Exam</strong>
 </p>
-<p>22 September - 6 October (Mon-Mon)
+<p>21 September - 5 October (Mon-Mon)
 <br><strong>End of Year Exam</strong>
 </p>
-<p>26 September (Fri)
-<br><strong>Farewell Assembly</strong>
+<p>25 September (Fri)
+<br><strong>Home-Based Learning (Sec 1-3)</strong>
+</p>
+<p>25 September (Fri)
+<br><strong>Farewell Assembly (Sec 4)</strong>
 </p>
 <h2>OCTOBER</h2>
-<p>1 October - 10 November (Wed-Mon)
+<p>1 October - 10 November (Thu-Tue)
 <br><strong>O Level Exam</strong>
 </p>
-<p>7-8 October (Tue-Wed)
-<br><strong>Marking &amp;</strong>  <strong>Results Processing Day</strong>
+<p>5-13 October (Mon-Tue)
+<br><strong>N Level Exam</strong>
 </p>
-<p>14-24 October (Tue-Fri)
-<br><strong>End Of Semester Activities</strong>
+<p>6 October (Tue)
+<br><strong>Marking Day</strong>
 </p>
-<p>16 October (Thu)
+<p>7 October (Wed)
 <br><strong>Inter-House Games Day</strong>
 </p>
-<p>17 October (Fri)
+<p>13-23 October (Tue-Fri)
+<br><strong>End Of Semester Activities</strong>
+</p>
+<p>16 October (Fri)
 <br><strong>Promotion Day</strong>
+</p>
+<p>16 October (Fri)
 <br><strong>Young Leaders Sharing</strong>
 </p>
 <p>20 October (Mon)
 <br><strong>Deepavali</strong>
 </p>
-<p>24 October (Fri)
+<p>23 October (Fri)
 <br><strong>Last Day of School</strong>
 </p>
-<p>24 October (Fri)
+<p>23 October (Fri)
 <br><strong>TIP Night</strong>
 </p>
-<p>27-30 October (Mon-Thu)
+<p>26-29 October (Mon-Thu)
 <br><strong>Extended Curriculum/Bridging Programme</strong>
 </p>
-<p>31 October (Fri)
+<p>30 October (Fri)
 <br><strong>Sec 1 Student Leaders Induction Day</strong>
 </p>
 <h2>NOVEMBER</h2>
-<p>5-6 November (Wed-Thu)
+<p>4-5 November (Wed-Thu)
 <br><strong>Combined UG Camp</strong>
 </p>
-<p>10-14 November (Mon-Fri)
-<br><strong>Career Guidance and Work Attachment</strong>
-</p>
-<p>12, 14 November (Wed, Fri)
+<p>5-6 November (Thu, Fri)
 <br><strong>Young Leaders Programme</strong>
 </p>
-<p>17-21 November (Mon-Fri)
+<p>16-20 November (Mon-Fri)
 <br><strong>Student Leaders Camps</strong>
 </p>
-<p>22 November (Sat)
-<br><strong>Open House</strong>
-</p>
-<p>23 November-31 December (Sun-Wed)
-<br><strong>Term 4 Break</strong>
-</p>
-<p>25 November (Tue) (TBC)
+<p>16 November (Mon)
 <br><strong>Graduation Night</strong>
 </p>
+<p>21 November (Sat)
+<br><strong>Open House</strong>
+</p>
+<p>22 November-31 December (Sun-Mon)
+<br><strong>Term 4 Break</strong>
+</p>
+<p></p>
 <h2>DECEMBER</h2>
-<p>25 December (Wed)
+<p>25 December (Fri)
 <br><strong>Christmas</strong>
 </p>
 <p></p>
