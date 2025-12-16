@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Upcoming Events
 ---
-<p><strong>Information for Sec 1 2026 Parents &amp; Students</strong>
-</p>
+<h2><strong>Information for Sec 1 2026 Parents &amp; Students</strong></h2>
 <p></p>
 <p>Please refer to the table below:&nbsp;</p>
 <table style="minWidth: 50px">
