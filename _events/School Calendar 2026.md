@@ -5,111 +5,149 @@ description: ""
 variant: tiptap
 ---
 <h2>JANUARY</h2>
-<p>2-10 January (Thu-Fri)
+<p>2-9 January (Fri-Fri)
 <br><strong>Secondary 1 Orientation</strong>
 </p>
-<p>20-24 January (Mon-Wed)
+<p>21-23 January (Wed-Fri)
 <br><strong>Explore Week<br></strong>- Sec 1 Adventure Camp
 <br>- Sec 2 Camp Culture
 <br>- Sec 3 Outdoor Adventure Learning Camp</p>
-<p>28 January (Tue)
-<br><strong>Chinese New Year Celebrations</strong>
-</p>
-<p>29-30 January (Wed-Thu)
-<br><strong>Chinese New Year</strong>
-</p>
+<p></p>
 <h2>FEBRUARY</h2>
-<p>7 February (Fri)
-<br><strong>Secondary 1 Parents Engagement</strong>
+<p>5 February (Thu)
+<br><strong>Secondary 1 Parents Engagement (Online)</strong>
 </p>
-<p>12 February (Wed)
-<br><strong>Friendship Day</strong>
-</p>
-<p>13 February (Thu)
-<br><strong>Secondary 4 Parents Engagement</strong>
-</p>
-<p>17 &amp; 21 February (Mon &amp; Fri)
+<p>11 February (Wed)
 <br><strong>Total Defence Day Commemoration</strong>
 </p>
-<p>21 February (Fri)
+<p>12 February (Thu)
+<br><strong>Friendship Day</strong>
+</p>
+<p>12 February (Thu)
+<br><strong>Secondary 4 Parents Engagement (Online)</strong>
+</p>
+<p>13 February (Fri)
+<br><strong>Home-Based Learning</strong>
+</p>
+<p>16 February (Mon)
+<br><strong>Chinese New Year Celebrations</strong>
+</p>
+<p>17-18 February (Tue-Wed)
+<br><strong>Chinese New Year</strong>
+</p>
+<p>20 February (Fri)
 <br><strong>e-Games</strong>
 </p>
-<p>27 February (Thu)
-<br><strong>Secondary 3 Parents Engagement</strong>
+<p>26 February (Thu)
+<br><strong>Secondary 3 Parents Engagement (Online)</strong>
+</p>
+<p>27 February (Fri)
+<br><strong>Home-Based Learning</strong>
 </p>
 <h2>MARCH</h2>
-<p>7 March (Fri)
+<p>6 March (Fri)
 <br><strong>Student Leaders Convention</strong>
 </p>
-<p>13 March (Thu)
-<br><strong>e-Games</strong>
+<p>13 March (Fri)
+<br><strong>Home-Based Learning</strong>
 </p>
-<p>14 March (Fri)
-<br><strong>Secondary 2 Parents Engagement</strong>
+<p>13 March (Fri)
+<br><strong>Secondary 2 Parents Engagement (Online)</strong>
 </p>
-<p>15-23 March (Sat-Sun)
+<p>14-22 March (Sat-Sun)
 <br><strong>Term 1 Break</strong>
 </p>
-<p>28 March (Fri)
-<br><strong>Career Guidance Day</strong>
-</p>
-<p>31 March (Mon)
+<p>21 March (Sat)
 <br><strong>Hari Raya Puasa</strong>
 </p>
+<p>23 March (Mon)
+<br><strong>Off-In-Lieu Hari Raya Puasa</strong>
+</p>
+<p>27 March (Fri)
+<br><strong>Career Guidance Day (Sec 4)</strong>
+</p>
+<p>27 March (Fri)
+<br><strong>Home-Based Learning (Sec 1-3)</strong>
+</p>
 <h2>APRIL</h2>
-<p>4 April (Fri)
+<p>1 April (Wed)
 <br><strong>Student Leaders Investiture</strong>
 </p>
-<p>4 April (Fri)
-<br><strong>Fatamorgana</strong>
+<p>3 April (Fri)
+<br><strong>Good Friday</strong>
 </p>
 <p>8 April (Tue)
 <br><strong>International Friendship Day Celebrations</strong>
 </p>
-<p>11 April (Fri)
+<p>10 April (Fri)
+<br><strong>Fatamorgana</strong>
+</p>
+<p>17 April (Fri)
 <br><strong>Speech Day</strong>
 </p>
-<p>18 April (Fri)
-<br><strong>Good Friday</strong>
+<p>17 April (Fri)
+<br><strong>Home-Based Learning</strong>
 </p>
-<p>25 April (Fri)
-<br><strong>TAG Concert</strong>
+<p>30 April (Thu)
+<br><strong>Combined Concert</strong>
 </p>
 <h2>MAY</h2>
-<p>1 May (Thu)
+<p>1 May (Fri)
 <br><strong>Labour Day</strong>
 </p>
-<p>5-9 May (Mon-Fri)
+<p>4 &amp; 6 May (Mon-Wed)
 <br><strong>Gratitude Week</strong>
 </p>
-<p>12 May (Mon)
-<br><strong>Vesak Day</strong>
-</p>
-<p>15 May (Thu)
+<p>14 May (Thu)
 <br><strong>Movie Night</strong>
 </p>
-<p>16 May (Fri)
+<p>15 May (Fri)
+<br><strong>Home-Based Learning</strong>
+</p>
+<p>15 May (Fri)
 <br><strong>DSA Online Outreach</strong>
 </p>
-<p>18-29 May (Mon-Thu)
-<br><strong>Special Timetable</strong>
+<p>16 May (Sat)
+<br><strong>Parenting Workshop</strong>
 </p>
-<p>23 May (Fri)
-<br><strong>Literary Odyssey</strong>
+<p>19 May (Tue)
+<br><strong>Band Concert: Limelight @ Esplanade</strong>
 </p>
-<p>29 May (Thu)
+<p>21 May (Thu)
+<br><strong>Sec 1 SL Selection</strong>
+</p>
+<p>22 May (Fri)
 <br><strong>Inter-House Sports Carnival</strong>
 </p>
-<p>29-30 May (Thu-Fri)
+<p>22 May (Fri)
+<br><strong>Literary Odyssey</strong>
+</p>
+<p>25-28 May (Mon-Thu)
+<br><strong>Special Timetable</strong>
+</p>
+<p>27 May (Wed)
+<br><strong>Hari Raya Haji</strong>
+</p>
+<p>28-29 May (Thu-Fri)
 <br><strong>Secondary 1, 3 &amp; 4 Teacher Meet Parents</strong>
+</p>
+<p>29 May (Fri)
+<br><strong>Home-Based Learning</strong>
 </p>
 <p>31 May-29 June (Sat-Sun)
 <br><strong>Term 2 Break</strong>
 </p>
-<p>26 May (Mon)
-<br><strong>O Level MTL Exam</strong>
+<p></p>
+<p>31 May (Sun)
+<br><strong>Vesak Day</strong>
 </p>
 <h2>JUNE</h2>
+<p>1 June (Mon)
+<br><strong>Vesak Day Public Holiday</strong>
+</p>
+<p>2 June (Tue)
+<br><strong>O Level MTL Exam</strong>
+</p>
 <p>2-3 June (Mon-Tue)
 <br><strong>SL Training Days</strong>
 </p>
