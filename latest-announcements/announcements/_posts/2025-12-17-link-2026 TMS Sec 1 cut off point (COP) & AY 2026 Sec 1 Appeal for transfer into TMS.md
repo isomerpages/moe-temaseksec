@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https:///prospective-students/appeal-for-sec-1-admissions-2026/
+external: https://www.temaseksec.moe.edu.sg/prospective-students/appeal-for-sec-1-admissions-2026/
 ---
