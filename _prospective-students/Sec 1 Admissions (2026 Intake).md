@@ -4,7 +4,7 @@ permalink: /prospective-students/sec-1-admissions-2026/
 description: ""
 variant: tiptap
 ---
-<h2><strong>Information for Sec 1 2026 Parents &amp; Students</strong></h2>
+<h2><strong>Information for 2026 Sec 1 Parents &amp; Students</strong></h2>
 <p></p>
 <p>Please refer to the table below:&nbsp;</p>
 <table style="minWidth: 50px">
@@ -34,7 +34,8 @@ variant: tiptap
 <p><a href="/files/School Uniform and Booklists/Sec_1_2026_Booklist__1_.pdf" rel="noopener nofollow" target="_blank">Information on Sec 1 Booklist 2026</a>
 </p>
 <p></p>
-<p>To book your appointment:</p>
+<p>Please book an appointment via the link below to purchase books and stationery
+at the school bookshop:</p>
 <p><a href="https://casco.as.me/tmsssec1" rel="noopener noreferrer nofollow" target="_blank">https://casco.as.me/tmsssec1</a>
 </p>
 </td>
@@ -60,7 +61,7 @@ on 22 December 2025, 9.00am.</p>
 <p><a href="https://form.gov.sg/68f6ebe3b483709b618276c7" rel="noopener nofollow" target="_blank">Application for MOE FAS</a>
 </p>
 <p></p>
-<p>For more information, please read in the link below.</p>
+<p>For more information, please access the link below.</p>
 <p><a href="https://www.temaseksec.moe.edu.sg/tms-family/student-matters/financial-information/" rel="noopener noreferrer nofollow" target="_blank">https://www.temaseksec.moe.edu.sg/tms-family/student-matters/financial-information/</a>
 </p>
 </td>
