@@ -7,8 +7,8 @@ third_nav_title: Student Matters
 ---
 <h3>School Fees</h3>
 <p>
-<br>To find out the school fees payable, kindly use MOE’s online school fees
-checker <a href="https://www.moe.gov.sg/financial-matters/fees" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<br>To find out more about the school fees payable, kindly access MOE’s online
+school fees checker <a href="https://www.moe.gov.sg/financial-matters/fees" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
 <br>You may apply for <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">GIRO</a> to pay
 for your child's <a href="https://www.moe.gov.sg/financial-matters/fees" rel="noopener noreferrer nofollow" target="_blank">school and miscellaneous fees</a>&nbsp;.
