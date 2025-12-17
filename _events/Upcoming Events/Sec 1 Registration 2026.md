@@ -127,7 +127,7 @@ to our Temasek Family!</p>
 <p>10.15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SBB Briefing for Parents/Guardians of students offered PG1/PG2 courses</p>
+<p>SBB Briefing for Parents/Guardians of students posted to PG1/PG2</p>
 </td>
 </tr>
 </tbody>
@@ -150,9 +150,9 @@ December 2025.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All parents will receive an offer letter to acknowledge your child's Sec
-1 Posting to Temasek Secondary School via PG on 19 December 2025 from 5pm
-onwards.</p>
+<p>All parents will receive a posting letter to acknowledge your child's
+Sec 1 Posting to Temasek Secondary School via PG on 19 December 2025 from
+5pm onwards.</p>
 <p><strong>Please complete and submit the form online.</strong>
 </p>
 </td>
@@ -183,14 +183,11 @@ take one or more subjects at a more demanding level.</p>
 <p>Please complete and submit the form online.</p>
 <p>For more information on SBB, you may read <a href="https://www.moe.gov.sg/secondary/schools-offering-full-sbb" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>
-<br>If you have not received it, please email&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">tay_hwee_ping@moe.edu.sg</a>&nbsp;with
+<br>If you have not received it, please email&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">muhammad_hilmy_zohry@moe.edu.sg</a>&nbsp;with
 your child’s full name, NRIC and posting group as soon as possible.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>In the event of technical issues with PG, please look out for the offer
-letter throughout the day of 19 December 2025.</p>
-<p></p>
 <p>For all other information, please proceed to this <a href="https://www.temaseksec.moe.edu.sg/prospective-students/sec-1-admissions-2026/" rel="noopener nofollow" target="_blank">page.</a>
 </p>
