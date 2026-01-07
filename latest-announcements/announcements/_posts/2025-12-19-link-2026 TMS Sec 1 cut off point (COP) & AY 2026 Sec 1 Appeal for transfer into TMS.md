@@ -1,6 +1,6 @@
 ---
 title: 2026 TMS Sec 1 cut off point (COP) & AY 2026 Sec 1 Appeal for transfer into TMS
-date: 2025-12-17
+date: 2025-12-19
 layout: link
 description: ""
 image: ""
