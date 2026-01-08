@@ -60,7 +60,7 @@ around them.&nbsp; We hope to work closely with our parents and stakeholders
 to nurture current cohorts of Temasekians, so that they will find relevance
 in their learning, purpose in their actions, and significance in their
 relationships.</p>
-<p>If this purpose resonates with you, we welcome you to be part of the Temasek
+<p style="color: navy">If this purpose resonates with you, we welcome you to be part of the Temasek
 Story – a story filled with people who care – and to live out the vivid
 colours of Navy Blue, Red and Gold.</p>
 <p>We wish you a fruitful 2026!</p>
