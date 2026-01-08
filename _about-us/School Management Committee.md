@@ -27,13 +27,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Pong Wen Long (Vice-Principal)</strong>
+<p><strong>Ms Lee Hwee Ping (Vice-Principal)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>pong_wen_long@schools.gov.sg</p>
+<p>lee_hwee_ping@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -68,13 +68,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dr Bryan Tan (School Staff Developer)</strong>
+<p><strong>Ms Chua An Ting (HOD/ Mother Tongue Languages)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>bryan_tan_yong_hao@moe.edu.sg</p>
+<p>chua_an_ting@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -86,17 +86,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>eugin_wong@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Janice Chao (HOD/ Information Communication Technology)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>janice_chao@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -123,6 +112,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Ms Lock Hwee Hong Alicia (HOD/ Science)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>lock_hwee_hong_alicia@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mr Mohammed Iskandar B Salleh (HOD/ Physical &amp; Outdoor Education)</strong>
 </p>
 </td>
@@ -145,17 +145,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Phuah Kia Liang (HOD/ Student Well-being)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>phuah_kia_liang@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mr Reuben Ong (HOD/ Humanities)</strong>
 </p>
 </td>
@@ -167,13 +156,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Sahriana Rani (HOD/ Mother Tongue Languages)</strong>
+<p><strong>Mdm Sahriana Rani (School Staff Developer)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>sahriana_rani@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Soo-Tay Yu Xin (SH/ Information Communication Technology)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>tay_yu_xin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -217,27 +217,6 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Mr Boo Yongfeng (SH/ Discipline)</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>boo_yongfeng@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Chua An Ting (SH/ Chinese Language)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>chua_an_ting@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Andrew Kng (SH/ Design &amp; Technology)</strong>
 </p>
@@ -249,6 +228,16 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Mr Boo Yongfeng (SH/ Discipline)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>boo_yongfeng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Jarina Banu D/O Jagaffar (SH/Lower Sec Science)</strong>
 </p>
@@ -257,6 +246,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>jarina_banu_jagaffar@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Martina Ann Mei Qiang (Asst. Year Head/ Upper Sec)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>martina_ann_mei_qiang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -305,7 +305,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Nurul Huda Mohd Kamarulzman (Asst. Year Head/ Upper Sec)</strong>
+<p><strong>Mdm Nurul Huda Mohd Kamarulzman (SH/ Malay Language)</strong>
 </p>
 </td>
 </tr>
@@ -323,17 +323,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>ong_yan_pei_elliot@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Soo-Tay Yu Xin (SH/ Information Communication Technology)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>tay_yu_xin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
