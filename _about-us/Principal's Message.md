@@ -9,7 +9,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For_School_Website_P_Message_v2.jpg">
 </div>
-<p></p>
 <p><strong>Our Temasek Story</strong>
 </p>
 <p>Current students and staff, as well as recent graduates of Temasek Secondary
@@ -22,7 +21,6 @@ constant is our commitment to nurture our Temasekians to be joyful learners
 and exemplary leaders who will ride on the waves of tomorrow.&nbsp; Allow
 me to elaborate on how this commitment is translated into our school programmes
 and practices, using the colours of the school crest.</p>
-<p></p>
 <p><strong><em>Navy blue: Alludes to Temasek, which means Seaport Town; also symbolises the vastness of knowledge which the school seeks to impart to all Temasekians</em></strong>
 </p>
 <p>We want Temasekians to embody <strong>GROWTH </strong>learning dispositions
