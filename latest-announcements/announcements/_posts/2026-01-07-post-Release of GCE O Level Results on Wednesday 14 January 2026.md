@@ -30,12 +30,12 @@ ear or facial piercings.
 no facial hair.
 <br>·&nbsp;&nbsp;&nbsp;Female Students: Non-coloured hair neatly tied up.</p>
 <p><strong>Proxy Collection</strong>
-<br>For students who are unable to return to school on 14 January2026 to collect
-their results, please inform their Form Teachers in advance. Students will
-need to appoint a proxy to collect the physical copy of their results from
-the school with the authorization letter. Proxies are required to produce
-the relevant documents for the school’s verification when collecting the
-results.</p>
+<br>For students who are unable to return to school on 14 January 2026 to
+collect their results, please inform their Form Teachers in advance. Students
+will need to appoint a proxy to collect the physical copy of their results
+from the school with the authorization letter. Proxies are required to
+produce the relevant documents for the school’s verification when collecting
+the results after 3.30pm on 14 January 2026.</p>
 <p>Please refer to some useful links below for resources that may be helpful
 to you.
 <br>Thank you for your continued support and partnership.</p>
