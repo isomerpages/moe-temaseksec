@@ -9,7 +9,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For_School_Website_P_Message_v2.jpg">
 </div>
-<p></p>
 <p><strong>Our Temasek Story</strong>
 </p>
 <p>Current students and staff, as well as recent graduates of Temasek Secondary
