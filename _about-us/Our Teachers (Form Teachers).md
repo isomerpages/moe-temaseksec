@@ -618,7 +618,8 @@ variant: tiptap
 <p>Mdm Han Jee Boey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><a href="mailto:han_jee_boey_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_jee_boey_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
