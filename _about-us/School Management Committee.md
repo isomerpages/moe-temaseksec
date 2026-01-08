@@ -188,6 +188,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mrs Soo-Tay Yu Xin (SH/ Information Communication Technology)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>tay_yu_xin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mrs Teo Hwee Ping (HOD/ Mathematics)</strong>
 </p>
 </td>
@@ -254,7 +265,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>chua_an_ting@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -276,6 +287,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>jarina_banu_jagaffar@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Martina Ann Mei Qiang (Asst. Year Head/ Upper Sec)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>martina_ann_mei_qiang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -324,7 +346,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Nurul Huda Mohd Kamarulzman (Asst. Year Head/ Upper Sec)</strong>
+<p><strong>Mdm Nurul Huda Mohd Kamarulzman (SH/ Malay Language)</strong>
 </p>
 </td>
 </tr>
@@ -342,17 +364,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>ong_yan_pei_elliot@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Soo-Tay Yu Xin (SH/ Information Communication Technology)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>tay_yu_xin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
