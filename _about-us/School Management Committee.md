@@ -27,13 +27,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Pong Wen Long (Vice-Principal)</strong>
+<p><strong>Ms Lee Hwee Ping (Vice-Principal)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>pong_wen_long@schools.gov.sg</p>
+<p>lee_hwee_ping@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -68,13 +68,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dr Bryan Tan (School Staff Developer)</strong>
+<p><strong>Ms Chua An Ting (HOD/ Mother Tongue Languages)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>bryan_tan_yong_hao@moe.edu.sg</p>
+<p>chua_an_ting@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -123,6 +123,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Ms Lock Hwee Hong Alicia (HOD/ Science)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>lock_hwee_hong_alicia@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mr Mohammed Iskandar B Salleh (HOD/ Physical &amp; Outdoor Education)</strong>
 </p>
 </td>
@@ -145,17 +156,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Phuah Kia Liang (HOD/ Student Well-being)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>phuah_kia_liang@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mr Reuben Ong (HOD/ Humanities)</strong>
 </p>
 </td>
@@ -167,7 +167,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Sahriana Rani (HOD/ Mother Tongue Languages)</strong>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Sahriana Rani (School Staff Developer)</strong>
 </p>
 </td>
 </tr>
@@ -217,6 +227,17 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Andrew Kng (SH/ Design &amp; Technology)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>andrew_kng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Mr Boo Yongfeng (SH/ Discipline)</p>
 </th>
@@ -228,8 +249,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Chua An Ting (SH/ Chinese Language)</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -239,13 +259,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Andrew Kng (SH/ Design &amp; Technology)</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>andrew_kng@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
