@@ -65,8 +65,8 @@ relationships.</p>
 <p>If this purpose resonates with you, we welcome you to be part of the Temasek
 Story – a story filled with people who care – and to live out the vivid
 colours of Navy Blue, Red and Gold.</p>
-<p></p>
 <p>We wish you a fruitful 2026!</p>
+<p></p>
 <p>Mr. Tan Shun Loong</p>
 <p>Principal</p>
 <p><strong><em>&nbsp;</em></strong>
