@@ -21,10 +21,7 @@ constant is our commitment to nurture our Temasekians to be joyful learners
 and exemplary leaders who will ride on the waves of tomorrow.&nbsp; Allow
 me to elaborate on how this commitment is translated into our school programmes
 and practices, using the colours of the school crest.</p>
-<p>
-  <span style="color: navy;">
-    <strong><em>Navy blue: Alludes to Temasek, which means Seaport Town; also symbolises the vastness of knowledge which the school seeks to impart to all Temasekians</em></strong>
-  </span>
+<p><strong><em>Navy blue: Alludes to Temasek, which means Seaport Town; also symbolises the vastness of knowledge which the school seeks to impart to all Temasekians</em></strong>
 </p>
 <p>We want Temasekians to embody <strong>GROWTH </strong>learning dispositions
 – <strong>G</strong>row with others, <strong>R</strong>eflect for improvement, <strong>O</strong>vercome
@@ -63,7 +60,7 @@ around them.&nbsp; We hope to work closely with our parents and stakeholders
 to nurture current cohorts of Temasekians, so that they will find relevance
 in their learning, purpose in their actions, and significance in their
 relationships.</p>
-<p>style="color: navy"&gt;If this purpose resonates with you, we welcome you to be part of the Temasek
+<p>If this purpose resonates with you, we welcome you to be part of the Temasek
 Story – a story filled with people who care – and to live out the vivid
 colours of Navy Blue, Red and Gold.</p>
 <p>We wish you a fruitful 2026!</p>
