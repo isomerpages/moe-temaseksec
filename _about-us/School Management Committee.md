@@ -90,17 +90,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Janice Chao (HOD/ Information Communication Technology)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>janice_chao@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mr Jared Oh (HOD/ Student Leadership &amp; Aesthetics)</strong>
 </p>
 </td>
@@ -163,16 +152,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>reuben_ong_ming_gui@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -256,26 +235,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>boo_yongfeng@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
