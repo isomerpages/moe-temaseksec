@@ -40,7 +40,8 @@ the results after 3.30pm on 14 January 2026.</p>
 to you.
 <br>Thank you for your continued support and partnership.</p>
 <p>Useful Links:</p>
-<p>1)&nbsp;&nbsp;&nbsp; <a href="2026%20JAE%20Information%20Sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 JAE Information Sheet</a>
-<br>2)&nbsp;&nbsp;&nbsp; <a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">Course Finder</a>
-<br>3)&nbsp;&nbsp;&nbsp; <a href="../../../Student%20Management/2026/Release%20of%202025%20O%20Level%20Results/Authorisation%20(Proxy)%20Letter%20-%20O-Level.pdf" rel="noopener noreferrer nofollow" target="_blank">Authorisation Letter for Proxy</a>
+<p>1)&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">2026 JAE Information Sheet</a>
+<br>2)&nbsp;&nbsp;&nbsp; <a href="https://www.moe.gov.sg/-/media/files/post-secondary/2026-jae/2026-jae-courses.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 JAE Courses</a>
+<br>3)&nbsp;&nbsp;&nbsp; <a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">Course Finder</a>
+<br>4)&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">Authorisation Letter for Proxy</a>
 </p>
