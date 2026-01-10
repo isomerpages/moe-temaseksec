@@ -40,8 +40,9 @@ the results after 3.30pm on 14 January 2026.</p>
 to you.
 <br>Thank you for your continued support and partnership.</p>
 <p>Useful Links:</p>
-<p>1)&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">2026 JAE Information Sheet</a>
-<br>2)&nbsp;&nbsp;&nbsp; <a href="https://www.moe.gov.sg/-/media/files/post-secondary/2026-jae/2026-jae-courses.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 JAE Courses</a>
-<br>3)&nbsp;&nbsp;&nbsp; <a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">Course Finder</a>
-<br>4)&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">Authorisation Letter for Proxy</a>
+<p>1)&nbsp;&nbsp;<a href="/files/2026_JAE_Information_Sheet.pdf" rel="noopener nofollow" target="_blank">2026 JAE Information Sheet</a>
+<br>2)&nbsp;&nbsp;<a href="https://www.moe.gov.sg/-/media/files/post-secondary/2026-jae/2026-jae-courses.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 JAE Courses</a>
+<br>3)&nbsp;&nbsp;<a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">Course Finder</a>
+<br>4)&nbsp;&nbsp;<a href="/files/Authorisation__Proxy__Letter___O_Level.pdf" rel="noopener nofollow" target="_blank">Authorisation Letter for Proxy</a>
 </p>
+<p></p>
