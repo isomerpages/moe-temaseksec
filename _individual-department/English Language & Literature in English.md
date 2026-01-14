@@ -112,9 +112,6 @@ that involve engagement with practitioners in the field</p>
 <br>Mr Shafiq Rafi
 <br>shafiq_rafi@moe.edu.sg
 <br>
-<br>Ms Sharon Koh
-<br>koh_hui_hoon_sharon@moe.edu.sg
-<br>
 <br>Mdm Sharifah Thalha
 <br>sharifah_thalha_syed_osman@moe.edu.sg
 <br>
