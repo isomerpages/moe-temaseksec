@@ -93,7 +93,7 @@ that involve engagement with practitioners in the field</p>
 <br>
 </p>
 <p>Ms Martina Ann Mei Qiang (Assistant Year Head/Upper Sec)
-<br><a href="mailto:martina_ann_mei_qiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">martina_ann_mei_qiang@moe.edu.sg</a>
+<br>martina_ann_mei_qiang@moe.edu.sg
 <br>
 </p>
 <p>Mdm Harpreet Kaur (ST/ English Literature)
