@@ -94,9 +94,6 @@ that involve engagement with practitioners in the field</p>
 <br>Mdm Harpreet Kaur (ST/ English Literature)
 <br>harpreet_kaur_a@moe.edu.sg
 <br>
-<br>Mrs Deborah Huang
-<br>deborah_chua_lihui@moe.edu.sg
-<br>
 <br>Ms Idriaty Sabari
 <br>idriaty_sabari@moe.edu.sg
 <br>
