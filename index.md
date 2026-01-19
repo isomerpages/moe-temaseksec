@@ -9,7 +9,7 @@ sections:
   - hero:
       key_highlights:
         - title: Latest News
-          description: School Calendar 2025
+          description: School Calendar 2026
           url: /events/school-calendar/
         - title: Sec 1 e-Registration 2026
           description: 22 Dec 2025 (Mon)
