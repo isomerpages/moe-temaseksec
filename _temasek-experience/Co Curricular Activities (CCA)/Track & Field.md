@@ -17,7 +17,7 @@ variant: tiptap
 <p>Mr Wong Ching Siong (I/C)</p>
 </li>
 <li>
-<p>Ms Tong Liying (2I/C)</p>
+<p>Ms Tong Liying (2 I/C)</p>
 </li>
 <li>
 <p>Mr Mohd Salim
