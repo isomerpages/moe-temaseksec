@@ -3,12 +3,13 @@ title: CCA Matters
 permalink: /tms-family/student-handbook/cca-matters/
 description: ""
 third_nav_title: Student Handbook
+variant: markdown
 ---
 ## CCA POLICY
 
 
 1.  CCAs are available to all students in the areas of Aesthetics (Performing Arts), Outdoors (Sports and Uniformed Groups) and Clubs and Societies. ALL students must have at least one CCA from any of these groups.&nbsp;Student participation in CCA is COMPULSORY.
-2.  CCA practices/training sessions and meetings are held weekly on Tuesday and Friday. Whenever the need arises, especially closer to competition periods, practices may be conducted on other days.
+2.  CCA practices/training sessions and meetings are held weekly on Tuesday and Thursday. Whenever the need arises, especially closer to competition periods, practices may be conducted on other days.
 3.  The&nbsp;school will allocate a CCA based on one of the 5 CCA choices stated by a Secondary 1&nbsp;student in the CCA Selection Form. CCA allocation&nbsp;will be is&nbsp;based on a balance between student choice, vacancies available and the ability or potential demonstrated&nbsp;during&nbsp;the trials and&nbsp;auditions by the student.
 4.  Every student must fulfil at least 75% attendance with valid reasons given for non-attendance before CCA&nbsp;attainment levels are given. Disciplinary&nbsp;action will be taken against students who do not turn up for CCA despite repeated warnings from&nbsp;Teacher-in-charge.&nbsp;Absence from CCA is&nbsp;considered truancy and the student’s conduct grade will be affected.
 5.  Continuous involvement in and commitment to the same CCA is encouraged and will be recognized. This is reflected through a higher level of attainment assigned to students who stay with the same CCA over the years.&nbsp;Continuous and regular participation in&nbsp;a CCA&nbsp;throughout the secondary school years is fundamental&nbsp;to contributing&nbsp;to the quality of school life and overall&nbsp;student development&nbsp;with the students deepening their knowledge and&nbsp;skills in&nbsp;the CCA&nbsp;that they&nbsp;are participating in.
