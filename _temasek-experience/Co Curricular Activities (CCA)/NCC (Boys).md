@@ -23,7 +23,7 @@ variant: tiptap
 <p>Mr David Lim Chee Chuan</p>
 </li>
 <li>
-<p>Mr Tang Chong Wei</p>
+<p>Mr Tang Chong Woei</p>
 </li>
 </ul>
 <p></p>
