@@ -91,8 +91,8 @@ to peers</p>
 <h3>DEPARTMENT CONTACT LIST</h3>
 <p>Mr Vendasalam Chandramohan (Year Head/ Lower Sec)&nbsp;
 <br>vendasalam_chandramohan@moe.edu.sg</p>
-<p>Mr Edward Leow (SH/ Design &amp; Technology)&nbsp;
-<br>leow_mun_tat@moe.edu.sg</p>
+<p>Mr Andrew Kng Zhiying (SH/ Design &amp; Technology)&nbsp;
+<br>kng_zhiying@moe.edu.sg</p>
 <p>Mr Elliot Ong (SH/ Student Leadership) ong_yan_pei_elliot@moe.edu.sg</p>
 <p>Mdm Farizah Minhart (ST/ Character &amp; Citizenship Education)
 <br>farizah_minhart@moe.edu.sg</p>
@@ -105,14 +105,14 @@ to peers</p>
 <br>pang_kar_loon_eddie@moe.edu.sg</p>
 <p>Mdm Ivy Tay
 <br>tay_lay_peng@moe.edu.sg</p>
-<p>Mr Lee Chin Chew
-<br>lee_chin_chew@moe.edu.sg</p>
 <p>Mr Mohamed Anwaar
 <br>mohamed_al_anwaarulhaq_asaad@moe.edu.sg</p>
 <p>Mdm Nur Azlilah Abdul Aziz
 <br>nur_azlilah_abdul_aziz@moe.edu.sg</p>
 <p>Mrs Rebecca Loke
 <br>rebecca_loke@moe.edu.sg</p>
+<p>Mr Shahrom Mashoed
+<br>shahrom_mashoed@moe.edu.sg</p>
 <p>Mr Sulaiman Hussin
 <br>sulaiman_hussin@moe.edu.sg</p>
 <p>Mdm Tham Wai Leng
