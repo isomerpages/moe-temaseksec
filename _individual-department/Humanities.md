@@ -82,8 +82,10 @@ associated with the different issues explored during MUNs</p>
 <br>wong_su_ann_ruth@moe.edu.sg</p>
 <p>Ms Chua Wan Yu
 <br>chua_wan_yu@moe.edu.sg</p>
-<p>Mr David Lim Chee Chuan <a href="mailto:david_lim_chee_chuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">david_lim_chee_chuan@moe.edu.sg</a>
-</p>
+<p>Mr David Lim Chee Chuan
+<br>david_lim_chee_chuan@moe.edu.sg</p>
+<p>Mr Sng Kai Ming Joel
+<br>sng_kai_ming_joel@moe.edu.sg</p>
 <p>Mrs Mirnigar Maesten
 <br>mirnigar_begum_khan@moe.edu.sg</p>
 <p>Mr Mohamed Anwaar
