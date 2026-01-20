@@ -80,10 +80,11 @@ solutions
 <br>chen_si_shann_shannon@moe.edu.sg</p>
 <p>Ms Tan Hui Xin
 <br>tan_hui_xin@moe.edu.sg</p>
+<p>Mr Tang Chong Woei
+<br>tang_chong_woei@moe.edu.sg</p>
 <p>Mrs Tan-Tay Ngee Mui
 <br>tay_ngee_mui@moe.edu.sg</p>
 <p>
-<br>
 <br>
 <br>
 <br>
