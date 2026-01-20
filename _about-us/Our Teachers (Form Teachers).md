@@ -420,7 +420,7 @@ variant: tiptap
 <p>Mr Andrew Kng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:andrew_kng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">andrew_kng@moe.edu.sg</a>
+<p>&nbsp;<a href="mailto:andrew_kng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kng_zhiying@moe.edu.sg</a>
 </p>
 </td>
 </tr>
