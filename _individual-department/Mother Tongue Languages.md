@@ -62,9 +62,9 @@ the classroom
 and singing competitions</p>
 <h2>DEPARTMENT CONTACT LIST</h2>
 <h5>Malay Language Unit</h5>
-<p>Mdm Sahriana Rani (HOD/ Mother Tongue Languages)
+<p>Mdm Sahriana Rani (School Staff Developer)
 <br>sahriana_rani@moe.edu.sg</p>
-<p>Mdm Nurul Huda Mohd Kamarulzaman (Asst. Year Head/ Upper Sec)
+<p>Mdm Nurul Huda Mohd Kamarulzaman (SH/ Malay Language)
 <br>nurul_huda_mohd_kamarulzaman@moe.edu.sg</p>
 <p>Mdm Asnia Adas
 <br>asnia_adas@moe.edu.sg</p>
@@ -75,7 +75,7 @@ and singing competitions</p>
 <p>Mdm Siti Farhana Mohamed Shariff
 <br>siti_farhana_mohamed_shariff@moe.edu.sg</p>
 <h5>Chinese Language Unit</h5>
-<p>Ms Chua An Ting (SH/ Chinese Language)
+<p>Ms Chua An Ting (HOD/ Mother Tongue Languages)
 <br>chua_an_ting@moe.edu.sg</p>
 <p>Mdm Liu Liping
 <br>liu_liping@moe.edu.sg</p>

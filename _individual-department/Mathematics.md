@@ -60,10 +60,6 @@ solutions
 <br>fadilah_abdul_rahman@moe.edu.sg</p>
 <p>Mr Roger Lim (ST/ Mathematics)
 <br>lim_pang_kiat@moe.edu.sg</p>
-<p>Mr Vendasalam Chandramohan (Year Head/ Lower Sec)
-<br>vendasalam_chandramohan@moe.edu.sg</p>
-<p>Mr Lim Wei Ming (Asst. Year Head/ Lower Sec)
-<br>lim_wei_ming@moe.edu.sg</p>
 <p>Mr Elliot Ong (SH/ Student Leadership)
 <br>ong_yan_pei_elliot@moe.edu.sg</p>
 <p>Mdm Chan Choy Wei
@@ -80,17 +76,15 @@ solutions
 <br>chia_chue_may@moe.edu.sg</p>
 <p>Ms Lydia Chew
 <br>chew_li_shan_lydia@moe.edu.sg</p>
-<p>Ms Ooi Liu Qi
-<br>ooi_liu_qi@moe.edu.sg</p>
 <p>Ms Shannon Chen
 <br>chen_si_shann_shannon@moe.edu.sg</p>
 <p>Ms Tan Hui Xin
 <br>tan_hui_xin@moe.edu.sg</p>
+<p>Mr Tang Chong Woei
+<br>tang_chong_woei@moe.edu.sg</p>
 <p>Mrs Tan-Tay Ngee Mui
 <br>tay_ngee_mui@moe.edu.sg</p>
-<p>Mrs Toh Ai Kit
-<br>toh_ai_kit@moe.edu.sg
-<br>
+<p>
 <br>
 <br>
 <br>

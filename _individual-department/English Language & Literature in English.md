@@ -91,19 +91,16 @@ that involve engagement with practitioners in the field</p>
 <br>Mr Muhammad Hilmy Zohry (SH/ English Language)
 <br>muhammad_hilmy_zohry@moe.edu.sg
 <br>
-<br>Mdm Harpreet Kaur (ST/ English Literature)
-<br>harpreet_kaur_a@moe.edu.sg
-<br>
-<br>Mrs Deborah Huang
-<br>deborah_chua_lihui@moe.edu.sg
-<br>
-<br>Ms Idriaty Sabari
-<br>idriaty_sabari@moe.edu.sg
-<br>
-<br>Ms Martina Ann Mei Qiang
+</p>
+<p>Ms Martina Ann Mei Qiang (Assistant Year Head/Upper Sec)
 <br>martina_ann_mei_qiang@moe.edu.sg
 <br>
-<br>Ms Mazna Mohd Hussain
+</p>
+<p>Mdm Harpreet Kaur (ST/ English Literature)
+<br>harpreet_kaur_a@moe.edu.sg</p>
+<p>Ms Idriaty Sabari
+<br>idriaty_sabari@moe.edu.sg</p>
+<p>Ms Mazna Mohd Hussain
 <br>mazna_mohd_hussain@moe.edu.sg
 <br>
 <br>Mrs Millicent Tee
@@ -114,9 +111,6 @@ that involve engagement with practitioners in the field</p>
 <br>
 <br>Mr Shafiq Rafi
 <br>shafiq_rafi@moe.edu.sg
-<br>
-<br>Ms Sharon Koh
-<br>koh_hui_hoon_sharon@moe.edu.sg
 <br>
 <br>Mdm Sharifah Thalha
 <br>sharifah_thalha_syed_osman@moe.edu.sg

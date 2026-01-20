@@ -69,24 +69,33 @@ students will acquire basic programming skills and coding concepts and
 apply them creatively in real life contexts through the creation of prototypes
 and use of microcontrollers.</p>
 <h2>DEPARTMENT CONTACT LIST</h2>
-<p></p>
+<p>Ms Lock Hwee Hong Alicia (HOD/ Science)
+<br>lock_hwee_hong_alicia@moe.edu.sg</p>
 <p>Jarina Banu D/O Jagaffar (SH/Lower Sec Science)
 <br>jarina_banu_jagaffar@moe.edu.sg</p>
-<p>Dr Bryan Tan (SSD/ School Staff Developer)
-<br>bryan_tan_yong_hao@moe.edu.sg</p>
 <p>Mr Jared Oh (HOD/Student Leadership &amp; Aesthetics)
 <br>jared_oh@moe.edu.sg</p>
 <p>Mdm Nur 'Adilah Suhaimi Salleh (SH/ Pupil Well-Being)
 <br>nur_adilah_suhaimi_salleh@moe.edu.sg</p>
 <p>Ms Yang Linxi (SH/ 21CC)
 <br>linxi_yang@moe.edu.sg</p>
+<p>Mrs Chan-Tong Liying
+<br>tong_liying@moe.edu.sg</p>
+<p>Mr Danial Mazlan
+<br>danial_mazlan@moe.edu.sg</p>
 <p>Mdm Karima Syahirah&nbsp;Abdul Karim
 <br>karima_syahirah_abdul_ka@moe.edu.sg</p>
 <p>Mr Kuah Chin Yong
 <br>kuah_chin_yong@moe.edu.sg</p>
 <p>Mr Lee Sze Meng
 <br>lee_sze_meng@moe.edu.sg</p>
+<p>Mdm Teo Li Jun Lilian
+<br>teo_li_jun_lilian@moe.edu.sg</p>
 <p>Mdm Tham Wai Leng
 <br>tham_wai_leng@moe.edu.sg</p>
 <p>Mr Yeo Jun Song
 <br>yeo_jun_song@moe.edu.sg</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
