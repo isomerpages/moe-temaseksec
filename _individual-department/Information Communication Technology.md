@@ -40,12 +40,14 @@ new skills.</p>
 <p>Students will be technologically adept as effective citizens and able
 to function and contribute effectively in a technologically-driven world.</p>
 <h2>DEPARTMENT CONTACT LIST</h2>
-<p>Mrs Janice Chao (HOD/ Information Communication Technology)
-<br>janice_chao@moe.edu.sg</p>
-<p>Mrs Soo-Tay Yu Xin (SH/ Information Communication Technology) tay_yu_xin@moe.edu.sg</p>
-<p>Mohammed Iqbal Bin Arshad (ICT Manager) mohammed_iqbal_arshad@moe.edu.sg</p>
+<p>Mrs Soo-Tay Yu Xin (SH/ Information Communication Technology)
+<br>tay_yu_xin@moe.edu.sg</p>
+<p>Mohammed Iqbal Bin Arshad (ICT Manager)
+<br>mohammed_iqbal_arshad@moe.edu.sg</p>
 <p>Mr Chia Chun Keong
 <br>chia_chun_keong@moe.edu.sg</p>
+<p>Mrs Janice Chao
+<br>janice_chao@moe.edu.sg</p>
 <p>Mdm Tham Wai Leng
 <br>tham_wai_leng@moe.edu.sg</p>
 <p>Mrs Smitha Rajeev
