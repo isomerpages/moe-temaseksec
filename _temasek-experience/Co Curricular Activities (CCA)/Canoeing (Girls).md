@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h2>Canoeing (Girls)</h2>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ywzvNLPqv-0?si=9LgHJn-S9XrqLAXi"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ywzvNLPqv-0?si=9LgHJn-S9XrqLAXi"></iframe>
 </div>
 <p><strong>Teachers-in-charge</strong>
 </p>
@@ -16,10 +16,10 @@ variant: tiptap
 <p>Mr Alex Chua Ghee Soon (I/C)</p>
 </li>
 <li>
-<p>Mr Viswanath S/O Singgaravello (2I/C)</p>
+<p>Mr Sng Kai Ming Joel (2I/C)</p>
 </li>
 <li>
-<p>Mdm Naseema Begum</p>
+<p>Ms Elsie Fong</p>
 </li>
 </ul>
 <p></p>
