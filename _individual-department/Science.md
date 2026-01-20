@@ -79,13 +79,21 @@ and use of microcontrollers.</p>
 <br>nur_adilah_suhaimi_salleh@moe.edu.sg</p>
 <p>Ms Yang Linxi (SH/ 21CC)
 <br>linxi_yang@moe.edu.sg</p>
+<p>Mrs Chan-Tong Liying
+<br>tong_liying@moe.edu.sg</p>
 <p>Mdm Karima Syahirah&nbsp;Abdul Karim
 <br>karima_syahirah_abdul_ka@moe.edu.sg</p>
 <p>Mr Kuah Chin Yong
 <br>kuah_chin_yong@moe.edu.sg</p>
 <p>Mr Lee Sze Meng
 <br>lee_sze_meng@moe.edu.sg</p>
+<p>Mdm Teo Li Jun Lilian
+<br>teo_li_jun_lilian@moe.edu.sg</p>
 <p>Mdm Tham Wai Leng
 <br>tham_wai_leng@moe.edu.sg</p>
 <p>Mr Yeo Jun Song
 <br>yeo_jun_song@moe.edu.sg</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
