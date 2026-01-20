@@ -19,9 +19,12 @@ variant: tiptap
 <li>
 <p>Mr Low Yi Wee Elvis (2I/C)</p>
 </li>
+<li>
+<p>Ms Toh Lay Min</p>
+</li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5DBVqQ7HTwM"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5DBVqQ7HTwM"></iframe>
 </div>
 <h2>HISTORY</h2>
 <p>The Environmental Science Club was first established in 2016, formerly

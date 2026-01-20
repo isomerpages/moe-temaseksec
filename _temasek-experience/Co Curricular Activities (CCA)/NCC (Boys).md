@@ -14,18 +14,21 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Chua An Ting (I/C)</p>
+<p>Mr Chia Chun Keong (I/C)</p>
 </li>
 <li>
-<p>Mr Chia Chun Keong (2I/C)</p>
+<p>Mr Pang Kar Loon Eddie(2I/C)</p>
 </li>
 <li>
-<p>Mr Pang Kar Loon Eddie</p>
+<p>Mr David Lim Chee Chuan</p>
+</li>
+<li>
+<p>Mr Tang Chong Woei</p>
 </li>
 </ul>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NO7KqS1aaqU"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NO7KqS1aaqU"></iframe>
 </div>
 <h2>TRAINING</h2>
 <div class="isomer-image-wrapper">

@@ -17,10 +17,7 @@ variant: tiptap
 <p>Mr Muhammad Hilmy B Zohry (I/C)</p>
 </li>
 <li>
-<p>Ms Martina Ann Mei Qiang (2I/C)</p>
-</li>
-<li>
-<p>Mr Mohd Al Anwaarulhaq
+<p>Ms Martina Ann Mei Qiang (2I/C)
 <br>
 </p>
 </li>
