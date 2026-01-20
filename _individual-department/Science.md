@@ -69,11 +69,10 @@ students will acquire basic programming skills and coding concepts and
 apply them creatively in real life contexts through the creation of prototypes
 and use of microcontrollers.</p>
 <h2>DEPARTMENT CONTACT LIST</h2>
-<p></p>
+<p>Ms Lock Hwee Hong Alicia (HOD/ Science)
+<br>lock_hwee_hong_alicia@moe.edu.sg</p>
 <p>Jarina Banu D/O Jagaffar (SH/Lower Sec Science)
 <br>jarina_banu_jagaffar@moe.edu.sg</p>
-<p>Dr Bryan Tan (SSD/ School Staff Developer)
-<br>bryan_tan_yong_hao@moe.edu.sg</p>
 <p>Mr Jared Oh (HOD/Student Leadership &amp; Aesthetics)
 <br>jared_oh@moe.edu.sg</p>
 <p>Mdm Nur 'Adilah Suhaimi Salleh (SH/ Pupil Well-Being)
