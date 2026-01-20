@@ -81,6 +81,8 @@ and use of microcontrollers.</p>
 <br>linxi_yang@moe.edu.sg</p>
 <p>Mrs Chan-Tong Liying
 <br>tong_liying@moe.edu.sg</p>
+<p>Mr Danial Mazlan
+<br>danial_mazlan@moe.edu.sg</p>
 <p>Mdm Karima Syahirah&nbsp;Abdul Karim
 <br>karima_syahirah_abdul_ka@moe.edu.sg</p>
 <p>Mr Kuah Chin Yong
