@@ -16,11 +16,14 @@ variant: tiptap
 <p>Mdm Tay Lay Peng Ivy (I/C)</p>
 </li>
 <li>
-<p>Mrs Loke Chee Keong Rebecca (2 I/C)</p>
+<p>Mdm Chan Choy Wei (2 I/C)</p>
+</li>
+<li>
+<p>Mrs Loke Chee Keong Rebecca</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MUSK7LAHWP0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MUSK7LAHWP0"></iframe>
 </div>
 <h2>HISTORY</h2>
 <div class="isomer-image-wrapper">
@@ -59,7 +62,7 @@ events like Speech Day and Open House.</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kHABOKVp_GE"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kHABOKVp_GE"></iframe>
 </div>
 <p>
 <br>
