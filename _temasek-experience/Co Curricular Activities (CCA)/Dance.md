@@ -17,14 +17,14 @@ variant: tiptap
 <p>Miss Idriaty Binte Sabari (I/C)</p>
 </li>
 <li>
-<p>Mdm Nurhidayah Binte Mohamed Ali (2I/C)</p>
+<p>Mrs Ruth Leong (2I/C)</p>
 </li>
 <li>
 <p>Mdm Tay Ngee Mui</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/F1Q4WfbnhIw"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/F1Q4WfbnhIw"></iframe>
 </div>
 <h2>HISTORY</h2>
 <div class="isomer-image-wrapper">
@@ -66,7 +66,7 @@ as in dance competitions such as Super 24.</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1-gobLTtBOA"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1-gobLTtBOA"></iframe>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/modern%20dance.png">
