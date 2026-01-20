@@ -224,7 +224,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>andrew_kng@moe.edu.sg</p>
+<p>kng_zhiying@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
