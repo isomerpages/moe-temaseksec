@@ -13,10 +13,10 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mrs Soo-Tay Yu Xin (I/C)</p>
+<p>Mdm Tham Wai Leng (I/C)</p>
 </li>
 <li>
-<p>Mdm Tham Wai Leng (2I/C)</p>
+<p>Mr Mohamed Anwaar (2I/C)</p>
 </li>
 <li>
 <p>Mr Mohammed Iqbal Bin Arshad</p>
@@ -24,7 +24,7 @@ variant: tiptap
 </ul>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wF8k56RaU64"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wF8k56RaU64"></iframe>
 </div>
 <h2>HISTORY</h2>
 <p>The Robotics Club first started in 2007 as the Mathematics Club. In 2015,
