@@ -17,12 +17,12 @@ variant: tiptap
 <p>Mrs Millicent Tee-Yap (I/C)</p>
 </li>
 <li>
-<p>Mdm Santhi Manis (2I/C)</p>
+<p>Mr Yeo Jun Song (2I/C)</p>
 </li>
 </ul>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZnhE7PljuuQ?si=QBO2dY6YIq7ZeF3E"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZnhE7PljuuQ?si=QBO2dY6YIq7ZeF3E"></iframe>
 </div>
 <h2>HISTORY</h2>
 <p>The Temasek Wind Ensemble (TWE) is one of the school’s long standing CCAs.
@@ -60,7 +60,7 @@ Studio Session.</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gRKXttAS8q0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gRKXttAS8q0"></iframe>
 </div>
 <p>
 <br>
