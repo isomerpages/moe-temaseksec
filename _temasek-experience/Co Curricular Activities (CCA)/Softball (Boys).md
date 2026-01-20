@@ -14,15 +14,15 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Yeo Jun Song (I/C)</p>
+<p>Mr Viswanath Singgaravello (I/C)</p>
 </li>
 <li>
-<p>Mr Sulaiman Bin Hussin (2I/C)</p>
+<p>Mr Danial Bin Mazlan (2I/C)</p>
 </li>
 </ul>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/x14hy5r6Wks"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/x14hy5r6Wks"></iframe>
 </div>
 <h2>HISTORY</h2>
 <p>Through the years, the Softball Team continues to build a strong team
