@@ -11,7 +11,7 @@ variant: tiptap
 <br>Mr KUAH CHIN YONG
 <br>Ms TAN HUI XIN
 <br>Mr YEO JUN SONG
-<br>Ms SHARON KOH</p>
+<br>Ms NASEEMA BEGUM</p>
 <p><strong>President</strong>
 <br>TARUN SACHIN RAMESH KUMAR
 <br>
