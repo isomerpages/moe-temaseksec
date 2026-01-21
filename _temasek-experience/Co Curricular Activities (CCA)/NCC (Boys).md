@@ -17,7 +17,7 @@ variant: tiptap
 <p>Mr Chia Chun Keong (I/C)</p>
 </li>
 <li>
-<p>Mr Pang Kar Loon Eddie(2I/C)</p>
+<p>Mr Pang Kar Loon Eddie (2I/C)</p>
 </li>
 <li>
 <p>Mr David Lim Chee Chuan</p>
