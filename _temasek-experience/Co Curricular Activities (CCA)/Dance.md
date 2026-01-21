@@ -14,13 +14,13 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Miss Idriaty Binte Sabari (I/C)</p>
-</li>
-<li>
-<p>Mrs Ruth Leong (2I/C)</p>
+<p>Mrs Ruth Leong (I/C)</p>
 </li>
 <li>
 <p>Mdm Tay Ngee Mui</p>
+</li>
+<li>
+<p>Ms Idriaty Binte Sabari</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
