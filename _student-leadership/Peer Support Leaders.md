@@ -11,7 +11,8 @@ variant: tiptap
 <br>Mdm NUR ADILAH SUHAIMI SALLEH
 <br>Mdm KARIMA SYAHIRAH
 <br>Ms SHANNON CHEN
-<br>Mr DAVID LIM</p>
+<br>Mr DAVID LIM
+<br>Mdm FARAH ASHIKIN BTE MD RIDZWAN</p>
 <p><strong>Chairman</strong>
 <br>ANISH TARESH MULKY</p>
 <p><strong>Vice-Chairmen</strong>
