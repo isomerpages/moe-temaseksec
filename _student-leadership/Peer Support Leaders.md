@@ -8,10 +8,11 @@ variant: tiptap
 <img style="width:40%" height="auto" width="100%" src="/images/Crest%20PSL.png">
 </div>
 <p><strong>Teacher-in-charge</strong>
-<br>Mdm NUR ADILAH SUHAIMI SALLEH
+<br>Mdm NUR ADILAH BTE SUHAIMI SALLEH
 <br>Mdm KARIMA SYAHIRAH
 <br>Ms SHANNON CHEN
-<br>Mr DAVID LIM</p>
+<br>Mr DAVID LIM
+<br>Mdm FARAH ASHIKIN BTE MD RIDZWAN</p>
 <p><strong>Chairman</strong>
 <br>ANISH TARESH MULKY</p>
 <p><strong>Vice-Chairmen</strong>
