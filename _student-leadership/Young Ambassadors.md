@@ -9,9 +9,10 @@ variant: tiptap
 </div>
 <p><strong>Teacher-in-charge</strong>
 <br>Ms ROBYN YANG
-<br>Mr GABRIEL SIM
+<br>Ms YANG LINGXI
 <br>Ms IDRIATY SABARI
-<br>Ms YANG LINGXI</p>
+<br>Mdm IVY TAY
+<br>Mr JOEL SNG</p>
 <p><strong>Chairman</strong>
 <br>AMELIA MOHAMED FAIZAL</p>
 <p><strong>Vice-President</strong>
