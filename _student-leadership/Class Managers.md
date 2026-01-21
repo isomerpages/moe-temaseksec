@@ -15,7 +15,6 @@ variant: tiptap
 <p><strong>Chairman</strong>
 <br>KAPADIA UDITI HIREN</p>
 <p><strong>Vice-President</strong>
-<br>MOHAMED ZAHEER KHAN S/O MOHAMED ZAMEER KHAN
 <br>ADVAITH KARTHIKEYAN</p>
 <p></p>
 <p><strong>Executive Committee</strong>
