@@ -17,7 +17,7 @@ The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
 <p></p>
-<p>The goals of Sexuality Education are to:</p>
+<p>The Goals of Sexuality Education are to:</p>
 <p>(a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</p>
 <p>(b) Guide students to make wise, informed and responsible decisions on
@@ -26,19 +26,20 @@ sexuality matters.</p>
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
 <p></p>
-<p></p>
-<p>The key messages of Sexuality Education are:</p>
-<p>(a) Love and respect yourself as you love and respect others;</p>
-<p>(b) Build positive relationships based on love and respect (which are
-the foundation for strong families);</p>
-<p>(c)&nbsp;Make responsible decisions for yourself, your family and society;
-and</p>
-<p>(d)&nbsp;Abstinence before marriage is the best protection against STIs/HIV
-and unintended pregnancies. Casual sex can harm and hurt you and your loved
-ones.</p>
+<p>The key Messages of Sexuality Education are:</p>
+<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
+respect yourself as you love and respect others.</p>
+<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build
+positive relationships based on love and respect (which are the foundation
+for strong families);</p>
+<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible
+decisions for yourself, your family and society; and</p>
+<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence
+before marriage is the best protection against STIs/HIV and unintended
+pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
-<h3>OVERVIEW OF TEMASEK SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</h3>
+<h3>OVERVIEW OF TEMASEK SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</h3>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -60,30 +61,32 @@ maturity may result in a tendency to act on impulse, experiment with various
 activities (including sexual activities), sometimes without understanding
 the unpleasant consequences that may arise from such experimentation. The
 need for peer acceptance can be overwhelmingly strong and hinder one’s
-ability to act responsibly.&nbsp; Given the pressures faced by the middle
-adolescent from within themselves and from peers, it is important to build
-a strong sense of self-worth, personal conviction and an understanding
-of the possible consequences of sexual behaviour.</p>
+ability to act responsibly. Given the pressures faced by the middle adolescent
+from within themselves and from peers, it is important to build a strong
+sense of self-worth, personal conviction and an understanding of the possible
+consequences of sexual behaviour.</p>
 <p>&nbsp;</p>
 <p>Through the Sexuality Education lessons, secondary students will have
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
+<p></p>
+<p>The curriculum for the programme is as attached <a href="/files/2026_Info_on_SEd_for_schs_website__Temasek_Secondary_Schools_.pdf" rel="noopener nofollow" target="_blank">here</a>
+<a href="/files/2025_Info_on_SEd_for_schs_website.pdf" rel="noopener nofollow" target="_blank">.</a>
+</p>
 <h3>Information for Parents</h3>
 <p>Parents may opt their children out of the Sexuality Education lessons,
 eTeens and/or supplementary sexuality education programmes by MOE-approved
 external providers.</p>
-<p>The curriculum for the programme is as attached <a href="/files/2025_Info_on_SEd_for_schs_website.pdf" rel="noopener nofollow" target="_blank">here.</a>
-</p>
 <p>Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an <a href="https://go.gov.sg/tms-sed2025" rel="noopener nofollow" target="_blank">opt-out form</a>.
-This form will be distributed to parents via Parents Gateway. The completed
-form is to be submitted by 21 Feb 2025.</p>
-<p>Parents who wish to opt their children out of the Sec 3 <strong><em>eTeens</em> programme</strong> need
-to complete an <a href="https://go.gov.sg/tms-eteens2025" rel="noopener nofollow" target="_blank">opt-out form</a>.
-The completed form is to be submitted by 21 Feb 2025.</p>
+lessons need to complete an opt-out form. This form will be communicated
+to parents at the start of the year and is also available <a href="https://go.gov.sg/tmsparentoptoutform2026" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>The completed form is to be submitted by 6 Feb 2026.</p>
 <p></p>
-<p>Parents can contact the school at 64495020 for discussion or to seek clarification
-about the school’s sexuality education programme.</p>
-<p>Parents, who wish to attend the school sexuality education programmes,
-should also contact the school to make the necessary arrangements.</p>
+<p>Parents who wish to opt their children out of the eTeens programme need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also available <a href="https://go.gov.sg/tms-eteensoptout2026" rel="noopener nofollow" target="_blank">here</a>. The completed form
+is to be submitted by 06/02/2026</p>
+<p>Parents can contact the school at email address <a href="mailto:temasek_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">temasek_ss@moe.edu.sg</a> or contact
+us at school telephone number 64495020 for discussion or to seek clarification
+about the school’s Sexuality Education programme.</p>
