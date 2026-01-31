@@ -71,7 +71,8 @@ the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 <p></p>
-<p>The curriculum for the programme is as attached <a href="/files/2025_Info_on_SEd_for_schs_website.pdf" rel="noopener nofollow" target="_blank">here.</a>
+<p>The curriculum for the programme is as attached <a href="/files/2026_Info_on_SEd_for_schs_website__Temasek_Secondary_Schools_.pdf" rel="noopener nofollow" target="_blank">here</a>
+<a href="/files/2025_Info_on_SEd_for_schs_website.pdf" rel="noopener nofollow" target="_blank">.</a>
 </p>
 <h3>Information for Parents</h3>
 <p>Parents may opt their children out of the Sexuality Education lessons,
