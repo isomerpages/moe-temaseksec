@@ -71,7 +71,7 @@ and use of microcontrollers.</p>
 <h2>DEPARTMENT CONTACT LIST</h2>
 <p>Ms Lock Hwee Hong Alicia (HOD/ Science)
 <br>lock_hwee_hong_alicia@moe.edu.sg</p>
-<p>Jarina Banu D/O Jagaffar (SH/Lower Sec Science)
+<p>Mdm Jarina Banu D/O Jagaffar (SH/Lower Sec Science)
 <br>jarina_banu_jagaffar@moe.edu.sg</p>
 <p>Mr Jared Oh (HOD/Student Leadership &amp; Aesthetics)
 <br>jared_oh@moe.edu.sg</p>
@@ -89,7 +89,7 @@ and use of microcontrollers.</p>
 <br>kuah_chin_yong@moe.edu.sg</p>
 <p>Mr Lee Sze Meng
 <br>lee_sze_meng@moe.edu.sg</p>
-<p>Mdm Teo Li Jun Lilian
+<p>Ms Teo Li Jun Lilian
 <br>teo_li_jun_lilian@moe.edu.sg</p>
 <p>Mdm Tham Wai Leng
 <br>tham_wai_leng@moe.edu.sg</p>
