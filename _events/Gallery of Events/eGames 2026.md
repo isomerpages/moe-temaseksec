@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Gallery of Events
 ---
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/z_zZqD4pn2c?si=QDnsXqufq-s_t6yQ"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Si57uxR3KTQ?si=U-x9mKFQ24tQXcHp"></iframe>
 </div>
 <p>Temasek Secondary School came alive with excitement as students gathered
 for this year’s E-Games! Featuring popular titles like Brawl Stars, Mobile
