@@ -14,3 +14,5 @@ take a trip down memory lane!</p>
 </p>
 <p><a href="https://online.fliphtml5.com/cjnla/zcil/" rel="noopener nofollow" target="_blank">TMS Yearbook 2024</a>
 </p>
+<p><a href="https://online.fliphtml5.com/cjnla/mqxs" rel="noopener nofollow" target="_blank">TMS Yearbook 2025</a>
+</p>
