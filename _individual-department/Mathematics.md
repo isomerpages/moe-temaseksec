@@ -56,8 +56,8 @@ solutions
 <h2>DEPARTMENT CONTACT LIST</h2>
 <p>Mrs Teo Hwee Ping (HOD/ Mathematics)
 <br>tay_hwee_ping@moe.edu.sg</p>
-<p>Mdm Fadilah Abdul Rahman (SH/ Mathematics)
-<br>fadilah_abdul_rahman@moe.edu.sg</p>
+<p>Mdm Nurfadilah Abdul Rahman (SH/ Mathematics)
+<br>nurfadilah_abdul_rahman@moe.edu.sg</p>
 <p>Mr Roger Lim (ST/ Mathematics)
 <br>lim_pang_kiat@moe.edu.sg</p>
 <p>Mr Elliot Ong (SH/ Student Leadership)
