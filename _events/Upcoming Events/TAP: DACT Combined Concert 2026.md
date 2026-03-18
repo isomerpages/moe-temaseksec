@@ -16,13 +16,12 @@ support various charities supported by PC over the years and hope that
 you will make a difference too! Find out more about PC <a href="https://www.presidentschallenge.gov.sg/" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 <p>We will be organisng a fund-raising drive to raise funds for PC 2026 and
-we welcom donations of any amount!</p>
+we welcome donations of any amount!</p>
 <p>To thank you for making a difference, every $10 donation will entitle
 you to ONE ticket for TAP:DACT, a combined concert to thank YOU for giving
 to PC!</p>
 <p>Click <a href="https://go.gov.sg/2026TAP-DACT" rel="noopener nofollow" target="_blank">here</a> or
 scan the code below to make your donation!</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/2026_QR_Code_for_PC.png">
 </div>
