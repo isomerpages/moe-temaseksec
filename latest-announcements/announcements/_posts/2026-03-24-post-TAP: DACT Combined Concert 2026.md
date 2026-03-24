@@ -1,9 +1,11 @@
 ---
 title: "TAP: DACT Combined Concert 2026"
 permalink: /tap-dact-combined-concert-2026/
-variant: tiptap
+date: 2026-03-24
+layout: post
 description: ""
-third_nav_title: Upcoming Events
+image: ""
+variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">

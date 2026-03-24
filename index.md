@@ -11,9 +11,9 @@ sections:
         - title: Latest News
           description: School Calendar 2026
           url: /events/school-calendar/
-        - title: Sec 1 e-Registration 2026
-          description: 22 Dec 2025 (Mon)
-          url: https://temaseksec.moe.edu.sg/events/upcoming-events/sec-1-registration-2026/
+        - title: "TAP: DACT Combined Concert"
+          description: 30 April 2026 (Thursday)
+          url: https://www.temaseksec.moe.edu.sg/tap-dact-combined-concert-2026/
       background: /images/2025_Banner.png
   - resources:
       title: Latest Announcements
