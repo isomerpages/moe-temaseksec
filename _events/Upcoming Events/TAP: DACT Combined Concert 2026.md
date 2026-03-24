@@ -7,7 +7,7 @@ third_nav_title: Upcoming Events
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TMS_Combined_Concert_Logo.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026_TMS_Combined_Concert_Logo.png">
 </div>
 <p>The TMS Aesthetic CCAs care and we will be raising funds for President's
 Challenge (PC), our partner in supporting the community since 2006! The
