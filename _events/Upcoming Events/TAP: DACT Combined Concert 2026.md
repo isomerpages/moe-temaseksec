@@ -9,14 +9,15 @@ third_nav_title: Upcoming Events
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026_TMS_Combined_Concert_Logo.png">
 </div>
-<p>The TMS Aesthetic CCAs care and we will be raising funds for President's
-Challenge (PC), our partner in supporting the community since 2006! The
-school and President's Challenge have raised more than $500 thousand to
-support various charities supported by PC over the years and hope that
-you will make a difference too! Find out more about PC <a href="https://www.presidentschallenge.gov.sg/" rel="noopener nofollow" target="_blank">here.</a>
+<p>The Temasek cares for our community! And because we care, we will be raising
+funds for President's Challenge (PC), our partner in supporting the community
+since 2006! The school and President's Challenge have raised more than
+$500 thousand to support various charities supported by PC over the years
+and hope that you will make a difference too! Find out more about PC
+<a href="https://www.presidentschallenge.gov.sg/" rel="noopener nofollow" target="_blank">here.</a>
 </p>
-<p>We will be organisng a fund-raising drive to raise funds for PC 2026 and
-we welcome donations of any amount!</p>
+<p>We will be organising a fund-raising drive to raise funds for PC 2026
+and we welcome donations of any amount!</p>
 <p>To thank you for making a difference, every $10 donation will entitle
 you to ONE ticket for TAP:DACT, a combined concert to thank YOU for giving
 to PC!</p>
