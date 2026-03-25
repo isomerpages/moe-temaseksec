@@ -156,7 +156,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Sahriana Rani (School Staff Developer)</strong>
+<p><strong>Mdm Sahriana Bte Rani (School Staff Developer)</strong>
 </p>
 </td>
 </tr>
@@ -272,7 +272,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Siti Farhana (Asst. Year Head/ Lower Sec)</strong>
+<p><strong>Mdm Siti Farhana Bte Shariff(Asst. Year Head/ Lower Sec)</strong>
 </p>
 </td>
 </tr>
@@ -283,7 +283,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Nur' Adilah Bte Suhaimi Salleh (SH/ Pupil Well-Being)</strong>
+<p><strong>Mdm Nur' Adilah Suhaimi Salleh (SH/ Pupil Well-Being)</strong>
 </p>
 </td>
 </tr>
@@ -294,7 +294,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Nurfadilah Abdul Rahman (SH/ Mathematics)</strong>
+<p><strong>Mdm Nurfadilah Bte Abdul Rahman (SH/ Mathematics)</strong>
 </p>
 </td>
 </tr>

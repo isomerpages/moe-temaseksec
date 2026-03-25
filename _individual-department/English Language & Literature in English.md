@@ -88,7 +88,7 @@ that involve engagement with practitioners in the field</p>
 <br>Ms Nurulhuda Borhan Said (HOD/English Language &amp; English Literature)
 <br>nurulhuda_said@moe.edu.sg
 <br>
-<br>Mr Muhammad Hilmy Zohry (SH/ English Language)
+<br>Mr Muhammad Hilmy B Zohry (SH/ English Language)
 <br>muhammad_hilmy_zohry@moe.edu.sg
 <br>
 </p>
