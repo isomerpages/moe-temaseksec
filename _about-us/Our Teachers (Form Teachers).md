@@ -522,7 +522,7 @@ variant: tiptap
 <p>3R</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur' Adilah Bte Suhaimi Salleh</p>
+<p>Mdm Nur' Adilah Suhaimi Salleh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">nur_adilah_suhaimi_salleh@moe.edu.sg</a>
