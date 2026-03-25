@@ -468,7 +468,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Dominc Sim Chwee Siang</p>
+<p>Mr Dominic Sim Chwee Siang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">sim_chwee_siang_dominic@moe.edu.sg</a>
