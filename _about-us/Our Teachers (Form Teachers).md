@@ -89,7 +89,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Danial Mazlan</p>
+<p>Mr Danial Bin Mazlan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:danial_mazlan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">danial_mazlan@moe.edu.sg</a>
@@ -101,7 +101,7 @@ variant: tiptap
 <p>1K</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Farizah Minhart</p>
+<p>Mdm Farizah Bte Minhart</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">farizah_minhart@moe.edu.sg</a>
@@ -310,7 +310,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Farhana bte Mohamed Shariff</p>
+<p>Mdm Siti Farhana Bte Mohamed Shariff</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">siti_farhana_mohamed_shariff@moe.edu.sg</a>
@@ -396,7 +396,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurfadilah bte Abdul Rahman&nbsp;</p>
+<p>Mdm Nurfadilah Bte Abdul Rahman&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">nurfadilah_abdul_rahman@moe.edu.sg</a>
@@ -438,7 +438,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Hilmy</p>
+<p>Mr Muhammad Hilmy B Zohry</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_hilmy_zohry@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_hilmy_zohry@moe.edu.sg</a>
@@ -450,7 +450,7 @@ variant: tiptap
 <p>3K</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norashikin Mahat</p>
+<p>Mdm Norashikin Bte Mahat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">norashikin_mahat@moe.edu.sg</a>
@@ -471,7 +471,7 @@ variant: tiptap
 <p>3M</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Azlilah bte Abdul Aziz</p>
+<p>Mdm Nur Azlilah Bte Abdul Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">nur_azlilah_abdul_aziz@moe.edu.sg</a>
@@ -597,7 +597,7 @@ variant: tiptap
 <p>4K</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sulaiman Hussin</p>
+<p>Mr Sulaiman Bin Hussin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">sulaiman_hussin@moe.edu.sg</a>
@@ -627,7 +627,7 @@ variant: tiptap
 <p>4M</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Asnia Adas</p>
+<p>Mdm Asnia Bte Adas</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">asnia_adas@moe.edu.sg</a>
@@ -669,7 +669,7 @@ variant: tiptap
 <p>4R</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jarina Banu Jagaffar</p>
+<p>Mdm Jarina Banu D/O Jagaffar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">jarina_banu_jagaffar@moe.edu.sg</a>
