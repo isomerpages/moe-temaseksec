@@ -255,7 +255,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2K</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -272,6 +272,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">pang_kar_loon_eddie@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Linus Chen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_jin_an_linus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_jin_an_linus@moe.edu.sg</a>
 </p>
 </td>
 </tr>
