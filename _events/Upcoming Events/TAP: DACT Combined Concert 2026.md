@@ -72,4 +72,4 @@ scan the code below to make your donation!</p>
 <p>For parents of children who are currently in Temasek, tickets will be
 issued at least one week before the concert through the school.</p>
 <p>For alumni/family/friends, please collect the tickets at the entrance
-of the Drama Centre by showing the confirmation email.</p>
+of the Drama Centre by showing the confirmation email on 30 April 2026.</p>
