@@ -17,12 +17,10 @@ the PSG’s commitment to work with the School Administration, the School
 Advisory Committee and the Alumni to organise various events and activities
 to create a vibrant Temasek community to nurture every child’s growth and
 wellbeing,</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_Exco___Sch_Leaders.jpg">
 </div>
-<p>&nbsp;</p>
+<p></p>
 <p>The PSG looks forward to engaging the parent community to build a vibrant
 community. The members have volunteered their services in mentoring students,
 sourcing professionals to give enriching talks, and help in establishing
@@ -32,8 +30,6 @@ administration and to build a mutually healthy relationship. This partnership
 and bond will not only help the school to grow in fulfilling its aspirations
 but also serve the cause of education and facilitate rendering something
 back to the community at large.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_ASD.jpg">
 </div>
@@ -41,10 +37,11 @@ back to the community at large.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_RHD.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_Movie_Nite.jpg">
 </div>
-<p>he PSG is actively involved in the various school events throughout the
+<p>The PSG is actively involved in the various school events throughout the
 school year. We warmly welcome parents who are able to volunteer their
 time and expertise to participate in the various school events such as
 Racial Harmony Day, Movie Night, Grad Night, Mental Health Awareness Week
