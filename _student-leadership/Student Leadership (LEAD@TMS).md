@@ -61,7 +61,7 @@ they are interested to be developed in.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/student-leadership/event-the-temasek-charity-challenge/" rel="noopener noreferrer nofollow" target="_blank">Event: The Temasek Charity Challenge</a>
+<p><a href="/student-leadership/event-sec-1-orientation/" rel="noopener noreferrer nofollow" target="_blank">Event: The Temasek Charity Challenge</a>
 </p>
 </td>
 </tr>
