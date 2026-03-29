@@ -4,18 +4,25 @@ permalink: /student-leadership/leadership-training-and-opportunities/
 description: ""
 variant: tiptap
 ---
+<h2>Temasek Leadership Academy</h2>
 <p>All students in Temasek have multiple opportunities to develop their leadership
-qualities and skills. As such, there are deliberate efforts to tier the
-training and the application opportunities.</p>
+qualities and skills. As such, there are deliberate efforts to tier the <strong><u>training</u></strong> and
+the <strong><u>application opportunities</u></strong>.</p>
 <p>Customised training is provided for students for their specific roles
 and responsibilities. Various platforms are also given for students to
 initiate, organise and manage events as well as projects to apply the learning
 that has been taught. Various platforms are also provided for students
 to initiate, organise and manage events as well as projects to apply their
 learning.</p>
+<h3>Content</h3>
+<p>The content for the training is drawn from multiple sources including:</p>
+<p>1) Kouzes and Posner's The Leadership Challenge</p>
+<p>2) Robert Greenleaf's Servant Leadership</p>
+<p>3) Tim Elmore's Habitudes</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2020%20SLC%205.png">
 </div>
+<h3>Leadership Opportunities</h3>
 <p>These extensive opportunities are provided across three levels: Class,
 CCA and School.</p>
 <table style="minWidth: 25px">
@@ -25,30 +32,52 @@ CCA and School.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Level: Class</strong>
-</p>
+<h4><strong>Level: Class</strong></h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TRAINING PLATFORM
-<br>
-<br>- CCE lessons: Everyday Leadership
-<br>- Self-Leadership
-<br>- Planning
-<br>- Decision Making
-<br>- Facilitating</p>
+<p>TRAINING PLATFORM</p>
+<p>CCE lessons: Everyday Leadership &amp; VIA Leaders Training</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Self-Leadership</p>
+</li>
+<li>
+<p>Planning</p>
+</li>
+<li>
+<p>Decision Making</p>
+</li>
+<li>
+<p>Facilitating</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>APPLICATION
-<br>
-<br>- VIA Leaders
-<br>- Go Make A Difference (M.A.D.) Fund-Raising Project
-<br>- VIA Projects (for Children and Youth)
-<br>- VIA Projects (for the Elderly and Needy)
-<br>- National Education Learning Journeys Project</p>
+<p>APPLICATION</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>VIA Leaders</p>
+</li>
+<li>
+<p>Go Make A Difference (M.A.D.) Fund-Raising Project</p>
+</li>
+<li>
+<p>VIA Projects (for Children and Youth)</p>
+</li>
+<li>
+<p>VIA Projects (for the Elderly and Needy)</p>
+</li>
+<li>
+<p>National Education Learning Journeys Project</p>
+</li>
+<li>
+<p>House Mentoring</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -60,24 +89,33 @@ CCA and School.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Level: CCA</strong>
-</p>
+<h4><strong>Level: CCA</strong></h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TRAINING PLATFORM
-<br>
-<br>CCA Leadership Training</p>
+<p>TRAINING PLATFORM</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CCA Leadership Training</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>APPLICATION
-<br>
-<br>- Competitions
-<br>- Events
-<br>- Performances</p>
+<p>APPLICATION</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Competitions</p>
+</li>
+<li>
+<p>Events</p>
+</li>
+<li>
+<p>Performances</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -89,35 +127,58 @@ CCA and School.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Level: School</strong>
-</p>
+<h4><strong>Level: School</strong></h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TRAINING PLATFORM
-<br>
-<br>- Workshops
-<br>- Sec 1 Student Leaders Induction
-<br>- Student Leaders Convention
-<br>- Student Leadership Camps
-<br>- Student Leadership Training Days
-<br>- Student Leadership Meetings
-<br>- Mentoring
-<br>
-</p>
+<p>TRAINING PLATFORM</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Workshops</p>
+</li>
+<li>
+<p>Sec 1 Student Leaders Induction</p>
+</li>
+<li>
+<p>Student Leaders Convention</p>
+</li>
+<li>
+<p>Student Leadership Camps</p>
+</li>
+<li>
+<p>Student Leadership Training Days</p>
+</li>
+<li>
+<p>Student Leadership Meetings</p>
+</li>
+<li>
+<p>Mentoring</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>APPLICATION
-<br>
-<br>- Examples of events organized by the Leadership Groups
-<br>- All Staff Day
-<br>- iamAWARE
-<br>- Sports Challenge
-<br>- Gratitude Week
-<br>- NE Events</p>
+<br>Examples of events organized by the Leadership Groups</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>All Staff Day</p>
+</li>
+<li>
+<p>iamAWARE</p>
+</li>
+<li>
+<p>Sports Challenge</p>
+</li>
+<li>
+<p>Gratitude Week</p>
+</li>
+<li>
+<p>NE Events</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
