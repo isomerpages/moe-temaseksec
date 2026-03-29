@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Zwclv95AnIg?si=ksjBlTkIaqRSzprw"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sZg46U4Jtrk?si=qELR3mxoKQbBSoZr"></iframe>
 </div>
 <p>The five leadership groups come together every year to organise the Sec
 1 Orientation. Together, the groups collaborate to help their juniors learn
