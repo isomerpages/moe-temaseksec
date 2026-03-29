@@ -31,10 +31,8 @@ CCA and School.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>TRAINING PLATFORM</p>
+<p>CCE lessons: Everyday Leadership &amp; VIA Leaders Training</p>
 <ul data-tight="true" class="tight">
-<li>
-<p>CCE lessons: Everyday Leadership</p>
-</li>
 <li>
 <p>Self-Leadership</p>
 </li>
@@ -68,6 +66,9 @@ CCA and School.</p>
 </li>
 <li>
 <p>National Education Learning Journeys Project</p>
+</li>
+<li>
+<p>House Mentoring</p>
 </li>
 </ul>
 </td>
@@ -145,9 +146,7 @@ CCA and School.</p>
 <p>Student Leadership Meetings</p>
 </li>
 <li>
-<p>Mentoring
-<br>
-</p>
+<p>Mentoring</p>
 </li>
 </ul>
 </td>
