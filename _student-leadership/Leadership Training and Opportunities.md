@@ -25,30 +25,51 @@ CCA and School.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Level: Class</strong>
-</p>
+<h4><strong>Level: Class</strong></h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TRAINING PLATFORM
-<br>
-<br>- CCE lessons: Everyday Leadership
-<br>- Self-Leadership
-<br>- Planning
-<br>- Decision Making
-<br>- Facilitating</p>
+<p>TRAINING PLATFORM</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CCE lessons: Everyday Leadership</p>
+</li>
+<li>
+<p>Self-Leadership</p>
+</li>
+<li>
+<p>Planning</p>
+</li>
+<li>
+<p>Decision Making</p>
+</li>
+<li>
+<p>Facilitating</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>APPLICATION
-<br>
-<br>- VIA Leaders
-<br>- Go Make A Difference (M.A.D.) Fund-Raising Project
-<br>- VIA Projects (for Children and Youth)
-<br>- VIA Projects (for the Elderly and Needy)
-<br>- National Education Learning Journeys Project</p>
+<p>APPLICATION</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>VIA Leaders</p>
+</li>
+<li>
+<p>Go Make A Difference (M.A.D.) Fund-Raising Project</p>
+</li>
+<li>
+<p>VIA Projects (for Children and Youth)</p>
+</li>
+<li>
+<p>VIA Projects (for the Elderly and Needy)</p>
+</li>
+<li>
+<p>National Education Learning Journeys Project</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -60,24 +81,33 @@ CCA and School.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Level: CCA</strong>
-</p>
+<h4><strong>Level: CCA</strong></h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TRAINING PLATFORM
-<br>
-<br>CCA Leadership Training</p>
+<p>TRAINING PLATFORM</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CCA Leadership Training</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>APPLICATION
-<br>
-<br>- Competitions
-<br>- Events
-<br>- Performances</p>
+<p>APPLICATION</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Competitions</p>
+</li>
+<li>
+<p>Events</p>
+</li>
+<li>
+<p>Performances</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -89,35 +119,60 @@ CCA and School.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Level: School</strong>
-</p>
+<h4><strong>Level: School</strong></h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TRAINING PLATFORM
-<br>
-<br>- Workshops
-<br>- Sec 1 Student Leaders Induction
-<br>- Student Leaders Convention
-<br>- Student Leadership Camps
-<br>- Student Leadership Training Days
-<br>- Student Leadership Meetings
-<br>- Mentoring
+<p>TRAINING PLATFORM</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Workshops</p>
+</li>
+<li>
+<p>Sec 1 Student Leaders Induction</p>
+</li>
+<li>
+<p>Student Leaders Convention</p>
+</li>
+<li>
+<p>Student Leadership Camps</p>
+</li>
+<li>
+<p>Student Leadership Training Days</p>
+</li>
+<li>
+<p>Student Leadership Meetings</p>
+</li>
+<li>
+<p>Mentoring
 <br>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>APPLICATION
-<br>
-<br>- Examples of events organized by the Leadership Groups
-<br>- All Staff Day
-<br>- iamAWARE
-<br>- Sports Challenge
-<br>- Gratitude Week
-<br>- NE Events</p>
+<br>Examples of events organized by the Leadership Groups</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>All Staff Day</p>
+</li>
+<li>
+<p>iamAWARE</p>
+</li>
+<li>
+<p>Sports Challenge</p>
+</li>
+<li>
+<p>Gratitude Week</p>
+</li>
+<li>
+<p>NE Events</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
