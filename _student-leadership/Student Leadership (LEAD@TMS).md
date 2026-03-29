@@ -4,10 +4,17 @@ permalink: /temasek-experience/student-leadership-lead-tms/
 description: ""
 variant: tiptap
 ---
-<h3>LEADERSHIP @ TEMASEK</h3>
+<h2>LEADERSHIP @ TEMASEK</h2>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/U2oiQrwWGOI?si=nujvHpxpHqZxLcsl"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/U2oiQrwWGOI?si=nujvHpxpHqZxLcsl"></iframe>
 </div>
+<h2>Temasek Leadership Academy</h2>
+<p>The Temasek Leadership Academy is a comprehensive programme that develops
+ALL Temasekians in leadership skills and competencies.</p>
+<p>From being mentors and VIA Leadership for all students to being in formal
+leadership roles like the 5 leadership groups, house captains and CCA leaders,
+every Temasekian is given leadership skills and knowledge at the level
+they are interested to be developed in.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
