@@ -4,18 +4,25 @@ permalink: /student-leadership/leadership-training-and-opportunities/
 description: ""
 variant: tiptap
 ---
+<h2>Temasek Leadership Academy</h2>
 <p>All students in Temasek have multiple opportunities to develop their leadership
-qualities and skills. As such, there are deliberate efforts to tier the
-training and the application opportunities.</p>
+qualities and skills. As such, there are deliberate efforts to tier the <strong><u>training</u></strong> and
+the <strong><u>application opportunities</u></strong>.</p>
 <p>Customised training is provided for students for their specific roles
 and responsibilities. Various platforms are also given for students to
 initiate, organise and manage events as well as projects to apply the learning
 that has been taught. Various platforms are also provided for students
 to initiate, organise and manage events as well as projects to apply their
 learning.</p>
+<h3>Content</h3>
+<p>The content for the training is drawn from multiple sources including:</p>
+<p>1) Kouzes and Posner's The Leadership Challenge</p>
+<p>2) Robert Greenleaf's Servant Leadership</p>
+<p>3) Tim Elmore's Habitudes</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2020%20SLC%205.png">
 </div>
+<h3>Leadership Opportunities</h3>
 <p>These extensive opportunities are provided across three levels: Class,
 CCA and School.</p>
 <table style="minWidth: 25px">
