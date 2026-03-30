@@ -7,7 +7,7 @@ third_nav_title: Upcoming Events
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026_TMS_Combined_Concert_Logo.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026_TAP_DACT_Concert__Redeemed_.png">
 </div>
 <p>The Temasek cares for our community! And because we care, we will be raising
 funds for President's Challenge (PC), our partner in supporting the community
@@ -21,49 +21,8 @@ and we welcome donations of any amount!</p>
 <p>To thank you for making a difference, every $10 donation will entitle
 you to ONE ticket for TAP:DACT, a combined concert to thank YOU for giving
 to PC!</p>
-<p>Click <a href="https://go.gov.sg/2026TAP-DACT" rel="noopener nofollow" target="_blank">here</a> or
-scan the code below to make your donation!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/2026_QR_Code_for_PC.png">
-</div>
-<p>In the form…</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong><u>Location Code</u></strong>
-<br>No action needed</p>
-</li>
-<li>
-<p><strong><u>School Name</u></strong>
-<br>Select “Temasek Secondary School”</p>
-</li>
-<li>
-<p><strong><u>Type of Payments</u></strong>
-<br>Select “Sale of Items”</p>
-</li>
-<li>
-<p><strong><u>Full Name of Payer</u></strong>
-<br>Input your name</p>
-</li>
-<li>
-<p><strong><u>Student’s Name</u></strong>
-<br>Input your child’s name
-<br>If you are alumni/family/friend, key in “NA”</p>
-</li>
-<li>
-<p><strong><u>Student’s Class</u></strong>
-<br>Input your child’s class
-<br>If you are alumni/family/friend, key in “NA”</p>
-</li>
-<li>
-<p><strong><u>Amount</u></strong>
-<br>Type in amount that you want to donate.
-<br>For every $10 donation, ONE ticket is entitled to you!</p>
-</li>
-<li>
-<p><strong><u>Email Address</u></strong>
-<br>Type in your e-mail address</p>
-</li>
-</ol>
+<h4>PLEASE NOTE THAT ALL ONLINE DONATIONS ARE STOPPED AS ALL ONLINE TICKETS HAVE BEEN REDEEMED.</h4>
+<h4>THANK YOU FOR SUPPORTING THE PRESIDENT'S CHALLENGE!</h4>
 <p>Details of the concert are:
 <br>Date: 30 April 2026 (Thursday)
 <br>Time: 7.30-9.45pm (Doors Open @ 7.00pm)
