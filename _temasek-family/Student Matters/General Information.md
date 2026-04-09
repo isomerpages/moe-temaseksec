@@ -18,8 +18,6 @@ variant: tiptap
 <br>Casco Office Contact: 6547 4204 (9am - 5pm)
 <br>Website: tmss@cascoedsupply.com.sg / order@cascoedsupply.com.sg&nbsp;</p>
 <h2>SCHOOL UNIFORM</h2>
-<p><strong>Beau Voix Uniform</strong>
-</p>
 <p></p>
 <p><strong>Walk-in to retail store</strong>
 </p>
