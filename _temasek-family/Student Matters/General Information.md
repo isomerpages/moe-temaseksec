@@ -8,7 +8,7 @@ variant: tiptap
 <h2>SCHOOL BOOKSHOP</h2>
 <p><strong>Operating hours of the School Bookshop</strong>
 <br>Monday - Friday
-<br>From 9.00a.m. to 3.00p.m.
+<br>From 8.00am to 3.00pm
 <br>
 </p>
 <p><strong>Address and Contact of Bookshop Vendor</strong>
@@ -16,9 +16,8 @@ variant: tiptap
 <br>53 Ubi Ave 1, Paya, Ubi Industrial Park, #05-54, 408564
 <br>
 </p>
-<p></p>
-<p>School Bookshop Contact: 62839388 (9am - 3pm)
-<br>Casco Office Contact: 6547 4204 (9am - 5pm)
+<p>School Bookshop Contact: 62839388 (8.00am - 3.00pm)
+<br>Casco Office Contact: 6547 4204 (9.00am - 5.00pm)
 <br>Website: tmss@cascoedsupply.com.sg / order@cascoedsupply.com.sg&nbsp;</p>
 <h2>SCHOOL UNIFORM</h2>
 <p>
@@ -27,8 +26,8 @@ variant: tiptap
 <br><strong>Operating hours of Beau Voix Uniform</strong>
 <br>
 <br>Monday to Friday
-<br>10am-5pm
-<br>Lunch break: 12pm-1pm
+<br>10.00am-5.00pm
+<br>Lunch break: 12.00pm-1.00pm
 <br>
 <br>For November and December period, strictly by appointment only.
 <br>
