@@ -8,9 +8,7 @@ variant: tiptap
 <h2>SCHOOL BOOKSHOP</h2>
 <p><strong>Operating hours of the School Bookshop</strong>
 <br>Monday - Friday
-<br>From 8.00am to 3.00pm
-<br>
-</p>
+<br>8.00am to 3.00pm (school term)</p>
 <p><strong>Address and Contact of Bookshop Vendor</strong>
 <br>Casco Educational Supply
 <br>53 Ubi Ave 1, Paya, Ubi Industrial Park, #05-54, 408564
