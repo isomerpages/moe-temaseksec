@@ -23,7 +23,7 @@ and we welcome donations of any amount!</p>
 <p>To thank you for making a difference, every $10 donation will entitle
 you to ONE ticket for TAP:DACT, a combined concert to thank YOU for giving
 to PC!</p>
-<h4>PLEASE NOTE THAT ALL ONLINE DONATIONS ARE STOPPED AS ALL ONLINE TICKETS HAVE BEEN REDEEMED. </h4>
+<h4>PLEASE NOTE THAT ALL ONLINE DONATIONS ARE STOPPED AS ALL ONLINE TICKETS HAVE BEEN REDEEMED.</h4>
 <h4><strong>Do note there will be no more redemptions for tickets for donations made on and after 17 April 2026.</strong></h4>
 <p></p>
 <h4>THANK YOU FOR SUPPORTING THE PRESIDENT'S CHALLENGE!</h4>
