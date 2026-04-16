@@ -91,7 +91,7 @@ negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
-<p></p>
+<p>The opt out form for eTeens can be found <a href="/files/Opt_out_form_etTeens_CDA.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h3>Information for Parents</h3>
 <p>Parents may opt their children out of the Sexuality Education lessons,
 eTeens and/or supplementary sexuality education programmes by MOE-approved
