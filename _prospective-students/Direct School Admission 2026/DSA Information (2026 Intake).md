@@ -23,7 +23,7 @@ and successful applicants will join Temasek Secondary School in January
 <p>For more information on this year’s DSA-Sec Exercise for Sec 1 admission
 for 2027, please refer to MOE’s DSA centralised application portal. <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
-<p><strong>DSA-Sec to Temasek Secondary School: Domains and Criteria </strong>
+<p><strong>DSA-Sec to Temasek Secondary School: Domains and Criteria</strong>
 </p>
 <p>In line with the school’s focus on holistic development to nurture leaders
 of Character and Intellect, we are looking for promising Primary 6 students
@@ -168,8 +168,29 @@ the area of talent.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
+<p>Only shortlisted applicants will be notified via email of the date and
+time to attend the audition/trial/selection test via email.</p>
+<p>Shortlisted candidates for the auditions/trials will be informed via email.</p>
+<p>Applicants who do not have prior experience may also apply. The school
+will assess applicants based on the selection criteria, which may include
+assessing the potential of the applicants.</p>
+<p>Note: Meeting all the criteria does not guarantee the student will be
+shortlisted/be given an offer. The decision of the Selection Panel on the
+DSA-Sec application is final. The school reserves the right not to release
+the reasons for non-selection of applicants and/or the results of the trials/auditions/aptitude
+test and/or the interview.</p>
+<p>Students who are successfully admitted to the school via DSA are expected
+to honour their commitment to the school, and participate in the training/activities
+related to the DSA talent they are selected for from year 1-4.</p>
+<p>Information and Application:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application Process for DSA Sec
+1 Admission 2027 <em>(Please check again in May 2026)</em>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frequently Asked Question (FAQ) <em>(Please check again in May 2026)</em>
+</p>
+<p>For further enquiries, please contact Ms Kamilah at 6449 5020 (General
+Office) or email to <a href="mailto:temasek_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">temasek_ss@moe.edu.sg</a>. Kindly indicate
+“DSA 2027 Application Enquiry” in your email subject.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_DSA_Outreach_Poster.png">
 </div>
