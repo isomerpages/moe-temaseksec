@@ -19,12 +19,13 @@ our school through the Direct Schools Admission (DSA) exercise held once
 each year.</p>
 <p>Primary 6 students are welcome to participate in the DSA-Sec Exercise
 and successful applicants will join Temasek Secondary School in January
-2026.&nbsp;&nbsp;</p>
+2027.</p>
 <p>For more information on this year’s DSA-Sec Exercise for Sec 1 admission
-for 2026, please refer to MOE’s DSA centralised application portal. <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+for 2027, please refer to MOE’s DSA centralised application portal. <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
-<p><strong>DSA-Sec to Temasek Secondary School: Domains and Criteria</strong>&nbsp;
-<br>In line with the school’s focus on holistic development to nurture leaders
+<p><strong>DSA-Sec to Temasek Secondary School: Domains and Criteria</strong>
+</p>
+<p>In line with the school’s focus on holistic development to nurture leaders
 of Character and Intellect, we are looking for promising Primary 6 students
 who demonstrate talent and interest in the following:
 <br>
@@ -62,7 +63,7 @@ who demonstrate talent and interest in the following:
 </tbody>
 </table>
 <p>Successful applicants will be enrolled in Temasek Secondary School in
-January 2026.
+January 2027.
 <br>
 </p>
 <p>Students will be assessed on their ability in the talent and leadership
@@ -93,6 +94,7 @@ the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
 <h2>Important dates to note</h2>
+<p>More information will be shared in May 2026.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -117,10 +119,10 @@ the area of talent.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 May 2025</p>
+<p>TBC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 June 2025 (3pm)</p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -129,10 +131,10 @@ the area of talent.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 June 2025</p>
+<p>TBC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 September 2025</p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -141,10 +143,10 @@ the area of talent.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25 August 2025</p>
+<p>TBC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 September 2025</p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -153,7 +155,7 @@ the area of talent.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>End October</p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -161,26 +163,37 @@ the area of talent.</p>
 <p><strong>DSA Allocation</strong> Outcome</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>End Nov</p>
+<p>TBC</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>Only shortlisted applicants will be notified via email of the date and
 time to attend the audition/trial/selection test via email.</p>
-<p>Shortlisted candidates for the auditions/trials will be informed via email <strong>by 1 August 2025.</strong>
+<p>Shortlisted candidates for the auditions/trials will be informed via email.</p>
+<p>Applicants who do not have prior experience may also apply. The school
+will assess applicants based on the selection criteria, which may include
+assessing the potential of the applicants.</p>
+<p>Note: Meeting all the criteria does not guarantee the student will be
+shortlisted/be given an offer. The decision of the Selection Panel on the
+DSA-Sec application is final. The school reserves the right not to release
+the reasons for non-selection of applicants and/or the results of the trials/auditions/aptitude
+test and/or the interview.</p>
+<p>Students who are successfully admitted to the school via DSA are expected
+to honour their commitment to the school, and participate in the training/activities
+related to the DSA talent they are selected for from year 1-4.</p>
+<p>Information and Application:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application Process for DSA Sec
+1 Admission 2027 <em>(Please check again in May 2026)</em>
 </p>
-<h2>Information and Application</h2>
-<p>·&nbsp;&nbsp;<a href="/files/Application_Process_for_DSA_Sec_1_Admission_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Process for DSA Sec 1 Admission 2026</a>
-</p>
-<p>·&nbsp;&nbsp;<a href="/files/FAQ_for_2025_Direct_School_Admission.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Question (FAQ)</a>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frequently Asked Question (FAQ) <em>(Please check again in May 2026)</em>
 </p>
 <p>For further enquiries, please contact Ms Kamilah at 6449 5020 (General
-Office) or email to&nbsp;<strong><a href="mailto:temasek_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">temasek_ss@moe.edu.sg</a></strong>.&nbsp;Kindly
-indicate “DSA 2026 Application Enquiry” in your email subject.</p>
+Office) or email to <a href="mailto:temasek_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">temasek_ss@moe.edu.sg</a>. Kindly indicate
+“DSA 2027 Application Enquiry” in your email subject.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_DSA_Outreach_Poster.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_DSA_Online_Outreach.png">
 </div>
 <p>Find out more about Temasek Secondary School's DSA opportunities in during
 our DSA Online Outreach <a href="https://www.temaseksec.moe.edu.sg/dsa-online-outreach-2025/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>

@@ -50,6 +50,17 @@ training sessions held during the period nearing competitions.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>NSG Girls (B Div) Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Air Rifle Girls (B Div) Individual</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -61,10 +72,10 @@ training sessions held during the period nearing competitions.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B Division Girls Team (Pistol &amp; Rifle)</p>
+<p>NSG Boys (B Div) Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4th</p>
+<p>8th</p>
 </td>
 </tr>
 <tr>
@@ -72,10 +83,32 @@ training sessions held during the period nearing competitions.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B Division Boys Team (Pistol &amp; Rifle)</p>
+<p>NSG Girls (C Div) Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8th</p>
+<p>7th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Air Rifle Girls (C Div) Individual</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Boys (C Div) Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7th</p>
 </td>
 </tr>
 <tr>
@@ -565,7 +598,7 @@ training sessions held during the period nearing competitions.</p>
 </tbody>
 </table>
 <h3>DSA Trial details:</h3>
-<p><strong>Trial period:</strong> Between 30 Jun 2025 to 4 Sep 2025
+<p><strong>Trial period:</strong> TBC
 <br><strong>Venue:</strong> Temasek Secondary School Shooting Range</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -597,19 +630,30 @@ fit (preferably no existing medical conditions)</p>
 <td rowspan="1" colspan="1">
 <p>Applicants should:&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Be in sports t-shirt, shorts/track pants,
-spectacles (if any) and shooting gear (if any)&nbsp;</p>
+spectacles (if any). No personal shooting gear is required/allowed. The
+school will provide all necessary standard items for the trial assessment.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Have a meal at least 2 hours before the
-trial.&nbsp;</p>
+trial.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Have adequate hydration at least half an
-hour before the trial.&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trials will assess on basic psychomotor
-skills and actual firing of air pistol or rifle of participant's choice.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3 basic psychomotor skills will be assessed</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •balance</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •arm strength</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •concentration</p>
+hour before the trial.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trials will assess on applicant’s basic
+psychomotor skills in addition to actual firing of air pistol or rifle
+by applicant.</p>
+<p>The following 3 basic psychomotor skills will be tested to assess the
+potential of the applicant in relation to shooting :</p>
+<p>•balance</p>
+<p>•arm strength</p>
+<p>•concentration</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>&nbsp;</p>
+<p>Note: Meeting all the criteria does not guarantee the student will be
+shortlisted/be given an offer. The decision of the Selection Panel on the
+DSA-Sec application is final. The school reserves the right not to release
+the reasons for non-selection of applicants and/or the results of the trials/auditions/aptitude
+test and/or the interview.</p>
+<p>Students who are successfully admitted to the school via DSA are expected
+to honour their commitment to the school, and participate in the training/activities
+related to the DSA talent they are selected for from year 1-4.</p>
