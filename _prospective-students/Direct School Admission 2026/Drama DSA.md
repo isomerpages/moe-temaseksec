@@ -225,7 +225,7 @@ Festival Arts Presentation.</p>
 </tbody>
 </table>
 <h3>DSA Audition details</h3>
-<p><strong>Audition period:</strong> TBA</p>
+<p><strong>Audition period:</strong> TBC</p>
 <p><strong>Venue:</strong> Temasek Secondary School&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
