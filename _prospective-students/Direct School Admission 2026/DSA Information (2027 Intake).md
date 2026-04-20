@@ -1,5 +1,5 @@
 ---
-title: DSA Information (2026 Intake)
+title: DSA Information (2027 Intake)
 permalink: /prospective-students/direct-school-admission/information/
 description: ""
 third_nav_title: Direct School Admission 2026
