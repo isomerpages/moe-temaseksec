@@ -103,8 +103,7 @@ for events. Student Leaders will also have opportunities to attend training
 camps and days throughout the year. Student Leaders will be expected to
 organise and facilitate events that they are in charge of.</p>
 <p>Do take a look at the LEAD@TMS to have an idea of some events each leadership
-group will run.</p>
-<p>https://www.temaseksec.moe.edu.sg/co-curriculum/student-leadership-lead-tms/</p>
+group will run <a href="https://www.temaseksec.moe.edu.sg/co-curriculum/student-leadership-lead-tms/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h5>3. What are the requirements for a student to apply for DSA Student Leadership? Must an applicant have any student leadership experience (e.g. Prefect, Class Monitor, CCA Leader, etc.) to apply for DSA Student Leadership?</h5>
 <p>There are no hard requirements: Applicants <strong><em>do not need to have a leadership role</em></strong> to
 be considered for DSA Leadership. However, having leadership experience
@@ -120,14 +119,17 @@ assessed are the same, as stated in the Pre-Requisites.</p>
 The number of students accepted via DSA Student Leadership varies, depending
 on the performance of applicants across all DSA Areas (i.e. Choir, Dance,
 Drama, Shooting and Student Leadership).</p>
-<p>https://www.todayonline.com/singapore/direct-school-admission-exercise-cap-raised-20-all-schools-moe</p>
-<h5>5. If my child is posted to Temasek Secondary School through DSA, how will my child's academic results affect the stream that he will be assigned?</h5>
+<p><a href="https://www.todayonline.com/singapore/direct-school-admission-exercise-cap-raised-20-all-schools-moe" rel="noopener nofollow" target="_blank">https://www.todayonline.com/singapore/direct-school-admission-exercise-cap-raised-20-all-schools-moe</a>
+</p>
+<p>5. If my child is posted to Temasek Secondary School through DSA, how
+will my child's academic results affect the stream that he will be assigned?</p>
 <p>From 2024, there will be no more streams for Secondary 1 students. All
 applicants will be given a posting group based on the PSLE results. As
 our school offers vacancies for all three posting groups, a child (assigned
 any posting group) who is offered a place via DSA will be posted to Temasek
 Secondary School.</p>
-<p>https://www.channelnewsasia.com/singapore/secondary-school-subject-based-banding-posting-groups-form-classes-3311176</p>
+<p><a href="https://www.channelnewsasia.com/singapore/secondary-school-subject-based-banding-posting-groups-form-classes-3311176" rel="noopener nofollow" target="_blank">https://www.channelnewsasia.com/singapore/secondary-school-subject-based-banding-posting-groups-form-classes-3311176</a>
+</p>
 <h5>6. If a child is accepted into Temasek Secondary School via DSA, will he be in TIP (Temask Ignis Programme)?</h5>
 <p>TIP is a distinct programme in the school that complements LEAD@TMS. DSA
 students will need to apply for TIP when applications are open in Semester
