@@ -33,6 +33,17 @@ as well as in competitions like the Super 24 Dance showcase.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -152,28 +163,6 @@ as well as in competitions like the Super 24 Dance showcase.</p>
 <p>Champion</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2013</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 75px">
@@ -193,6 +182,17 @@ as well as in competitions like the Super 24 Dance showcase.</p>
 <th rowspan="1" colspan="1">
 <p>Venue</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAP:DACT!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Drama Centre</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -288,8 +288,7 @@ as well as in competitions like the Super 24 Dance showcase.</p>
 <br>
 </p>
 <h3>DSA Audition details:</h3>
-<p>&nbsp;<strong>Audition period:</strong>&nbsp;Between 30 Jun 2025 to 4
-Sep 2025</p>
+<p>&nbsp;<strong>Audition period:</strong> TBA</p>
 <p><strong>Venue:</strong>&nbsp;Temasek Secondary School</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -337,11 +336,9 @@ Sep 2025</p>
 <p>train twice a week, and participate in additional training sessions nearing
 competitions.&nbsp;</p>
 </li>
-<li>
+</ul>
 <p>[Preferably] have 3 years of prior experience dancing in school or external
 dance schools</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicants should:&nbsp;</p>
@@ -356,12 +353,9 @@ dance schools</p>
 <p>be prepared to participate in 2 rounds of auditions</p>
 </li>
 </ul>
-<p></p>
-<p><strong>Round 1</strong> 
-<br>All participants should be prepared to learn a simple 4-eights dance routine.
-A video will be taken of all participants.</p>
-<p></p>
-<p><strong>Round 2</strong> 
+<p><strong>Round 1</strong>
+<br>All participants should be prepared to learn a 4-eights dance routine</p>
+<p><strong>Round 2</strong>
 <br>Selected participants would be given a callback to perform a 1 minute
 solo dance (any genre) to your choice of music on a later date</p>
 </td>
