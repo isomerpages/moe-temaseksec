@@ -242,7 +242,7 @@ achieved Distinction at the Singapore Youth Festival Arts Presentation.</p>
 </tbody>
 </table>
 <h3>DSA Audition details:</h3>
-<p><strong>Audition period:</strong> Between 30 Jun 2025 to 4 Sep 2025</p>
+<p><strong>Audition period:</strong> TBC</p>
 <p><strong>Venue:</strong> Temasek Secondary School</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -286,7 +286,6 @@ of a team.&nbsp;</p>
 in additional training sessions nearing competitions.&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\[Preferably\] have prior experience
 singing in a school or external choir.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicants should:&nbsp;</p>
@@ -300,6 +299,8 @@ harmonic minor scales and arpeggios.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be prepared to echo sing a
 tune&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be able to clap to a rhythm.</p>
+<p>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; able to sing the higher or
+lower pitch of a two-note chord</p>
 </td>
 </tr>
 </tbody>
