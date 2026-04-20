@@ -94,7 +94,7 @@ the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
 <h2>Important dates to note</h2>
-<p>More information will be shared in May.</p>
+<p>More information will be shared in May 2026.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
