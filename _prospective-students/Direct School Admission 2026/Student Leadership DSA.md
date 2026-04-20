@@ -81,6 +81,14 @@ skills
 </tr>
 </tbody>
 </table>
+<p>Note: Meeting all the criteria does not guarantee the student will be
+shortlisted/be given an offer. The decision of the Selection Panel on the
+DSA-Sec application is final. The school reserves the right not to release
+the reasons for non-selection of applicants and/or the results of the trials/auditions/aptitude
+test and/or the interview.</p>
+<p>Students who are successfully admitted to the school via DSA are expected
+to honour their commitment to the school, and participate in the training/activities
+related to the DSA talent they are selected for from year 1-4.</p>
 <h3>Frequently Asked Questions</h3>
 <h5>1. Do DSA Student Leaders need to take up a CCA?</h5>
 <p>All students will need to have a CCA as CCAs are an integral part of a
