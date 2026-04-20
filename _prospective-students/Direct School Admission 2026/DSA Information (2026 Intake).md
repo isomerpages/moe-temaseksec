@@ -191,8 +191,9 @@ related to the DSA talent they are selected for from year 1-4.</p>
 <p>For further enquiries, please contact Ms Kamilah at 6449 5020 (General
 Office) or email to <a href="mailto:temasek_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">temasek_ss@moe.edu.sg</a>. Kindly indicate
 “DSA 2027 Application Enquiry” in your email subject.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_DSA_Outreach_Poster.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_DSA_Online_Outreach.png">
 </div>
 <p>Find out more about Temasek Secondary School's DSA opportunities in during
 our DSA Online Outreach <a href="https://www.temaseksec.moe.edu.sg/dsa-online-outreach-2025/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
