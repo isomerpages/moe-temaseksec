@@ -196,7 +196,7 @@ Office) or email to <a href="mailto:temasek_ss@moe.edu.sg" rel="noopener norefer
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_DSA_Online_Outreach.png">
 </div>
 <p>Find out more about Temasek Secondary School's DSA opportunities in during
-our DSA Online Outreach <a href="https://www.temaseksec.moe.edu.sg/dsa-online-outreach-2025/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+our DSA Online Outreach <a href="https://www.temaseksec.moe.edu.sg/dsa-online-outreach-2026/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>You can also find out more about our DSA Offerings here:</p>
 <ul data-tight="true" class="tight">
 <li>
