@@ -50,6 +50,17 @@ training sessions held during the period nearing competitions.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>NSG Girls (B Div) Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Air Rifle Girls (B Div) Individual</p>
 </td>
 <td rowspan="1" colspan="1">
