@@ -72,10 +72,10 @@ training sessions held during the period nearing competitions.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B Division Girls Team (Pistol &amp; Rifle)</p>
+<p>NSG Boys (B Div) Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4th</p>
+<p>8th</p>
 </td>
 </tr>
 <tr>
@@ -83,10 +83,43 @@ training sessions held during the period nearing competitions.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B Division Boys Team (Pistol &amp; Rifle)</p>
+<p>NSG Girls (C Div) Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8th</p>
+<p>7th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Air Rifle Girls (C Div) Individual</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
