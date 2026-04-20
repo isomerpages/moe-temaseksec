@@ -639,9 +639,8 @@ hour before the trial.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trials will assess on applicant’s basic
 psychomotor skills in addition to actual firing of air pistol or rifle
 by applicant.</p>
-<p>The following 3 basic psychomotor skills</p>
-<p>will be tested to assess the potential of the</p>
-<p>applicant in relation to shooting :</p>
+<p>The following 3 basic psychomotor skills will be tested to assess the
+potential of the applicant in relation to shooting :</p>
 <p>•balance</p>
 <p>•arm strength</p>
 <p>•concentration</p>
