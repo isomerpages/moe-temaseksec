@@ -630,17 +630,21 @@ fit (preferably no existing medical conditions)</p>
 <td rowspan="1" colspan="1">
 <p>Applicants should:&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Be in sports t-shirt, shorts/track pants,
-spectacles (if any) and shooting gear (if any)&nbsp;</p>
+spectacles (if any). No personal shooting gear is required/allowed. The
+school will provide all necessary standard items for the trial assessment.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Have a meal at least 2 hours before the
-trial.&nbsp;</p>
+trial.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Have adequate hydration at least half an
-hour before the trial.&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trials will assess on basic psychomotor
-skills and actual firing of air pistol or rifle of participant's choice.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3 basic psychomotor skills will be assessed</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •balance</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •arm strength</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; •concentration</p>
+hour before the trial.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trials will assess on applicant’s basic
+psychomotor skills in addition to actual firing of air pistol or rifle
+by applicant.</p>
+<p>The following 3 basic psychomotor skills</p>
+<p>will be tested to assess the potential of the</p>
+<p>applicant in relation to shooting :</p>
+<p>•balance</p>
+<p>•arm strength</p>
+<p>•concentration</p>
 </td>
 </tr>
 </tbody>
