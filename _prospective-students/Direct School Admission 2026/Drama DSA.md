@@ -12,14 +12,13 @@ and prop masters.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="p1.jpg" src="/images/p1.jpg">
 </div>
-<p>The members all uphold a common goal to develop stagecraft and they abide
+<p>The members all uphold a common goal to develop stagecraft, and they abide
 by the values of teamwork, creativity, confidence building and performance
 excellence. In the past few years, Serious Play has performed in many school-based
-events such as Evening Under the Stars, which is an extravaganza of drama
-performances, the Singapore Youth Festival Arts Presentation, as well as
-Destination Imagination.</p>
-<p>Besides training twice a week, the members also get together for drama
-appreciation excursions.</p>
+events, such as Racial Harmony Day and the Combined Aesthetics Concert.
+Serious Play has also put up a strong performance at the Singapore Youth
+Festival Arts Presentation.</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -137,17 +136,6 @@ appreciation excursions.</p>
 <p>3rd Placing</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 75px">
@@ -167,6 +155,17 @@ appreciation excursions.</p>
 <th rowspan="1" colspan="1">
 <p>VENUE</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAP:DACT!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Drama Centre</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -226,8 +225,8 @@ appreciation excursions.</p>
 </tbody>
 </table>
 <h3>DSA Audition details</h3>
-<p><strong>Audition period:</strong> Between 30 Jun 2025 to 4 Sep 2025 <strong>Venue:</strong> Temasek
-Secondary School&nbsp;</p>
+<p><strong>Audition period:</strong> TBA</p>
+<p><strong>Venue:</strong> Temasek Secondary School&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -256,12 +255,14 @@ and curriculum time</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Train twice a week, and participate
 in additional training sessions nearing competitions or performances.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speak clearly and expressively</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\[Preferably\] Past experience
+performing in a play or other types of performances.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicants should:&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Be in your school uniform.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Be in school uniform.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Be prepared to read and act out a scene
-or from an excerpt of a play.</p>
+or an excerpt of a play.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Be prepared to improvise a short 5 min
 play either individually or with members of a group.</p>
 <p>&nbsp;</p>
