@@ -241,9 +241,6 @@ variant: tiptap
 <p>16 October (Fri)
 <br><strong>Young Leaders Sharing</strong>
 </p>
-<p>20 October (Mon)
-<br><strong>Deepavali</strong>
-</p>
 <p>23 October (Fri)
 <br><strong>Last Day of School</strong>
 </p>
@@ -262,6 +259,9 @@ variant: tiptap
 </p>
 <p>5-6 November (Thu, Fri)
 <br><strong>Young Leaders Programme</strong>
+</p>
+<p>9 November (Mon)
+<br><strong>Off-in-Lieu</strong>  <strong>Deepavali</strong>
 </p>
 <p>16-20 November (Mon-Fri)
 <br><strong>Student Leaders Camps</strong>
