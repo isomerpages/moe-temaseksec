@@ -20,7 +20,7 @@ devices)</p>
 <p>School internet networks</p>
 <p>School computer labs, software (e.g. productivity software, online tools),
 peripherals (e.g. projectors, printers, cameras)</p>
-<p>GENERAL</p>
+<h4><strong>GENERAL</strong></h4>
 <p>Temasekians are responsible for using school-owned ICT facilities, equipment
 and resources for the purpose of learning. Personal use such as gaming
 and engaging in social media platforms is strictly prohibited.</p>
