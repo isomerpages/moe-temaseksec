@@ -45,24 +45,14 @@ not be held responsible for any damage, theft or loss of their devices.</p>
 <p>Temasekians are reminded that the use of learning devices and school’s
 EdTech resources should solely be for the purpose of learning.</p>
 <h4><strong>ACCOUNT</strong></h4>
-<ol>
-<li>
 <p>Temasekians are responsible and accountable for all activities conducted
 via their own account.</p>
-</li>
-<li>
 <p>Temasekians are responsible for the security of their account IDs and&nbsp;passwords.&nbsp;All&nbsp;account
 IDs and passwords should not be shared with anyone.</p>
-</li>
-<li>
 <p>Temasekians should change their passwords regularly, at least once in
 6 months.</p>
-</li>
-<li>
 <p>Temasekians are to use their full name as stated in their&nbsp;EZlink&nbsp;cards
 for all account IDs. Aliases, nicknames and pseudonyms are not allowed.</p>
-</li>
-</ol>
 <h4><strong>BEING A RESPONSIBLE DIGITAL CITIZEN</strong></h4>
 <p>1. Temasekians should interact with others in a respectful and responsible
 way. Temasekians should not post online remarks that are</p>
