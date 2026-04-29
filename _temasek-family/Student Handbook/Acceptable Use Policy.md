@@ -14,12 +14,22 @@ all Temasekians use technology safely and responsibly, in line with our
 efforts to develop Temasekians’ digital literacies and nurture digitally
 responsible citizens. ICT facilities, equipment and EdTech resources include
 the following, but are not limited to:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Learning devices (e.g. Personal Learning Devices (PLDs), school-issued
 devices)</p>
+</li>
+<li>
 <p>ICT system accounts (e.g. Singapore Student Learning Space (SLS), iCON)</p>
+</li>
+<li>
 <p>School internet networks</p>
+</li>
+<li>
 <p>School computer labs, software (e.g. productivity software, online tools),
 peripherals (e.g. projectors, printers, cameras)</p>
+</li>
+</ul>
 <h4><strong>GENERAL</strong></h4>
 <p>Temasekians are responsible for using school-owned ICT facilities, equipment
 and resources for the purpose of learning. Personal use such as gaming
@@ -56,15 +66,29 @@ for all account IDs. Aliases, nicknames and pseudonyms are not allowed.</p>
 <h4><strong>BEING A RESPONSIBLE DIGITAL CITIZEN</strong></h4>
 <p>1. Temasekians should interact with others in a respectful and responsible
 way. Temasekians should not post online remarks that are</p>
-<p>* racially and/or religiously insensitive,</p>
-<p>* vulgar and/or offensive, or</p>
-<p>* hurtful to others.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>racially and/or religiously insensitive,</p>
+</li>
+<li>
+<p>vulgar and/or offensive, or</p>
+</li>
+<li>
+<p>hurtful to others.</p>
+</li>
+</ul>
 <p>2. Temasekians should not use any devices to</p>
-<p>* store, modify, create or share content (e.g. documents, presentations,
+<ul data-tight="true" class="tight">
+<li>
+<p>store, modify, create or share content (e.g. documents, presentations,
 pictures and videos) that is inappropriate (e.g. indecent, pornographic,
 defamatory, hurtful to self or others).</p>
-<p>* make threats, cause harassment or embarrassment, impersonate or intimidate
+</li>
+<li>
+<p>make threats, cause harassment or embarrassment, impersonate or intimidate
 others.</p>
+</li>
+</ul>
 <p>3. Temasekians should not use MOE/school-deployed ICT system accounts
 for any commercial activities (e.g. buying and selling of goods and services).</p>
 <h4><strong>USING YOUR PLD</strong></h4>
