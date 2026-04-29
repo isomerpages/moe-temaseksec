@@ -14,12 +14,22 @@ all Temasekians use technology safely and responsibly, in line with our
 efforts to develop Temasekians’ digital literacies and nurture digitally
 responsible citizens. ICT facilities, equipment and EdTech resources include
 the following, but are not limited to:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Learning devices (e.g. Personal Learning Devices (PLDs), school-issued
 devices)</p>
+</li>
+<li>
 <p>ICT system accounts (e.g. Singapore Student Learning Space (SLS), iCON)</p>
+</li>
+<li>
 <p>School internet networks</p>
+</li>
+<li>
 <p>School computer labs, software (e.g. productivity software, online tools),
 peripherals (e.g. projectors, printers, cameras)</p>
+</li>
+</ul>
 <h4><strong>GENERAL</strong></h4>
 <p>Temasekians are responsible for using school-owned ICT facilities, equipment
 and resources for the purpose of learning. Personal use such as gaming
@@ -56,45 +66,46 @@ for all account IDs. Aliases, nicknames and pseudonyms are not allowed.</p>
 <h4><strong>BEING A RESPONSIBLE DIGITAL CITIZEN</strong></h4>
 <p>1. Temasekians should interact with others in a respectful and responsible
 way. Temasekians should not post online remarks that are</p>
-<p>* racially and/or religiously insensitive,</p>
-<p>* vulgar and/or offensive, or</p>
-<p>* hurtful to others.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>racially and/or religiously insensitive,</p>
+</li>
+<li>
+<p>vulgar and/or offensive, or</p>
+</li>
+<li>
+<p>hurtful to others.</p>
+</li>
+</ul>
 <p>2. Temasekians should not use any devices to</p>
-<p>* store, modify, create or share content (e.g. documents, presentations,
+<ul data-tight="true" class="tight">
+<li>
+<p>store, modify, create or share content (e.g. documents, presentations,
 pictures and videos) that is inappropriate (e.g. indecent, pornographic,
 defamatory, hurtful to self or others).</p>
-<p>* make threats, cause harassment or embarrassment, impersonate or intimidate
+</li>
+<li>
+<p>make threats, cause harassment or embarrassment, impersonate or intimidate
 others.</p>
+</li>
+</ul>
 <p>3. Temasekians should not use MOE/school-deployed ICT system accounts
 for any commercial activities (e.g. buying and selling of goods and services).</p>
 <h4><strong>USING YOUR PLD</strong></h4>
-<ol data-tight="true" class="tight">
-<li>
 <p>Temasekians are responsible for their PLDs. In the event of loss or theft
 of the device, Temasekians must make a police report and report the matter
 to the school.</p>
-</li>
-<li>
 <p>In order to have a positive learning experience, Temasekians should ensure
 that their PLDs are fully charged before bringing it to school. Temasekians
 should only charge their PLDs at the school’s designated charging stations.
-Please refer to the <a href="https://www.temaseksec.moe.edu.sg/tms-family/students/student-handbook/charging-of-personal-learning-devices-plds/" rel="noopener noreferrer nofollow" target="_blank">Terms of Use</a> for
-more information.</p>
-</li>
-<li>
+Please refer to the Terms of Use for more information.</p>
 <p>Temasekians are reminded to keep their PLDs updated by installing the
 relevant patches and updates when being prompted by the system.</p>
-</li>
-<li>
 <p>All PLDs are installed with a Device Management Application (DMA) to support
 a safe and conducive learning environment.&nbsp; Temasekians should not
 attempt to bypass the DMA.</p>
-</li>
-<li>
 <p>Temasekians are responsible for regularly backing up their learning materials
 in their PLDs to prevent data loss.</p>
-</li>
-</ol>
 <p><strong>For more information, please refer to: <a href="https://go.gov.sg/cw-studentkit" rel="noopener noreferrer nofollow" target="_blank">Student Kit on Cyber Wellness and Learning with a Personal Learning Device (Secondary)</a></strong>
 </p>
 <h4><strong>DIGITAL WELLBEING AND BALANCE</strong></h4>
