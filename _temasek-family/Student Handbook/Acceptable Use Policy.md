@@ -92,33 +92,20 @@ others.</p>
 <p>3. Temasekians should not use MOE/school-deployed ICT system accounts
 for any commercial activities (e.g. buying and selling of goods and services).</p>
 <h4><strong>USING YOUR PLD</strong></h4>
-<ol data-tight="true" class="tight">
-<li>
 <p>Temasekians are responsible for their PLDs. In the event of loss or theft
 of the device, Temasekians must make a police report and report the matter
 to the school.</p>
-</li>
-<li>
 <p>In order to have a positive learning experience, Temasekians should ensure
 that their PLDs are fully charged before bringing it to school. Temasekians
 should only charge their PLDs at the school’s designated charging stations.
-Please refer to the <a href="https://www.temaseksec.moe.edu.sg/tms-family/students/student-handbook/charging-of-personal-learning-devices-plds/" rel="noopener noreferrer nofollow" target="_blank">Terms of Use</a> for
-more information.</p>
-</li>
-<li>
+Please refer to the Terms of Use for more information.</p>
 <p>Temasekians are reminded to keep their PLDs updated by installing the
 relevant patches and updates when being prompted by the system.</p>
-</li>
-<li>
 <p>All PLDs are installed with a Device Management Application (DMA) to support
 a safe and conducive learning environment.&nbsp; Temasekians should not
 attempt to bypass the DMA.</p>
-</li>
-<li>
 <p>Temasekians are responsible for regularly backing up their learning materials
 in their PLDs to prevent data loss.</p>
-</li>
-</ol>
 <p><strong>For more information, please refer to: <a href="https://go.gov.sg/cw-studentkit" rel="noopener noreferrer nofollow" target="_blank">Student Kit on Cyber Wellness and Learning with a Personal Learning Device (Secondary)</a></strong>
 </p>
 <h4><strong>DIGITAL WELLBEING AND BALANCE</strong></h4>
