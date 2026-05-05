@@ -119,10 +119,10 @@ the area of talent.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>6 May 2026(11am)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>2 June 2026 (4.30pm)</p>
 </td>
 </tr>
 <tr>
@@ -131,10 +131,10 @@ the area of talent.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>29 June 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>28 August 2026</p>
 </td>
 </tr>
 <tr>
@@ -143,10 +143,10 @@ the area of talent.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>17 Aug 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>28 August 2026</p>
 </td>
 </tr>
 <tr>
@@ -155,7 +155,7 @@ the area of talent.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>TBC</p>
+<p>19 Oct 2026(9am) to 23 Oct 2026(4.30pm)Late Nov</p>
 </td>
 </tr>
 <tr>
@@ -163,14 +163,17 @@ the area of talent.</p>
 <p><strong>DSA Allocation</strong> Outcome</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>TBC</p>
+<p>Late Nov</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>Only shortlisted applicants will be notified via email of the date and
 time to attend the audition/trial/selection test via email.</p>
-<p>Shortlisted candidates for the auditions/trials will be informed via email.</p>
+<p>Shortlisted candidates for the auditions/trials will be informed via email <strong>by 7 August 2026.</strong> 
+</p>
+<p>All applicants will be notified by email by 28 August 2026 if they have
+been given a confirmed offer OR if they have been unsuccessful.</p>
 <p>Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
@@ -182,7 +185,7 @@ test and/or the interview.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the training/activities
 related to the DSA talent they are selected for from year 1-4.</p>
-<p>Information and Application:</p>
+<h2>Information and Application:</h2>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application Process for DSA Sec
 1 Admission 2027 <em>(Please check again in May 2026)</em>
 </p>
