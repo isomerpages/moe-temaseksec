@@ -188,10 +188,9 @@ test and/or the interview.</p>
 to honour their commitment to the school, and participate in the training/activities
 related to the DSA talent they are selected for from year 1-4.</p>
 <h2>Information and Application:</h2>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application Process for DSA Sec
-1 Admission 2027 <em>(Please check again in May 2026)</em>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Application_Process_for_DSA_Sec_1_Admission_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Process for DSA Sec 1 Admission 2027 </a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frequently Asked Question (FAQ) <em>(Please check again in May 2026)</em>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/FAQ_for_2026_Direct_School_Admission.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Question (FAQ)</a>
 </p>
 <p>For further enquiries, please contact Ms Kamilah at 6449 5020 (General
 Office) or email to <a href="mailto:temasek_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">temasek_ss@moe.edu.sg</a>. Kindly indicate
