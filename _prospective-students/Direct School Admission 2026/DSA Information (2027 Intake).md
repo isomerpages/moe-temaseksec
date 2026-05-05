@@ -170,8 +170,10 @@ the area of talent.</p>
 </table>
 <p>Only shortlisted applicants will be notified via email of the date and
 time to attend the audition/trial/selection test via email.</p>
-<p>Shortlisted candidates for the auditions/trials will be informed via email <strong>by 7 August 2026.</strong> 
-</p>
+<p>You will receive notification from the school <strong>by 7 August 2026</strong>,
+if your child has been shortlisted to undergo Direct School Admission (DSA)
+selection. All applicants will receive their application outcomes between
+17 and 28 Aug 2026.</p>
 <p>All applicants will be notified by email by 28 August 2026 if they have
 been given a confirmed offer OR if they have been unsuccessful.</p>
 <p>Applicants who do not have prior experience may also apply. The school
