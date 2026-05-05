@@ -598,7 +598,7 @@ training sessions held during the period nearing competitions.</p>
 </tbody>
 </table>
 <h3>DSA Trial details:</h3>
-<p><strong>Trial period:</strong> TBC
+<p><strong>Trial period: </strong>29 June 2026 to 28 August 2026
 <br><strong>Venue:</strong> Temasek Secondary School Shooting Range</p>
 <table style="minWidth: 50px">
 <colgroup>
