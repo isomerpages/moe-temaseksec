@@ -225,7 +225,7 @@ Festival Arts Presentation.</p>
 </tbody>
 </table>
 <h3>DSA Audition details</h3>
-<p><strong>Audition period:</strong> TBC</p>
+<p><strong>Audition period:</strong> 29 June 2026 to 28 August 2026</p>
 <p><strong>Venue:</strong> Temasek Secondary School&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
