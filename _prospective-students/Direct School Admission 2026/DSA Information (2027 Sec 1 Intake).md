@@ -122,7 +122,7 @@ the area of talent.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 May 2026(11am)</p>
+<p>6 May 2026(11.00am)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 June 2026 (4.30pm)</p>
