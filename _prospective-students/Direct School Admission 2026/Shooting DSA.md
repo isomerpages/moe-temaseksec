@@ -598,7 +598,7 @@ training sessions held during the period nearing competitions.</p>
 </tbody>
 </table>
 <h3>DSA Trial details:</h3>
-<p><strong>Trial period:</strong> TBC
+<p><strong>Trial period: </strong>29 June 2026 to 28 August 2026
 <br><strong>Venue:</strong> Temasek Secondary School Shooting Range</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -630,8 +630,8 @@ fit (preferably no existing medical conditions)</p>
 <td rowspan="1" colspan="1">
 <p>Applicants should:&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Be in sports t-shirt, shorts/track pants,
-spectacles (if any). No personal shooting gear is required/allowed. The
-school will provide all necessary standard items for the trial assessment.</p>
+spectacles (if any). No personal shooting gear is allowed. The school will
+provide all necessary standard items for the trial assessment.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Have a meal at least 2 hours before the
 trial.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Have adequate hydration at least half an
