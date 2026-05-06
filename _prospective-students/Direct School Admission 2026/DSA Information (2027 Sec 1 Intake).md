@@ -7,21 +7,24 @@ variant: tiptap
 ---
 <p><strong>Direct School Admission-Secondary (DSA-Sec) Exercise</strong>
 </p>
-<p>At Temasek Secondary School, we are guided by our school motto “We Care”
-to provide a nurturing and inclusive environment that develops every child
-holistically. To us, each child is unique and providing them with the optimum
-learning experiences would bring out their talent and imbue them with the
-character and values that would enable them to thrive and learn for life.
-Here, we are always on the lookout for driven individuals who demonstrate
-character traits like resilience and empathy as well as cherish our school
-values of Teamwork, Performance Excellence, Integrity and Care to join
-our school through the Direct Schools Admission (DSA) exercise held once
-each year.</p>
-<p>Primary 6 students are welcome to participate in the DSA-Sec Exercise
-and successful applicants will join Temasek Secondary School in January
-2027.</p>
+<p>At Temasek Secondary School, we are guided by our motto, “We Care,” to
+provide a nurturing and inclusive environment that supports the holistic
+development of every student. We believe that each child has a talent waiting
+to be discovered. We are a school that believes in offering meaningful
+and enriching learning experiences. In the process, we hope to bring out
+every child’s strengths while nurturing the character and values in every
+child so that they have the qualities needed to thrive and learn for life.
+We welcome driven and committed applicants who exhibit positive qualities
+such as resilience and empathy, and who are willing to live by the school’s
+core values of Teamwork, Performance Excellence, Integrity, and Care. Come
+join the Temasek family in 2027 through the annual Direct School Admission
+(DSA) exercise.</p>
+<p>All Primary 6 students are welcome to participate in the school’s DSA-Sec
+Exercise and successful applicants will join Temasek Secondary School Secondary
+1 intake in January 2027.</p>
 <p>For more information on this year’s DSA-Sec Exercise for Sec 1 admission
-for 2027, please refer to MOE’s DSA centralised application portal. <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+for 2027, please refer to MOE’s DSA centralized application portal.</p>
+<p><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
 <p><strong>DSA-Sec to Temasek Secondary School: Domains and Criteria</strong>
 </p>
@@ -160,7 +163,8 @@ the area of talent.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>DSA Allocation</strong> Outcome</p>
+<p><strong>DSA Allocation</strong>  <strong>Outcome</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Late Nov</p>
@@ -172,10 +176,10 @@ the area of talent.</p>
 time to attend the audition/trial/selection test via email.</p>
 <p>You will receive notification from the school <strong>by 7 August 2026</strong>,
 if your child has been shortlisted to undergo Direct School Admission (DSA)
-selection. All applicants will receive their application outcomes between
-17 and 28 Aug 2026.</p>
-<p>All applicants will be notified by email by 28 August 2026 if they have
-been given a confirmed offer OR if they have been unsuccessful.</p>
+selection. All applicants will receive their application outcomes <strong>between 17 and 28 Aug 2026<em>.</em></strong>
+</p>
+<p>All applicants will be notified by email <strong>by 28 August 2026</strong> if
+they have been given a confirmed offer OR if they have been unsuccessful.</p>
 <p>Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
@@ -188,12 +192,12 @@ test and/or the interview.</p>
 to honour their commitment to the school, and participate in the training/activities
 related to the DSA talent they are selected for from year 1-4.</p>
 <h2>Information and Application:</h2>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Application_Process_for_DSA_Sec_1_Admission_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Process for DSA Sec 1 Admission 2027 </a>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Application_Process_for_DSA_Sec_1_Admission_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Process for DSA Sec 1 Admission 2027</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/FAQ_for_2026_Direct_School_Admission.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Question (FAQ)</a>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/files/FAQ_for_2026_Direct_School_Admission.pdf" rel="noopener noreferrer nofollow" target="_blank"> Frequently Asked Question (FAQ)</a>
 </p>
 <p>For further enquiries, please contact Ms Kamilah at 6449 5020 (General
-Office) or email to <a href="mailto:temasek_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">temasek_ss@moe.edu.sg</a>. Kindly indicate
+Office) between 9.00am to 4.00pm or email to <a href="mailto:temasek_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">temasek_ss@moe.edu.sg</a>. Kindly indicate
 “DSA 2027 Application Enquiry” in your email subject.</p>
 <p></p>
 <div class="isomer-image-wrapper">
