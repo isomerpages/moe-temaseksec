@@ -146,7 +146,7 @@ the area of talent.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17 Aug 2026</p>
+<p>17 August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>28 August 2026</p>
@@ -158,7 +158,7 @@ the area of talent.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>19 Oct 2026(9am) to 23 Oct 2026(4.30pm)Late Nov</p>
+<p>19 October 2026(9am) to 23 October 2026(4.30pm)</p>
 </td>
 </tr>
 <tr>
@@ -251,6 +251,7 @@ be in a CCA/leadership group!</p>
 <li>
 <p><a href="https://www.temaseksec.moe.edu.sg/student-leadership-lead-tms/" rel="noopener noreferrer nofollow" target="_blank">Student Leadership LEAD@TMS</a>
 </p>
+<p></p>
 </li>
 </ul>
 <p></p>
