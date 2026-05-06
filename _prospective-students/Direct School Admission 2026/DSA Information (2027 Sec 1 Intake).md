@@ -158,7 +158,7 @@ the area of talent.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>19 October 2026(9am) to 23 October 2026(4.30pm)</p>
+<p>19 October 2026 (9.00am) to 23 October 2026(4.30pm)</p>
 </td>
 </tr>
 <tr>
