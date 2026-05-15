@@ -30,6 +30,15 @@ third_nav_title: Upcoming Events
 </ul>
 <p>Our students and student leaders will share with you what it means to
 be in a DSA CCA/leadership group!</p>
+<p></p>
+<p>Zoom Link: <a href="https://us06web.zoom.us/j/82940038111" rel="noopener noreferrer nofollow" target="_blank">https://us06web.zoom.us/j/82940038111</a>
+</p>
+<p>Zoom QR Code:</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TMS_DSA_Online_Outreach.png">
+</div>
+<p></p>
 <p>Date:&nbsp;<strong>15 May 2026 (Fri)</strong>
 <br>Time:&nbsp;<strong>7.00-8.00 pm</strong>
 <br>Registration: <a href="" rel="noopener nofollow" target="_blank">tinyurl.com/2026TMS-DSA-OpenHouse-Regn</a>
