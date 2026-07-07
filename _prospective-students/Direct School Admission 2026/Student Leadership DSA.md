@@ -13,7 +13,7 @@ variant: tiptap
 <br>With a comprehensive leadership development training programme and a numerous
 leadership opportunities for student leaders to apply the leadership skills
 learnt, LEAD@TMS seeks to develop leaders of character and intellect.</p>
-<p>Find out more about the school's leadership programme&nbsp;<a href="https://temaseksec.moe.edu.sg/co-curriculum/student-leadership-lead-tms" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Find out more about the school's leadership programme&nbsp;<a href="https://www.temaseksec.moe.edu.sg/student-leadership-lead-tms/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h3>DSA Interview details:</h3>
 <p><strong>Interview period:</strong>&nbsp;29 June 2026 to 28 August 2026</p>
 <p><strong>Venue:</strong>&nbsp;Temasek Secondary School</p>
