@@ -286,8 +286,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Nurul Huda Mohd Kamarulzman</strong>
-</p>
+<p>Mdm Nurul Huda Mohd Kamarulzman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:urul_huda_mohd_kamarulzaman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">urul_huda_mohd_kamarulzaman@moe.edu.sg</a>
@@ -562,7 +561,7 @@ variant: tiptap
 <p>Mdm Karima Syahirah Abdul Ka</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:karima_syahirah_abdul_ka@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">karima_syahirah_abdul_ka@moe.edu.sg</a> 
+<p><a href="mailto:karima_syahirah_abdul_ka@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">karima_syahirah_abdul_ka@moe.edu.sg</a>
 </p>
 </td>
 </tr>
