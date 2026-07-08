@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr></tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>1D</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -33,6 +33,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">millicent_yap_yan_ying@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yang Lingxi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:linxi_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">linxi_yang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -213,7 +222,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2E</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -221,6 +230,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ong_yan_pei_elliot@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Idriaty Sabari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:idriaty_sabari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">idriaty_sabari@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -268,10 +286,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Pang Kar Loon Eddie</p>
+<p><strong>Mdm Nurul Huda Mohd Kamarulzman</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">pang_kar_loon_eddie@moe.edu.sg</a>
+<p><a href="mailto:urul_huda_mohd_kamarulzaman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">urul_huda_mohd_kamarulzaman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -518,7 +537,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3R</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -535,6 +554,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sng_kai_ming_joel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_kai_ming_joel@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Karima Syahirah Abdul Ka</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:karima_syahirah_abdul_ka@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">karima_syahirah_abdul_ka@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
