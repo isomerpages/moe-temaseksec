@@ -167,7 +167,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Soo-Tay Yu Xin (SH/ Information Communication Technology)</strong>
+<p><strong>Mrs Soo-Tay Yu Xin (HOD/ Information Communication Technology)</strong>
 </p>
 </td>
 </tr>
@@ -272,7 +272,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Siti Farhana Bte Shariff(Asst. Year Head/ Lower Sec)</strong>
+<p><strong>Mdm Siti Farhana Bte Shariff (Asst. Year Head/ Lower Sec)</strong>
 </p>
 </td>
 </tr>
