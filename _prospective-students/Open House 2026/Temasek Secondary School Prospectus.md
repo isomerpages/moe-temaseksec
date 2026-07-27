@@ -2,7 +2,7 @@
 title: Temasek Secondary School Prospectus
 permalink: /prospective-students/open-house-2022/prospectus/
 description: ""
-third_nav_title: Open House 2025
+third_nav_title: Open House 2026
 variant: tiptap
 ---
 <p><a href="https://online.fliphtml5.com/cjnla/fjyi/" rel="noopener noreferrer nofollow" target="_blank">Prospectus 2024</a>

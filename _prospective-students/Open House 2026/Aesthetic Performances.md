@@ -2,7 +2,7 @@
 title: Aesthetic Performances
 permalink: /prospective-students/open-house-2022/aesthetic-performances/
 description: ""
-third_nav_title: Open House 2025
+third_nav_title: Open House 2026
 variant: tiptap
 ---
 <h2>Dance - Hikari</h2>

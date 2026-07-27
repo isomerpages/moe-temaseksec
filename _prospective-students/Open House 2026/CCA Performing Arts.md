@@ -2,7 +2,7 @@
 title: CCA Performing Arts
 permalink: /prospective-students/open-house-2022/performing-arts/
 description: ""
-third_nav_title: Open House 2025
+third_nav_title: Open House 2026
 variant: markdown
 ---
 ## Band

@@ -2,7 +2,7 @@
 title: CCA Sports
 permalink: /prospective-students/open-house-2022/sports/
 description: ""
-third_nav_title: Open House 2025
+third_nav_title: Open House 2026
 variant: markdown
 ---
 ## Basketball (Boys)
