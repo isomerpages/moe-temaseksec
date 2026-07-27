@@ -7,11 +7,8 @@ third_nav_title: Open House 2026
 ---
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Open_House_Poster.png">
-</div>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kF9C3J4ps0w?si=IfKGqJXq0QmP2NwS"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/O55TxELoIYQ?si=qWVD51xyC3i9Ejqo"></iframe>
 </div>
 <p></p>
 <table style="minWidth: 75px">
