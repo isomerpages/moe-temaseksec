@@ -91,9 +91,6 @@ part of the <a href="https://www.youtube.com/watch?v=1WV1fLMyG4M&amp;t=1s" rel="
 <p>Mr. Tan Shun Loong</p>
 <p>Principal</p>
 <h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Open_House_Poster.png">
-</div>
 <h4>No pre-registration needed to attend the Open House!</h4>
 <p></p>
 <p></p>
